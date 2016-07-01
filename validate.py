@@ -58,9 +58,15 @@ RECIPE_SCHEMA = {
 }
 
 
-def find_recipes(root):
-    pattern = os.path.join(root, '*.yaml')
-    for recipe in glob.glob(pattern):
+def find_recipes(prefix, glob_pattern='*.yaml'):
+    if os.path.isfile(prefix):
+        pattern = prefix
+    elif os.path.isdir(prefix):
+        pattern = os.path.join(prefix, glob_pattern)
+    else:
+        pattern = prefix + glob_pattern
+
+    for recipe in glob.iglob(pattern):
         yield recipe
 
 
@@ -114,19 +120,22 @@ def validate_files(obj):
         raise ValueError("Filenames not unique")
 
 
-def main(root):
-    logging.debug("Datasets root: %s", root)
+def main(prefix, fail_fast):
+    logging.debug("Datasets prefix: %s", prefix)
     ret = 0
-    for recipe in find_recipes(args.root):
+    for recipe in find_recipes(args.prefix):
         logging.debug("Validating %s", recipe)
         ret |= validate_recipe(recipe)
+        if ret:
+            break
     return ret
 
 
 def get_args():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('root', nargs='?', default='.')
+    parser.add_argument('prefix', nargs='?', default='')
     parser.add_argument('-d', '--debug', action='store_true')
+    parser.add_argument('-x', '--fail-fast', action='store_true')
     return parser.parse_args()
 
 
@@ -134,4 +143,4 @@ if __name__ == "__main__":
     args = get_args()
     level = logging.DEBUG if args.debug else logging.INFO
     logging.basicConfig(level=level, format='[%(levelname)s] %(message)s')
-    sys.exit(main(args.root))
+    sys.exit(main(args.prefix, args.fail_fast))
