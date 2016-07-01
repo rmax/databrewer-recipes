@@ -1,0 +1,27 @@
+name: bigann
+description: Datasets for approximate nearest neighbor search
+homepage: http://corpus-texmex.irisa.fr/
+files:
+  - name: sift10k
+    url: ftp://ftp.irisa.fr/local/texmex/corpus/siftsmall.tar.gz
+    md5: 0b8324a7a82d7f2663d7dcbd57642df7
+  - name: sift1m
+    url: ftp://ftp.irisa.fr/local/texmex/corpus/sift.tar.gz
+    md5: b23d1b3b2ee8469d819b61ca900ef0ed
+  - name: gist1m
+    url: ftp://ftp.irisa.fr/local/texmex/corpus/gist.tar.gz
+    md5: 31185e0f00854f74d27e8ad8d52628a9
+  - name: sift1b
+    files:
+      - name: base
+        url: ftp://ftp.irisa.fr/local/texmex/corpus/bigann_base.bvecs.gz
+        md5: 4346fa68813d71e7f3d75d2faba669ec
+      - name: learning
+        url: ftp://ftp.irisa.fr/local/texmex/corpus/bigann_learn.bvecs.gz
+        md5: 69535458f804e99358afe4320e2e2c6a
+      - name: query
+        url: ftp://ftp.irisa.fr/local/texmex/corpus/bigann_query.bvecs.gz
+        md5: b5f61050d3c435911d54db122b5469b5
+      - name: groundtruth
+        url: ftp://ftp.irisa.fr/local/texmex/corpus/bigann_gnd.tar.gz
+        md5: f40646ba10e152229818e82cd5bd84b2

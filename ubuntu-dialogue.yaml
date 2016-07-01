@@ -1,0 +1,6 @@
+name: ubuntu-dialogue
+description: A Large Dataset for Research in Unstructure Multi-Turn Dialogue Systems
+homepage: http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/
+files:
+  - name: raw
+    url: http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/ubuntu_dialogs.tgz

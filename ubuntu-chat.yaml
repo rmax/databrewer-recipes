@@ -1,0 +1,10 @@
+name: ubuntu-chat
+description: Chat logs from Ubuntu's Internet Relay Chat technical support channels. 
+homepage: http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/
+files:
+  - name: raw
+    url: http://daviduthus.org/UCC/Ubuntu_Chat_Corpus_v_2012-12-11.7z
+  - name: unity
+    url: http://daviduthus.org/UCC/Unity.zip
+  - name: baq
+    url: http://daviduthus.org/UCC/BAQ_Corpus.zip
