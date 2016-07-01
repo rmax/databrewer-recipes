@@ -1,0 +1,6 @@
+name: kaggle-enron-email-dataset
+description: The Enron Email Dataset. 500,000+ emails from 150 employees of the Enron
+  Corporation
+homepage: https://www.kaggle.com/wcukierski/enron-email-dataset
+restricted: true
+url: https://www.kaggle.com/wcukierski/enron-email-dataset/downloads/enron-email-dataset.zip

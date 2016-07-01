@@ -1,0 +1,6 @@
+name: kaggle-on-time-performance
+description: SEPTA - Regional Rail. Predict  Arrival Times of Philadelphia's Regional
+  Trains.
+homepage: https://www.kaggle.com/septa/on-time-performance
+restricted: true
+url: https://www.kaggle.com/septa/on-time-performance/downloads/on-time-performance.zip

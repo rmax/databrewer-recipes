@@ -1,0 +1,6 @@
+name: kaggle-us-consumer-finance-complaints
+description: US Consumer Finance Complaints. US consumer complaints on financial products
+  and company responses
+homepage: https://www.kaggle.com/cfpb/us-consumer-finance-complaints
+restricted: true
+url: https://www.kaggle.com/cfpb/us-consumer-finance-complaints/downloads/us-consumer-finance-complaint-database.zip
