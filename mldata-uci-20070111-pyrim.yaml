@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-pyrim
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-pyrim/
+files:
+- filename: uci-20070111-pyrim.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-pyrim/
+- filename: uci-20070111-pyrim.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-pyrim/
+- filename: uci-20070111-pyrim.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-pyrim/
+- filename: uci-20070111-pyrim.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-pyrim/
+- filename: uci-20070111-pyrim.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-pyrim/
+- filename: uci-20070111-pyrim.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-pyrim/
+keywords:
+- arff
+- slurped
+- Weka

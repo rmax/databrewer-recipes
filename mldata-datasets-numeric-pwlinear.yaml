@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-pwlinear
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-pwlinear/
+files:
+- filename: datasets-numeric-pwlinear.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-pwlinear/
+- filename: datasets-numeric-pwlinear.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-pwlinear/
+- filename: datasets-numeric-pwlinear.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-pwlinear/
+- filename: datasets-numeric-pwlinear.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-pwlinear/
+- filename: datasets-numeric-pwlinear.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-pwlinear/
+- filename: datasets-numeric-pwlinear.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-pwlinear/
+keywords:
+- arff
+- slurped
+- Weka

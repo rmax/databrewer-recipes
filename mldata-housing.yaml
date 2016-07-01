@@ -1,0 +1,29 @@
+name: mldata-housing
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/housing/
+files:
+- filename: housing.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/housing/
+- filename: housing.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/housing/
+- filename: housing.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/housing/
+- filename: housing.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/housing/
+- filename: housing.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/housing/
+- filename: housing.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/housing/
+- filename: housing.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/housing/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

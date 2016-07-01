@@ -1,0 +1,29 @@
+name: mldata-segment
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/segment/
+files:
+- filename: segment.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/segment/
+- filename: segment.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/segment/
+- filename: segment.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/segment/
+- filename: segment.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/segment/
+- filename: segment.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/segment/
+- filename: segment.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/segment/
+- filename: segment.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/segment/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

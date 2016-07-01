@@ -1,0 +1,17 @@
+name: mldata-realm-im2015-vod-traces
+description: Linux kernel statistics from a video server and service metrics from
+  a video client
+homepage: http://mldata.org/repository/data/viewslug/realm-im2015-vod-traces/
+filename: realm-im2015-vod-traces.gz
+keywords:
+- audio-buffer-rate
+- Linux-kernel
+- network-analytics
+- RTP-packet-rate
+- service-level-metrics
+- testbed
+- time-series
+- video-frame-rate
+- video-on-demand
+- VLC
+url: http://mldata.org/repository/data/download/realm-im2015-vod-traces/

@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-kdd_internet_usage
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-kdd_internet_usage/
+files:
+- filename: uci-20070111-kdd_internet_usage.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-kdd_internet_usage/
+- filename: uci-20070111-kdd_internet_usage.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-kdd_internet_usage/
+- filename: uci-20070111-kdd_internet_usage.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-kdd_internet_usage/
+- filename: uci-20070111-kdd_internet_usage.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-kdd_internet_usage/
+- filename: uci-20070111-kdd_internet_usage.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-kdd_internet_usage/
+- filename: uci-20070111-kdd_internet_usage.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-kdd_internet_usage/
+keywords:
+- arff
+- slurped
+- Weka

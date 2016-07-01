@@ -1,0 +1,24 @@
+name: mldata-stemmatology
+description: Artificial manuscript tradition 'Heinrichi', 37 versions of the same
+  text
+homepage: http://mldata.org/repository/data/viewslug/stemmatology/
+files:
+- filename: stemmatology.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/stemmatology/
+- filename: stemmatology.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/stemmatology/
+- filename: stemmatology.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/stemmatology/
+- filename: stemmatology.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/stemmatology/
+- filename: stemmatology.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/stemmatology/
+- filename: stemmatology.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/stemmatology/
+keywords: []

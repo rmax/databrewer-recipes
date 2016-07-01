@@ -1,0 +1,10 @@
+name: mldata-leukemia-all-vs-aml
+description: Leukemia regression
+homepage: http://mldata.org/repository/data/viewslug/leukemia-all-vs-aml/
+filename: leukemia-all-vs-aml.zip
+keywords:
+- all
+- aml
+- Classification
+- Leukemia
+url: http://mldata.org/repository/data/download/leukemia-all-vs-aml/

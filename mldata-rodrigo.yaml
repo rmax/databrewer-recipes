@@ -1,0 +1,10 @@
+name: mldata-rodrigo
+description: "RODRIGO is the result of digitising and annotating  a 853-page bound\
+  \ volume, entitled \"Historia de Espa\xF1a del ar\xE7obispo Don Rodrigo, and completely\
+  \ written in old Castilian (Spanish) by a single author"
+homepage: http://mldata.org/repository/data/viewslug/rodrigo/
+filename: rodrigo.tar.gz
+keywords:
+- Handwriting-Recognition
+- Historical-Documents
+url: http://mldata.org/repository/data/download/rodrigo/

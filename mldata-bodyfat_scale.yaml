@@ -1,0 +1,29 @@
+name: mldata-bodyfat_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/bodyfat_scale/
+files:
+- filename: bodyfat_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/bodyfat_scale/
+- filename: bodyfat_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/bodyfat_scale/
+- filename: bodyfat_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/bodyfat_scale/
+- filename: bodyfat_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/bodyfat_scale/
+- filename: bodyfat_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/bodyfat_scale/
+- filename: bodyfat_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/bodyfat_scale/
+- filename: bodyfat_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/bodyfat_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

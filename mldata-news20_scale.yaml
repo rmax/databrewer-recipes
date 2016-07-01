@@ -1,0 +1,23 @@
+name: mldata-news20_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/news20_scale/
+files:
+- filename: news20_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/news20_scale/
+- filename: news20_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/news20_scale/
+- filename: news20_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/news20_scale/
+- filename: news20_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/news20_scale/
+- filename: news20_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/news20_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

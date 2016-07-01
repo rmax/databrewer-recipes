@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-sonar
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-sonar/
+files:
+- filename: datasets-uci-sonar.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-sonar/
+- filename: datasets-uci-sonar.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-sonar/
+- filename: datasets-uci-sonar.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-sonar/
+- filename: datasets-uci-sonar.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-sonar/
+- filename: datasets-uci-sonar.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-sonar/
+- filename: datasets-uci-sonar.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-sonar/
+keywords:
+- arff
+- slurped
+- Weka

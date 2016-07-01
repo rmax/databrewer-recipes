@@ -1,0 +1,23 @@
+name: mldata-scene-classification
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/scene-classification/
+files:
+- filename: scene-classification.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/scene-classification/
+- filename: scene-classification.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/scene-classification/
+- filename: scene-classification.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/scene-classification/
+- filename: scene-classification.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/scene-classification/
+- filename: scene-classification.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/scene-classification/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

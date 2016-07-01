@@ -1,0 +1,29 @@
+name: mldata-australian_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/australian_scale/
+files:
+- filename: australian_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/australian_scale/
+- filename: australian_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/australian_scale/
+- filename: australian_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/australian_scale/
+- filename: australian_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/australian_scale/
+- filename: australian_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/australian_scale/
+- filename: australian_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/australian_scale/
+- filename: australian_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/australian_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

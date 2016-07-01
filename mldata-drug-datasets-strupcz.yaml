@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-strupcz
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-strupcz/
+files:
+- filename: drug-datasets-strupcz.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-strupcz/
+- filename: drug-datasets-strupcz.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-strupcz/
+- filename: drug-datasets-strupcz.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-strupcz/
+- filename: drug-datasets-strupcz.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-strupcz/
+- filename: drug-datasets-strupcz.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-strupcz/
+- filename: drug-datasets-strupcz.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-strupcz/
+keywords:
+- arff
+- slurped
+- Weka

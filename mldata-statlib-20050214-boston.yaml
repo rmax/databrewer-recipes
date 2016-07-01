@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-boston
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-boston/
+files:
+- filename: statlib-20050214-boston.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-boston/
+- filename: statlib-20050214-boston.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-boston/
+- filename: statlib-20050214-boston.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-boston/
+- filename: statlib-20050214-boston.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-boston/
+- filename: statlib-20050214-boston.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-boston/
+- filename: statlib-20050214-boston.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-boston/
+keywords:
+- arff
+- slurped
+- Weka

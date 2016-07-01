@@ -1,0 +1,8 @@
+name: mldata-pendigits_ucsd_mkl
+description: data set on pen-based digits
+homepage: http://mldata.org/repository/data/viewslug/pendigits_ucsd_mkl/
+filename: pendigits_ucsd_mkl.octave
+keywords:
+- conversion_failed
+- handwritten_digits
+url: http://mldata.org/repository/data/download/pendigits_ucsd_mkl/

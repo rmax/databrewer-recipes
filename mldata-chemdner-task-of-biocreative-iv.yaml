@@ -1,0 +1,21 @@
+name: mldata-chemdner-task-of-biocreative-iv
+description: 'CHEMDNER Task: Chemical compound and drug name recognition task'
+homepage: http://mldata.org/repository/data/viewslug/chemdner-task-of-biocreative-iv/
+filename: chemdner-task-of-biocreative-iv.tar.gz
+keywords:
+- abstracts
+- Biocreative
+- bionlp
+- chemdner
+- chemical
+- compounds
+- CRFs
+- entity
+- Learning
+- machine
+- Named
+- NER
+- PubMed
+- recognition
+- supervised
+url: http://mldata.org/repository/data/download/chemdner-task-of-biocreative-iv/

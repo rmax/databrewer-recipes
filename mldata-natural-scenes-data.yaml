@@ -1,0 +1,23 @@
+name: mldata-natural-scenes-data
+description: Image patches taken at random from natural scenes
+homepage: http://mldata.org/repository/data/viewslug/natural-scenes-data/
+files:
+- filename: natural-scenes-data.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/natural-scenes-data/
+- filename: natural-scenes-data.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/natural-scenes-data/
+- filename: natural-scenes-data.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/natural-scenes-data/
+- filename: natural-scenes-data.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/natural-scenes-data/
+- filename: natural-scenes-data.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/natural-scenes-data/
+- filename: natural-scenes-data.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/natural-scenes-data/
+keywords: []

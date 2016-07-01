@@ -1,0 +1,16 @@
+name: mldata-labeled-ihc-images-of-rcc
+description: Labeled immunohistochemically stained tissue micro array images for nucleus
+  detection and classification
+homepage: http://mldata.org/repository/data/viewslug/labeled-ihc-images-of-rcc/
+filename: labeled-ihc-images-of-rcc.zip
+keywords:
+- Carcinoma
+- Cell
+- Classification
+- Clear
+- compuational
+- detection
+- immunohistochemistry
+- pathology
+- Renal
+url: http://mldata.org/repository/data/download/labeled-ihc-images-of-rcc/

@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-longley
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-longley/
+files:
+- filename: datasets-numeric-longley.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-longley/
+- filename: datasets-numeric-longley.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-longley/
+- filename: datasets-numeric-longley.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-longley/
+- filename: datasets-numeric-longley.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-longley/
+- filename: datasets-numeric-longley.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-longley/
+- filename: datasets-numeric-longley.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-longley/
+keywords:
+- arff
+- slurped
+- Weka

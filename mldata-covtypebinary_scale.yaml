@@ -1,0 +1,23 @@
+name: mldata-covtypebinary_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/covtypebinary_scale/
+files:
+- filename: covtypebinary_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/covtypebinary_scale/
+- filename: covtypebinary_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/covtypebinary_scale/
+- filename: covtypebinary_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/covtypebinary_scale/
+- filename: covtypebinary_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/covtypebinary_scale/
+- filename: covtypebinary_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/covtypebinary_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

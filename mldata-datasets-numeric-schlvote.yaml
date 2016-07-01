@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-schlvote
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-schlvote/
+files:
+- filename: datasets-numeric-schlvote.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-schlvote/
+- filename: datasets-numeric-schlvote.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-schlvote/
+- filename: datasets-numeric-schlvote.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-schlvote/
+- filename: datasets-numeric-schlvote.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-schlvote/
+- filename: datasets-numeric-schlvote.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-schlvote/
+- filename: datasets-numeric-schlvote.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-schlvote/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,23 @@
+name: mldata-dna
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/dna/
+files:
+- filename: dna.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/dna/
+- filename: dna.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/dna/
+- filename: dna.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/dna/
+- filename: dna.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/dna/
+- filename: dna.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/dna/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

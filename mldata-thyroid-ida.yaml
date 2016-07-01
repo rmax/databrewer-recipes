@@ -1,0 +1,27 @@
+name: mldata-thyroid-ida
+description: 'The Thyroid data set from the IDA Benchmark repository. '
+homepage: http://mldata.org/repository/data/viewslug/thyroid-ida/
+files:
+- filename: thyroid-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/thyroid-ida/
+- filename: thyroid-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/thyroid-ida/
+- filename: thyroid-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/thyroid-ida/
+- filename: thyroid-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/thyroid-ida/
+- filename: thyroid-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/thyroid-ida/
+- filename: thyroid-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/thyroid-ida/
+- filename: thyroid-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/thyroid-ida/
+keywords:
+- IDA_Benchmark_Repository

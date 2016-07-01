@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-humandevel
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-humandevel/
+files:
+- filename: statlib-20050214-humandevel.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-humandevel/
+- filename: statlib-20050214-humandevel.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-humandevel/
+- filename: statlib-20050214-humandevel.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-humandevel/
+- filename: statlib-20050214-humandevel.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-humandevel/
+- filename: statlib-20050214-humandevel.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-humandevel/
+- filename: statlib-20050214-humandevel.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-humandevel/
+keywords:
+- arff
+- slurped
+- Weka

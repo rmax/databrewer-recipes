@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-colicorig
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-colicorig/
+files:
+- filename: datasets-uci-colicorig.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-colicorig/
+- filename: datasets-uci-colicorig.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-colicorig/
+- filename: datasets-uci-colicorig.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-colicorig/
+- filename: datasets-uci-colicorig.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-colicorig/
+- filename: datasets-uci-colicorig.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-colicorig/
+- filename: datasets-uci-colicorig.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-colicorig/
+keywords:
+- arff
+- slurped
+- Weka

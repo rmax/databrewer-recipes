@@ -1,0 +1,12 @@
+name: mldata-ovarian-cancer-nci-q-star-data
+description: The goal of this experiment is to identify proteomic patterns in serum
+  that distinguish ovarian cancer from non-cancer.
+homepage: http://mldata.org/repository/data/viewslug/ovarian-cancer-nci-q-star-data/
+filename: ovarian-cancer-nci-q-star-data.arff
+keywords:
+- cancer
+- Classification
+- nci
+- ovarian
+- qstar
+url: http://mldata.org/repository/data/download/ovarian-cancer-nci-q-star-data/

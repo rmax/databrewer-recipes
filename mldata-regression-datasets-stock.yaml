@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-stock
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-stock/
+files:
+- filename: regression-datasets-stock.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-stock/
+- filename: regression-datasets-stock.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-stock/
+- filename: regression-datasets-stock.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-stock/
+- filename: regression-datasets-stock.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-stock/
+- filename: regression-datasets-stock.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-stock/
+- filename: regression-datasets-stock.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-stock/
+keywords:
+- arff
+- slurped
+- Weka

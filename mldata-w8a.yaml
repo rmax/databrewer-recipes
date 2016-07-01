@@ -1,0 +1,23 @@
+name: mldata-w8a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/w8a/
+files:
+- filename: w8a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/w8a/
+- filename: w8a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/w8a/
+- filename: w8a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/w8a/
+- filename: w8a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/w8a/
+- filename: w8a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/w8a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-qsprcmpx
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-qsprcmpx/
+files:
+- filename: drug-datasets-qsprcmpx.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-qsprcmpx/
+- filename: drug-datasets-qsprcmpx.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-qsprcmpx/
+- filename: drug-datasets-qsprcmpx.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-qsprcmpx/
+- filename: drug-datasets-qsprcmpx.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-qsprcmpx/
+- filename: drug-datasets-qsprcmpx.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-qsprcmpx/
+- filename: drug-datasets-qsprcmpx.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-qsprcmpx/
+keywords:
+- arff
+- slurped
+- Weka

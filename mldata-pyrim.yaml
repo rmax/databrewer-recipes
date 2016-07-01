@@ -1,0 +1,29 @@
+name: mldata-pyrim
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/pyrim/
+files:
+- filename: pyrim.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/pyrim/
+- filename: pyrim.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/pyrim/
+- filename: pyrim.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/pyrim/
+- filename: pyrim.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/pyrim/
+- filename: pyrim.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/pyrim/
+- filename: pyrim.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/pyrim/
+- filename: pyrim.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/pyrim/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

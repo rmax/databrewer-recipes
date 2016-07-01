@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-heyl
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-heyl/
+files:
+- filename: drug-datasets-heyl.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-heyl/
+- filename: drug-datasets-heyl.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-heyl/
+- filename: drug-datasets-heyl.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-heyl/
+- filename: drug-datasets-heyl.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-heyl/
+- filename: drug-datasets-heyl.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-heyl/
+- filename: drug-datasets-heyl.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-heyl/
+keywords:
+- arff
+- slurped
+- Weka

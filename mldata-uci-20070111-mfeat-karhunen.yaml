@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-mfeat-karhunen
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-mfeat-karhunen/
+files:
+- filename: uci-20070111-mfeat-karhunen.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-mfeat-karhunen/
+- filename: uci-20070111-mfeat-karhunen.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-mfeat-karhunen/
+- filename: uci-20070111-mfeat-karhunen.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-mfeat-karhunen/
+- filename: uci-20070111-mfeat-karhunen.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-mfeat-karhunen/
+- filename: uci-20070111-mfeat-karhunen.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-mfeat-karhunen/
+- filename: uci-20070111-mfeat-karhunen.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-mfeat-karhunen/
+keywords:
+- arff
+- slurped
+- Weka

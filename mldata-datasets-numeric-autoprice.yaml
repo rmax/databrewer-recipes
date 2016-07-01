@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-autoprice
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-autoprice/
+files:
+- filename: datasets-numeric-autoprice.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-autoprice/
+- filename: datasets-numeric-autoprice.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-autoprice/
+- filename: datasets-numeric-autoprice.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-autoprice/
+- filename: datasets-numeric-autoprice.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-autoprice/
+- filename: datasets-numeric-autoprice.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-autoprice/
+- filename: datasets-numeric-autoprice.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-autoprice/
+keywords:
+- arff
+- slurped
+- Weka

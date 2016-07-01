@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-csb_ch19f
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-csb_ch19f/
+files:
+- filename: statlib-20050214-csb_ch19f.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-csb_ch19f/
+- filename: statlib-20050214-csb_ch19f.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-csb_ch19f/
+- filename: statlib-20050214-csb_ch19f.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-csb_ch19f/
+- filename: statlib-20050214-csb_ch19f.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-csb_ch19f/
+- filename: statlib-20050214-csb_ch19f.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-csb_ch19f/
+- filename: statlib-20050214-csb_ch19f.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-csb_ch19f/
+keywords:
+- arff
+- slurped
+- Weka

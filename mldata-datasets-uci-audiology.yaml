@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-audiology
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-audiology/
+files:
+- filename: datasets-uci-audiology.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-audiology/
+- filename: datasets-uci-audiology.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-audiology/
+- filename: datasets-uci-audiology.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-audiology/
+- filename: datasets-uci-audiology.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-audiology/
+- filename: datasets-uci-audiology.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-audiology/
+- filename: datasets-uci-audiology.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-audiology/
+keywords:
+- arff
+- slurped
+- Weka

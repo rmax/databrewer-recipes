@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-auto93
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-auto93/
+files:
+- filename: datasets-numeric-auto93.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-auto93/
+- filename: datasets-numeric-auto93.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-auto93/
+- filename: datasets-numeric-auto93.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-auto93/
+- filename: datasets-numeric-auto93.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-auto93/
+- filename: datasets-numeric-auto93.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-auto93/
+- filename: datasets-numeric-auto93.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-auto93/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-vehicle
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-vehicle/
+files:
+- filename: datasets-uci-vehicle.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-vehicle/
+- filename: datasets-uci-vehicle.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-vehicle/
+- filename: datasets-uci-vehicle.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-vehicle/
+- filename: datasets-uci-vehicle.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-vehicle/
+- filename: datasets-uci-vehicle.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-vehicle/
+- filename: datasets-uci-vehicle.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-vehicle/
+keywords:
+- arff
+- slurped
+- Weka

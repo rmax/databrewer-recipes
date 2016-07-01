@@ -1,0 +1,14 @@
+name: mldata-wearable-accelerometers-activity
+description: A dataset with 5 classes (sitting-down, standing-up, standing, walking,
+  and sitting) collected on 8 hours of activities of 4 healthy subjects.
+homepage: http://mldata.org/repository/data/viewslug/wearable-accelerometers-activity/
+filename: wearable-accelerometers-activity.dat
+keywords:
+- Accelerometer
+- action-recognition
+- Activity-Recognition
+- Classification
+- PUC-Rio
+- Scalar
+- Wearable
+url: http://mldata.org/repository/data/download/wearable-accelerometers-activity/

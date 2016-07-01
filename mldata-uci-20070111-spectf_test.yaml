@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-spectf_test
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-spectf_test/
+files:
+- filename: uci-20070111-spectf_test.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-spectf_test/
+- filename: uci-20070111-spectf_test.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-spectf_test/
+- filename: uci-20070111-spectf_test.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-spectf_test/
+- filename: uci-20070111-spectf_test.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-spectf_test/
+- filename: uci-20070111-spectf_test.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-spectf_test/
+- filename: uci-20070111-spectf_test.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-spectf_test/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-hungarian
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-hungarian/
+files:
+- filename: datasets-numeric-hungarian.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-hungarian/
+- filename: datasets-numeric-hungarian.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-hungarian/
+- filename: datasets-numeric-hungarian.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-hungarian/
+- filename: datasets-numeric-hungarian.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-hungarian/
+- filename: datasets-numeric-hungarian.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-hungarian/
+- filename: datasets-numeric-hungarian.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-hungarian/
+keywords:
+- arff
+- slurped
+- Weka

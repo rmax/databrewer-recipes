@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-topo_2_1
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-topo_2_1/
+files:
+- filename: drug-datasets-topo_2_1.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-topo_2_1/
+- filename: drug-datasets-topo_2_1.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-topo_2_1/
+- filename: drug-datasets-topo_2_1.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-topo_2_1/
+- filename: drug-datasets-topo_2_1.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-topo_2_1/
+- filename: drug-datasets-topo_2_1.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-topo_2_1/
+- filename: drug-datasets-topo_2_1.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-topo_2_1/
+keywords:
+- arff
+- slurped
+- Weka

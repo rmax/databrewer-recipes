@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-hutsof99_logis
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-hutsof99_logis/
+files:
+- filename: statlib-20050214-hutsof99_logis.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-hutsof99_logis/
+- filename: statlib-20050214-hutsof99_logis.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-hutsof99_logis/
+- filename: statlib-20050214-hutsof99_logis.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-hutsof99_logis/
+- filename: statlib-20050214-hutsof99_logis.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-hutsof99_logis/
+- filename: statlib-20050214-hutsof99_logis.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-hutsof99_logis/
+- filename: statlib-20050214-hutsof99_logis.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-hutsof99_logis/
+keywords:
+- arff
+- slurped
+- Weka

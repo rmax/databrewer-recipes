@@ -1,0 +1,18 @@
+name: mldata-realm-cnsm2015-vod-traces
+description: Linux kernel statistics from a video-streaming cluster and service metrics
+  from a video client
+homepage: http://mldata.org/repository/data/viewslug/realm-cnsm2015-vod-traces/
+filename: realm-cnsm2015-vod-traces.tar.gz
+keywords:
+- audio-buffer-rate
+- cluster
+- Linux-kernel
+- network-analytics
+- RTP-packet-rate
+- service-level-metrics
+- testbed
+- time-series
+- video-frame-rate
+- video-on-demand
+- VLC
+url: http://mldata.org/repository/data/download/realm-cnsm2015-vod-traces/

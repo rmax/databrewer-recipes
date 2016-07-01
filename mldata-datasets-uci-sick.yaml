@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-sick
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-sick/
+files:
+- filename: datasets-uci-sick.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-sick/
+- filename: datasets-uci-sick.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-sick/
+- filename: datasets-uci-sick.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-sick/
+- filename: datasets-uci-sick.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-sick/
+- filename: datasets-uci-sick.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-sick/
+- filename: datasets-uci-sick.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-sick/
+keywords:
+- arff
+- slurped
+- Weka

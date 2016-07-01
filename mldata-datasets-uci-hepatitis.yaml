@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-hepatitis
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-hepatitis/
+files:
+- filename: datasets-uci-hepatitis.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-hepatitis/
+- filename: datasets-uci-hepatitis.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-hepatitis/
+- filename: datasets-uci-hepatitis.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-hepatitis/
+- filename: datasets-uci-hepatitis.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-hepatitis/
+- filename: datasets-uci-hepatitis.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-hepatitis/
+- filename: datasets-uci-hepatitis.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-hepatitis/
+keywords:
+- arff
+- slurped
+- Weka

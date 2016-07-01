@@ -1,0 +1,29 @@
+name: mldata-space_ga_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/space_ga_scale/
+files:
+- filename: space_ga_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/space_ga_scale/
+- filename: space_ga_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/space_ga_scale/
+- filename: space_ga_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/space_ga_scale/
+- filename: space_ga_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/space_ga_scale/
+- filename: space_ga_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/space_ga_scale/
+- filename: space_ga_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/space_ga_scale/
+- filename: space_ga_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/space_ga_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

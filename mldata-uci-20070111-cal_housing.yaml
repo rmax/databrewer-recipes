@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-cal_housing
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-cal_housing/
+files:
+- filename: uci-20070111-cal_housing.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-cal_housing/
+- filename: uci-20070111-cal_housing.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-cal_housing/
+- filename: uci-20070111-cal_housing.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-cal_housing/
+- filename: uci-20070111-cal_housing.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-cal_housing/
+- filename: uci-20070111-cal_housing.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-cal_housing/
+- filename: uci-20070111-cal_housing.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-cal_housing/
+keywords:
+- arff
+- slurped
+- Weka

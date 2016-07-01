@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-triazines
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-triazines/
+files:
+- filename: regression-datasets-triazines.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-triazines/
+- filename: regression-datasets-triazines.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-triazines/
+- filename: regression-datasets-triazines.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-triazines/
+- filename: regression-datasets-triazines.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-triazines/
+- filename: regression-datasets-triazines.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-triazines/
+- filename: regression-datasets-triazines.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-triazines/
+keywords:
+- arff
+- slurped
+- Weka

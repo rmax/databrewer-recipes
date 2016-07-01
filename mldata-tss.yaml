@@ -1,0 +1,34 @@
+name: mldata-tss
+description: Transcription Start Site Detection with Multiple Kernels
+homepage: http://mldata.org/repository/data/viewslug/tss/
+files:
+- filename: tss.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/tss/
+- filename: tss.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/tss/
+- filename: tss.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/tss/
+- filename: tss.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/tss/
+- filename: tss.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/tss/
+- filename: tss.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/tss/
+keywords:
+- ARTS
+- detection
+- Kernel
+- Kernels
+- Learning
+- MKL
+- Multiple
+- Site
+- start
+- Transcription
+- TSS

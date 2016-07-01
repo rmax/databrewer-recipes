@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-vineyard
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-vineyard/
+files:
+- filename: datasets-numeric-vineyard.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-vineyard/
+- filename: datasets-numeric-vineyard.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-vineyard/
+- filename: datasets-numeric-vineyard.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-vineyard/
+- filename: datasets-numeric-vineyard.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-vineyard/
+- filename: datasets-numeric-vineyard.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-vineyard/
+- filename: datasets-numeric-vineyard.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-vineyard/
+keywords:
+- arff
+- slurped
+- Weka

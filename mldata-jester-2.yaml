@@ -1,0 +1,30 @@
+name: mldata-jester-2
+description: 'Over 1.7 million continuous ratings (-10.00 to +10.00) of 150 jokes
+  from 63,974 users: collected between November 2006 - May 2009'
+homepage: http://mldata.org/repository/data/viewslug/jester-2/
+files:
+- filename: jester-2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/jester-2/
+- filename: jester-2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/jester-2/
+- filename: jester-2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/jester-2/
+- filename: jester-2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/jester-2/
+- filename: jester-2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/jester-2/
+- filename: jester-2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/jester-2/
+keywords:
+- collaborative-filtering
+- completion
+- jester
+- jokes
+- matrix
+- ratings

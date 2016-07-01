@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-pol
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-pol/
+files:
+- filename: regression-datasets-pol.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-pol/
+- filename: regression-datasets-pol.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-pol/
+- filename: regression-datasets-pol.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-pol/
+- filename: regression-datasets-pol.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-pol/
+- filename: regression-datasets-pol.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-pol/
+- filename: regression-datasets-pol.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-pol/
+keywords:
+- arff
+- slurped
+- Weka

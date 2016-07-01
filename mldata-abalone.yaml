@@ -1,0 +1,29 @@
+name: mldata-abalone
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/abalone/
+files:
+- filename: abalone.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/abalone/
+- filename: abalone.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/abalone/
+- filename: abalone.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/abalone/
+- filename: abalone.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/abalone/
+- filename: abalone.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/abalone/
+- filename: abalone.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/abalone/
+- filename: abalone.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/abalone/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

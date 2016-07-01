@@ -1,0 +1,28 @@
+name: mldata-dlbcl-outcome-from-harvard
+description: There are two kinds of classifications about diffuse large b-cell lymphoma
+  (DLBCL) addressed in the publication.
+homepage: http://mldata.org/repository/data/viewslug/dlbcl-outcome-from-harvard/
+files:
+- filename: dlbcl-outcome-from-harvard.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/dlbcl-outcome-from-harvard/
+- filename: dlbcl-outcome-from-harvard.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/dlbcl-outcome-from-harvard/
+- filename: dlbcl-outcome-from-harvard.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/dlbcl-outcome-from-harvard/
+- filename: dlbcl-outcome-from-harvard.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/dlbcl-outcome-from-harvard/
+- filename: dlbcl-outcome-from-harvard.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/dlbcl-outcome-from-harvard/
+- filename: dlbcl-outcome-from-harvard.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/dlbcl-outcome-from-harvard/
+keywords:
+- dlbcl
+- Harvard
+- lymphoma
+- outcome

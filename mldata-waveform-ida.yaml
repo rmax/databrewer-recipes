@@ -1,0 +1,27 @@
+name: mldata-waveform-ida
+description: The Waveform data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/waveform-ida/
+files:
+- filename: waveform-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/waveform-ida/
+- filename: waveform-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/waveform-ida/
+- filename: waveform-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/waveform-ida/
+- filename: waveform-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/waveform-ida/
+- filename: waveform-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/waveform-ida/
+- filename: waveform-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/waveform-ida/
+- filename: waveform-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/waveform-ida/
+keywords:
+- IDA_Benchmark_Repository

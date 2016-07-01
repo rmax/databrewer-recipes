@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-selwood
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-selwood/
+files:
+- filename: drug-datasets-selwood.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-selwood/
+- filename: drug-datasets-selwood.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-selwood/
+- filename: drug-datasets-selwood.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-selwood/
+- filename: drug-datasets-selwood.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-selwood/
+- filename: drug-datasets-selwood.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-selwood/
+- filename: drug-datasets-selwood.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-selwood/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,30 @@
+name: mldata-friedman-datasets-fri_c2_500_25
+description: 'Artificial data generated from the Friedman function, part of a collection
+  of 80 data sets. This particular set has 25 features, 1 output (26th feature), colinearity
+  degree 2, and 500 instances. '
+homepage: http://mldata.org/repository/data/viewslug/friedman-datasets-fri_c2_500_25/
+files:
+- filename: friedman-datasets-fri_c2_500_25.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/friedman-datasets-fri_c2_500_25/
+- filename: friedman-datasets-fri_c2_500_25.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/friedman-datasets-fri_c2_500_25/
+- filename: friedman-datasets-fri_c2_500_25.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/friedman-datasets-fri_c2_500_25/
+- filename: friedman-datasets-fri_c2_500_25.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/friedman-datasets-fri_c2_500_25/
+- filename: friedman-datasets-fri_c2_500_25.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/friedman-datasets-fri_c2_500_25/
+- filename: friedman-datasets-fri_c2_500_25.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/friedman-datasets-fri_c2_500_25/
+keywords:
+- arff
+- colinearity
+- Friedman-function
+- slurped
+- Weka

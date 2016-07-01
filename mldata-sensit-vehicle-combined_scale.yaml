@@ -1,0 +1,29 @@
+name: mldata-sensit-vehicle-combined_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/sensit-vehicle-combined_scale/
+files:
+- filename: sensit-vehicle-combined_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/sensit-vehicle-combined_scale/
+- filename: sensit-vehicle-combined_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/sensit-vehicle-combined_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

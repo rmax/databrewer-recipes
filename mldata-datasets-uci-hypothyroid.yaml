@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-hypothyroid
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-hypothyroid/
+files:
+- filename: datasets-uci-hypothyroid.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-hypothyroid/
+- filename: datasets-uci-hypothyroid.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-hypothyroid/
+- filename: datasets-uci-hypothyroid.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-hypothyroid/
+- filename: datasets-uci-hypothyroid.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-hypothyroid/
+- filename: datasets-uci-hypothyroid.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-hypothyroid/
+- filename: datasets-uci-hypothyroid.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-hypothyroid/
+keywords:
+- arff
+- slurped
+- Weka

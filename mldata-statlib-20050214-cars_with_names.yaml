@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-cars_with_names
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-cars_with_names/
+files:
+- filename: statlib-20050214-cars_with_names.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-cars_with_names/
+- filename: statlib-20050214-cars_with_names.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-cars_with_names/
+- filename: statlib-20050214-cars_with_names.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-cars_with_names/
+- filename: statlib-20050214-cars_with_names.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-cars_with_names/
+- filename: statlib-20050214-cars_with_names.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-cars_with_names/
+- filename: statlib-20050214-cars_with_names.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-cars_with_names/
+keywords:
+- arff
+- slurped
+- Weka

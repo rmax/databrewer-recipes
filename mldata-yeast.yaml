@@ -1,0 +1,23 @@
+name: mldata-yeast
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/yeast/
+files:
+- filename: yeast.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/yeast/
+- filename: yeast.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/yeast/
+- filename: yeast.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/yeast/
+- filename: yeast.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/yeast/
+- filename: yeast.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/yeast/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,29 @@
+name: mldata-fourclass_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/fourclass_scale/
+files:
+- filename: fourclass_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/fourclass_scale/
+- filename: fourclass_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/fourclass_scale/
+- filename: fourclass_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/fourclass_scale/
+- filename: fourclass_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/fourclass_scale/
+- filename: fourclass_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/fourclass_scale/
+- filename: fourclass_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/fourclass_scale/
+- filename: fourclass_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/fourclass_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-wind
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-wind/
+files:
+- filename: statlib-20050214-wind.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-wind/
+- filename: statlib-20050214-wind.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-wind/
+- filename: statlib-20050214-wind.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-wind/
+- filename: statlib-20050214-wind.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-wind/
+- filename: statlib-20050214-wind.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-wind/
+- filename: statlib-20050214-wind.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-wind/
+keywords:
+- arff
+- slurped
+- Weka

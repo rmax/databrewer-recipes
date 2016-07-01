@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-strike
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-strike/
+files:
+- filename: datasets-numeric-strike.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-strike/
+- filename: datasets-numeric-strike.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-strike/
+- filename: datasets-numeric-strike.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-strike/
+- filename: datasets-numeric-strike.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-strike/
+- filename: datasets-numeric-strike.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-strike/
+- filename: datasets-numeric-strike.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-strike/
+keywords:
+- arff
+- slurped
+- Weka

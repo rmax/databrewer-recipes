@@ -1,0 +1,28 @@
+name: mldata-central-nervous-system
+description: Patients outcome prediction for central nervous system embryonal tumor.
+homepage: http://mldata.org/repository/data/viewslug/central-nervous-system/
+files:
+- filename: central-nervous-system.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/central-nervous-system/
+- filename: central-nervous-system.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/central-nervous-system/
+- filename: central-nervous-system.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/central-nervous-system/
+- filename: central-nervous-system.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/central-nervous-system/
+- filename: central-nervous-system.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/central-nervous-system/
+- filename: central-nervous-system.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/central-nervous-system/
+keywords:
+- biology
+- biomedical
+- nervous
+- Regression
+- system

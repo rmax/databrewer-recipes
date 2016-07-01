@@ -1,0 +1,27 @@
+name: mldata-twonorm-ida
+description: The Twonorm data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/twonorm-ida/
+files:
+- filename: twonorm-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/twonorm-ida/
+- filename: twonorm-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/twonorm-ida/
+- filename: twonorm-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/twonorm-ida/
+- filename: twonorm-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/twonorm-ida/
+- filename: twonorm-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/twonorm-ida/
+- filename: twonorm-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/twonorm-ida/
+- filename: twonorm-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/twonorm-ida/
+keywords:
+- IDA_Benchmark_Repository

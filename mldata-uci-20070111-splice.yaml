@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-splice
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-splice/
+files:
+- filename: uci-20070111-splice.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-splice/
+- filename: uci-20070111-splice.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-splice/
+- filename: uci-20070111-splice.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-splice/
+- filename: uci-20070111-splice.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-splice/
+- filename: uci-20070111-splice.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-splice/
+- filename: uci-20070111-splice.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-splice/
+keywords:
+- arff
+- slurped
+- Weka

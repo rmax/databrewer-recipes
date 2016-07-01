@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-abalone
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-abalone/
+files:
+- filename: regression-datasets-abalone.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-abalone/
+- filename: regression-datasets-abalone.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-abalone/
+- filename: regression-datasets-abalone.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-abalone/
+- filename: regression-datasets-abalone.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-abalone/
+- filename: regression-datasets-abalone.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-abalone/
+- filename: regression-datasets-abalone.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-abalone/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-lymph
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-lymph/
+files:
+- filename: datasets-uci-lymph.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-lymph/
+- filename: datasets-uci-lymph.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-lymph/
+- filename: datasets-uci-lymph.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-lymph/
+- filename: datasets-uci-lymph.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-lymph/
+- filename: datasets-uci-lymph.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-lymph/
+- filename: datasets-uci-lymph.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-lymph/
+keywords:
+- arff
+- slurped
+- Weka

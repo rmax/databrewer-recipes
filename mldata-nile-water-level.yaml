@@ -1,0 +1,26 @@
+name: mldata-nile-water-level
+description: The data set is a record of the lowest annual water levels on the Nile
+  river during 622-1284 measured at the island of Roda, near Cairo, Egypt
+homepage: http://mldata.org/repository/data/viewslug/nile-water-level/
+files:
+- filename: nile-water-level.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/nile-water-level/
+- filename: nile-water-level.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/nile-water-level/
+- filename: nile-water-level.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/nile-water-level/
+- filename: nile-water-level.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/nile-water-level/
+- filename: nile-water-level.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/nile-water-level/
+- filename: nile-water-level.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/nile-water-level/
+keywords:
+- environmental
+- time-series

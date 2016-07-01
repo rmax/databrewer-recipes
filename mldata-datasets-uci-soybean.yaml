@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-soybean
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-soybean/
+files:
+- filename: datasets-uci-soybean.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-soybean/
+- filename: datasets-uci-soybean.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-soybean/
+- filename: datasets-uci-soybean.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-soybean/
+- filename: datasets-uci-soybean.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-soybean/
+- filename: datasets-uci-soybean.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-soybean/
+- filename: datasets-uci-soybean.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-soybean/
+keywords:
+- arff
+- slurped
+- Weka

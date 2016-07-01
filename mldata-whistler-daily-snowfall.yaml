@@ -1,0 +1,27 @@
+name: mldata-whistler-daily-snowfall
+description: Historical daily snowfall data in Whistler, BC, Canada over the period
+  July 1 1972 to December 31 2009.
+homepage: http://mldata.org/repository/data/viewslug/whistler-daily-snowfall/
+files:
+- filename: whistler-daily-snowfall.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/whistler-daily-snowfall/
+- filename: whistler-daily-snowfall.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/whistler-daily-snowfall/
+- filename: whistler-daily-snowfall.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/whistler-daily-snowfall/
+- filename: whistler-daily-snowfall.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/whistler-daily-snowfall/
+- filename: whistler-daily-snowfall.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/whistler-daily-snowfall/
+- filename: whistler-daily-snowfall.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/whistler-daily-snowfall/
+keywords:
+- environmental
+- skiing
+- time-series

@@ -1,0 +1,13 @@
+name: mldata-leukemia-mll
+description: Training data contains 57 leukemia samples (20 ALL, 17 MLL and 20 AML).
+  Testing data contains 4 ALL, 3 MLL and 8 AML samples. In the above publication,
+  it mentioned only 3 AML testing samples.
+homepage: http://mldata.org/repository/data/viewslug/leukemia-mll/
+filename: leukemia-mll.zip
+keywords:
+- all
+- aml
+- Classification
+- Leukemia
+- MLL
+url: http://mldata.org/repository/data/download/leukemia-mll/

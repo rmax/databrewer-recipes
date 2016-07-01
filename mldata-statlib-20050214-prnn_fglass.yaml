@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-prnn_fglass
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-prnn_fglass/
+files:
+- filename: statlib-20050214-prnn_fglass.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-prnn_fglass/
+- filename: statlib-20050214-prnn_fglass.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-prnn_fglass/
+- filename: statlib-20050214-prnn_fglass.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-prnn_fglass/
+- filename: statlib-20050214-prnn_fglass.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-prnn_fglass/
+- filename: statlib-20050214-prnn_fglass.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-prnn_fglass/
+- filename: statlib-20050214-prnn_fglass.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-prnn_fglass/
+keywords:
+- arff
+- slurped
+- Weka

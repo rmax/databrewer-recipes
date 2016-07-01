@@ -1,0 +1,29 @@
+name: mldata-ionosphere
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/ionosphere/
+files:
+- filename: ionosphere.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/ionosphere/
+- filename: ionosphere.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/ionosphere/
+- filename: ionosphere.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/ionosphere/
+- filename: ionosphere.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/ionosphere/
+- filename: ionosphere.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/ionosphere/
+- filename: ionosphere.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/ionosphere/
+- filename: ionosphere.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/ionosphere/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

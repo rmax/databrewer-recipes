@@ -1,0 +1,28 @@
+name: mldata-dmoz-web-directory-topics
+description: Contains parsed webpages along with their topics extracted from DMOZ
+  web directory
+homepage: http://mldata.org/repository/data/viewslug/dmoz-web-directory-topics/
+files:
+- filename: dmoz-web-directory-topics.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/dmoz-web-directory-topics/
+- filename: dmoz-web-directory-topics.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/dmoz-web-directory-topics/
+- filename: dmoz-web-directory-topics.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/dmoz-web-directory-topics/
+- filename: dmoz-web-directory-topics.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/dmoz-web-directory-topics/
+- filename: dmoz-web-directory-topics.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/dmoz-web-directory-topics/
+keywords:
+- bag-of-words
+- Classification
+- DMOZ
+- libsvm
+- multi-class
+- text
+- web-pages

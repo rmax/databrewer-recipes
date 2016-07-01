@@ -1,0 +1,27 @@
+name: mldata-diabetes-ida
+description: The diabetes data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/diabetes-ida/
+files:
+- filename: diabetes-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/diabetes-ida/
+- filename: diabetes-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/diabetes-ida/
+- filename: diabetes-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/diabetes-ida/
+- filename: diabetes-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/diabetes-ida/
+- filename: diabetes-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/diabetes-ida/
+- filename: diabetes-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/diabetes-ida/
+- filename: diabetes-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/diabetes-ida/
+keywords:
+- IDA_Benchmark_Repository

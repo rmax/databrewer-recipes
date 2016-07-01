@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-kin8nm
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-kin8nm/
+files:
+- filename: regression-datasets-kin8nm.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-kin8nm/
+- filename: regression-datasets-kin8nm.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-kin8nm/
+- filename: regression-datasets-kin8nm.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-kin8nm/
+- filename: regression-datasets-kin8nm.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-kin8nm/
+- filename: regression-datasets-kin8nm.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-kin8nm/
+- filename: regression-datasets-kin8nm.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-kin8nm/
+keywords:
+- arff
+- slurped
+- Weka

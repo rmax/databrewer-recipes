@@ -1,0 +1,28 @@
+name: mldata-stockvalues
+description: daily stock closing prices for 156 companies and 3 indexes from 2000
+  to 2007
+homepage: http://mldata.org/repository/data/viewslug/stockvalues/
+files:
+- filename: stockvalues.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/stockvalues/
+- filename: stockvalues.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/stockvalues/
+- filename: stockvalues.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/stockvalues/
+- filename: stockvalues.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/stockvalues/
+- filename: stockvalues.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/stockvalues/
+- filename: stockvalues.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/stockvalues/
+keywords:
+- arff
+- financial
+- Regression
+- temporal-series

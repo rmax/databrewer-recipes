@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-mbagrade
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-mbagrade/
+files:
+- filename: datasets-numeric-mbagrade.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-mbagrade/
+- filename: datasets-numeric-mbagrade.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-mbagrade/
+- filename: datasets-numeric-mbagrade.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-mbagrade/
+- filename: datasets-numeric-mbagrade.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-mbagrade/
+- filename: datasets-numeric-mbagrade.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-mbagrade/
+- filename: datasets-numeric-mbagrade.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-mbagrade/
+keywords:
+- arff
+- slurped
+- Weka

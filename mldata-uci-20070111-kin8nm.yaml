@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-kin8nm
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-kin8nm/
+files:
+- filename: uci-20070111-kin8nm.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-kin8nm/
+- filename: uci-20070111-kin8nm.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-kin8nm/
+- filename: uci-20070111-kin8nm.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-kin8nm/
+- filename: uci-20070111-kin8nm.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-kin8nm/
+- filename: uci-20070111-kin8nm.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-kin8nm/
+- filename: uci-20070111-kin8nm.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-kin8nm/
+keywords:
+- arff
+- slurped
+- Weka

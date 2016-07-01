@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-ships
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-ships/
+files:
+- filename: statlib-20050214-ships.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-ships/
+- filename: statlib-20050214-ships.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-ships/
+- filename: statlib-20050214-ships.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-ships/
+- filename: statlib-20050214-ships.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-ships/
+- filename: statlib-20050214-ships.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-ships/
+- filename: statlib-20050214-ships.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-ships/
+keywords:
+- arff
+- slurped
+- Weka

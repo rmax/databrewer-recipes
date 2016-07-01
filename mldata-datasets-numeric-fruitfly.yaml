@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-fruitfly
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-fruitfly/
+files:
+- filename: datasets-numeric-fruitfly.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-fruitfly/
+- filename: datasets-numeric-fruitfly.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-fruitfly/
+- filename: datasets-numeric-fruitfly.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-fruitfly/
+- filename: datasets-numeric-fruitfly.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-fruitfly/
+- filename: datasets-numeric-fruitfly.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-fruitfly/
+- filename: datasets-numeric-fruitfly.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-fruitfly/
+keywords:
+- arff
+- slurped
+- Weka

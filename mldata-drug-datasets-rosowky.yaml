@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-rosowky
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-rosowky/
+files:
+- filename: drug-datasets-rosowky.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-rosowky/
+- filename: drug-datasets-rosowky.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-rosowky/
+- filename: drug-datasets-rosowky.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-rosowky/
+- filename: drug-datasets-rosowky.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-rosowky/
+- filename: drug-datasets-rosowky.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-rosowky/
+- filename: drug-datasets-rosowky.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-rosowky/
+keywords:
+- arff
+- slurped
+- Weka

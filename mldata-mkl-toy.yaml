@@ -1,0 +1,27 @@
+name: mldata-mkl-toy
+description: Multiple kernel toy data set  (six different scenarios)
+homepage: http://mldata.org/repository/data/viewslug/mkl-toy/
+files:
+- filename: mkl-toy.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mkl-toy/
+- filename: mkl-toy.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mkl-toy/
+- filename: mkl-toy.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mkl-toy/
+- filename: mkl-toy.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mkl-toy/
+- filename: mkl-toy.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mkl-toy/
+- filename: mkl-toy.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mkl-toy/
+keywords:
+- Kernel
+- Learning
+- MKL
+- Multiple

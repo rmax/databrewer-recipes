@@ -1,0 +1,30 @@
+name: mldata-translation-initiation-site-pred
+description: ' Used to find the Translation Initiation Site (TIS), at which the translation
+  from mRNA to proteins initiates'
+homepage: http://mldata.org/repository/data/viewslug/translation-initiation-site-pred/
+files:
+- filename: translation-initiation-site-pred.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/translation-initiation-site-pred/
+- filename: translation-initiation-site-pred.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/translation-initiation-site-pred/
+- filename: translation-initiation-site-pred.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/translation-initiation-site-pred/
+- filename: translation-initiation-site-pred.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/translation-initiation-site-pred/
+- filename: translation-initiation-site-pred.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/translation-initiation-site-pred/
+- filename: translation-initiation-site-pred.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/translation-initiation-site-pred/
+keywords:
+- biomedical
+- Initiation
+- Prediction
+- Regression
+- Site
+- Translation

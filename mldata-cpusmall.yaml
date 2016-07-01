@@ -1,0 +1,29 @@
+name: mldata-cpusmall
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/cpusmall/
+files:
+- filename: cpusmall.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/cpusmall/
+- filename: cpusmall.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/cpusmall/
+- filename: cpusmall.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/cpusmall/
+- filename: cpusmall.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/cpusmall/
+- filename: cpusmall.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/cpusmall/
+- filename: cpusmall.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/cpusmall/
+- filename: cpusmall.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/cpusmall/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-carbolenes
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-carbolenes/
+files:
+- filename: drug-datasets-carbolenes.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-carbolenes/
+- filename: drug-datasets-carbolenes.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-carbolenes/
+- filename: drug-datasets-carbolenes.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-carbolenes/
+- filename: drug-datasets-carbolenes.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-carbolenes/
+- filename: drug-datasets-carbolenes.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-carbolenes/
+- filename: drug-datasets-carbolenes.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-carbolenes/
+keywords:
+- arff
+- slurped
+- Weka

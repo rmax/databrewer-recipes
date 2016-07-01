@@ -1,0 +1,26 @@
+name: mldata-asap_toy
+description: 'Toy data set for the demonstration of the "ASAP: Automatic Semantics-Aware
+  Analysis of Network Payloads" method'
+homepage: http://mldata.org/repository/data/viewslug/asap_toy/
+files:
+- filename: asap_toy.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/asap_toy/
+- filename: asap_toy.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/asap_toy/
+- filename: asap_toy.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/asap_toy/
+- filename: asap_toy.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/asap_toy/
+- filename: asap_toy.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/asap_toy/
+- filename: asap_toy.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/asap_toy/
+keywords:
+- network
+- toy

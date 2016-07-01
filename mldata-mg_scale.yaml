@@ -1,0 +1,29 @@
+name: mldata-mg_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mg_scale/
+files:
+- filename: mg_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mg_scale/
+- filename: mg_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mg_scale/
+- filename: mg_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mg_scale/
+- filename: mg_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mg_scale/
+- filename: mg_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mg_scale/
+- filename: mg_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mg_scale/
+- filename: mg_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mg_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

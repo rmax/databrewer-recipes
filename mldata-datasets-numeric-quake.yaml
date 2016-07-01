@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-quake
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-quake/
+files:
+- filename: datasets-numeric-quake.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-quake/
+- filename: datasets-numeric-quake.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-quake/
+- filename: datasets-numeric-quake.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-quake/
+- filename: datasets-numeric-quake.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-quake/
+- filename: datasets-numeric-quake.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-quake/
+- filename: datasets-numeric-quake.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-quake/
+keywords:
+- arff
+- slurped
+- Weka

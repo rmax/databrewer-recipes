@@ -1,0 +1,27 @@
+name: mldata-flare-solar-ida
+description: The flare solar dataset from the IDA Benchmark repository
+homepage: http://mldata.org/repository/data/viewslug/flare-solar-ida/
+files:
+- filename: flare-solar-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/flare-solar-ida/
+- filename: flare-solar-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/flare-solar-ida/
+- filename: flare-solar-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/flare-solar-ida/
+- filename: flare-solar-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/flare-solar-ida/
+- filename: flare-solar-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/flare-solar-ida/
+- filename: flare-solar-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/flare-solar-ida/
+- filename: flare-solar-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/flare-solar-ida/
+keywords:
+- IDA_Benchmark_Repository

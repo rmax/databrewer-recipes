@@ -1,0 +1,29 @@
+name: mldata-sensit-vehicle-combined
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/sensit-vehicle-combined/
+files:
+- filename: sensit-vehicle-combined.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/sensit-vehicle-combined/
+- filename: sensit-vehicle-combined.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/sensit-vehicle-combined/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,27 @@
+name: mldata-global-earthquakes
+description: All earthquakes since 1972 as reported by USGS
+homepage: http://mldata.org/repository/data/viewslug/global-earthquakes/
+files:
+- filename: global-earthquakes.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/global-earthquakes/
+- filename: global-earthquakes.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/global-earthquakes/
+- filename: global-earthquakes.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/global-earthquakes/
+- filename: global-earthquakes.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/global-earthquakes/
+- filename: global-earthquakes.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/global-earthquakes/
+- filename: global-earthquakes.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/global-earthquakes/
+keywords:
+- earthquakes
+- geostatistics
+- point
+- process

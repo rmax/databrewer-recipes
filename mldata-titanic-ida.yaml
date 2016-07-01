@@ -1,0 +1,27 @@
+name: mldata-titanic-ida
+description: The Titanic data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/titanic-ida/
+files:
+- filename: titanic-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/titanic-ida/
+- filename: titanic-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/titanic-ida/
+- filename: titanic-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/titanic-ida/
+- filename: titanic-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/titanic-ida/
+- filename: titanic-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/titanic-ida/
+- filename: titanic-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/titanic-ida/
+- filename: titanic-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/titanic-ida/
+keywords:
+- IDA_Benchmark_Repository

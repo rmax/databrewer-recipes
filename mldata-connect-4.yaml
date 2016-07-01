@@ -1,0 +1,23 @@
+name: mldata-connect-4
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/connect-4/
+files:
+- filename: connect-4.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/connect-4/
+- filename: connect-4.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/connect-4/
+- filename: connect-4.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/connect-4/
+- filename: connect-4.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/connect-4/
+- filename: connect-4.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/connect-4/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,23 @@
+name: mldata-w6a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/w6a/
+files:
+- filename: w6a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/w6a/
+- filename: w6a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/w6a/
+- filename: w6a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/w6a/
+- filename: w6a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/w6a/
+- filename: w6a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/w6a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

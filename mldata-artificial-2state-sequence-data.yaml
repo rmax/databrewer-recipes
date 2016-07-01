@@ -1,0 +1,26 @@
+name: mldata-artificial-2state-sequence-data
+description: A set of input-sequences and a corresponding label-sequence artificially
+  generated.
+homepage: http://mldata.org/repository/data/viewslug/artificial-2state-sequence-data/
+files:
+- filename: artificial-2state-sequence-data.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/artificial-2state-sequence-data/
+- filename: artificial-2state-sequence-data.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/artificial-2state-sequence-data/
+- filename: artificial-2state-sequence-data.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/artificial-2state-sequence-data/
+- filename: artificial-2state-sequence-data.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/artificial-2state-sequence-data/
+- filename: artificial-2state-sequence-data.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/artificial-2state-sequence-data/
+- filename: artificial-2state-sequence-data.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/artificial-2state-sequence-data/
+keywords:
+- Label-Sequence-Learning
+- Structured-Output-Prediction

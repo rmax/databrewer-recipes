@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-veteran
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-veteran/
+files:
+- filename: datasets-numeric-veteran.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-veteran/
+- filename: datasets-numeric-veteran.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-veteran/
+- filename: datasets-numeric-veteran.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-veteran/
+- filename: datasets-numeric-veteran.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-veteran/
+- filename: datasets-numeric-veteran.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-veteran/
+- filename: datasets-numeric-veteran.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-veteran/
+keywords:
+- arff
+- slurped
+- Weka

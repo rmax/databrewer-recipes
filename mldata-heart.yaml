@@ -1,0 +1,29 @@
+name: mldata-heart
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/heart/
+files:
+- filename: heart.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/heart/
+- filename: heart.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/heart/
+- filename: heart.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/heart/
+- filename: heart.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/heart/
+- filename: heart.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/heart/
+- filename: heart.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/heart/
+- filename: heart.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/heart/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

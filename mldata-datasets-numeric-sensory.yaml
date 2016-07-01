@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-sensory
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-sensory/
+files:
+- filename: datasets-numeric-sensory.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-sensory/
+- filename: datasets-numeric-sensory.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-sensory/
+- filename: datasets-numeric-sensory.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-sensory/
+- filename: datasets-numeric-sensory.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-sensory/
+- filename: datasets-numeric-sensory.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-sensory/
+- filename: datasets-numeric-sensory.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-sensory/
+keywords:
+- arff
+- slurped
+- Weka

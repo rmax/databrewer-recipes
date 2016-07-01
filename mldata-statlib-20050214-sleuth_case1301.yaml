@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-sleuth_case1301
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-sleuth_case1301/
+files:
+- filename: statlib-20050214-sleuth_case1301.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-sleuth_case1301/
+- filename: statlib-20050214-sleuth_case1301.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-sleuth_case1301/
+- filename: statlib-20050214-sleuth_case1301.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-sleuth_case1301/
+- filename: statlib-20050214-sleuth_case1301.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-sleuth_case1301/
+- filename: statlib-20050214-sleuth_case1301.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-sleuth_case1301/
+- filename: statlib-20050214-sleuth_case1301.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-sleuth_case1301/
+keywords:
+- arff
+- slurped
+- Weka

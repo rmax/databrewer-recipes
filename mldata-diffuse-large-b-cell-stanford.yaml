@@ -1,0 +1,30 @@
+name: mldata-diffuse-large-b-cell-stanford
+description: Distinct types of diffuse large B-cell lymphoma (DLBCL) using gene expression
+  data
+homepage: http://mldata.org/repository/data/viewslug/diffuse-large-b-cell-stanford/
+files:
+- filename: diffuse-large-b-cell-stanford.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/diffuse-large-b-cell-stanford/
+- filename: diffuse-large-b-cell-stanford.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/diffuse-large-b-cell-stanford/
+- filename: diffuse-large-b-cell-stanford.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/diffuse-large-b-cell-stanford/
+- filename: diffuse-large-b-cell-stanford.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/diffuse-large-b-cell-stanford/
+- filename: diffuse-large-b-cell-stanford.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/diffuse-large-b-cell-stanford/
+- filename: diffuse-large-b-cell-stanford.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/diffuse-large-b-cell-stanford/
+keywords:
+- b-cell
+- diffuse
+- dlbcl
+- large
+- lymphoma
+- stanford

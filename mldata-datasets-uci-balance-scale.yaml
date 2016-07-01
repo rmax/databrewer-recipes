@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-balance-scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-balance-scale/
+files:
+- filename: datasets-uci-balance-scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-balance-scale/
+- filename: datasets-uci-balance-scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-balance-scale/
+- filename: datasets-uci-balance-scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-balance-scale/
+- filename: datasets-uci-balance-scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-balance-scale/
+- filename: datasets-uci-balance-scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-balance-scale/
+- filename: datasets-uci-balance-scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-balance-scale/
+keywords:
+- arff
+- slurped
+- Weka

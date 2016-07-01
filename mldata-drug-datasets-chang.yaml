@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-chang
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-chang/
+files:
+- filename: drug-datasets-chang.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-chang/
+- filename: drug-datasets-chang.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-chang/
+- filename: drug-datasets-chang.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-chang/
+- filename: drug-datasets-chang.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-chang/
+- filename: drug-datasets-chang.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-chang/
+- filename: drug-datasets-chang.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-chang/
+keywords:
+- arff
+- slurped
+- Weka

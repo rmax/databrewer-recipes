@@ -1,0 +1,23 @@
+name: mldata-mnist
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mnist/
+files:
+- filename: mnist.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mnist/
+- filename: mnist.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mnist/
+- filename: mnist.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mnist/
+- filename: mnist.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mnist/
+- filename: mnist.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mnist/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

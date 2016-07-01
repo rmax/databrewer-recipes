@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-primary-tumor
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-primary-tumor/
+files:
+- filename: uci-20070111-primary-tumor.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-primary-tumor/
+- filename: uci-20070111-primary-tumor.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-primary-tumor/
+- filename: uci-20070111-primary-tumor.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-primary-tumor/
+- filename: uci-20070111-primary-tumor.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-primary-tumor/
+- filename: uci-20070111-primary-tumor.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-primary-tumor/
+- filename: uci-20070111-primary-tumor.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-primary-tumor/
+keywords:
+- arff
+- slurped
+- Weka

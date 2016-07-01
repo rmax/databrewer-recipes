@@ -1,0 +1,20 @@
+name: mldata-test11111
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/test11111/
+files:
+- filename: test11111.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/test11111/
+- filename: test11111.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/test11111/
+- filename: test11111.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/test11111/
+- filename: test11111.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/test11111/
+- filename: test11111.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/test11111/
+keywords: []

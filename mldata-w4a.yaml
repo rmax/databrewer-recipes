@@ -1,0 +1,23 @@
+name: mldata-w4a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/w4a/
+files:
+- filename: w4a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/w4a/
+- filename: w4a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/w4a/
+- filename: w4a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/w4a/
+- filename: w4a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/w4a/
+- filename: w4a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/w4a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

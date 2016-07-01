@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-pharynx
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-pharynx/
+files:
+- filename: datasets-numeric-pharynx.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-pharynx/
+- filename: datasets-numeric-pharynx.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-pharynx/
+- filename: datasets-numeric-pharynx.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-pharynx/
+- filename: datasets-numeric-pharynx.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-pharynx/
+- filename: datasets-numeric-pharynx.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-pharynx/
+- filename: datasets-numeric-pharynx.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-pharynx/
+keywords:
+- arff
+- slurped
+- Weka

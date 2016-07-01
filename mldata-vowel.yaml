@@ -1,0 +1,29 @@
+name: mldata-vowel
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/vowel/
+files:
+- filename: vowel.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/vowel/
+- filename: vowel.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/vowel/
+- filename: vowel.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/vowel/
+- filename: vowel.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/vowel/
+- filename: vowel.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/vowel/
+- filename: vowel.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/vowel/
+- filename: vowel.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/vowel/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

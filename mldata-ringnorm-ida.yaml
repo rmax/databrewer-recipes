@@ -1,0 +1,27 @@
+name: mldata-ringnorm-ida
+description: The Ringnorm data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/ringnorm-ida/
+files:
+- filename: ringnorm-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/ringnorm-ida/
+- filename: ringnorm-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/ringnorm-ida/
+- filename: ringnorm-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/ringnorm-ida/
+- filename: ringnorm-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/ringnorm-ida/
+- filename: ringnorm-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/ringnorm-ida/
+- filename: ringnorm-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/ringnorm-ida/
+- filename: ringnorm-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/ringnorm-ida/
+keywords:
+- IDA_Benchmark_Repository

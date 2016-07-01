@@ -1,0 +1,23 @@
+name: mldata-golfdata
+description: 'Results of '
+homepage: http://mldata.org/repository/data/viewslug/golfdata/
+files:
+- filename: golfdata.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/golfdata/
+- filename: golfdata.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/golfdata/
+- filename: golfdata.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/golfdata/
+- filename: golfdata.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/golfdata/
+- filename: golfdata.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/golfdata/
+- filename: golfdata.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/golfdata/
+keywords: []

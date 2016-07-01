@@ -1,0 +1,29 @@
+name: mldata-satimage
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/satimage/
+files:
+- filename: satimage.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/satimage/
+- filename: satimage.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/satimage/
+- filename: satimage.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/satimage/
+- filename: satimage.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/satimage/
+- filename: satimage.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/satimage/
+- filename: satimage.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/satimage/
+- filename: satimage.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/satimage/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

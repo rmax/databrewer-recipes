@@ -1,0 +1,9 @@
+name: mldata-caltech256-30
+description: Kernel matrix for Caltech 256, with 30 examples per class for training
+homepage: http://mldata.org/repository/data/viewslug/caltech256-30/
+filename: caltech256-30.matlab
+keywords:
+- caltech
+- Kernel
+- Output
+url: http://mldata.org/repository/data/download/caltech256-30/

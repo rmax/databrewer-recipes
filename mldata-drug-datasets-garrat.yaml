@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-garrat
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-garrat/
+files:
+- filename: drug-datasets-garrat.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-garrat/
+- filename: drug-datasets-garrat.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-garrat/
+- filename: drug-datasets-garrat.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-garrat/
+- filename: drug-datasets-garrat.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-garrat/
+- filename: drug-datasets-garrat.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-garrat/
+- filename: drug-datasets-garrat.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-garrat/
+keywords:
+- arff
+- slurped
+- Weka

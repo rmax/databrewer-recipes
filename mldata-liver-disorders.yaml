@@ -1,0 +1,29 @@
+name: mldata-liver-disorders
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/liver-disorders/
+files:
+- filename: liver-disorders.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/liver-disorders/
+- filename: liver-disorders.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/liver-disorders/
+- filename: liver-disorders.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/liver-disorders/
+- filename: liver-disorders.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/liver-disorders/
+- filename: liver-disorders.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/liver-disorders/
+- filename: liver-disorders.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/liver-disorders/
+- filename: liver-disorders.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/liver-disorders/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

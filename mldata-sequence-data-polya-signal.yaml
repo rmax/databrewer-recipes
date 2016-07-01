@@ -1,0 +1,8 @@
+name: mldata-sequence-data-polya-signal
+description: This data set is converted from sequence data and aims to predict the
+  polyadenylation signals (PAS) in human seuquences.
+homepage: http://mldata.org/repository/data/viewslug/sequence-data-polya-signal/
+filename: sequence-data-polya-signal.zip
+keywords:
+- polya
+url: http://mldata.org/repository/data/download/sequence-data-polya-signal/

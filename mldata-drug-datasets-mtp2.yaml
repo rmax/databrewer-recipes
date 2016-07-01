@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-mtp2
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-mtp2/
+files:
+- filename: drug-datasets-mtp2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-mtp2/
+- filename: drug-datasets-mtp2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-mtp2/
+- filename: drug-datasets-mtp2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-mtp2/
+- filename: drug-datasets-mtp2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-mtp2/
+- filename: drug-datasets-mtp2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-mtp2/
+- filename: drug-datasets-mtp2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-mtp2/
+keywords:
+- arff
+- slurped
+- Weka

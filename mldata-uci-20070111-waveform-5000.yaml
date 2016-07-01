@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-waveform-5000
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-waveform-5000/
+files:
+- filename: uci-20070111-waveform-5000.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-waveform-5000/
+- filename: uci-20070111-waveform-5000.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-waveform-5000/
+- filename: uci-20070111-waveform-5000.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-waveform-5000/
+- filename: uci-20070111-waveform-5000.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-waveform-5000/
+- filename: uci-20070111-waveform-5000.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-waveform-5000/
+- filename: uci-20070111-waveform-5000.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-waveform-5000/
+keywords:
+- arff
+- slurped
+- Weka

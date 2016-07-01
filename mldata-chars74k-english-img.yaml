@@ -1,0 +1,8 @@
+name: mldata-chars74k-english-img
+description: Images of characters and numerals cropped from street photos
+homepage: http://mldata.org/repository/data/viewslug/chars74k-english-img/
+filename: chars74k-english-img.tgz
+keywords:
+- character-recognition
+- computer-vision
+url: http://mldata.org/repository/data/download/chars74k-english-img/

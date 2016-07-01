@@ -1,0 +1,13 @@
+name: mldata-chemdner-training
+description: 'CHEMDNER training set: Chemical compound and drug name recognition task'
+homepage: http://mldata.org/repository/data/viewslug/chemdner-training/
+filename: chemdner-training.tar
+keywords:
+- Biocreative
+- bionlp
+- chemdner
+- entity
+- Named
+- NER
+- recognition
+url: http://mldata.org/repository/data/download/chemdner-training/

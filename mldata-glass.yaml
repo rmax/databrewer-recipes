@@ -1,0 +1,29 @@
+name: mldata-glass
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/glass/
+files:
+- filename: glass.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/glass/
+- filename: glass.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/glass/
+- filename: glass.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/glass/
+- filename: glass.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/glass/
+- filename: glass.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/glass/
+- filename: glass.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/glass/
+- filename: glass.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/glass/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

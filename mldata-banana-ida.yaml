@@ -1,0 +1,27 @@
+name: mldata-banana-ida
+description: Banana data set from the IDA Benchmark repository
+homepage: http://mldata.org/repository/data/viewslug/banana-ida/
+files:
+- filename: banana-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/banana-ida/
+- filename: banana-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/banana-ida/
+- filename: banana-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/banana-ida/
+- filename: banana-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/banana-ida/
+- filename: banana-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/banana-ida/
+- filename: banana-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/banana-ida/
+- filename: banana-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/banana-ida/
+keywords:
+- IDA_Benchmark_Repository

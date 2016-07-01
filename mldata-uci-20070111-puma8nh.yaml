@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-puma8nh
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-puma8nh/
+files:
+- filename: uci-20070111-puma8nh.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-puma8nh/
+- filename: uci-20070111-puma8nh.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-puma8nh/
+- filename: uci-20070111-puma8nh.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-puma8nh/
+- filename: uci-20070111-puma8nh.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-puma8nh/
+- filename: uci-20070111-puma8nh.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-puma8nh/
+- filename: uci-20070111-puma8nh.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-puma8nh/
+keywords:
+- arff
+- slurped
+- Weka

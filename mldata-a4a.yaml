@@ -1,0 +1,23 @@
+name: mldata-a4a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/a4a/
+files:
+- filename: a4a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/a4a/
+- filename: a4a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/a4a/
+- filename: a4a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/a4a/
+- filename: a4a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/a4a/
+- filename: a4a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/a4a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

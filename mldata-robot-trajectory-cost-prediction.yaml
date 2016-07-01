@@ -1,0 +1,11 @@
+name: mldata-robot-trajectory-cost-prediction
+description: 'costs for movements avoiding collisions, see readme file '
+homepage: http://mldata.org/repository/data/viewslug/robot-trajectory-cost-prediction/
+filename: robot-trajectory-cost-prediction.zip
+keywords:
+- Classification
+- decision
+- making
+- Regression
+- robot
+url: http://mldata.org/repository/data/download/robot-trajectory-cost-prediction/

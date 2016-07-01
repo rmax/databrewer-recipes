@@ -1,0 +1,29 @@
+name: mldata-breast-cancer_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/breast-cancer_scale/
+files:
+- filename: breast-cancer_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/breast-cancer_scale/
+- filename: breast-cancer_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/breast-cancer_scale/
+- filename: breast-cancer_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/breast-cancer_scale/
+- filename: breast-cancer_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/breast-cancer_scale/
+- filename: breast-cancer_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/breast-cancer_scale/
+- filename: breast-cancer_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/breast-cancer_scale/
+- filename: breast-cancer_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/breast-cancer_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

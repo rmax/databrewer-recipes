@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-mfeat-fourier
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-mfeat-fourier/
+files:
+- filename: uci-20070111-mfeat-fourier.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-mfeat-fourier/
+- filename: uci-20070111-mfeat-fourier.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-mfeat-fourier/
+- filename: uci-20070111-mfeat-fourier.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-mfeat-fourier/
+- filename: uci-20070111-mfeat-fourier.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-mfeat-fourier/
+- filename: uci-20070111-mfeat-fourier.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-mfeat-fourier/
+- filename: uci-20070111-mfeat-fourier.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-mfeat-fourier/
+keywords:
+- arff
+- slurped
+- Weka

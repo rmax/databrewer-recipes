@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-annealorig
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-annealorig/
+files:
+- filename: datasets-uci-annealorig.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-annealorig/
+- filename: datasets-uci-annealorig.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-annealorig/
+- filename: datasets-uci-annealorig.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-annealorig/
+- filename: datasets-uci-annealorig.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-annealorig/
+- filename: datasets-uci-annealorig.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-annealorig/
+- filename: datasets-uci-annealorig.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-annealorig/
+keywords:
+- arff
+- slurped
+- Weka

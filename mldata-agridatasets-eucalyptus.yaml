@@ -1,0 +1,26 @@
+name: mldata-agridatasets-eucalyptus
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/agridatasets-eucalyptus/
+files:
+- filename: agridatasets-eucalyptus.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/agridatasets-eucalyptus/
+- filename: agridatasets-eucalyptus.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/agridatasets-eucalyptus/
+- filename: agridatasets-eucalyptus.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/agridatasets-eucalyptus/
+- filename: agridatasets-eucalyptus.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/agridatasets-eucalyptus/
+- filename: agridatasets-eucalyptus.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/agridatasets-eucalyptus/
+- filename: agridatasets-eucalyptus.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/agridatasets-eucalyptus/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-heart-h
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-heart-h/
+files:
+- filename: datasets-uci-heart-h.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-heart-h/
+- filename: datasets-uci-heart-h.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-heart-h/
+- filename: datasets-uci-heart-h.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-heart-h/
+- filename: datasets-uci-heart-h.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-heart-h/
+- filename: datasets-uci-heart-h.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-heart-h/
+- filename: datasets-uci-heart-h.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-heart-h/
+keywords:
+- arff
+- slurped
+- Weka

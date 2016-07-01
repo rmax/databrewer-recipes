@@ -1,0 +1,23 @@
+name: mldata-covtypebinary
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/covtypebinary/
+files:
+- filename: covtypebinary.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/covtypebinary/
+- filename: covtypebinary.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/covtypebinary/
+- filename: covtypebinary.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/covtypebinary/
+- filename: covtypebinary.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/covtypebinary/
+- filename: covtypebinary.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/covtypebinary/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

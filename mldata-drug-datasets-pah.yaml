@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-pah
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-pah/
+files:
+- filename: drug-datasets-pah.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-pah/
+- filename: drug-datasets-pah.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-pah/
+- filename: drug-datasets-pah.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-pah/
+- filename: drug-datasets-pah.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-pah/
+- filename: drug-datasets-pah.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-pah/
+- filename: drug-datasets-pah.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-pah/
+keywords:
+- arff
+- slurped
+- Weka

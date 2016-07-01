@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-primary-tumor
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-primary-tumor/
+files:
+- filename: datasets-uci-primary-tumor.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-primary-tumor/
+- filename: datasets-uci-primary-tumor.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-primary-tumor/
+- filename: datasets-uci-primary-tumor.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-primary-tumor/
+- filename: datasets-uci-primary-tumor.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-primary-tumor/
+- filename: datasets-uci-primary-tumor.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-primary-tumor/
+- filename: datasets-uci-primary-tumor.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-primary-tumor/
+keywords:
+- arff
+- slurped
+- Weka

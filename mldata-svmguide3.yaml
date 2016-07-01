@@ -1,0 +1,29 @@
+name: mldata-svmguide3
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/svmguide3/
+files:
+- filename: svmguide3.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/svmguide3/
+- filename: svmguide3.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/svmguide3/
+- filename: svmguide3.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/svmguide3/
+- filename: svmguide3.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/svmguide3/
+- filename: svmguide3.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/svmguide3/
+- filename: svmguide3.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/svmguide3/
+- filename: svmguide3.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/svmguide3/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

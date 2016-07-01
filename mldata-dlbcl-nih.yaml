@@ -1,0 +1,27 @@
+name: mldata-dlbcl-nih
+description: Biopsy samples of diffuse large-B-cell lymphoma from 240 patients were
+  examined for gene expression with the use of DNA mocoarrays and analyzed for genomic
+  abnormalities.
+homepage: http://mldata.org/repository/data/viewslug/dlbcl-nih/
+files:
+- filename: dlbcl-nih.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/dlbcl-nih/
+- filename: dlbcl-nih.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/dlbcl-nih/
+- filename: dlbcl-nih.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/dlbcl-nih/
+- filename: dlbcl-nih.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/dlbcl-nih/
+- filename: dlbcl-nih.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/dlbcl-nih/
+- filename: dlbcl-nih.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/dlbcl-nih/
+keywords:
+- dlbcl
+- NIH

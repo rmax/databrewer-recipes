@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-ionosphere
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-ionosphere/
+files:
+- filename: datasets-uci-ionosphere.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-ionosphere/
+- filename: datasets-uci-ionosphere.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-ionosphere/
+- filename: datasets-uci-ionosphere.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-ionosphere/
+- filename: datasets-uci-ionosphere.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-ionosphere/
+- filename: datasets-uci-ionosphere.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-ionosphere/
+- filename: datasets-uci-ionosphere.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-ionosphere/
+keywords:
+- arff
+- slurped
+- Weka

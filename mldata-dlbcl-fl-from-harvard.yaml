@@ -1,0 +1,11 @@
+name: mldata-dlbcl-fl-from-harvard
+description: There are two kinds of classifications about diffuse large b-cell lymphoma
+  (DLBCL) addressed in the publication.
+homepage: http://mldata.org/repository/data/viewslug/dlbcl-fl-from-harvard/
+filename: dlbcl-fl-from-harvard.zip
+keywords:
+- dlbcl
+- Harvard
+- lymphoma
+- MIT
+url: http://mldata.org/repository/data/download/dlbcl-fl-from-harvard/

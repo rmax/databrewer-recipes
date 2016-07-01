@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-profb
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-profb/
+files:
+- filename: statlib-20050214-profb.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-profb/
+- filename: statlib-20050214-profb.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-profb/
+- filename: statlib-20050214-profb.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-profb/
+- filename: statlib-20050214-profb.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-profb/
+- filename: statlib-20050214-profb.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-profb/
+- filename: statlib-20050214-profb.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-profb/
+keywords:
+- arff
+- slurped
+- Weka

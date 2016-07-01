@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-cristalli
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-cristalli/
+files:
+- filename: drug-datasets-cristalli.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-cristalli/
+- filename: drug-datasets-cristalli.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-cristalli/
+- filename: drug-datasets-cristalli.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-cristalli/
+- filename: drug-datasets-cristalli.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-cristalli/
+- filename: drug-datasets-cristalli.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-cristalli/
+- filename: drug-datasets-cristalli.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-cristalli/
+keywords:
+- arff
+- slurped
+- Weka

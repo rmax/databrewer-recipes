@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-iris
+description: The classic iris flower data
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-iris/
+files:
+- filename: datasets-uci-iris.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-iris/
+- filename: datasets-uci-iris.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-iris/
+- filename: datasets-uci-iris.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-iris/
+- filename: datasets-uci-iris.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-iris/
+- filename: datasets-uci-iris.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-iris/
+- filename: datasets-uci-iris.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-iris/
+keywords:
+- arff
+- slurped
+- Weka

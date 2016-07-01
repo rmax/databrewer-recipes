@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-detroit
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-detroit/
+files:
+- filename: datasets-numeric-detroit.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-detroit/
+- filename: datasets-numeric-detroit.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-detroit/
+- filename: datasets-numeric-detroit.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-detroit/
+- filename: datasets-numeric-detroit.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-detroit/
+- filename: datasets-numeric-detroit.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-detroit/
+- filename: datasets-numeric-detroit.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-detroit/
+keywords:
+- arff
+- slurped
+- Weka

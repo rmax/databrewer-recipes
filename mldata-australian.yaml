@@ -1,0 +1,29 @@
+name: mldata-australian
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/australian/
+files:
+- filename: australian.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/australian/
+- filename: australian.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/australian/
+- filename: australian.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/australian/
+- filename: australian.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/australian/
+- filename: australian.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/australian/
+- filename: australian.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/australian/
+- filename: australian.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/australian/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

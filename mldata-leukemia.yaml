@@ -1,0 +1,29 @@
+name: mldata-leukemia
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/leukemia/
+files:
+- filename: leukemia.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/leukemia/
+- filename: leukemia.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/leukemia/
+- filename: leukemia.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/leukemia/
+- filename: leukemia.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/leukemia/
+- filename: leukemia.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/leukemia/
+- filename: leukemia.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/leukemia/
+- filename: leukemia.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/leukemia/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

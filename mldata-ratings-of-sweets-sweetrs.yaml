@@ -1,0 +1,29 @@
+name: mldata-ratings-of-sweets-sweetrs
+description: Ratings of sweets for collaborative-filtering. Data gathered on http://sweetrs.org/
+  website.
+homepage: http://mldata.org/repository/data/viewslug/ratings-of-sweets-sweetrs/
+files:
+- filename: ratings-of-sweets-sweetrs.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/ratings-of-sweets-sweetrs/
+- filename: ratings-of-sweets-sweetrs.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/ratings-of-sweets-sweetrs/
+- filename: ratings-of-sweets-sweetrs.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/ratings-of-sweets-sweetrs/
+- filename: ratings-of-sweets-sweetrs.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/ratings-of-sweets-sweetrs/
+- filename: ratings-of-sweets-sweetrs.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/ratings-of-sweets-sweetrs/
+- filename: ratings-of-sweets-sweetrs.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/ratings-of-sweets-sweetrs/
+keywords:
+- collaborative-filtering
+- recommendation
+- Regression
+- sweetrs
+- sweets

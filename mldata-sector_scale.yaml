@@ -1,0 +1,23 @@
+name: mldata-sector_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/sector_scale/
+files:
+- filename: sector_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/sector_scale/
+- filename: sector_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/sector_scale/
+- filename: sector_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/sector_scale/
+- filename: sector_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/sector_scale/
+- filename: sector_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/sector_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

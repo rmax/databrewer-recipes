@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-ailerons
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-ailerons/
+files:
+- filename: regression-datasets-ailerons.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-ailerons/
+- filename: regression-datasets-ailerons.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-ailerons/
+- filename: regression-datasets-ailerons.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-ailerons/
+- filename: regression-datasets-ailerons.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-ailerons/
+- filename: regression-datasets-ailerons.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-ailerons/
+- filename: regression-datasets-ailerons.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-ailerons/
+keywords:
+- arff
+- slurped
+- Weka

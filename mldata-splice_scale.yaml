@@ -1,0 +1,29 @@
+name: mldata-splice_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/splice_scale/
+files:
+- filename: splice_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/splice_scale/
+- filename: splice_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/splice_scale/
+- filename: splice_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/splice_scale/
+- filename: splice_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/splice_scale/
+- filename: splice_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/splice_scale/
+- filename: splice_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/splice_scale/
+- filename: splice_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/splice_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,23 @@
+name: mldata-covtype_scale01
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/covtype_scale01/
+files:
+- filename: covtype_scale01.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/covtype_scale01/
+- filename: covtype_scale01.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/covtype_scale01/
+- filename: covtype_scale01.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/covtype_scale01/
+- filename: covtype_scale01.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/covtype_scale01/
+- filename: covtype_scale01.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/covtype_scale01/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

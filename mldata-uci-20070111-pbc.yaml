@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-pbc
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-pbc/
+files:
+- filename: uci-20070111-pbc.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-pbc/
+- filename: uci-20070111-pbc.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-pbc/
+- filename: uci-20070111-pbc.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-pbc/
+- filename: uci-20070111-pbc.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-pbc/
+- filename: uci-20070111-pbc.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-pbc/
+- filename: uci-20070111-pbc.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-pbc/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,25 @@
+name: mldata-book-crossing-ratings-10
+description: Ratings of books by readers
+homepage: http://mldata.org/repository/data/viewslug/book-crossing-ratings-10/
+files:
+- filename: book-crossing-ratings-10.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/book-crossing-ratings-10/
+- filename: book-crossing-ratings-10.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/book-crossing-ratings-10/
+- filename: book-crossing-ratings-10.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/book-crossing-ratings-10/
+- filename: book-crossing-ratings-10.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/book-crossing-ratings-10/
+- filename: book-crossing-ratings-10.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/book-crossing-ratings-10/
+- filename: book-crossing-ratings-10.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/book-crossing-ratings-10/
+keywords:
+- collaborative-filtering
+- recommendation

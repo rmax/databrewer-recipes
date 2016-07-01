@@ -1,0 +1,29 @@
+name: mldata-cadata
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/cadata/
+files:
+- filename: cadata.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/cadata/
+- filename: cadata.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/cadata/
+- filename: cadata.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/cadata/
+- filename: cadata.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/cadata/
+- filename: cadata.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/cadata/
+- filename: cadata.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/cadata/
+- filename: cadata.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/cadata/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

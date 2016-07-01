@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-gascons
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-gascons/
+files:
+- filename: datasets-numeric-gascons.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-gascons/
+- filename: datasets-numeric-gascons.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-gascons/
+- filename: datasets-numeric-gascons.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-gascons/
+- filename: datasets-numeric-gascons.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-gascons/
+- filename: datasets-numeric-gascons.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-gascons/
+- filename: datasets-numeric-gascons.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-gascons/
+keywords:
+- arff
+- slurped
+- Weka

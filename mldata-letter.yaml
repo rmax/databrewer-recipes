@@ -1,0 +1,29 @@
+name: mldata-letter
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/letter/
+files:
+- filename: letter.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/letter/
+- filename: letter.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/letter/
+- filename: letter.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/letter/
+- filename: letter.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/letter/
+- filename: letter.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/letter/
+- filename: letter.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/letter/
+- filename: letter.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/letter/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

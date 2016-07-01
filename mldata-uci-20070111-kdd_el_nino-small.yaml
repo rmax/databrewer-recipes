@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-kdd_el_nino-small
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-kdd_el_nino-small/
+files:
+- filename: uci-20070111-kdd_el_nino-small.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-kdd_el_nino-small/
+- filename: uci-20070111-kdd_el_nino-small.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-kdd_el_nino-small/
+- filename: uci-20070111-kdd_el_nino-small.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-kdd_el_nino-small/
+- filename: uci-20070111-kdd_el_nino-small.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-kdd_el_nino-small/
+- filename: uci-20070111-kdd_el_nino-small.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-kdd_el_nino-small/
+- filename: uci-20070111-kdd_el_nino-small.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-kdd_el_nino-small/
+keywords:
+- arff
+- slurped
+- Weka

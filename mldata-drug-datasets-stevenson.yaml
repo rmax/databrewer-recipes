@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-stevenson
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-stevenson/
+files:
+- filename: drug-datasets-stevenson.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-stevenson/
+- filename: drug-datasets-stevenson.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-stevenson/
+- filename: drug-datasets-stevenson.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-stevenson/
+- filename: drug-datasets-stevenson.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-stevenson/
+- filename: drug-datasets-stevenson.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-stevenson/
+- filename: drug-datasets-stevenson.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-stevenson/
+keywords:
+- arff
+- slurped
+- Weka

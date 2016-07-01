@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-plasma_retinol
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-plasma_retinol/
+files:
+- filename: statlib-20050214-plasma_retinol.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-plasma_retinol/
+- filename: statlib-20050214-plasma_retinol.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-plasma_retinol/
+- filename: statlib-20050214-plasma_retinol.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-plasma_retinol/
+- filename: statlib-20050214-plasma_retinol.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-plasma_retinol/
+- filename: statlib-20050214-plasma_retinol.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-plasma_retinol/
+- filename: statlib-20050214-plasma_retinol.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-plasma_retinol/
+keywords:
+- arff
+- slurped
+- Weka

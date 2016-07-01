@@ -1,0 +1,26 @@
+name: mldata-agridatasets-grub-damage
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/agridatasets-grub-damage/
+files:
+- filename: agridatasets-grub-damage.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/agridatasets-grub-damage/
+- filename: agridatasets-grub-damage.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/agridatasets-grub-damage/
+- filename: agridatasets-grub-damage.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/agridatasets-grub-damage/
+- filename: agridatasets-grub-damage.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/agridatasets-grub-damage/
+- filename: agridatasets-grub-damage.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/agridatasets-grub-damage/
+- filename: agridatasets-grub-damage.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/agridatasets-grub-damage/
+keywords:
+- arff
+- slurped
+- Weka

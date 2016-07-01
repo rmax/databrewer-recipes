@@ -1,0 +1,29 @@
+name: mldata-splice
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/splice/
+files:
+- filename: splice.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/splice/
+- filename: splice.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/splice/
+- filename: splice.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/splice/
+- filename: splice.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/splice/
+- filename: splice.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/splice/
+- filename: splice.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/splice/
+- filename: splice.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/splice/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

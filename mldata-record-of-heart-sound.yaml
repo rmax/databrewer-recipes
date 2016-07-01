@@ -1,0 +1,10 @@
+name: mldata-record-of-heart-sound
+description: Records of heart sound from people in different heart conditions:Normal,
+  Murmur,Extra sound,Extrasystole, Artifact for Heartbeat Classification.
+homepage: http://mldata.org/repository/data/viewslug/record-of-heart-sound/
+filename: record-of-heart-sound.zip
+keywords:
+- Classification
+- Signal-processing
+- Supervised-Machine-Learning
+url: http://mldata.org/repository/data/download/record-of-heart-sound/

@@ -1,0 +1,16 @@
+name: mldata-acasva-actions-dataset
+description: HOG3D vectors extracted on the bounding boxes of players in videos of
+  tennis and badminton. Time stamps are available for each vector. Created by T.deCampos,
+  University of Surrey
+homepage: http://mldata.org/repository/data/viewslug/acasva-actions-dataset/
+filename: acasva-actions-dataset.tgz
+keywords:
+- action-recognition
+- computer-vision
+- HOG3D
+- Label-Sequence-Learning
+- Structured-Output-Prediction
+- temporal-series
+- time-series
+- transfer-learning
+url: http://mldata.org/repository/data/download/acasva-actions-dataset/

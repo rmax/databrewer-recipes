@@ -1,0 +1,25 @@
+name: mldata-fish_killer
+description: Water Level from Dam
+homepage: http://mldata.org/repository/data/viewslug/fish_killer/
+files:
+- filename: fish_killer.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/fish_killer/
+- filename: fish_killer.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/fish_killer/
+- filename: fish_killer.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/fish_killer/
+- filename: fish_killer.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/fish_killer/
+- filename: fish_killer.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/fish_killer/
+- filename: fish_killer.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/fish_killer/
+keywords:
+- environmental
+- time-series

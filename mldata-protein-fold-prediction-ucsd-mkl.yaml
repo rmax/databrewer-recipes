@@ -1,0 +1,9 @@
+name: mldata-protein-fold-prediction-ucsd-mkl
+description: 'multy kernel learning dataset on protein fold prediction '
+homepage: http://mldata.org/repository/data/viewslug/protein-fold-prediction-ucsd-mkl/
+filename: protein-fold-prediction-ucsd-mkl.unknown
+keywords:
+- multi-class
+- multi-kernel
+- protein-fold-prediction
+url: http://mldata.org/repository/data/download/protein-fold-prediction-ucsd-mkl/

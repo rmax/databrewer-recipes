@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-pdgfr
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-pdgfr/
+files:
+- filename: drug-datasets-pdgfr.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-pdgfr/
+- filename: drug-datasets-pdgfr.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-pdgfr/
+- filename: drug-datasets-pdgfr.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-pdgfr/
+- filename: drug-datasets-pdgfr.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-pdgfr/
+- filename: drug-datasets-pdgfr.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-pdgfr/
+- filename: drug-datasets-pdgfr.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-pdgfr/
+keywords:
+- arff
+- slurped
+- Weka

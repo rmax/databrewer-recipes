@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-doherty
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-doherty/
+files:
+- filename: drug-datasets-doherty.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-doherty/
+- filename: drug-datasets-doherty.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-doherty/
+- filename: drug-datasets-doherty.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-doherty/
+- filename: drug-datasets-doherty.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-doherty/
+- filename: drug-datasets-doherty.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-doherty/
+- filename: drug-datasets-doherty.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-doherty/
+keywords:
+- arff
+- slurped
+- Weka

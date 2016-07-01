@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-baseball-team
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-baseball-team/
+files:
+- filename: statlib-20050214-baseball-team.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-baseball-team/
+- filename: statlib-20050214-baseball-team.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-baseball-team/
+- filename: statlib-20050214-baseball-team.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-baseball-team/
+- filename: statlib-20050214-baseball-team.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-baseball-team/
+- filename: statlib-20050214-baseball-team.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-baseball-team/
+- filename: statlib-20050214-baseball-team.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-baseball-team/
+keywords:
+- arff
+- slurped
+- Weka

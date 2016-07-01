@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-qsfsr2
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-qsfsr2/
+files:
+- filename: drug-datasets-qsfsr2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-qsfsr2/
+- filename: drug-datasets-qsfsr2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-qsfsr2/
+- filename: drug-datasets-qsfsr2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-qsfsr2/
+- filename: drug-datasets-qsfsr2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-qsfsr2/
+- filename: drug-datasets-qsfsr2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-qsfsr2/
+- filename: drug-datasets-qsfsr2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-qsfsr2/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,10 @@
+name: mldata-chars74k-english-hnd
+description: Images and data files of characters and digits drawn on a tablet PC
+homepage: http://mldata.org/repository/data/viewslug/chars74k-english-hnd/
+filename: chars74k-english-hnd.tgz
+keywords:
+- character-recognition
+- computer-vision
+- handwritten-digits
+- transfer-learning
+url: http://mldata.org/repository/data/download/chars74k-english-hnd/

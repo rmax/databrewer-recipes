@@ -1,0 +1,29 @@
+name: mldata-diabetes
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/diabetes/
+files:
+- filename: diabetes.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/diabetes/
+- filename: diabetes.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/diabetes/
+- filename: diabetes.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/diabetes/
+- filename: diabetes.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/diabetes/
+- filename: diabetes.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/diabetes/
+- filename: diabetes.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/diabetes/
+- filename: diabetes.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/diabetes/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

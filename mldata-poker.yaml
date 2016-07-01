@@ -1,0 +1,29 @@
+name: mldata-poker
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/poker/
+files:
+- filename: poker.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/poker/
+- filename: poker.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/poker/
+- filename: poker.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/poker/
+- filename: poker.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/poker/
+- filename: poker.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/poker/
+- filename: poker.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/poker/
+- filename: poker.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/poker/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

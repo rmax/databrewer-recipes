@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-house_8l
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-house_8l/
+files:
+- filename: regression-datasets-house_8l.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-house_8l/
+- filename: regression-datasets-house_8l.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-house_8l/
+- filename: regression-datasets-house_8l.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-house_8l/
+- filename: regression-datasets-house_8l.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-house_8l/
+- filename: regression-datasets-house_8l.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-house_8l/
+- filename: regression-datasets-house_8l.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-house_8l/
+keywords:
+- arff
+- slurped
+- Weka

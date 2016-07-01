@@ -1,0 +1,28 @@
+name: mldata-lung-cancer-michigan
+description: 86 primary lung adenocarcinomas samples and 10 non-neoplastic lung samples
+  are included. Each sample is described by 7129 genes.
+homepage: http://mldata.org/repository/data/viewslug/lung-cancer-michigan/
+files:
+- filename: lung-cancer-michigan.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/lung-cancer-michigan/
+- filename: lung-cancer-michigan.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/lung-cancer-michigan/
+- filename: lung-cancer-michigan.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/lung-cancer-michigan/
+- filename: lung-cancer-michigan.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/lung-cancer-michigan/
+- filename: lung-cancer-michigan.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/lung-cancer-michigan/
+- filename: lung-cancer-michigan.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/lung-cancer-michigan/
+keywords:
+- cancer
+- lung
+- michigan
+- tumor

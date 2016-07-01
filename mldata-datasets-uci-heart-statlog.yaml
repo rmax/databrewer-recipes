@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-heart-statlog
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-heart-statlog/
+files:
+- filename: datasets-uci-heart-statlog.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-heart-statlog/
+- filename: datasets-uci-heart-statlog.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-heart-statlog/
+- filename: datasets-uci-heart-statlog.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-heart-statlog/
+- filename: datasets-uci-heart-statlog.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-heart-statlog/
+- filename: datasets-uci-heart-statlog.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-heart-statlog/
+- filename: datasets-uci-heart-statlog.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-heart-statlog/
+keywords:
+- arff
+- slurped
+- Weka

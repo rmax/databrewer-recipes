@@ -1,0 +1,24 @@
+name: mldata-simu-data-test
+description: Simulated data for testing the site
+homepage: http://mldata.org/repository/data/viewslug/simu-data-test/
+files:
+- filename: simu-data-test.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/simu-data-test/
+- filename: simu-data-test.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/simu-data-test/
+- filename: simu-data-test.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/simu-data-test/
+- filename: simu-data-test.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/simu-data-test/
+- filename: simu-data-test.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/simu-data-test/
+- filename: simu-data-test.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/simu-data-test/
+keywords:
+- test

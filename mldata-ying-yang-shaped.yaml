@@ -1,0 +1,21 @@
+name: mldata-ying-yang-shaped
+description: Ying-Yang shaped dataset
+homepage: http://mldata.org/repository/data/viewslug/ying-yang-shaped/
+files:
+- filename: ying-yang-shaped.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/ying-yang-shaped/
+- filename: ying-yang-shaped.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/ying-yang-shaped/
+- filename: ying-yang-shaped.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/ying-yang-shaped/
+- filename: ying-yang-shaped.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/ying-yang-shaped/
+keywords:
+- Classification
+- making
+- multi-class
+- toy

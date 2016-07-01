@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-breast-w
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-breast-w/
+files:
+- filename: datasets-uci-breast-w.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-breast-w/
+- filename: datasets-uci-breast-w.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-breast-w/
+- filename: datasets-uci-breast-w.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-breast-w/
+- filename: datasets-uci-breast-w.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-breast-w/
+- filename: datasets-uci-breast-w.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-breast-w/
+- filename: datasets-uci-breast-w.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-breast-w/
+keywords:
+- arff
+- slurped
+- Weka

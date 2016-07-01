@@ -1,0 +1,29 @@
+name: mldata-mpg_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mpg_scale/
+files:
+- filename: mpg_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mpg_scale/
+- filename: mpg_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mpg_scale/
+- filename: mpg_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mpg_scale/
+- filename: mpg_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mpg_scale/
+- filename: mpg_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mpg_scale/
+- filename: mpg_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mpg_scale/
+- filename: mpg_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mpg_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

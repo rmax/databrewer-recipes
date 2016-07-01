@@ -1,0 +1,23 @@
+name: mldata-news20
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/news20/
+files:
+- filename: news20.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/news20/
+- filename: news20.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/news20/
+- filename: news20.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/news20/
+- filename: news20.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/news20/
+- filename: news20.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/news20/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

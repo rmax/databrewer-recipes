@@ -1,0 +1,17 @@
+name: mldata-song-from-msd
+description: Song
+homepage: http://mldata.org/repository/data/viewslug/song-from-msd/
+files:
+- filename: song-from-msd.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/song-from-msd/
+- filename: song-from-msd.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/song-from-msd/
+- filename: song-from-msd.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/song-from-msd/
+- filename: song-from-msd.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/song-from-msd/
+keywords: []

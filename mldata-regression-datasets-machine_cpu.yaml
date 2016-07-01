@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-machine_cpu
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-machine_cpu/
+files:
+- filename: regression-datasets-machine_cpu.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-machine_cpu/
+- filename: regression-datasets-machine_cpu.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-machine_cpu/
+- filename: regression-datasets-machine_cpu.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-machine_cpu/
+- filename: regression-datasets-machine_cpu.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-machine_cpu/
+- filename: regression-datasets-machine_cpu.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-machine_cpu/
+- filename: regression-datasets-machine_cpu.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-machine_cpu/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-mushroom
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-mushroom/
+files:
+- filename: datasets-uci-mushroom.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-mushroom/
+- filename: datasets-uci-mushroom.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-mushroom/
+- filename: datasets-uci-mushroom.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-mushroom/
+- filename: datasets-uci-mushroom.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-mushroom/
+- filename: datasets-uci-mushroom.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-mushroom/
+- filename: datasets-uci-mushroom.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-mushroom/
+keywords:
+- arff
+- slurped
+- Weka

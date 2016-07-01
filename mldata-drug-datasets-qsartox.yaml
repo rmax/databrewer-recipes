@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-qsartox
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-qsartox/
+files:
+- filename: drug-datasets-qsartox.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-qsartox/
+- filename: drug-datasets-qsartox.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-qsartox/
+- filename: drug-datasets-qsartox.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-qsartox/
+- filename: drug-datasets-qsartox.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-qsartox/
+- filename: drug-datasets-qsartox.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-qsartox/
+- filename: drug-datasets-qsartox.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-qsartox/
+keywords:
+- arff
+- slurped
+- Weka

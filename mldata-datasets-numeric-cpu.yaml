@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-cpu
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-cpu/
+files:
+- filename: datasets-numeric-cpu.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-cpu/
+- filename: datasets-numeric-cpu.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-cpu/
+- filename: datasets-numeric-cpu.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-cpu/
+- filename: datasets-numeric-cpu.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-cpu/
+- filename: datasets-numeric-cpu.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-cpu/
+- filename: datasets-numeric-cpu.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-cpu/
+keywords:
+- arff
+- slurped
+- Weka

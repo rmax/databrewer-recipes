@@ -1,0 +1,17 @@
+name: mldata-songdata
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/songdata/
+files:
+- filename: songdata.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/songdata/
+- filename: songdata.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/songdata/
+- filename: songdata.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/songdata/
+- filename: songdata.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/songdata/
+keywords: []

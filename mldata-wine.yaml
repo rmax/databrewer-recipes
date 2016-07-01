@@ -1,0 +1,29 @@
+name: mldata-wine
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/wine/
+files:
+- filename: wine.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/wine/
+- filename: wine.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/wine/
+- filename: wine.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/wine/
+- filename: wine.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/wine/
+- filename: wine.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/wine/
+- filename: wine.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/wine/
+- filename: wine.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/wine/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

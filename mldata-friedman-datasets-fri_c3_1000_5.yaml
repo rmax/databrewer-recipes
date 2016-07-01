@@ -1,0 +1,26 @@
+name: mldata-friedman-datasets-fri_c3_1000_5
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/friedman-datasets-fri_c3_1000_5/
+files:
+- filename: friedman-datasets-fri_c3_1000_5.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/friedman-datasets-fri_c3_1000_5/
+- filename: friedman-datasets-fri_c3_1000_5.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/friedman-datasets-fri_c3_1000_5/
+- filename: friedman-datasets-fri_c3_1000_5.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/friedman-datasets-fri_c3_1000_5/
+- filename: friedman-datasets-fri_c3_1000_5.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/friedman-datasets-fri_c3_1000_5/
+- filename: friedman-datasets-fri_c3_1000_5.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/friedman-datasets-fri_c3_1000_5/
+- filename: friedman-datasets-fri_c3_1000_5.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/friedman-datasets-fri_c3_1000_5/
+keywords:
+- arff
+- slurped
+- Weka

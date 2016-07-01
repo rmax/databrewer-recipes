@@ -1,0 +1,23 @@
+name: mldata-mnist_scale
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mnist_scale/
+files:
+- filename: mnist_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mnist_scale/
+- filename: mnist_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mnist_scale/
+- filename: mnist_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mnist_scale/
+- filename: mnist_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mnist_scale/
+- filename: mnist_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mnist_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

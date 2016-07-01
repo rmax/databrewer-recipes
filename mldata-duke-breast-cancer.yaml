@@ -1,0 +1,29 @@
+name: mldata-duke-breast-cancer
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/duke-breast-cancer/
+files:
+- filename: duke-breast-cancer.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/duke-breast-cancer/
+- filename: duke-breast-cancer.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/duke-breast-cancer/
+- filename: duke-breast-cancer.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/duke-breast-cancer/
+- filename: duke-breast-cancer.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/duke-breast-cancer/
+- filename: duke-breast-cancer.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/duke-breast-cancer/
+- filename: duke-breast-cancer.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/duke-breast-cancer/
+- filename: duke-breast-cancer.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/duke-breast-cancer/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

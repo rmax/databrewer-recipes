@@ -1,0 +1,28 @@
+name: mldata-friedman-datasets-fri_c0_500_10
+description: Artificial data generated from the Friedman function, part of a collection
+  of 80 data sets. This particular set has 10 features, 1 output (11th feature), colinearity
+  degree 0, and 500 instances.
+homepage: http://mldata.org/repository/data/viewslug/friedman-datasets-fri_c0_500_10/
+files:
+- filename: friedman-datasets-fri_c0_500_10.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/friedman-datasets-fri_c0_500_10/
+- filename: friedman-datasets-fri_c0_500_10.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/friedman-datasets-fri_c0_500_10/
+- filename: friedman-datasets-fri_c0_500_10.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/friedman-datasets-fri_c0_500_10/
+- filename: friedman-datasets-fri_c0_500_10.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/friedman-datasets-fri_c0_500_10/
+- filename: friedman-datasets-fri_c0_500_10.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/friedman-datasets-fri_c0_500_10/
+- filename: friedman-datasets-fri_c0_500_10.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/friedman-datasets-fri_c0_500_10/
+keywords:
+- arff
+- slurped
+- Weka

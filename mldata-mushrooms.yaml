@@ -1,0 +1,23 @@
+name: mldata-mushrooms
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mushrooms/
+files:
+- filename: mushrooms.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mushrooms/
+- filename: mushrooms.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mushrooms/
+- filename: mushrooms.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mushrooms/
+- filename: mushrooms.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mushrooms/
+- filename: mushrooms.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mushrooms/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

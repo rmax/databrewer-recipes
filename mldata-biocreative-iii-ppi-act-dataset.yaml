@@ -1,0 +1,13 @@
+name: mldata-biocreative-iii-ppi-act-dataset
+description: ' Dataset used for the article classification task of BioCreative III
+  (see http://www.biocreative.org/tasks/biocreative-iii/ppi/)'
+homepage: http://mldata.org/repository/data/viewslug/biocreative-iii-ppi-act-dataset/
+filename: biocreative-iii-ppi-act-dataset.zip
+keywords:
+- article
+- Biocreative
+- categorization
+- Classification
+- ranking
+- text
+url: http://mldata.org/repository/data/download/biocreative-iii-ppi-act-dataset/

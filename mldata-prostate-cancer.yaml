@@ -1,0 +1,10 @@
+name: mldata-prostate-cancer
+description: (A) Tumor versus Normal classification. (B) Prediction of clinical outcome
+homepage: http://mldata.org/repository/data/viewslug/prostate-cancer/
+filename: prostate-cancer.zip
+keywords:
+- cancer
+- Prediction
+- prostate
+- tumor
+url: http://mldata.org/repository/data/download/prostate-cancer/

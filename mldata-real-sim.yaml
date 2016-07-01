@@ -1,0 +1,23 @@
+name: mldata-real-sim
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/real-sim/
+files:
+- filename: real-sim.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/real-sim/
+- filename: real-sim.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/real-sim/
+- filename: real-sim.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/real-sim/
+- filename: real-sim.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/real-sim/
+- filename: real-sim.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/real-sim/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

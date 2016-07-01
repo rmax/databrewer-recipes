@@ -1,0 +1,23 @@
+name: mldata-breast-cancer-kent-ridge-2
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/breast-cancer-kent-ridge-2/
+files:
+- filename: breast-cancer-kent-ridge-2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/breast-cancer-kent-ridge-2/
+- filename: breast-cancer-kent-ridge-2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/breast-cancer-kent-ridge-2/
+- filename: breast-cancer-kent-ridge-2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/breast-cancer-kent-ridge-2/
+- filename: breast-cancer-kent-ridge-2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/breast-cancer-kent-ridge-2/
+- filename: breast-cancer-kent-ridge-2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/breast-cancer-kent-ridge-2/
+- filename: breast-cancer-kent-ridge-2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/breast-cancer-kent-ridge-2/
+keywords: []

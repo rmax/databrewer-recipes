@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-sponge
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-sponge/
+files:
+- filename: uci-20070111-sponge.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-sponge/
+- filename: uci-20070111-sponge.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-sponge/
+- filename: uci-20070111-sponge.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-sponge/
+- filename: uci-20070111-sponge.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-sponge/
+- filename: uci-20070111-sponge.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-sponge/
+- filename: uci-20070111-sponge.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-sponge/
+keywords:
+- arff
+- slurped
+- Weka

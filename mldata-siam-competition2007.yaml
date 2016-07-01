@@ -1,0 +1,23 @@
+name: mldata-siam-competition2007
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/siam-competition2007/
+files:
+- filename: siam-competition2007.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/siam-competition2007/
+- filename: siam-competition2007.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/siam-competition2007/
+- filename: siam-competition2007.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/siam-competition2007/
+- filename: siam-competition2007.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/siam-competition2007/
+- filename: siam-competition2007.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/siam-competition2007/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

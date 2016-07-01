@@ -1,0 +1,29 @@
+name: mldata-germannumer
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/germannumer/
+files:
+- filename: germannumer.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/germannumer/
+- filename: germannumer.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/germannumer/
+- filename: germannumer.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/germannumer/
+- filename: germannumer.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/germannumer/
+- filename: germannumer.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/germannumer/
+- filename: germannumer.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/germannumer/
+- filename: germannumer.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/germannumer/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,29 @@
+name: mldata-cod-rna
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/cod-rna/
+files:
+- filename: cod-rna.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/cod-rna/
+- filename: cod-rna.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/cod-rna/
+- filename: cod-rna.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/cod-rna/
+- filename: cod-rna.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/cod-rna/
+- filename: cod-rna.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/cod-rna/
+- filename: cod-rna.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/cod-rna/
+- filename: cod-rna.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/cod-rna/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

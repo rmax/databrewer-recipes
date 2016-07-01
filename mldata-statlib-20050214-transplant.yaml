@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-transplant
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-transplant/
+files:
+- filename: statlib-20050214-transplant.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-transplant/
+- filename: statlib-20050214-transplant.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-transplant/
+- filename: statlib-20050214-transplant.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-transplant/
+- filename: statlib-20050214-transplant.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-transplant/
+- filename: statlib-20050214-transplant.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-transplant/
+- filename: statlib-20050214-transplant.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-transplant/
+keywords:
+- arff
+- slurped
+- Weka

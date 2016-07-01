@@ -1,0 +1,8 @@
+name: mldata-santa-fee-data-set-d
+description: Time Series Benchmark data Santa Fee data set D from the IDA Benchmark
+  Repository.
+homepage: http://mldata.org/repository/data/viewslug/santa-fee-data-set-d/
+filename: santa-fee-data-set-d.asc
+keywords:
+- IDA_Benchmark_Repository
+url: http://mldata.org/repository/data/download/santa-fee-data-set-d/

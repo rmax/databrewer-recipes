@@ -1,0 +1,29 @@
+name: mldata-sonar
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/sonar/
+files:
+- filename: sonar.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/sonar/
+- filename: sonar.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/sonar/
+- filename: sonar.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/sonar/
+- filename: sonar.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/sonar/
+- filename: sonar.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/sonar/
+- filename: sonar.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/sonar/
+- filename: sonar.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/sonar/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

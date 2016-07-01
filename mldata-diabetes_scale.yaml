@@ -1,0 +1,29 @@
+name: mldata-diabetes_scale
+description: PIMA indian diabetes data (scaled to [-1,1])
+homepage: http://mldata.org/repository/data/viewslug/diabetes_scale/
+files:
+- filename: diabetes_scale.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/diabetes_scale/
+- filename: diabetes_scale.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/diabetes_scale/
+- filename: diabetes_scale.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/diabetes_scale/
+- filename: diabetes_scale.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/diabetes_scale/
+- filename: diabetes_scale.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/diabetes_scale/
+- filename: diabetes_scale.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/diabetes_scale/
+- filename: diabetes_scale.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/diabetes_scale/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

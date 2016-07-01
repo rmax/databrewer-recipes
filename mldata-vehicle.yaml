@@ -1,0 +1,29 @@
+name: mldata-vehicle
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/vehicle/
+files:
+- filename: vehicle.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/vehicle/
+- filename: vehicle.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/vehicle/
+- filename: vehicle.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/vehicle/
+- filename: vehicle.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/vehicle/
+- filename: vehicle.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/vehicle/
+- filename: vehicle.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/vehicle/
+- filename: vehicle.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/vehicle/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

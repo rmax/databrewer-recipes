@@ -1,0 +1,26 @@
+name: mldata-datasets-arie_ben_david-era
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-arie_ben_david-era/
+files:
+- filename: datasets-arie_ben_david-era.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-arie_ben_david-era/
+- filename: datasets-arie_ben_david-era.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-arie_ben_david-era/
+- filename: datasets-arie_ben_david-era.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-arie_ben_david-era/
+- filename: datasets-arie_ben_david-era.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-arie_ben_david-era/
+- filename: datasets-arie_ben_david-era.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-arie_ben_david-era/
+- filename: datasets-arie_ben_david-era.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-arie_ben_david-era/
+keywords:
+- arff
+- slurped
+- Weka

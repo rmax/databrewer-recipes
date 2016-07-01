@@ -1,0 +1,23 @@
+name: mldata-a3a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/a3a/
+files:
+- filename: a3a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/a3a/
+- filename: a3a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/a3a/
+- filename: a3a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/a3a/
+- filename: a3a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/a3a/
+- filename: a3a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/a3a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-servo
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-servo/
+files:
+- filename: regression-datasets-servo.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-servo/
+- filename: regression-datasets-servo.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-servo/
+- filename: regression-datasets-servo.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-servo/
+- filename: regression-datasets-servo.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-servo/
+- filename: regression-datasets-servo.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-servo/
+- filename: regression-datasets-servo.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-servo/
+keywords:
+- arff
+- slurped
+- Weka

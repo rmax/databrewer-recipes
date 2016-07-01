@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-fishcatch
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-fishcatch/
+files:
+- filename: datasets-numeric-fishcatch.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-fishcatch/
+- filename: datasets-numeric-fishcatch.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-fishcatch/
+- filename: datasets-numeric-fishcatch.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-fishcatch/
+- filename: datasets-numeric-fishcatch.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-fishcatch/
+- filename: datasets-numeric-fishcatch.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-fishcatch/
+- filename: datasets-numeric-fishcatch.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-fishcatch/
+keywords:
+- arff
+- slurped
+- Weka

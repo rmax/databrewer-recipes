@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-echomonths
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-echomonths/
+files:
+- filename: datasets-numeric-echomonths.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-echomonths/
+- filename: datasets-numeric-echomonths.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-echomonths/
+- filename: datasets-numeric-echomonths.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-echomonths/
+- filename: datasets-numeric-echomonths.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-echomonths/
+- filename: datasets-numeric-echomonths.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-echomonths/
+- filename: datasets-numeric-echomonths.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-echomonths/
+keywords:
+- arff
+- slurped
+- Weka

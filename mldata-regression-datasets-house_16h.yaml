@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-house_16h
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-house_16h/
+files:
+- filename: regression-datasets-house_16h.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-house_16h/
+- filename: regression-datasets-house_16h.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-house_16h/
+- filename: regression-datasets-house_16h.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-house_16h/
+- filename: regression-datasets-house_16h.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-house_16h/
+- filename: regression-datasets-house_16h.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-house_16h/
+- filename: regression-datasets-house_16h.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-house_16h/
+keywords:
+- arff
+- slurped
+- Weka

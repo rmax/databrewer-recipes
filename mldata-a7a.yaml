@@ -1,0 +1,23 @@
+name: mldata-a7a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/a7a/
+files:
+- filename: a7a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/a7a/
+- filename: a7a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/a7a/
+- filename: a7a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/a7a/
+- filename: a7a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/a7a/
+- filename: a7a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/a7a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

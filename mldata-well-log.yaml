@@ -1,0 +1,27 @@
+name: mldata-well-log
+description: Consists of 4050 nuclear magnetic resonance measurement taken from drill
+  while drilling a well.
+homepage: http://mldata.org/repository/data/viewslug/well-log/
+files:
+- filename: well-log.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/well-log/
+- filename: well-log.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/well-log/
+- filename: well-log.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/well-log/
+- filename: well-log.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/well-log/
+- filename: well-log.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/well-log/
+- filename: well-log.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/well-log/
+keywords:
+- change-point
+- geostatistics
+- time-series

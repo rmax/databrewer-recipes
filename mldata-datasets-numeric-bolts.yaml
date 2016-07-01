@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-bolts
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-bolts/
+files:
+- filename: datasets-numeric-bolts.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-bolts/
+- filename: datasets-numeric-bolts.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-bolts/
+- filename: datasets-numeric-bolts.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-bolts/
+- filename: datasets-numeric-bolts.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-bolts/
+- filename: datasets-numeric-bolts.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-bolts/
+- filename: datasets-numeric-bolts.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-bolts/
+keywords:
+- arff
+- slurped
+- Weka

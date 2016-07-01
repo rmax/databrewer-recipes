@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-sapa_7
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-sapa_7/
+files:
+- filename: statlib-20050214-sapa_7.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-sapa_7/
+- filename: statlib-20050214-sapa_7.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-sapa_7/
+- filename: statlib-20050214-sapa_7.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-sapa_7/
+- filename: statlib-20050214-sapa_7.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-sapa_7/
+- filename: statlib-20050214-sapa_7.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-sapa_7/
+- filename: statlib-20050214-sapa_7.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-sapa_7/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-housing
+description: UCI boston housing data
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-housing/
+files:
+- filename: regression-datasets-housing.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-housing/
+- filename: regression-datasets-housing.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-housing/
+- filename: regression-datasets-housing.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-housing/
+- filename: regression-datasets-housing.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-housing/
+- filename: regression-datasets-housing.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-housing/
+- filename: regression-datasets-housing.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-housing/
+keywords:
+- arff
+- slurped
+- Weka

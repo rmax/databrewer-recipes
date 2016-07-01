@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-pyrim
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-pyrim/
+files:
+- filename: regression-datasets-pyrim.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-pyrim/
+- filename: regression-datasets-pyrim.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-pyrim/
+- filename: regression-datasets-pyrim.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-pyrim/
+- filename: regression-datasets-pyrim.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-pyrim/
+- filename: regression-datasets-pyrim.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-pyrim/
+- filename: regression-datasets-pyrim.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-pyrim/
+keywords:
+- arff
+- slurped
+- Weka

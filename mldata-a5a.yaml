@@ -1,0 +1,23 @@
+name: mldata-a5a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/a5a/
+files:
+- filename: a5a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/a5a/
+- filename: a5a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/a5a/
+- filename: a5a.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/a5a/
+- filename: a5a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/a5a/
+- filename: a5a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/a5a/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

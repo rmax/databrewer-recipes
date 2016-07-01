@@ -1,0 +1,29 @@
+name: mldata-triazines
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/triazines/
+files:
+- filename: triazines.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/triazines/
+- filename: triazines.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/triazines/
+- filename: triazines.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/triazines/
+- filename: triazines.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/triazines/
+- filename: triazines.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/triazines/
+- filename: triazines.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/triazines/
+- filename: triazines.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/triazines/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

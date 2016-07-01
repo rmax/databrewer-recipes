@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-benzo32
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-benzo32/
+files:
+- filename: drug-datasets-benzo32.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-benzo32/
+- filename: drug-datasets-benzo32.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-benzo32/
+- filename: drug-datasets-benzo32.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-benzo32/
+- filename: drug-datasets-benzo32.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-benzo32/
+- filename: drug-datasets-benzo32.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-benzo32/
+- filename: drug-datasets-benzo32.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-benzo32/
+keywords:
+- arff
+- slurped
+- Weka

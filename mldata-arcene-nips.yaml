@@ -1,0 +1,7 @@
+name: mldata-arcene-nips
+description: NIPS 2003 Feature selection challenge
+homepage: http://mldata.org/repository/data/viewslug/arcene-nips/
+filename: arcene-nips.zip
+keywords:
+- Classification
+url: http://mldata.org/repository/data/download/arcene-nips/

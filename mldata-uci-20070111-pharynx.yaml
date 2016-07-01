@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-pharynx
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-pharynx/
+files:
+- filename: uci-20070111-pharynx.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-pharynx/
+- filename: uci-20070111-pharynx.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-pharynx/
+- filename: uci-20070111-pharynx.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-pharynx/
+- filename: uci-20070111-pharynx.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-pharynx/
+- filename: uci-20070111-pharynx.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-pharynx/
+- filename: uci-20070111-pharynx.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-pharynx/
+keywords:
+- arff
+- slurped
+- Weka

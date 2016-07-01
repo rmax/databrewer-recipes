@@ -1,0 +1,32 @@
+name: mldata-climate-model-simulation-crashes
+description: Given Latin hypercube samples of 18 climate model input parameter values,
+  predict climate model simulation crashes and determine the parameter value combinations
+  that cause the failures.
+homepage: http://mldata.org/repository/data/viewslug/climate-model-simulation-crashes/
+files:
+- filename: climate-model-simulation-crashes.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/climate-model-simulation-crashes/
+- filename: climate-model-simulation-crashes.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/climate-model-simulation-crashes/
+- filename: climate-model-simulation-crashes.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/climate-model-simulation-crashes/
+- filename: climate-model-simulation-crashes.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/climate-model-simulation-crashes/
+- filename: climate-model-simulation-crashes.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/climate-model-simulation-crashes/
+- filename: climate-model-simulation-crashes.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/climate-model-simulation-crashes/
+keywords:
+- Classification
+- climate-model
+- ensemble-learning
+- libsvm
+- sensitivity-analysis
+- simulation-crashes
+- UQ

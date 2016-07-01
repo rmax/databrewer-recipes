@@ -1,0 +1,8 @@
+name: mldata-mhc-affinity
+description: Binding affinity of MHC class I molecules
+homepage: http://mldata.org/repository/data/viewslug/mhc-affinity/
+filename: mhc-affinity.bz2
+keywords:
+- bioinformatics
+- mhc
+url: http://mldata.org/repository/data/download/mhc-affinity/

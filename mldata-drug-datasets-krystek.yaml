@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-krystek
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-krystek/
+files:
+- filename: drug-datasets-krystek.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-krystek/
+- filename: drug-datasets-krystek.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-krystek/
+- filename: drug-datasets-krystek.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-krystek/
+- filename: drug-datasets-krystek.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-krystek/
+- filename: drug-datasets-krystek.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-krystek/
+- filename: drug-datasets-krystek.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-krystek/
+keywords:
+- arff
+- slurped
+- Weka

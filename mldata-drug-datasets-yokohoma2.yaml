@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-yokohoma2
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-yokohoma2/
+files:
+- filename: drug-datasets-yokohoma2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-yokohoma2/
+- filename: drug-datasets-yokohoma2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-yokohoma2/
+- filename: drug-datasets-yokohoma2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-yokohoma2/
+- filename: drug-datasets-yokohoma2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-yokohoma2/
+- filename: drug-datasets-yokohoma2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-yokohoma2/
+- filename: drug-datasets-yokohoma2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-yokohoma2/
+keywords:
+- arff
+- slurped
+- Weka

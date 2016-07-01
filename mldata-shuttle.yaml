@@ -1,0 +1,29 @@
+name: mldata-shuttle
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/shuttle/
+files:
+- filename: shuttle.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/shuttle/
+- filename: shuttle.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/shuttle/
+- filename: shuttle.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/shuttle/
+- filename: shuttle.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/shuttle/
+- filename: shuttle.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/shuttle/
+- filename: shuttle.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/shuttle/
+- filename: shuttle.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/shuttle/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

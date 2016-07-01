@@ -1,0 +1,26 @@
+name: mldata-colon-cancer-kent-ridge
+description: Contains 62 samples collected from colon-cancer patients.
+homepage: http://mldata.org/repository/data/viewslug/colon-cancer-kent-ridge/
+files:
+- filename: colon-cancer-kent-ridge.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/colon-cancer-kent-ridge/
+- filename: colon-cancer-kent-ridge.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/colon-cancer-kent-ridge/
+- filename: colon-cancer-kent-ridge.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/colon-cancer-kent-ridge/
+- filename: colon-cancer-kent-ridge.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/colon-cancer-kent-ridge/
+- filename: colon-cancer-kent-ridge.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/colon-cancer-kent-ridge/
+- filename: colon-cancer-kent-ridge.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/colon-cancer-kent-ridge/
+keywords:
+- cancer
+- colon-cancer
+- Regression

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-vowel
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-vowel/
+files:
+- filename: datasets-uci-vowel.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-vowel/
+- filename: datasets-uci-vowel.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-vowel/
+- filename: datasets-uci-vowel.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-vowel/
+- filename: datasets-uci-vowel.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-vowel/
+- filename: datasets-uci-vowel.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-vowel/
+- filename: datasets-uci-vowel.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-vowel/
+keywords:
+- arff
+- slurped
+- Weka

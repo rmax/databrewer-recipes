@@ -1,0 +1,29 @@
+name: mldata-colon-cancer
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/colon-cancer/
+files:
+- filename: colon-cancer.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/colon-cancer/
+- filename: colon-cancer.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/colon-cancer/
+- filename: colon-cancer.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/colon-cancer/
+- filename: colon-cancer.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/colon-cancer/
+- filename: colon-cancer.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/colon-cancer/
+- filename: colon-cancer.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/colon-cancer/
+- filename: colon-cancer.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/colon-cancer/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-biomed
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-biomed/
+files:
+- filename: statlib-20050214-biomed.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-biomed/
+- filename: statlib-20050214-biomed.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-biomed/
+- filename: statlib-20050214-biomed.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-biomed/
+- filename: statlib-20050214-biomed.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-biomed/
+- filename: statlib-20050214-biomed.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-biomed/
+- filename: statlib-20050214-biomed.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-biomed/
+keywords:
+- arff
+- slurped
+- Weka

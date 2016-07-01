@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-penning
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-penning/
+files:
+- filename: drug-datasets-penning.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-penning/
+- filename: drug-datasets-penning.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-penning/
+- filename: drug-datasets-penning.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-penning/
+- filename: drug-datasets-penning.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-penning/
+- filename: drug-datasets-penning.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-penning/
+- filename: drug-datasets-penning.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-penning/
+keywords:
+- arff
+- slurped
+- Weka

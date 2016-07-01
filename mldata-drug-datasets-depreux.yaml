@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-depreux
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-depreux/
+files:
+- filename: drug-datasets-depreux.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-depreux/
+- filename: drug-datasets-depreux.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-depreux/
+- filename: drug-datasets-depreux.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-depreux/
+- filename: drug-datasets-depreux.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-depreux/
+- filename: drug-datasets-depreux.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-depreux/
+- filename: drug-datasets-depreux.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-depreux/
+keywords:
+- arff
+- slurped
+- Weka

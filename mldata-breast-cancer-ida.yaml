@@ -1,0 +1,27 @@
+name: mldata-breast-cancer-ida
+description: The breast cancer data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/breast-cancer-ida/
+files:
+- filename: breast-cancer-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/breast-cancer-ida/
+- filename: breast-cancer-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/breast-cancer-ida/
+- filename: breast-cancer-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/breast-cancer-ida/
+- filename: breast-cancer-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/breast-cancer-ida/
+- filename: breast-cancer-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/breast-cancer-ida/
+- filename: breast-cancer-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/breast-cancer-ida/
+- filename: breast-cancer-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/breast-cancer-ida/
+keywords:
+- IDA_Benchmark_Repository

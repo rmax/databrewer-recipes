@@ -1,0 +1,27 @@
+name: mldata-image-ida
+description: The Image data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/image-ida/
+files:
+- filename: image-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/image-ida/
+- filename: image-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/image-ida/
+- filename: image-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/image-ida/
+- filename: image-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/image-ida/
+- filename: image-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/image-ida/
+- filename: image-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/image-ida/
+- filename: image-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/image-ida/
+keywords:
+- IDA_Benchmark_Repository

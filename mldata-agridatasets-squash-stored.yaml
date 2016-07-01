@@ -1,0 +1,26 @@
+name: mldata-agridatasets-squash-stored
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/agridatasets-squash-stored/
+files:
+- filename: agridatasets-squash-stored.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/agridatasets-squash-stored/
+- filename: agridatasets-squash-stored.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/agridatasets-squash-stored/
+- filename: agridatasets-squash-stored.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/agridatasets-squash-stored/
+- filename: agridatasets-squash-stored.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/agridatasets-squash-stored/
+- filename: agridatasets-squash-stored.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/agridatasets-squash-stored/
+- filename: agridatasets-squash-stored.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/agridatasets-squash-stored/
+keywords:
+- arff
+- slurped
+- Weka

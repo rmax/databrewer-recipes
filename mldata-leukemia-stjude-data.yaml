@@ -1,0 +1,9 @@
+name: mldata-leukemia-stjude-data
+description: This study is about classifying subtypes of pediatric acute lymphoblastic
+  leukemia.
+homepage: http://mldata.org/repository/data/viewslug/leukemia-stjude-data/
+filename: leukemia-stjude-data.zip
+keywords:
+- Leukemia
+- stjude
+url: http://mldata.org/repository/data/download/leukemia-stjude-data/

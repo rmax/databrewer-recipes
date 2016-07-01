@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-prnn_cushings
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-prnn_cushings/
+files:
+- filename: statlib-20050214-prnn_cushings.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-prnn_cushings/
+- filename: statlib-20050214-prnn_cushings.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-prnn_cushings/
+- filename: statlib-20050214-prnn_cushings.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-prnn_cushings/
+- filename: statlib-20050214-prnn_cushings.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-prnn_cushings/
+- filename: statlib-20050214-prnn_cushings.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-prnn_cushings/
+- filename: statlib-20050214-prnn_cushings.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-prnn_cushings/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,26 @@
+name: mldata-agridatasets-white-clover
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/agridatasets-white-clover/
+files:
+- filename: agridatasets-white-clover.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/agridatasets-white-clover/
+- filename: agridatasets-white-clover.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/agridatasets-white-clover/
+- filename: agridatasets-white-clover.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/agridatasets-white-clover/
+- filename: agridatasets-white-clover.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/agridatasets-white-clover/
+- filename: agridatasets-white-clover.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/agridatasets-white-clover/
+- filename: agridatasets-white-clover.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/agridatasets-white-clover/
+keywords:
+- arff
+- slurped
+- Weka

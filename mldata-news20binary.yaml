@@ -1,0 +1,23 @@
+name: mldata-news20binary
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/news20binary/
+files:
+- filename: news20binary.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/news20binary/
+- filename: news20binary.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/news20binary/
+- filename: news20binary.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/news20binary/
+- filename: news20binary.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/news20binary/
+- filename: news20binary.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/news20binary/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-anneal
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-anneal/
+files:
+- filename: datasets-uci-anneal.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-anneal/
+- filename: datasets-uci-anneal.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-anneal/
+- filename: datasets-uci-anneal.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-anneal/
+- filename: datasets-uci-anneal.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-anneal/
+- filename: datasets-uci-anneal.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-anneal/
+- filename: datasets-uci-anneal.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-anneal/
+keywords:
+- arff
+- slurped
+- Weka

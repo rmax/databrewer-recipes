@@ -1,0 +1,26 @@
+name: mldata-regression-datasets-bank8fm
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/regression-datasets-bank8fm/
+files:
+- filename: regression-datasets-bank8fm.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/regression-datasets-bank8fm/
+- filename: regression-datasets-bank8fm.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/regression-datasets-bank8fm/
+- filename: regression-datasets-bank8fm.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/regression-datasets-bank8fm/
+- filename: regression-datasets-bank8fm.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/regression-datasets-bank8fm/
+- filename: regression-datasets-bank8fm.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/regression-datasets-bank8fm/
+- filename: regression-datasets-bank8fm.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/regression-datasets-bank8fm/
+keywords:
+- arff
+- slurped
+- Weka

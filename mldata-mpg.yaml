@@ -1,0 +1,29 @@
+name: mldata-mpg
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/mpg/
+files:
+- filename: mpg.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mpg/
+- filename: mpg.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mpg/
+- filename: mpg.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mpg/
+- filename: mpg.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mpg/
+- filename: mpg.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/mpg/
+- filename: mpg.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mpg/
+- filename: mpg.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mpg/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

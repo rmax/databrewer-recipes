@@ -1,0 +1,27 @@
+name: mldata-ovarian-cancer-nci-pbsii-data
+description: Ovarian cancer due to family or personal history of cancer
+homepage: http://mldata.org/repository/data/viewslug/ovarian-cancer-nci-pbsii-data/
+files:
+- filename: ovarian-cancer-nci-pbsii-data.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/ovarian-cancer-nci-pbsii-data/
+- filename: ovarian-cancer-nci-pbsii-data.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/ovarian-cancer-nci-pbsii-data/
+- filename: ovarian-cancer-nci-pbsii-data.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/ovarian-cancer-nci-pbsii-data/
+- filename: ovarian-cancer-nci-pbsii-data.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/ovarian-cancer-nci-pbsii-data/
+- filename: ovarian-cancer-nci-pbsii-data.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/ovarian-cancer-nci-pbsii-data/
+- filename: ovarian-cancer-nci-pbsii-data.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/ovarian-cancer-nci-pbsii-data/
+keywords:
+- cancer
+- genetic
+- history
+- ovarian

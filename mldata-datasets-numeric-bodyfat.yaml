@@ -1,0 +1,26 @@
+name: mldata-datasets-numeric-bodyfat
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-numeric-bodyfat/
+files:
+- filename: datasets-numeric-bodyfat.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-numeric-bodyfat/
+- filename: datasets-numeric-bodyfat.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-numeric-bodyfat/
+- filename: datasets-numeric-bodyfat.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-numeric-bodyfat/
+- filename: datasets-numeric-bodyfat.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-numeric-bodyfat/
+- filename: datasets-numeric-bodyfat.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-numeric-bodyfat/
+- filename: datasets-numeric-bodyfat.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-numeric-bodyfat/
+keywords:
+- arff
+- slurped
+- Weka

@@ -1,0 +1,24 @@
+name: mldata-mauna-loa-atmospheric-co2
+description: 'Atmospheric CO2 from Continuous Air Samples at Mauna Loa Observatory,
+  Hawaii, U.S.A.  Period of Record: March 1958 - December 2001'
+homepage: http://mldata.org/repository/data/viewslug/mauna-loa-atmospheric-co2/
+files:
+- filename: mauna-loa-atmospheric-co2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mauna-loa-atmospheric-co2/
+- filename: mauna-loa-atmospheric-co2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mauna-loa-atmospheric-co2/
+- filename: mauna-loa-atmospheric-co2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mauna-loa-atmospheric-co2/
+- filename: mauna-loa-atmospheric-co2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mauna-loa-atmospheric-co2/
+- filename: mauna-loa-atmospheric-co2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mauna-loa-atmospheric-co2/
+- filename: mauna-loa-atmospheric-co2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mauna-loa-atmospheric-co2/
+keywords: []

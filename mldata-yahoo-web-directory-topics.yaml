@@ -1,0 +1,27 @@
+name: mldata-yahoo-web-directory-topics
+description: Contains parsed webpages along with their topics extracted from Yahoo!
+  web directory
+homepage: http://mldata.org/repository/data/viewslug/yahoo-web-directory-topics/
+files:
+- filename: yahoo-web-directory-topics.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/yahoo-web-directory-topics/
+- filename: yahoo-web-directory-topics.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/yahoo-web-directory-topics/
+- filename: yahoo-web-directory-topics.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/yahoo-web-directory-topics/
+- filename: yahoo-web-directory-topics.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/yahoo-web-directory-topics/
+- filename: yahoo-web-directory-topics.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/yahoo-web-directory-topics/
+keywords:
+- bag-of-words
+- Classification
+- multi-class
+- text
+- web-pages
+- Yahoo!

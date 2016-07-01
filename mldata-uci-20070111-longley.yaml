@@ -1,0 +1,26 @@
+name: mldata-uci-20070111-longley
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-longley/
+files:
+- filename: uci-20070111-longley.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/uci-20070111-longley/
+- filename: uci-20070111-longley.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/uci-20070111-longley/
+- filename: uci-20070111-longley.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/uci-20070111-longley/
+- filename: uci-20070111-longley.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/uci-20070111-longley/
+- filename: uci-20070111-longley.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/uci-20070111-longley/
+- filename: uci-20070111-longley.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/uci-20070111-longley/
+keywords:
+- arff
+- slurped
+- Weka

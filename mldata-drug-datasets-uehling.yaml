@@ -1,0 +1,26 @@
+name: mldata-drug-datasets-uehling
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/drug-datasets-uehling/
+files:
+- filename: drug-datasets-uehling.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/drug-datasets-uehling/
+- filename: drug-datasets-uehling.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/drug-datasets-uehling/
+- filename: drug-datasets-uehling.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/drug-datasets-uehling/
+- filename: drug-datasets-uehling.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/drug-datasets-uehling/
+- filename: drug-datasets-uehling.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/drug-datasets-uehling/
+- filename: drug-datasets-uehling.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/drug-datasets-uehling/
+keywords:
+- arff
+- slurped
+- Weka

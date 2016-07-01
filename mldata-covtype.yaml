@@ -1,0 +1,23 @@
+name: mldata-covtype
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/covtype/
+files:
+- filename: covtype.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/covtype/
+- filename: covtype.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/covtype/
+- filename: covtype.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/covtype/
+- filename: covtype.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/covtype/
+- filename: covtype.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/covtype/
+keywords:
+- libsvm
+- LibSVMTools
+- slurped

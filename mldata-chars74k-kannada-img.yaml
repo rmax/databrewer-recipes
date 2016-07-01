@@ -1,0 +1,10 @@
+name: mldata-chars74k-kannada-img
+description: Images of Kannada characters cropped from street photos
+homepage: http://mldata.org/repository/data/viewslug/chars74k-kannada-img/
+filename: chars74k-kannada-img.tgz
+keywords:
+- character-recognition
+- computer-vision
+- Kannada
+- transfer-learning
+url: http://mldata.org/repository/data/download/chars74k-kannada-img/

@@ -1,0 +1,9 @@
+name: mldata-uci-20070111-spambase
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/uci-20070111-spambase/
+filename: uci-20070111-spambase.arff
+keywords:
+- arff
+- slurped
+- Weka
+url: http://mldata.org/repository/data/download/uci-20070111-spambase/

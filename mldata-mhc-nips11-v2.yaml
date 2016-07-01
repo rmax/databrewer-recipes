@@ -1,0 +1,27 @@
+name: mldata-mhc-nips11-v2
+description: Predicting binding affinity of MHC class I molecules. Subset in Krause,
+  Ong, "Contextual Gaussian Process Bandit Optimization", NIPS 2011
+homepage: http://mldata.org/repository/data/viewslug/mhc-nips11-v2/
+files:
+- filename: mhc-nips11-v2.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/mhc-nips11-v2/
+- filename: mhc-nips11-v2.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/mhc-nips11-v2/
+- filename: mhc-nips11-v2.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/mhc-nips11-v2/
+- filename: mhc-nips11-v2.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/mhc-nips11-v2/
+- filename: mhc-nips11-v2.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/mhc-nips11-v2/
+- filename: mhc-nips11-v2.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/mhc-nips11-v2/
+keywords:
+- bioinformatics
+- mhc
+- UCB

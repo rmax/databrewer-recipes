@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-sleuth_ex0329
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-sleuth_ex0329/
+files:
+- filename: statlib-20050214-sleuth_ex0329.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-sleuth_ex0329/
+- filename: statlib-20050214-sleuth_ex0329.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-sleuth_ex0329/
+- filename: statlib-20050214-sleuth_ex0329.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-sleuth_ex0329/
+- filename: statlib-20050214-sleuth_ex0329.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-sleuth_ex0329/
+- filename: statlib-20050214-sleuth_ex0329.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-sleuth_ex0329/
+- filename: statlib-20050214-sleuth_ex0329.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-sleuth_ex0329/
+keywords:
+- arff
+- slurped
+- Weka

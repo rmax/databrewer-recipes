@@ -1,0 +1,27 @@
+name: mldata-german-ida
+description: The German data set from the IDA Benchmark repository.
+homepage: http://mldata.org/repository/data/viewslug/german-ida/
+files:
+- filename: german-ida.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/german-ida/
+- filename: german-ida.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/german-ida/
+- filename: german-ida.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/german-ida/
+- filename: german-ida.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/german-ida/
+- filename: german-ida.libsvm
+  name: libsvm
+  url: http://mldata.org/repository/data/download/libsvm/german-ida/
+- filename: german-ida.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/german-ida/
+- filename: german-ida.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/german-ida/
+keywords:
+- IDA_Benchmark_Repository

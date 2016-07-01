@@ -1,0 +1,26 @@
+name: mldata-statlib-20050214-chscase_funds
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/statlib-20050214-chscase_funds/
+files:
+- filename: statlib-20050214-chscase_funds.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/statlib-20050214-chscase_funds/
+- filename: statlib-20050214-chscase_funds.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/statlib-20050214-chscase_funds/
+- filename: statlib-20050214-chscase_funds.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/statlib-20050214-chscase_funds/
+- filename: statlib-20050214-chscase_funds.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/statlib-20050214-chscase_funds/
+- filename: statlib-20050214-chscase_funds.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/statlib-20050214-chscase_funds/
+- filename: statlib-20050214-chscase_funds.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/statlib-20050214-chscase_funds/
+keywords:
+- arff
+- slurped
+- Weka

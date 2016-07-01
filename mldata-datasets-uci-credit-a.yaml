@@ -1,0 +1,26 @@
+name: mldata-datasets-uci-credit-a
+description: ''
+homepage: http://mldata.org/repository/data/viewslug/datasets-uci-credit-a/
+files:
+- filename: datasets-uci-credit-a.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/datasets-uci-credit-a/
+- filename: datasets-uci-credit-a.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/datasets-uci-credit-a/
+- filename: datasets-uci-credit-a.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/datasets-uci-credit-a/
+- filename: datasets-uci-credit-a.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/datasets-uci-credit-a/
+- filename: datasets-uci-credit-a.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/datasets-uci-credit-a/
+- filename: datasets-uci-credit-a.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/datasets-uci-credit-a/
+keywords:
+- arff
+- slurped
+- Weka

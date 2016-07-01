@@ -1,0 +1,8 @@
+name: mldata-chars74k-kannada-hnd
+description: Images and data files of Kannada characters drawn on a tablet PC
+homepage: http://mldata.org/repository/data/viewslug/chars74k-kannada-hnd/
+filename: chars74k-kannada-hnd.tgz
+keywords:
+- character-recognition
+- computer-vision
+url: http://mldata.org/repository/data/download/chars74k-kannada-hnd/

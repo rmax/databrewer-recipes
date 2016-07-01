@@ -1,0 +1,26 @@
+name: mldata-industry-portfolio
+description: Historical stock market data
+homepage: http://mldata.org/repository/data/viewslug/industry-portfolio/
+files:
+- filename: industry-portfolio.hdf5
+  name: hdf5
+  url: http://mldata.org/repository/data/download/industry-portfolio/
+- filename: industry-portfolio.xml
+  name: xml
+  url: http://mldata.org/repository/data/download/xml/industry-portfolio/
+- filename: industry-portfolio.csv
+  name: csv
+  url: http://mldata.org/repository/data/download/csv/industry-portfolio/
+- filename: industry-portfolio.arff
+  name: arff
+  url: http://mldata.org/repository/data/download/arff/industry-portfolio/
+- filename: industry-portfolio.matlab
+  name: matlab
+  url: http://mldata.org/repository/data/download/matlab/industry-portfolio/
+- filename: industry-portfolio.octave
+  name: octave
+  url: http://mldata.org/repository/data/download/octave/industry-portfolio/
+keywords:
+- econometrics
+- finance
+- time-series
