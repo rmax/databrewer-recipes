@@ -48,6 +48,7 @@ RECIPE_SCHEMA = {
         "name": {"type": "string"},
         "description": {"type": "string"},
         "homepage": {"type": "string"},
+        "required": {"type": "boolean"},
     },
     "required": ["name", "description", "homepage"],
     "oneOf": [
