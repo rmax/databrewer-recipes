@@ -1,0 +1,8 @@
+name: uci-student-performance
+description: Predict student performance in secondary education (high school).
+homepage: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip

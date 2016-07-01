@@ -1,0 +1,9 @@
+name: uci-bike-sharing-dataset
+description: This dataset contains the hourly and daily count of rental bikes between
+  years 2011 and 2012 in Capital bikeshare system with the corresponding weather and
+  seasonal information.
+homepage: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+keywords:
+- Univariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip

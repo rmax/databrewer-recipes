@@ -1,0 +1,12 @@
+name: uci-ujiindoorloc-mag
+description: The UJIIndoorLoc-Mag is an indoor localization database to test Indoor
+  Positioning System that rely on Earth's magnetic field variations.
+homepage: https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00343/UJIIndoorLoc-Mag-forUCI.zip

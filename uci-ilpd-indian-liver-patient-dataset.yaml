@@ -1,0 +1,8 @@
+name: uci-ilpd-indian-liver-patient-dataset
+description: This data set contains 10 variables that are age, gender, total Bilirubin,
+  direct Bilirubin, total proteins, albumin, A/G ratio, SGPT, SGOT and Alkphos.
+homepage: https://archive.ics.uci.edu/ml/datasets/ILPD+(Indian+Liver+Patient+Dataset)
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00225/Indian%20Liver%20Patient%20Dataset%20(ILPD).csv

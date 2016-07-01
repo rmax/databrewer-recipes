@@ -1,0 +1,11 @@
+name: uci-wine
+description: Using chemical analysis determine the origin of wines
+homepage: https://archive.ics.uci.edu/ml/datasets/Wine
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.names
+keywords:
+- Multivariate
+- Classification

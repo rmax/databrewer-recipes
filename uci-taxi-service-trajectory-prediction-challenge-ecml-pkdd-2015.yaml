@@ -1,0 +1,18 @@
+name: uci-taxi-service-trajectory-prediction-challenge-ecml-pkdd-2015
+description: An accurate dataset describing trajectories performed by all the 442
+  taxis running in the city of Porto, in Portugal.
+homepage: https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015
+files:
+- name: porto-taxi-data-test-partial-trajectories-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00339/Porto_taxi_data_test_partial_trajectories.csv
+- name: solution-fixed-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00339/solution_fixed.csv
+- name: train-csv-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00339/train.csv.zip
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Domain-Theory
+- Clustering
+- Causal-Discovery

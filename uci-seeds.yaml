@@ -1,0 +1,10 @@
+name: uci-seeds
+description: Measurements of geometrical properties of kernels belonging to three
+  different varieties of wheat. A soft X-ray technique and GRAINS package were used
+  to construct all seven, real-valued attributes.
+homepage: https://archive.ics.uci.edu/ml/datasets/seeds
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00236/seeds_dataset.txt

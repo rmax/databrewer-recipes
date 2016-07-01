@@ -1,0 +1,14 @@
+name: uci-abscisic-acid-signaling-network
+description: The objective is to determine the set of boolean rules that describe
+  the interactions of the nodes within this plant signaling network.  The dataset
+  includes 300 separate boolean pseudodynamic simulations using an asynchronous update
+  scheme.
+homepage: https://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/abscisic-acid/plantCellSignaling.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/abscisic-acid/plantCellSignaling.names
+keywords:
+- Multivariate
+- Causal-Discovery

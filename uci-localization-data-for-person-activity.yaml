@@ -1,0 +1,14 @@
+name: uci-localization-data-for-person-activity
+description: Data contains recordings of five people performing different activities.
+  Each person wore four sensors (tags) while performing the same scenario five times.
+homepage: https://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity
+files:
+- name: conflongdemo-jsi-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00196/ConfLongDemo_JSI.txt
+- name: datasetdescription-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00196/dataSetDescription.names
+keywords:
+- Univariate
+- Sequential
+- Time-Series
+- Classification

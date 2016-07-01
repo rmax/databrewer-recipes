@@ -1,0 +1,11 @@
+name: uci-nysk
+description: NYSK (New York v. Strauss-Kahn) is a collection of English news articles
+  about the case relating to allegations of sexual assault against the former IMF
+  director Dominique Strauss-Kahn (May 2011).
+homepage: https://archive.ics.uci.edu/ml/datasets/NYSK
+keywords:
+- Multivariate
+- Sequential
+- Text
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00260/nysk.xml.zip

@@ -1,0 +1,12 @@
+name: uci-connect-4
+description: Contains connect-4 positions
+homepage: https://archive.ics.uci.edu/ml/datasets/Connect-4
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/connect-4.data.Z
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/connect-4.names
+keywords:
+- Multivariate
+- Spatial
+- Classification

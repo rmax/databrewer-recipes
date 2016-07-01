@@ -1,0 +1,8 @@
+name: uci-electricityloaddiagrams20112014
+description: This data set contains electricity consumption of 370 points/clients.
+homepage: https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
+keywords:
+- Time-Series
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00321/LD2011_2014.txt.zip

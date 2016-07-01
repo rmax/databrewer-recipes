@@ -1,0 +1,12 @@
+name: uci-kegg-metabolic-relation-network-directed
+description: KEGG Metabolic pathways modeled as directed relation network. Variety
+  of graphical features presented.
+homepage: https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+(Directed)
+keywords:
+- Multivariate
+- Univariate
+- Text
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00220/Relation%20Network%20(Directed).data

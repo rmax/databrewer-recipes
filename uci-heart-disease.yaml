@@ -1,0 +1,49 @@
+name: uci-heart-disease
+description: '4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach'
+homepage: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+files:
+- name: warning
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/WARNING
+- name: ask-detrano
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ask-detrano
+- name: bak
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/bak
+- name: cleve-mod
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/cleve.mod
+- name: cleveland-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/cleveland.data
+- name: heart-disease-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/heart-disease.names
+- name: hungarian-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/hungarian.data
+- name: long-beach-va-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/long-beach-va.data
+- name: new-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/new.data
+- name: processed-cleveland-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+- name: processed-hungarian-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.hungarian.data
+- name: processed-switzerland-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.switzerland.data
+- name: processed-va-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.va.data
+- name: reprocessed-hungarian-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/reprocessed.hungarian.data
+- name: switzerland-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/switzerland.data
+- files:
+  - name: readme
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/heart-disease.README
+  - name: cost
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/heart-disease.cost
+  - name: delay
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/heart-disease.delay
+  - name: expense
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/heart-disease.expense
+  - name: group
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/heart-disease.group
+  name: costs
+keywords:
+- Multivariate
+- Classification

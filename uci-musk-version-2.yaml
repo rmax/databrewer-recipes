@@ -1,0 +1,20 @@
+name: uci-musk-version-2
+description: The goal is to learn to predict whether new molecules will be musks or
+  non-musks
+homepage: https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2)
+files:
+- name: clean1-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean1.data.Z
+- name: clean1-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean1.info
+- name: clean1-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean1.names
+- name: clean2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean2.data.Z
+- name: clean2-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean2.info
+- name: clean2-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/musk/clean2.names
+keywords:
+- Multivariate
+- Classification

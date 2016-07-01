@@ -1,0 +1,25 @@
+name: uci-libras-movement
+description: "The data set contains 15 classes of 24 instances each. Each class references\
+  \ to a hand movement type in LIBRAS (Portuguese\r\nname 'L\xCDngua BRAsileira de\
+  \ Sinais', oficial brazilian signal language)."
+homepage: https://archive.ics.uci.edu/ml/datasets/Libras+Movement
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras.names
+- name: 1-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras_1.data
+- name: 5-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras_5.data
+- name: 8-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras_8.data
+- name: 9-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras_9.data
+- name: 10-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/libras/movement_libras_10.data
+keywords:
+- Multivariate
+- Sequential
+- Classification
+- Clustering

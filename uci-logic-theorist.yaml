@@ -1,0 +1,10 @@
+name: uci-logic-theorist
+description: All code for Logic Theorist
+homepage: https://archive.ics.uci.edu/ml/datasets/Logic+Theorist
+files:
+- name: readme
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/ReadMe
+- name: ltnotes
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/ltnotes
+keywords:
+- Domain-Theory

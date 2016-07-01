@@ -1,0 +1,17 @@
+name: uci-low-resolution-spectrometer
+description: From IRAS data -- NASA Ames Research Center
+homepage: https://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer
+files:
+- name: gennari-message
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/gennari-message
+- name: lrs-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/lrs.data
+- name: lrs-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/lrs.names
+- name: original-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/original.data.Z
+- name: original-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/original.names
+keywords:
+- Multivariate
+- Classification

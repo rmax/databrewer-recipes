@@ -1,0 +1,14 @@
+name: uci-turkiye-student-evaluation
+description: This data set contains a total 5820 evaluation scores provided by students
+  from Gazi University in Ankara (Turkey). There is a total of 28 course specific
+  questions and additional 5 attributes.
+homepage: https://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation
+files:
+- name: r-specific-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00262/turkiye-student-evaluation_R_Specific.csv
+- name: generic-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00262/turkiye-student-evaluation_generic.csv
+keywords:
+- Multivariate
+- Classification
+- Clustering

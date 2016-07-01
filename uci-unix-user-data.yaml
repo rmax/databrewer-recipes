@@ -1,0 +1,12 @@
+name: uci-unix-user-data
+description: This file contains 9 sets of sanitized user data drawn from the command
+  histories of 8 UNIX computer users at Purdue over the course of up to 2 years.
+homepage: https://archive.ics.uci.edu/ml/datasets/UNIX+User+Data
+files:
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/UNIX_user_data-mld/UNIX_user_data.html
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/UNIX_user_data-mld/UNIX_user_data.tar.gz
+keywords:
+- Text
+- Sequential

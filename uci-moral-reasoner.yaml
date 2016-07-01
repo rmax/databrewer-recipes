@@ -1,0 +1,13 @@
+name: uci-moral-reasoner
+description: Horn-clause model that qualitatively simulates moral reasoning; Theory
+  includes negated literals
+homepage: https://archive.ics.uci.edu/ml/datasets/Moral+Reasoner
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/moral-reasoner/moral.data
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/moral-reasoner/moral.info
+- name: theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/moral-reasoner/moral.theory
+keywords:
+- Domain-Theory

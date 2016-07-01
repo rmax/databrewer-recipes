@@ -1,0 +1,14 @@
+name: uci-pamap2-physical-activity-monitoring
+description: The PAMAP2 Physical Activity Monitoring dataset contains data of 18 different
+  physical activities, performed by 9 subjects wearing 3 inertial measurement units
+  and a heart rate monitor.
+homepage: https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
+files:
+- name: pamap2-dataset-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00231/PAMAP2_Dataset.zip
+- name: readme-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00231/readme.pdf
+keywords:
+- Multivariate
+- Time-Series
+- Classification

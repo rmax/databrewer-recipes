@@ -1,0 +1,17 @@
+name: uci-led-display-domain
+description: From Classification and Regression Trees book; We provide here 2 C programs
+  for generating sample databases
+homepage: https://archive.ics.uci.edu/ml/datasets/LED+Display+Domain
+files:
+- name: led-creator-17
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/led-creator-+17.c
+- name: led-creator-17-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/led-creator-+17.names
+- name: led-creator
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/led-creator.c
+- name: led-creator-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/led-creator.names
+keywords:
+- Multivariate
+- Data-Generator
+- Classification

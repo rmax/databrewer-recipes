@@ -1,0 +1,9 @@
+name: uci-wholesale-customers
+description: The data set refers to clients of a wholesale distributor. It includes
+  the annual spending in monetary units (m.u.) on diverse product categories
+homepage: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00292/Wholesale%20customers%20data.csv

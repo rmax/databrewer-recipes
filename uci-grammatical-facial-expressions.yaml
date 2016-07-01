@@ -1,0 +1,10 @@
+name: uci-grammatical-facial-expressions
+description: This dataset supports the development of models that make possible to
+  interpret Grammatical Facial Expressions from Brazilian Sign Language (Libras).
+homepage: https://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions
+keywords:
+- Multivariate
+- Sequential
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00317/grammatical_facial_expression.zip

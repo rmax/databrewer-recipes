@@ -1,0 +1,8 @@
+name: uci-icu
+description: Data set prepared for the use of participants for the 1994 AAAI Spring
+  Symposium on Artificial Intelligence in Medicine.
+homepage: https://archive.ics.uci.edu/ml/datasets/ICU
+keywords:
+- Multivariate
+- Time-Series
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/icu/icu-data.tar.Z

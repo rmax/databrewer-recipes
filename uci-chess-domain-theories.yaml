@@ -1,0 +1,22 @@
+name: uci-chess-domain-theories
+description: 6 different domain theories for generating legal moves of chess
+homepage: https://archive.ics.uci.edu/ml/datasets/Chess+(Domain+Theories)
+files:
+- name: chess-flann-new
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_flann_new
+- name: chess-flann-wyl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_flann_wyl
+- name: chess-russell-wyl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_russell_wyl
+- name: chess-vijay-1
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_vijay_1
+- name: chess-vijay-2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_vijay_2
+- name: chess-vijay-3
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/chess_vijay_3
+- name: support-code
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/support_code
+- name: test-domain-theories
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/test_domain_theories
+keywords:
+- Domain-Theory

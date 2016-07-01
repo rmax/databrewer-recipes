@@ -1,0 +1,11 @@
+name: uci-tennis-major-tournament-match-statistics
+description: This is a collection of 8 files containing the match statistics for both
+  women and men at the four major tennis tournaments of the year 2013. Each file has
+  42 columns and a minimum of 76 rows.
+homepage: https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics
+keywords:
+- Multivariate
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00300/Tennis-Major-Tournaments-Match-Statistics.zip

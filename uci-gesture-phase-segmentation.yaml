@@ -1,0 +1,12 @@
+name: uci-gesture-phase-segmentation
+description: The dataset is composed by features extracted from 7 videos with people
+  gesticulating, aiming at studying Gesture Phase Segmentation. It contains 50 attributes
+  divided into two files for each video.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00302/gesture_phase_dataset.zip

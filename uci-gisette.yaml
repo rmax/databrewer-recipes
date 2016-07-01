@@ -1,0 +1,23 @@
+name: uci-gisette
+description: GISETTE is a handwritten digit recognition problem. The problem is to
+  separate the highly confusible digits '4' and '9'. This dataset is one of five datasets
+  of the NIPS 2003 feature selection challenge.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gisette
+files:
+- name: dataset-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/Dataset.pdf
+- name: gisette-valid-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/gisette_valid.labels
+- name: param
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/gisette.param
+- name: test-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/gisette_test.data
+- name: train-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/gisette_train.data
+- name: train-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/gisette_train.labels
+- name: valid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/GISETTE/gisette_valid.data
+keywords:
+- Multivariate
+- Classification

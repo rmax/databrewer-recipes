@@ -1,0 +1,12 @@
+name: uci-lymphography
+description: This lymphography domain was obtained from the University Medical Centre,
+  Institute of Oncology, Ljubljana, Yugoslavia.  (Restricted access)
+homepage: https://archive.ics.uci.edu/ml/datasets/Lymphography
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lymphography/lymphography-data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lymphography/lymphography.names
+keywords:
+- Multivariate
+- Classification

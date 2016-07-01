@@ -1,0 +1,10 @@
+name: uci-parkinson-speech-dataset-with-multiple-types-of-sound-recordings
+description: The training data belongs to 20 Parkinson's Disease (PD) patients and
+  20 healthy subjects. From all subjects, multiple types of sound recordings (26)
+  are taken.
+homepage: https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00301/Parkinson_Multiple_Sound_Recording_Data.rar

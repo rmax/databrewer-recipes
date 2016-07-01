@@ -1,0 +1,9 @@
+name: uci-ujiindoorloc
+description: The UJIIndoorLoc is a Multi-Building Multi-Floor indoor localization
+  database to test Indoor Positioning System that rely on WLAN/WiFi fingerprint.
+homepage: https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip

@@ -1,0 +1,16 @@
+name: uci-adult
+description: Predict whether income exceeds $50K/yr based on census data.  Also known
+  as "Census Income" dataset.
+homepage: https://archive.ics.uci.edu/ml/datasets/Adult
+files:
+- name: adult-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+- name: adult-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
+- name: adult-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
+- name: old-adult-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/old.adult.names
+keywords:
+- Multivariate
+- Classification

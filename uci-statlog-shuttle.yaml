@@ -1,0 +1,14 @@
+name: uci-statlog-shuttle
+description: The shuttle dataset contains 9 attributes all of which are numerical.
+  Approximately 80% of the data belongs to class 1
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)
+files:
+- name: doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/shuttle/shuttle.doc
+- name: trn
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/shuttle/shuttle.trn.Z
+- name: tst
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/shuttle/shuttle.tst
+keywords:
+- Multivariate
+- Classification

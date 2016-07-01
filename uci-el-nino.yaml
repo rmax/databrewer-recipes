@@ -1,0 +1,21 @@
+name: uci-el-nino
+description: The data set contains oceanographic and surface meteorological readings
+  taken from a series of buoys positioned throughout the equatorial Pacific.
+homepage: https://archive.ics.uci.edu/ml/datasets/El+Nino
+files:
+- name: el-nino-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/el_nino.data.html
+- name: el-nino-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/el_nino.html
+- name: elnino-col
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/elnino.col
+- name: elnino
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/elnino.gz
+- name: tao-all2-col
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/tao-all2.col
+- name: tao-all2-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/tao-all2.dat.gz
+- name: tao-all2-missing
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/tao-all2.missing.gz
+keywords:
+- Spatio-temporal

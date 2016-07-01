@@ -1,0 +1,28 @@
+name: uci-insurance-company-benchmark-coil-2000
+description: This data set used in the CoIL 2000 Challenge contains information on
+  customers of an insurance company. The data consists of 86 variables and includes
+  product usage data and socio-demographic data
+homepage: https://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+(COIL+2000)
+files:
+- name: ticdatadescr-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/TicDataDescr.txt
+- name: dictionary-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/dictionary.txt
+- name: tic-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tic.data.html
+- name: tic-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tic.html
+- name: tic-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tic.tar.gz
+- name: tic-task-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tic.task.html
+- name: ticdata2000-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/ticdata2000.txt
+- name: ticeval2000-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/ticeval2000.txt
+- name: tictgts2000-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tictgts2000.txt
+keywords:
+- Multivariate
+- Regression
+- Description

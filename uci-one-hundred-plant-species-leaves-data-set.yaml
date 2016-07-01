@@ -1,0 +1,7 @@
+name: uci-one-hundred-plant-species-leaves-data-set
+description: Sixteen samples of leaf each of one-hundred plant species. For each sample,
+  a shape descriptor, fine scale margin and texture histogram are given.
+homepage: https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set
+keywords:
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00241/100%20leaves%20plant%20species.zip

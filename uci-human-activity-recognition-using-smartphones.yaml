@@ -1,0 +1,15 @@
+name: uci-human-activity-recognition-using-smartphones
+description: Human Activity Recognition database built from the recordings of 30 subjects
+  performing activities of daily living (ADL) while carrying a waist-mounted smartphone
+  with embedded inertial sensors.
+homepage: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+- name: zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Clustering

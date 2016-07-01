@@ -1,0 +1,13 @@
+name: uci-educational-process-mining-epm-a-learning-analytics-data-set
+description: Educational Process Mining data set is built from the recordings of 115
+  subjects' activities through a logging application while learning with an educational
+  simulator.
+homepage: https://archive.ics.uci.edu/ml/datasets/Educational+Process+Mining+(EPM):+A+Learning+Analytics+Data+Set
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00346/EPMDataset%20.zip

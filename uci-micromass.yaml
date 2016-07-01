@@ -1,0 +1,14 @@
+name: uci-micromass
+description: A dataset to explore machine learning approaches for the identification
+  of microorganisms from mass-spectrometry data.
+homepage: https://archive.ics.uci.edu/ml/datasets/MicroMass
+files:
+- name: micromass-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00253/micromass.zip
+- name: micromass-un-anonymized-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00253/micromass_un_anonymized.zip
+- name: pure-spectra-taxonomy-png
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00253/pure_spectra_taxonomy.png
+keywords:
+- Multivariate
+- Classification

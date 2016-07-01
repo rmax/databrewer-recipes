@@ -1,0 +1,12 @@
+name: uci-teaching-assistant-evaluation
+description: The data consist of evaluations of teaching performance; scores are "low",
+  "medium", or "high"
+homepage: https://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tae/tae.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tae/tae.names
+keywords:
+- Multivariate
+- Classification

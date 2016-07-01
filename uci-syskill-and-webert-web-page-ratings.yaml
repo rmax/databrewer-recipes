@@ -1,0 +1,18 @@
+name: uci-syskill-and-webert-web-page-ratings
+description: This database contains HTML source of web pages plus the ratings of a
+  single user on these web pages. Web pages are on four seperate subjects (Bands-
+  recording artists; Goats; Sheep; and BioMedical)
+homepage: https://archive.ics.uci.edu/ml/datasets/Syskill+and+Webert+Web+Page+Ratings
+files:
+- name: data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.data.html
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.html
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.tar.gz
+- name: task-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.task.html
+keywords:
+- Multivariate
+- Text
+- Classification

@@ -1,0 +1,21 @@
+name: uci-pioneer-1-mobile-robot-data
+description: This dataset contains time series sensor readings of the Pioneer-1 mobile
+  robot. The data is broken into "experiences" in which the robot takes action for
+  some period of time and experiences a control
+homepage: https://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Data
+files:
+- name: gripper-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/gripper.data.gz
+- name: move-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/move.data.gz
+- name: pioneer-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/pioneer.data.html
+- name: pioneer-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/pioneer.html
+- name: pioneer-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/pioneer.names
+- name: turn-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/turn.data.gz
+keywords:
+- Multivariate
+- Time-Series

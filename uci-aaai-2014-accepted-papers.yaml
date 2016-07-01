@@ -1,0 +1,9 @@
+name: uci-aaai-2014-accepted-papers
+description: This data set compromises the metadata for the 2014 AAAI conference's
+  accepted papers, including paper titles, authors, abstracts, and keywords of varying
+  granularity.
+homepage: https://archive.ics.uci.edu/ml/datasets/AAAI+2014+Accepted+Papers
+keywords:
+- Multivariate
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00307/%5bUCI%5d%20AAAI-14%20Accepted%20Papers%20-%20Papers.csv

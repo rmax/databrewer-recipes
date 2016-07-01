@@ -1,0 +1,13 @@
+name: uci-automobile
+description: From 1985 Ward's Automotive Yearbook
+homepage: https://archive.ics.uci.edu/ml/datasets/Automobile
+files:
+- name: imports-85-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
+- name: imports-85-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names
+- name: misc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/misc
+keywords:
+- Multivariate
+- Regression

@@ -1,0 +1,20 @@
+name: uci-labor-relations
+description: From Collective Bargaining Review
+homepage: https://archive.ics.uci.edu/ml/datasets/Labor+Relations
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/labor-negotiations.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/labor-negotiations.names
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/labor-negotiations.test
+- files:
+  - name: data
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/C4.5/labor-neg.data
+  - name: names
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/C4.5/labor-neg.names
+  - name: test
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/C4.5/labor-neg.test
+  name: c4.5
+keywords:
+- Multivariate

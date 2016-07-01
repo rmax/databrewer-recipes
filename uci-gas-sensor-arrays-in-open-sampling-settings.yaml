@@ -1,0 +1,10 @@
+name: uci-gas-sensor-arrays-in-open-sampling-settings
+description: The dataset contains 18000 time-series recordings from a chemical detection
+  platform at six different locations in a wind tunnel facility in response to ten
+  high-priority chemical gaseous substances
+homepage: https://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00251/WTD_upload.zip

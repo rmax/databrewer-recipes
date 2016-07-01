@@ -1,0 +1,10 @@
+name: uci-smartphone-based-recognition-of-human-activities-and-postural-transitions
+description: Activity recognition data set built from the recordings of 30 subjects
+  performing basic activities and postural transitions while carrying a waist-mounted
+  smartphone with embedded inertial sensors.
+homepage: https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00341/HAPT%20Data%20Set.zip

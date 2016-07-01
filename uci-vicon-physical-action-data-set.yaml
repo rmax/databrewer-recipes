@@ -1,0 +1,9 @@
+name: uci-vicon-physical-action-data-set
+description: The Physical Action Data Set includes 10 normal and 10 aggressive physical
+  actions that measure the human activity. The data have been collected by 10 subjects
+  using the Vicon 3D tracker.
+homepage: https://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set
+keywords:
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00214/Vicon%20Physical%20Action%20Data%20Set.rar

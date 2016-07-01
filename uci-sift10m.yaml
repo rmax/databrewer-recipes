@@ -1,0 +1,9 @@
+name: uci-sift10m
+description: In SIFT10M, each data point is a SIFT feature which is extracted from
+  Caltech-256 by the open source VLFeat library. The corresponding patches of the
+  SIFT features are provided.
+homepage: https://archive.ics.uci.edu/ml/datasets/SIFT10M
+keywords:
+- Multivariate
+- Causal-Discovery
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00353/SIFT10M.tar.gz

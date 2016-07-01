@@ -1,0 +1,8 @@
+name: uci-cardiotocography
+description: The dataset consists of measurements of fetal heart rate (FHR) and uterine
+  contraction (UC) features on cardiotocograms classified by expert obstetricians.
+homepage: https://archive.ics.uci.edu/ml/datasets/Cardiotocography
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00193/CTG.xls

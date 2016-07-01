@@ -1,0 +1,11 @@
+name: uci-activities-of-daily-living-adls-recognition-using-binary-sensors
+description: "This dataset comprises information regarding the ADLs performed by two\
+  \ users on a daily basis in their \r\nown homes."
+homepage: https://archive.ics.uci.edu/ml/datasets/Activities+of+Daily+Living+(ADLs)+Recognition+Using+Binary+Sensors
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00271/UCI%20ADL%20Binary%20Dataset.zip

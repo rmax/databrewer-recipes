@@ -1,0 +1,12 @@
+name: uci-folio
+description: 20 photos of leaves for each of 32 different species.
+homepage: https://archive.ics.uci.edu/ml/datasets/Folio
+files:
+- name: folio-leaf-dataset-rar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00338/Folio%20Leaf%20Dataset.rar
+- name: plants-list-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00338/Plants%20list.pdf
+keywords:
+- Multivariate
+- Classification
+- Clustering

@@ -1,0 +1,12 @@
+name: uci-cylinder-bands
+description: Used in decision tree induction for mitigating process delays known as
+  "cylinder bands" in rotogravure printing
+homepage: https://archive.ics.uci.edu/ml/datasets/Cylinder+Bands
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/cylinder-bands/bands.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/cylinder-bands/bands.names
+keywords:
+- Multivariate
+- Classification

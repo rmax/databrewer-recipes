@@ -1,0 +1,17 @@
+name: uci-volcanoes-on-venus-jartool-experiment
+description: The JARtool project was a pioneering effort to develop an automatic system
+  for cataloging small volcanoes in the large set of Venus images returned by the
+  Magellan spacecraft.
+homepage: https://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment
+files:
+- name: uci-form-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/uci_form.txt
+- name: volcanoes-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.data.html
+- name: volcanoes-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.html
+- name: volcanoes-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.tar.gz
+keywords:
+- Image
+- Classification

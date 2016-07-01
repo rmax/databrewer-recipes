@@ -1,0 +1,13 @@
+name: uci-bank-marketing
+description: The data is related with direct marketing campaigns (phone calls) of
+  a Portuguese banking institution. The classification goal is to predict if the client
+  will subscribe a term deposit (variable y).
+homepage: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+files:
+- name: additional-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip
+- name: zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,9 @@
+name: uci-wilt
+description: High-resolution Remote Sensing data set (Quickbird). Small number of
+  training samples of diseased trees, large number for other land cover. Testing data
+  set from stratified random sample of image.
+homepage: https://archive.ics.uci.edu/ml/datasets/Wilt
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00285/wilt.zip

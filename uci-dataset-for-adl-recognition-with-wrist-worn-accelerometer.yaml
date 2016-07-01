@@ -1,0 +1,10 @@
+name: uci-dataset-for-adl-recognition-with-wrist-worn-accelerometer
+description: Recordings of 16 volunteers performing 14 Activities of Daily Living
+  (ADL) while carrying a single wrist-worn tri-axial accelerometer.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00283/ADL_Dataset.zip

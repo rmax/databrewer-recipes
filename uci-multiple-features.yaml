@@ -1,0 +1,24 @@
+name: uci-multiple-features
+description: This dataset consists of features of handwritten numerals (`0'--`9')
+  extracted from a collection of Dutch utility maps
+homepage: https://archive.ics.uci.edu/ml/datasets/Multiple+Features
+files:
+- name: fac
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-fac
+- name: fou
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-fou
+- name: kar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-kar
+- name: mor
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-mor
+- name: pix
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-pix
+- name: zer
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat-zer
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat.info
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/mfeat.tar
+keywords:
+- Multivariate
+- Classification

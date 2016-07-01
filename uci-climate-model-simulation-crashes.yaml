@@ -1,0 +1,9 @@
+name: uci-climate-model-simulation-crashes
+description: Given Latin hypercube samples of 18 climate model input parameter values,
+  predict climate model simulation crashes and determine the parameter value combinations
+  that cause the failures.
+homepage: https://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00252/pop_failures.dat

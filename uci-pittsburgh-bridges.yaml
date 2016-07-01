@@ -1,0 +1,13 @@
+name: uci-pittsburgh-bridges
+description: Bridges database that has original and numeric-discretized datasets
+homepage: https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges
+files:
+- name: data-version1
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.data.version1
+- name: data-version2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.data.version2
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.names
+keywords:
+- Multivariate
+- Classification

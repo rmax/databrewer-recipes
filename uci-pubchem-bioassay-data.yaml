@@ -1,0 +1,9 @@
+name: uci-pubchem-bioassay-data
+description: These highly imbalanced bioassay datasets are from the differing types
+  of screening that can be performed using HTS technology. 21 datasets were created
+  from 12 bioassays.
+homepage: https://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00209/Schierz_Bioassay.zip

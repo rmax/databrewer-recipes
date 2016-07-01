@@ -1,0 +1,8 @@
+name: uci-combined-cycle-power-plant
+description: The dataset contains 9568 data points collected from a Combined Cycle
+  Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
+homepage: https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00294/CCPP.zip

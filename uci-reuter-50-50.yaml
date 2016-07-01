@@ -1,0 +1,11 @@
+name: uci-reuter-50-50
+description: The dataset is used for authorship identification in online Writeprint
+  which is a new research field of pattern recognition.
+homepage: https://archive.ics.uci.edu/ml/datasets/Reuter_50_50
+keywords:
+- Multivariate
+- Text
+- Domain-Theory
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00217/C50.zip

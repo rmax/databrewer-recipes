@@ -1,0 +1,12 @@
+name: uci-microblogpcu
+description: MicroblogPCU data is crawled from sina weibo microblog[]. This data can
+  be used to study machine learning methods  as well as do some social network research.
+homepage: https://archive.ics.uci.edu/ml/datasets/microblogPCU
+keywords:
+- Multivariate
+- Univariate
+- Sequential
+- Text
+- Classification
+- Causal-Discovery
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00323/microblogPCU.zip

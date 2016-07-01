@@ -1,0 +1,9 @@
+name: uci-diabetes-130-us-hospitals-for-years-1999-2008
+description: "This data has been prepared to analyze factors related to readmission\
+  \ as well as other \r\n\r\noutcomes pertaining to patients with diabetes."
+homepage: https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00296/dataset_diabetes.zip

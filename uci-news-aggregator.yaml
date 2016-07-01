@@ -1,0 +1,10 @@
+name: uci-news-aggregator
+description: References to news pages collected from an web aggregator in the period
+  from 10-March-2014 to 10-August-2014. The resources are grouped into clusters that
+  represent pages discussing the same story.
+homepage: https://archive.ics.uci.edu/ml/datasets/News+Aggregator
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00359/NewsAggregatorDataset.zip

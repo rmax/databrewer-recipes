@@ -1,0 +1,11 @@
+name: uci-parkinsons-telemonitoring
+description: Oxford Parkinson's Disease Telemonitoring Dataset
+homepage: https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/telemonitoring/parkinsons_updrs.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/telemonitoring/parkinsons_updrs.names
+keywords:
+- Multivariate
+- Regression

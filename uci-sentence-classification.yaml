@@ -1,0 +1,9 @@
+name: uci-sentence-classification
+description: Contains sentences from the abstract and introduction of 30 articles
+  annotated with a modified Argumentative Zones annotation scheme. These articles
+  come from biology, machine learning and psychology.
+homepage: https://archive.ics.uci.edu/ml/datasets/Sentence+Classification
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00311/SentenceCorpus.zip

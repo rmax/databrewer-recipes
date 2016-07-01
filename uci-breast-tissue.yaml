@@ -1,0 +1,8 @@
+name: uci-breast-tissue
+description: Dataset with electrical impedance measurements of freshly excised tissue
+  samples from the breast.
+homepage: https://archive.ics.uci.edu/ml/datasets/Breast+Tissue
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00192/BreastTissue.xls

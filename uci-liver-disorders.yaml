@@ -1,0 +1,24 @@
+name: uci-liver-disorders
+description: BUPA Medical Research Ltd. database donated by Richard S. Forsyth
+homepage: https://archive.ics.uci.edu/ml/datasets/Liver+Disorders
+files:
+- name: bupa-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/bupa.data
+- name: bupa-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/bupa.names
+- name: noteduplicates-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/noteDuplicates.txt
+- files:
+  - name: readme
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/costs/bupa-liver.README
+  - name: cost
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/costs/bupa-liver.cost
+  - name: delay
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/costs/bupa-liver.delay
+  - name: expense
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/costs/bupa-liver.expense
+  - name: group
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/costs/bupa-liver.group
+  name: costs
+keywords:
+- Multivariate

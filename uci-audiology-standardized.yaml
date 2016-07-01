@@ -1,0 +1,19 @@
+name: uci-audiology-standardized
+description: Standardized version of the original audiology database
+homepage: https://archive.ics.uci.edu/ml/datasets/Audiology+(Standardized)
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.names
+- name: standardized-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.standardized.data
+- name: standardized-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.standardized.names
+- name: standardized-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.standardized.test
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.test
+keywords:
+- Multivariate
+- Classification

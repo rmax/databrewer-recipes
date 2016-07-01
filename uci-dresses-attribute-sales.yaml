@@ -1,0 +1,9 @@
+name: uci-dresses-attribute-sales
+description: This dataset contain Attributes of dresses and their recommendations
+  according to their sales.Sales are monitor on the basis of alternate days.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales
+keywords:
+- Text
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00289/Dresses_Attribute_Sales.rar

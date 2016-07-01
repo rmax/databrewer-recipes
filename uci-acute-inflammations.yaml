@@ -1,0 +1,13 @@
+name: uci-acute-inflammations
+description: "The data was created by a medical expert as a data set to test the expert\
+  \ system, \r\nwhich will perform the presumptive diagnosis of two diseases of the\
+  \ urinary system."
+homepage: https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/acute/diagnosis.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/acute/diagnosis.names
+keywords:
+- Multivariate
+- Classification

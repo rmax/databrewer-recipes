@@ -1,0 +1,10 @@
+name: uci-online-handwritten-assamese-characters-dataset
+description: "This is a dataset of 8235 online handwritten assamese characters. The\
+  \ \xE2\u20AC\u0153online\xE2\u20AC\x9D process involves capturing of data as text\
+  \ is written on a digitizing tablet with an electronic pen."
+homepage: https://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset
+keywords:
+- Multivariate
+- Sequential
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00208/Online%20Handwritten%20Assamese%20Characters%20Dataset.rar

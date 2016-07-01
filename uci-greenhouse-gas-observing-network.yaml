@@ -1,0 +1,10 @@
+name: uci-greenhouse-gas-observing-network
+description: Design an observing network to monitor emissions of a greenhouse gas
+  (GHG) in California given time series of synthetic observations and tracers from
+  weather model simulations.
+homepage: https://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network
+keywords:
+- Multivariate
+- Time-Series
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00328/ghg_data.zip

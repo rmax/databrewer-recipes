@@ -1,0 +1,16 @@
+name: uci-msnbc-com-anonymous-web-data
+description: This data describes the page visits of users who visited msnbc.com on
+  September 28, 1999. Visits are recorded at the level of URL category (see description)
+  and are recorded in time order.
+homepage: https://archive.ics.uci.edu/ml/datasets/MSNBC.com+Anonymous+Web+Data
+files:
+- name: description-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/description.txt
+- name: msnbc-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/msnbc.data.html
+- name: msnbc-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/msnbc.html
+- name: msnbc990928-seq
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/msnbc990928.seq.gz
+keywords:
+- Sequential

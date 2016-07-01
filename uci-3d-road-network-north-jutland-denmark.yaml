@@ -1,0 +1,10 @@
+name: uci-3d-road-network-north-jutland-denmark
+description: 3D road network with highly accurate elevation information (+-20cm) from
+  Denmark used in eco-routing and fuel/Co2-estimation routing algorithms.
+homepage: https://archive.ics.uci.edu/ml/datasets/3D+Road+Network+(North+Jutland,+Denmark)
+keywords:
+- Sequential
+- Text
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00246/3D_spatial_network.txt

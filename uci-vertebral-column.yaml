@@ -1,0 +1,9 @@
+name: uci-vertebral-column
+description: Data set containing values for six biomechanical features used to classify
+  orthopaedic patients into 3 classes (normal, disk hernia or spondilolysthesis) or
+  2 classes (normal or abnormal).
+homepage: https://archive.ics.uci.edu/ml/datasets/Vertebral+Column
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00212/vertebral_column_data.zip

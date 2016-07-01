@@ -1,0 +1,11 @@
+name: uci-primary-tumor
+description: From Ljubljana Oncology Institute
+homepage: https://archive.ics.uci.edu/ml/datasets/Primary+Tumor
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/primary-tumor/primary-tumor-data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/primary-tumor/primary-tumor.names
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,26 @@
+name: uci-nsf-research-award-abstracts-1990-2003
+description: This data set consists of (a) 129,000 abstracts describing NSF awards
+  for basic research, (b) bag-of-word data files extracted from the abstracts, (c)
+  a list of words used for indexing the bag-of-word
+homepage: https://archive.ics.uci.edu/ml/datasets/NSF+Research+Award+Abstracts+1990-2003
+files:
+- name: part1-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/Part1.zip
+- name: part2-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/Part2.zip
+- name: part3-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/Part3.zip
+- name: nsfabs-part1-out-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/nsfabs_part1_out.zip
+- name: nsfabs-part2-out-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/nsfabs_part2_out.zip
+- name: nsfabs-part3-out-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/nsfabs_part3_out.zip
+- name: nsfawards-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/nsfawards.data.html
+- name: nsfawards-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/nsfawards.html
+- name: words-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/words.zip
+keywords:
+- Text

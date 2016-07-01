@@ -1,0 +1,13 @@
+name: uci-open-university-learning-analytics-dataset
+description: Open University Learning Analytics Dataset contains data about courses,
+  students and their interactions with Virtual Learning Environment for seven selected
+  courses and more than 30000 students.
+homepage: https://archive.ics.uci.edu/ml/datasets/Open+University+Learning+Analytics+dataset
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00349/OULAD.zip

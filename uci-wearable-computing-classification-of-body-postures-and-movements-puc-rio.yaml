@@ -1,0 +1,9 @@
+name: uci-wearable-computing-classification-of-body-postures-and-movements-puc-rio
+description: A dataset with 5 classes (sitting-down, standing-up, standing, walking,
+  and sitting) collected on 8 hours of activities of 4 healthy subjects. We also established
+  a baseline performance index.
+homepage: https://archive.ics.uci.edu/ml/datasets/Wearable+Computing:+Classification+of+Body+Postures+and+Movements+(PUC-Rio)
+keywords:
+- Sequential
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00250/example-data.dat

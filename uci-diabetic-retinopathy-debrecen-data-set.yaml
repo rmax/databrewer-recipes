@@ -1,0 +1,8 @@
+name: uci-diabetic-retinopathy-debrecen-data-set
+description: This dataset contains features extracted from the Messidor image set
+  to predict whether an image contains signs of diabetic retinopathy or not.
+homepage: https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00329/messidor_features.arff

@@ -1,0 +1,8 @@
+name: uci-banknote-authentication
+description: Data were extracted from images that were taken for the evaluation of
+  an authentication procedure for banknotes.
+homepage: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt

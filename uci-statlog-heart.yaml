@@ -1,0 +1,13 @@
+name: uci-statlog-heart
+description: This dataset is a heart disease database similar to a database already
+  present in the repository (Heart Disease databases) but in a slightly different
+  form
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Heart)
+files:
+- name: heart-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/heart/heart.dat
+- name: heart-doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/heart/heart.doc
+keywords:
+- Multivariate
+- Classification

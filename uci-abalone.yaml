@@ -1,0 +1,11 @@
+name: uci-abalone
+description: Predict the age of abalone from physical measurements
+homepage: https://archive.ics.uci.edu/ml/datasets/Abalone
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.names
+keywords:
+- Multivariate
+- Classification

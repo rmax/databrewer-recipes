@@ -1,0 +1,9 @@
+name: uci-aaai-2013-accepted-papers
+description: This data set compromises the metadata for the 2013 AAAI conference's
+  accepted papers (main track only), including paper titles, abstracts, and keywords
+  of varying granularity.
+homepage: https://archive.ics.uci.edu/ml/datasets/AAAI+2013+Accepted+Papers
+keywords:
+- Multivariate
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00314/%5bUCI%5d%20AAAI-13%20Accepted%20Papers%20-%20Papers.csv

@@ -1,0 +1,7 @@
+name: uci-qtyt40i10d100k
+description: Since there is no numerical sequential data stream available in standard
+  data sets, this data set is generated from the original T40I10D100K data set
+homepage: https://archive.ics.uci.edu/ml/datasets/QtyT40I10D100K
+keywords:
+- Sequential
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00238/QtyT40I10D100K.rar

@@ -1,0 +1,11 @@
+name: uci-dgp2-the-second-data-generation-program
+description: Generates application domains based on specific parameters, number of
+  features, and proportion of positive to negative examples
+homepage: https://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program
+files:
+- name: dgp-2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dgp-2/DGP-2.c
+- name: dgp-2-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dgp-2/DGP-2.names
+keywords:
+- Data-Generator

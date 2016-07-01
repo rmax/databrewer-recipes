@@ -1,0 +1,12 @@
+name: uci-statlog-australian-credit-approval
+description: This file concerns credit card applications. This database exists elsewhere
+  in the repository (Credit Screening Database) in a slightly different form
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Australian+Credit+Approval)
+files:
+- name: australian-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/australian/australian.dat
+- name: australian-doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/australian/australian.doc
+keywords:
+- Multivariate
+- Classification

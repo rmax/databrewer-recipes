@@ -1,0 +1,13 @@
+name: uci-steel-plates-faults
+description: "A dataset of steel plates\xE2\u20AC\u2122 faults, classified into 7\
+  \ different types. \r\nThe goal was to train machine learning for automatic pattern\
+  \ recognition."
+homepage: https://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults
+files:
+- name: faults-nna
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00198/Faults.NNA
+- name: faults27x7-var
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00198/Faults27x7_var
+keywords:
+- Multivariate
+- Classification

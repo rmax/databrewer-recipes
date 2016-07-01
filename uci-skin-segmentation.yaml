@@ -1,0 +1,9 @@
+name: uci-skin-segmentation
+description: The Skin Segmentation dataset is constructed over B, G, R color space.
+  Skin and Nonskin dataset is generated using skin textures from face images of diversity
+  of age, gender, and race people.
+homepage: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
+keywords:
+- Univariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00229/Skin_NonSkin.txt

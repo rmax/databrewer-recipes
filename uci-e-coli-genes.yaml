@@ -1,0 +1,20 @@
+name: uci-e-coli-genes
+description: Data giving characteristics of each ORF (potential gene) in the E. coli
+  genome. Sequence, homology (similarity to other genes) and structural information,
+  and function (if known) are provided.
+homepage: https://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes
+files:
+- name: data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli.data.html
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli.html
+- name: data-pl-bz2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli_data.pl.bz2
+- name: data-pl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli_data.pl.gz
+- name: functions-pl-bz2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli_functions.pl.bz2
+- name: functions-pl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/ecoli_functions.pl.gz
+keywords:
+- Relational

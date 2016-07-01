@@ -1,0 +1,10 @@
+name: uci-noisyoffice
+description: Corpus intended to do cleaning (or binarization) and enhancement of noisy
+  grayscale printed text images using supervised learning methods. Noisy images and
+  their corresponding ground truth provided.
+homepage: https://archive.ics.uci.edu/ml/datasets/NoisyOffice
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00318/NoisyOffice.zip

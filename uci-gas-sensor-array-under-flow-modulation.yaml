@@ -1,0 +1,11 @@
+name: uci-gas-sensor-array-under-flow-modulation
+description: The data set contains 58 time series acquired from 16 chemical sensors
+  under gas flow modulation conditions. The sensors were exposed to different gaseous
+  binary mixtures of acetone and ethanol.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00308/pulmon.zip

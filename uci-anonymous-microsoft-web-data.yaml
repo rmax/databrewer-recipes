@@ -1,0 +1,13 @@
+name: uci-anonymous-microsoft-web-data
+description: Log of anonymous users of www.microsoft.com; predict areas of the web
+  site a user visited based on data on other areas the user visited.
+homepage: https://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.data
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.info
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.test
+keywords:
+- Recommender-Systems

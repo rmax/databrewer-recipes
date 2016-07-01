@@ -1,0 +1,7 @@
+name: uci-susy
+description: This is a classification problem to distinguish between a signal process
+  which produces supersymmetric particles and a background process which does not.
+homepage: https://archive.ics.uci.edu/ml/datasets/SUSY
+keywords:
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00279/SUSY.csv.gz

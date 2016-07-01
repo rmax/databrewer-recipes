@@ -1,0 +1,9 @@
+name: uci-nomao
+description: "Nomao collects data about places (name, phone, localization...) from\
+  \ many sources.\r\nDeduplication consists in detecting what data refer to the same\
+  \ place.\r\nInstances in the dataset compare 2 spots."
+homepage: https://archive.ics.uci.edu/ml/datasets/Nomao
+keywords:
+- Univariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00227/Nomao.zip

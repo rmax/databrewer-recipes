@@ -1,0 +1,10 @@
+name: uci-mobile-robots
+description: Learning concepts from sensor data of a mobile robot; set of data sets
+homepage: https://archive.ics.uci.edu/ml/datasets/Mobile+Robots
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mobile-robots/mobile-robots.names
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mobile-robots/mobile-robots.tar.gz
+keywords:
+- Domain-Theory

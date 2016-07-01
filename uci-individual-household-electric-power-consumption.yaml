@@ -1,0 +1,11 @@
+name: uci-individual-household-electric-power-consumption
+description: Measurements of electric power consumption in one household with a one-minute
+  sampling rate over a period of almost 4 years. Different electrical quantities and
+  some sub-metering values are available.
+homepage: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+keywords:
+- Multivariate
+- Time-Series
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip

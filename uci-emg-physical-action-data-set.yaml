@@ -1,0 +1,9 @@
+name: uci-emg-physical-action-data-set
+description: The Physical Action Data Set includes 10 normal and 10 aggressive physical
+  actions that measure the human activity. The data have been collected by 4 subjects
+  using the Delsys EMG wireless apparatus.
+homepage: https://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set
+keywords:
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00213/EMG%20Physical%20Action%20Data%20Set.rar

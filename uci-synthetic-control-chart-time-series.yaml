@@ -1,0 +1,20 @@
+name: uci-synthetic-control-chart-time-series
+description: This data consists of synthetically generated control charts.
+homepage: https://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series
+files:
+- name: cluster-jpeg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/cluster.jpeg
+- name: data-jpeg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/data.jpeg
+- name: synthetic-control-clustering-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/synthetic_control.clustering.html
+- name: synthetic-control-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/synthetic_control.data
+- name: synthetic-control-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/synthetic_control.data.html
+- name: synthetic-control-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic_control-mld/synthetic_control.html
+keywords:
+- Time-Series
+- Classification
+- Clustering

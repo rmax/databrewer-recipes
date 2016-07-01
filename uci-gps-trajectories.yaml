@@ -1,0 +1,9 @@
+name: uci-gps-trajectories
+description: The dataset has been feed by Android app called Go!Track. It is available
+  at Goolge Play Store().
+homepage: https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00354/GPS%20Trajectory.rar

@@ -1,0 +1,12 @@
+name: uci-gas-sensor-array-drift-dataset-at-different-concentrations
+description: This archive contains 13910 measurements from 16 chemical sensors exposed
+  to 6 different gases at various concentration levels.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset+at+Different+Concentrations
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Regression
+- Clustering
+- Causa
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00270/driftdataset.zip

@@ -1,0 +1,19 @@
+name: uci-trains
+description: 2 data formats (structured, one-instance-per-line)
+homepage: https://archive.ics.uci.edu/ml/datasets/Trains
+files:
+- name: east-west-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/east-west.info
+- name: trains-original-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/trains-original.data
+- name: trains-transformed-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/trains-transformed.data
+- name: trains-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/trains.names
+- name: trains-supplement
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/trains.supplement
+- name: trains-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/trains/trains.tar.Z
+keywords:
+- Multivariate
+- Classification

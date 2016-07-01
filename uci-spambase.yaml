@@ -1,0 +1,15 @@
+name: uci-spambase
+description: Classifying Email as Spam or Non-Spam
+homepage: https://archive.ics.uci.edu/ml/datasets/Spambase
+files:
+- name: documentation
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.DOCUMENTATION
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.names
+- name: zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.zip
+keywords:
+- Multivariate
+- Classification

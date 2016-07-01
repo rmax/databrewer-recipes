@@ -1,0 +1,11 @@
+name: uci-ecoli
+description: This data contains protein localization sites
+homepage: https://archive.ics.uci.edu/ml/datasets/Ecoli
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/ecoli.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/ecoli.names
+keywords:
+- Multivariate
+- Classification

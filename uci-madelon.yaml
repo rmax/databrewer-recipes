@@ -1,0 +1,23 @@
+name: uci-madelon
+description: MADELON is an artificial dataset, which was part of the NIPS 2003 feature
+  selection challenge. This is a two-class classification problem with continuous
+  input variables. The difficulty is that the problem is multivariate and highly non-linear.
+homepage: https://archive.ics.uci.edu/ml/datasets/Madelon
+files:
+- name: dataset-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/Dataset.pdf
+- name: madelon-valid-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/madelon_valid.labels
+- name: param
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/madelon.param
+- name: test-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/madelon_test.data
+- name: train-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/madelon_train.data
+- name: train-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/madelon_train.labels
+- name: valid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/madelon_valid.data
+keywords:
+- Multivariate
+- Classification

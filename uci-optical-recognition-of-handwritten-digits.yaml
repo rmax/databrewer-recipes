@@ -1,0 +1,25 @@
+name: uci-optical-recognition-of-handwritten-digits
+description: Two versions of this database available; see folder
+homepage: https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
+files:
+- name: optdigits-orig-cv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits-orig.cv.Z
+- name: optdigits-orig-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits-orig.names
+- name: optdigits-orig-tra
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits-orig.tra.Z
+- name: optdigits-orig-wdep
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits-orig.wdep.Z
+- name: optdigits-orig-windep
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits-orig.windep.Z
+- name: optdigits-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits.names
+- name: optdigits-tes
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits.tes
+- name: optdigits-tra
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits.tra
+- name: readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/readme.txt
+keywords:
+- Multivariate
+- Classification

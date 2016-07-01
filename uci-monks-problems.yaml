@@ -1,0 +1,28 @@
+name: uci-monks-problems
+description: A set of three artificial domains over the same attribute space; Used
+  to test a wide range of induction algorithms
+homepage: https://archive.ics.uci.edu/ml/datasets/MONK's+Problems
+files:
+- name: monks-1-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-1.test
+- name: monks-1-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-1.train
+- name: monks-2-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-2.test
+- name: monks-2-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-2.train
+- name: monks-3-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-3.test
+- name: monks-3-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks-3.train
+- name: monks-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/monks.names
+- name: thrun-comparison-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/thrun.comparison.dat
+- name: thrun-comparison-ps
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/thrun.comparison.ps.Z
+- name: update
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/update
+keywords:
+- Multivariate
+- Classification

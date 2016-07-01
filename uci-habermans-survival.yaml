@@ -1,0 +1,12 @@
+name: uci-habermans-survival
+description: Dataset contains cases from study conducted on the survival of patients
+  who had undergone surgery for breast cancer
+homepage: https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/haberman/haberman.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/haberman/haberman.names
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,17 @@
+name: uci-connectionist-bench-vowel-recognition-deterding-data
+description: Speaker independent recognition of the eleven steady state vowels of
+  British English using a specified training set of lpc derived log area ratios.
+homepage: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
+files:
+- name: context-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel-context.data
+- name: context-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel-context.names
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel.names
+- name: tr-orig-order
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel.tr-orig-order
+keywords:
+- Classification

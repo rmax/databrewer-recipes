@@ -1,0 +1,11 @@
+name: uci-servo
+description: Data was from a simulation of a servo system
+homepage: https://archive.ics.uci.edu/ml/datasets/Servo
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/servo/servo.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/servo/servo.names
+keywords:
+- Multivariate
+- Regression

@@ -1,0 +1,20 @@
+name: uci-pseudo-periodic-synthetic-time-series
+description: This data set is designed for testing indexing schemes in time series
+  databases. The data appears highly periodic, but never exactly repeats itself.
+homepage: https://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series
+files:
+- name: equation-gif
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/equation.gif
+- name: synthetic-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/synthetic.data.gz
+- name: synthetic-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/synthetic.data.html
+- name: synthetic-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/synthetic.html
+- name: ts1-5-gif
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/ts1-5.gif
+- name: ts6-10-gif
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/ts6-10.gif
+keywords:
+- Univariate
+- Time-Series

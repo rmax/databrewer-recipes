@@ -1,0 +1,12 @@
+name: uci-meta-data
+description: Meta-Data was used in order to give advice about which classification
+  method is appropriate for a particular dataset (taken from results of Statlog project).
+homepage: https://archive.ics.uci.edu/ml/datasets/Meta-data
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/meta-data/meta.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/meta-data/meta.names
+keywords:
+- Multivariate
+- Classification

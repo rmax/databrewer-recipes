@@ -1,0 +1,13 @@
+name: uci-statlog-image-segmentation
+description: This dataset is an image segmentation database similar to a database
+  already present in the repository (Image segmentation database) but in a slightly
+  different form.
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Image+Segmentation)
+files:
+- name: segment-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/segment/segment.dat
+- name: segment-doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/segment/segment.doc
+keywords:
+- Multivariate
+- Classification

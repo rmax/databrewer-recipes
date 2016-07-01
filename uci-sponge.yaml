@@ -1,0 +1,11 @@
+name: uci-sponge
+description: Data on sponges; Attributes in spanish
+homepage: https://archive.ics.uci.edu/ml/datasets/Sponge
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/sponge/sponge.data
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/sponge/sponge.info
+keywords:
+- Multivariate
+- Clustering

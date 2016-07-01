@@ -1,0 +1,10 @@
+name: uci-realdisp-activity-recognition-dataset
+description: The REALDISP dataset is devised to evaluate techniques dealing with the
+  effects of sensor displacement in wearable activity recognition as well as to benchmark
+  general activity recognition algorithms
+homepage: https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00305/realistic_sensor_displacement.zip

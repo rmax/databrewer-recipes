@@ -1,0 +1,19 @@
+name: uci-demospongiae
+description: Marine sponges of the Demospongiae class classification domain.
+homepage: https://archive.ics.uci.edu/ml/datasets/Demospongiae
+files:
+- name: demospongiae-503
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/demospongiae-503.pl
+- name: demospongiae-cases-503-noos
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/demospongiae-cases-503.noos
+- name: demospongiae-dm-noos
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/demospongiae-dm.noos
+- name: demospongiae-ontology-noos
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/demospongiae-ontology.noos
+- name: demospongiae-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/demospongiae.names
+- name: sponge-220-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/sponge-220.pdf
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,9 @@
+name: uci-mhealth-dataset
+description: The MHEALTH (Mobile Health) dataset is devised to benchmark techniques
+  dealing with human behavior analysis based on multimodal body sensing.
+homepage: https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00319/MHEALTHDATASET.zip

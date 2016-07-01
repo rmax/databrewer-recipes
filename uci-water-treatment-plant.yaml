@@ -1,0 +1,11 @@
+name: uci-water-treatment-plant
+description: Multiple classes predict plant state
+homepage: https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/water-treatment/water-treatment.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/water-treatment/water-treatment.names
+keywords:
+- Multivariate
+- Clustering

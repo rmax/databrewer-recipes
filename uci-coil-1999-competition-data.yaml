@@ -1,0 +1,26 @@
+name: uci-coil-1999-competition-data
+description: This data set is from the 1999 Computational Intelligence and Learning
+  (COIL) competition. The data contains measurements of river chemical concentrations
+  and algae densities.
+homepage: https://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data
+files:
+- name: analysis-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/analysis.data
+- name: coil-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/coil.data.html
+- name: coil-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/coil.html
+- name: eval-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/eval.data
+- name: instructions-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/instructions.txt
+- name: r2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/r2
+- name: results-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/results.data
+- name: results-htm
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/results.htm
+- name: results-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/results.txt
+keywords:
+- Multivariate

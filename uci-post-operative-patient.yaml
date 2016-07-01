@@ -1,0 +1,11 @@
+name: uci-post-operative-patient
+description: Dataset of patient features
+homepage: https://archive.ics.uci.edu/ml/datasets/Post-Operative+Patient
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/postoperative-patient-data/post-operative.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/postoperative-patient-data/post-operative.names
+keywords:
+- Multivariate
+- Classification

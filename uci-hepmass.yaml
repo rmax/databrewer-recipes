@@ -1,0 +1,21 @@
+name: uci-hepmass
+description: The search for exotic particles requires sorting through a large number
+  of collisions to find the events of interest. This data set challenges one to detect
+  a new particle of unknown mass.
+homepage: https://archive.ics.uci.edu/ml/datasets/HEPMASS
+files:
+- name: 1000-test-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/1000_test.csv.gz
+- name: 1000-train-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/1000_train.csv.gz
+- name: all-test-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/all_test.csv.gz
+- name: all-train-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/all_train.csv.gz
+- name: not1000-test-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/not1000_test.csv.gz
+- name: not1000-train-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00347/not1000_train.csv.gz
+keywords:
+- Multivariate
+- Classification

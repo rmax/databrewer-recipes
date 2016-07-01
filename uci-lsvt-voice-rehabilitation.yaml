@@ -1,0 +1,9 @@
+name: uci-lsvt-voice-rehabilitation
+description: '126 samples from 14 participants, 309 features. Aim: assess whether
+  voice rehabilitation treatment lead to phonations considered ''acceptable'' or ''unacceptable''
+  (binary class classification problem).'
+homepage: https://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00282/LSVT_voice_rehabilitation.zip

@@ -1,0 +1,13 @@
+name: uci-image-segmentation
+description: Image data described by high-level numeric-valued attributes, 7 classes
+homepage: https://archive.ics.uci.edu/ml/datasets/Image+Segmentation
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.names
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.test
+keywords:
+- Multivariate
+- Classification

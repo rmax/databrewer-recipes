@@ -1,0 +1,12 @@
+name: uci-tic-tac-toe-endgame
+description: Binary classification task on possible configurations of tic-tac-toe
+  game
+homepage: https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-tac-toe/tic-tac-toe.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-tac-toe/tic-tac-toe.names
+keywords:
+- Multivariate
+- Classification

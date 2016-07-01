@@ -1,0 +1,23 @@
+name: uci-dexter
+description: DEXTER is a text classification problem in a bag-of-word representation.
+  This is a two-class classification problem with sparse continuous input variables.
+  This dataset is one of five datasets of the NIPS 2003 feature selection challenge.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dexter
+files:
+- name: dataset-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/Dataset.pdf
+- name: dexter-valid-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/dexter_valid.labels
+- name: param
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/dexter.param
+- name: test-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/dexter_test.data
+- name: train-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/dexter_train.data
+- name: train-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/dexter_train.labels
+- name: valid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/dexter_valid.data
+keywords:
+- Multivariate
+- Classification

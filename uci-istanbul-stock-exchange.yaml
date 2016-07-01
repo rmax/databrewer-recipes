@@ -1,0 +1,12 @@
+name: uci-istanbul-stock-exchange
+description: Data sets includes returns of Istanbul Stock Exchange with seven other
+  international index; SP, DAX, FTSE, NIKKEI, BOVESPA, MSCE_EU, MSCI_EM from Jun 5,
+  2009 to Feb 22, 2011.
+homepage: https://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE
+keywords:
+- Multivariate
+- Univariate
+- Time-Series
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00247/data_akbilgic.xlsx

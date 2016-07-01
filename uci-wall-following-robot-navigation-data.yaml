@@ -1,0 +1,22 @@
+name: uci-wall-following-robot-navigation-data
+description: The data were collected as the SCITOS G5 robot navigates through the
+  room following the wall in a clockwise direction, for 4 rounds, using 24 ultrasound
+  sensors arranged circularly around its 'waist'.
+homepage: https://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data
+files:
+- name: alldata-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/AllData.zip
+- name: wall-following-robot-navigation-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/Wall-Following_Robot_Navigation.zip
+- name: wall-following-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/Wall-following.names
+- name: sensor-readings-2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/sensor_readings_2.data
+- name: sensor-readings-4-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/sensor_readings_4.data
+- name: sensor-readings-24-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00194/sensor_readings_24.data
+keywords:
+- Multivariate
+- Sequential
+- Classification

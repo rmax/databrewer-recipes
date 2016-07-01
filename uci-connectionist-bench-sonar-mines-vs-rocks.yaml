@@ -1,0 +1,16 @@
+name: uci-connectionist-bench-sonar-mines-vs-rocks
+description: The task is to train a network to discriminate between sonar signals
+  bounced off a metal cylinder and those bounced off a roughly cylindrical rock.
+homepage: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+files:
+- name: all-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.all-data
+- name: mines
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.mines
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.names
+- name: rocks
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.rocks
+keywords:
+- Multivariate
+- Classification

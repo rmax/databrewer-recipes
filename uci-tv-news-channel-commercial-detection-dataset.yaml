@@ -1,0 +1,10 @@
+name: uci-tv-news-channel-commercial-detection-dataset
+description: TV Commercials data set consists of  standard audio-visual features of
+  video shots extracted from 150 hours of TV news broadcast of 3 Indian and 2 international
+  news channels ( 30 Hours each).
+homepage: https://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00326/TV_News_Channel_Commercial_Detection_Dataset.zip

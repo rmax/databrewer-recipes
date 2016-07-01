@@ -1,0 +1,10 @@
+name: uci-machine-learning-based-zzalpha-ltd-stock-recommendations-2012-2014
+description: "The data here are the ZZAlpha\xC2\xAE machine learning recommendations\
+  \ made for various US traded stock portfolios the morning of each day during the\
+  \ 3 year period Jan 1, 2012 - Dec 31, 2014."
+homepage: https://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-2014
+keywords:
+- Sequential
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00337/sNewsListWResults3yr.zip

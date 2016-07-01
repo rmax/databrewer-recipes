@@ -1,0 +1,20 @@
+name: uci-ozone-level-detection
+description: Two ground ozone level data sets are included in this collection. One
+  is the eight hour peak set (eighthr.data), the other is the one hour peak set (onehr.data).
+  Those data were collected from 1998 to 2004 at the Houston, Galveston and Brazoria
+  area.
+homepage: https://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection
+files:
+- name: eighthr-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ozone/eighthr.data
+- name: eighthr-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ozone/eighthr.names
+- name: onehr-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ozone/onehr.data
+- name: onehr-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ozone/onehr.names
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification

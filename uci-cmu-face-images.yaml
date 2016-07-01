@@ -1,0 +1,33 @@
+name: uci-cmu-face-images
+description: This data consists of 640 black and white face images of people taken
+  with varying pose (straight, left, right, up), expression (neutral, happy, sad,
+  angry), eyes (wearing sunglasses or not), and size
+homepage: https://archive.ics.uci.edu/ml/datasets/CMU+Face+Images
+files:
+- name: an2i-straight-neutral-open-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/an2i_straight_neutral_open.jpg
+- name: at33-left-happy-sunglasses-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/at33_left_happy_sunglasses.jpg
+- name: boland-right-sad-open-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/boland_right_sad_open.jpg
+- name: ch4f-up-angry-sunglasses-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/ch4f_up_angry_sunglasses.jpg
+- name: faces-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces.data.html
+- name: faces-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces.html
+- name: faces-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces.tar.Z
+- name: faces-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces.tar.gz
+- name: faces-4-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces_4.tar.Z
+- name: faces-4-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces_4.tar.gz
+- name: hw97
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/hw97.ps
+- name: hw97-tex
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/hw97.tex
+keywords:
+- Image
+- Classification

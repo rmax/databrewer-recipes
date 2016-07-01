@@ -1,0 +1,8 @@
+name: uci-planning-relax
+description: 'The dataset concerns with the classification of two mental stages from
+  recorded EEG signals: Planning (during imagination of motor act) and Relax state.'
+homepage: https://archive.ics.uci.edu/ml/datasets/Planning+Relax
+keywords:
+- Univariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00230/plrx.txt

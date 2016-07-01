@@ -1,0 +1,11 @@
+name: uci-gas-sensor-array-exposed-to-turbulent-gas-mixtures
+description: A chemical detection platform composed of 8 chemoresistive gas sensors
+  was exposed to turbulent gas mixtures generated naturally in a wind tunnel. The
+  acquired time series of the sensors are provided.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00309/dataset_two_gas_sources_.zip

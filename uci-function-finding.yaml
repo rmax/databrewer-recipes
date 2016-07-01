@@ -1,0 +1,11 @@
+name: uci-function-finding
+description: Cases collected mostly from investigations in physical science; intention
+  is to evaluate function-finding algorithms
+homepage: https://archive.ics.uci.edu/ml/datasets/Function+Finding
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/function-finding/function-finding.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/function-finding/function-finding.names
+keywords:
+- Function-Learning

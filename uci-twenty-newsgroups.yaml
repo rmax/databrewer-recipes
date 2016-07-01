@@ -1,0 +1,14 @@
+name: uci-twenty-newsgroups
+description: This data set consists of 20000 messages taken from 20 newsgroups.
+homepage: https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
+files:
+- name: 20-newsgroups-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/20_newsgroups.tar.gz
+- name: 20newsgroups-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/20newsgroups.data.html
+- name: 20newsgroups-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/20newsgroups.html
+- name: mini-newsgroups-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/mini_newsgroups.tar.gz
+keywords:
+- Text

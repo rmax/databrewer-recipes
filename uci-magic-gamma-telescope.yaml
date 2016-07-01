@@ -1,0 +1,12 @@
+name: uci-magic-gamma-telescope
+description: Data are MC generated to simulate registration of high energy gamma particles
+  in an atmospheric Cherenkov telescope
+homepage: https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.names
+keywords:
+- Multivariate
+- Classification

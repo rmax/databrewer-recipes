@@ -1,0 +1,84 @@
+name: uci-thyroid-disease
+description: 10 separate databases from Garavan Institute
+homepage: https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease
+files:
+- name: hello
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/HELLO
+- name: allbp-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allbp.data
+- name: allbp-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allbp.names
+- name: allbp-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allbp.test
+- name: allhyper-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhyper.data
+- name: allhyper-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhyper.names
+- name: allhyper-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhyper.test
+- name: allhypo-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhypo.data
+- name: allhypo-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhypo.names
+- name: allhypo-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allhypo.test
+- name: allrep-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allrep.data
+- name: allrep-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allrep.names
+- name: allrep-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/allrep.test
+- name: ann-readme
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/ann-Readme
+- name: ann-test-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/ann-test.data
+- name: ann-thyroid-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/ann-thyroid.names
+- name: ann-train-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/ann-train.data
+- name: dis-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/dis.data
+- name: dis-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/dis.names
+- name: dis-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/dis.test
+- name: hypothyroid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/hypothyroid.data
+- name: hypothyroid-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/hypothyroid.names
+- name: new-thyroid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/new-thyroid.data
+- name: new-thyroid-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/new-thyroid.names
+- name: sick-euthyroid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/sick-euthyroid.data
+- name: sick-euthyroid-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/sick-euthyroid.names
+- name: sick-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/sick.data
+- name: sick-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/sick.names
+- name: sick-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/sick.test
+- name: thyroid-theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/thyroid.theory
+- name: thyroid0387-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/thyroid0387.data
+- name: thyroid0387-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/thyroid0387.names
+- files:
+  - name: readme
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/costs/ann-thyroid.README
+  - name: cost
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/costs/ann-thyroid.cost
+  - name: delay
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/costs/ann-thyroid.delay
+  - name: expense
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/costs/ann-thyroid.expense
+  - name: group
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/costs/ann-thyroid.group
+  name: costs
+keywords:
+- Multivariate
+- Domain-Theory
+- Classification

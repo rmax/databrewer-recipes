@@ -1,0 +1,13 @@
+name: uci-autouniv
+description: AutoUniv is an advanced data generator for classifications tasks. The
+  aim is to reflect the nuances and heterogeneity of real data.  Data can be generated
+  in .csv, ARFF or C4.5 formats.
+homepage: https://archive.ics.uci.edu/ml/datasets/AutoUniv
+files:
+- name: au-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00197/AU.zip
+- name: autouniv-user-guide-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00197/AutoUniv%20User%20Guide.pdf
+keywords:
+- Multivariate
+- Classification

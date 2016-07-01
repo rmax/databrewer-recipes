@@ -1,0 +1,11 @@
+name: uci-twin-gas-sensor-arrays
+description: 5 replicates of an 8-MOX gas sensor array were exposed to different gas
+  conditions (4 volatiles at 10 concentration levels each).
+homepage: https://archive.ics.uci.edu/ml/datasets/Twin+gas+sensor+arrays
+keywords:
+- Multivariate
+- Time-Series
+- Domain-Theory
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00361/data1.zip

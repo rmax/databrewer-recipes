@@ -1,0 +1,9 @@
+name: uci-semg-for-basic-hand-movements
+description: "The \xE2\u20AC\u0153sEMG for Basic Hand movements\xE2\u20AC\x9D includes\
+  \ 2 databases of surface electromyographic signals of 6 hand movements using Delsys'\
+  \ EMG System. Healthy subjects conducted six daily life grasps."
+homepage: https://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements
+keywords:
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00313/sEMG_Basic_Hand_movements_upatras.zip

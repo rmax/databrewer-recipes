@@ -1,0 +1,11 @@
+name: uci-lenses
+description: Database for fitting contact lenses
+homepage: https://archive.ics.uci.edu/ml/datasets/Lenses
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lenses/lenses.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lenses/lenses.names
+keywords:
+- Multivariate
+- Classification

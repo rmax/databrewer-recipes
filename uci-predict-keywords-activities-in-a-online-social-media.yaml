@@ -1,0 +1,10 @@
+name: uci-predict-keywords-activities-in-a-online-social-media
+description: The data from Twitter was collected during 360 consecutive days. It was
+  done by querying 1497 English keywords sampled from Wikipedia. This dataset is proposed
+  in a Learning to rank setting.
+homepage: https://archive.ics.uci.edu/ml/datasets/Predict+keywords+activities+in+a+online+social+media
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00276/dataset-keyword-activity.tar.gz

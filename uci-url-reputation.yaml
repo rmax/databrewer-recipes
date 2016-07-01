@@ -1,0 +1,13 @@
+name: uci-url-reputation
+description: Anonymized 120-day subset of the ICML-09 URL data containing 2.4 million
+  examples and 3.2 million features.
+homepage: https://archive.ics.uci.edu/ml/datasets/URL+Reputation
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/url/url.names
+- name: svmlight-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/url/url_svmlight.tar.gz
+keywords:
+- Multivariate
+- Time-Series
+- Classification

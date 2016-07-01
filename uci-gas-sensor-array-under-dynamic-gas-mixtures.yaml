@@ -1,0 +1,11 @@
+name: uci-gas-sensor-array-under-dynamic-gas-mixtures
+description: The data set contains the recordings of 16 chemical sensors exposed to
+  two dynamic gas mixtures at varying concentrations. For each mixture, signals were
+  acquired continuously during 12 hours.
+homepage: https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+dynamic+gas+mixtures
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00322/data.zip

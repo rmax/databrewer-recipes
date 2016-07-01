@@ -1,0 +1,11 @@
+name: uci-activity-recognition-from-single-chest-mounted-accelerometer
+description: The dataset collects data from a wearable accelerometer mounted on the
+  chest. The dataset is intended for Activity Recognition research purposes.
+homepage: https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
+keywords:
+- Univariate
+- Sequential
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00287/Activity%20Recognition%20from%20Single%20Chest-Mounted%20Accelerometer.zip

@@ -1,0 +1,10 @@
+name: uci-air-quality
+description: Contains the responses of a gas multisensor device deployed on the field
+  in an Italian city. Hourly responses averages are recorded along with gas concentrations
+  references from a certified analyzer.
+homepage: https://archive.ics.uci.edu/ml/datasets/Air+Quality
+keywords:
+- Multivariate
+- Time-Series
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00360/AirQualityUCI.zip

@@ -1,0 +1,13 @@
+name: uci-letter-recognition
+description: Database of character image features; try to identify the letter
+homepage: https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/letter-recognition.data
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/letter-recognition.data.Z
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/letter-recognition.names
+keywords:
+- Multivariate
+- Classification

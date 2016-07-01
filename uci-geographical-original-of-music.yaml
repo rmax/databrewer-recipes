@@ -1,0 +1,10 @@
+name: uci-geographical-original-of-music
+description: Instances in this dataset contain audio features extracted from 1059
+  wave files. The task associated with the data is to predict the geographical origin
+  of music.
+homepage: https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00315/Geographical%20Original%20of%20Music.zip

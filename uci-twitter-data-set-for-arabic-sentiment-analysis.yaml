@@ -1,0 +1,9 @@
+name: uci-twitter-data-set-for-arabic-sentiment-analysis
+description: 'This problem of Sentiment Analysis (SA) has been studied well on the
+  English language but not Arabic one. Two main approaches have been devised: corpus-based
+  and lexicon-based.'
+homepage: https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00293/Twitter.rar

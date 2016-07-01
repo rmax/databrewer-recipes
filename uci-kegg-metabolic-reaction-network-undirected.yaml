@@ -1,0 +1,12 @@
+name: uci-kegg-metabolic-reaction-network-undirected
+description: KEGG Metabolic pathways modeled as un-directed reaction network. Variety
+  of graphical features presented.
+homepage: https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+(Undirected)
+keywords:
+- Multivariate
+- Univariate
+- Text
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00221/Reaction%20Network%20(Undirected).data

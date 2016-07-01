@@ -1,0 +1,14 @@
+name: uci-molecular-biology-promoter-gene-sequences
+description: E. Coli promoter gene sequences (DNA) with partial domain theory
+homepage: https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.names
+- name: theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.theory
+keywords:
+- Sequential
+- Domain-Theory
+- Classification

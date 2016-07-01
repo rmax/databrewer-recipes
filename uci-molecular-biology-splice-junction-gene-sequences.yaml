@@ -1,0 +1,17 @@
+name: uci-molecular-biology-splice-junction-gene-sequences
+description: Primate splice-junction gene sequences (DNA) with associated imperfect
+  domain theory
+homepage: https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/splice-junction-gene-sequences/splice.data
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/splice-junction-gene-sequences/splice.data.Z
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/splice-junction-gene-sequences/splice.names
+- name: theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/splice-junction-gene-sequences/splice.theory
+keywords:
+- Sequential
+- Domain-Theory
+- Classification

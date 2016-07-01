@@ -1,0 +1,24 @@
+name: uci-hepatitis
+description: 'From G.Gong: CMU; Mostly Boolean or numeric-valued attribute types;
+  Includes cost data (donated by Peter Turney)'
+homepage: https://archive.ics.uci.edu/ml/datasets/Hepatitis
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.names
+- files:
+  - name: readme
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/hepatitis.README
+  - name: cost
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/hepatitis.cost
+  - name: delay
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/hepatitis.delay
+  - name: expense
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/hepatitis.expense
+  - name: group
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/hepatitis.group
+  name: costs
+keywords:
+- Multivariate
+- Classification

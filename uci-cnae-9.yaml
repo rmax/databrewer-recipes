@@ -1,0 +1,13 @@
+name: uci-cnae-9
+description: "This is a data set containing 1080 documents of free text business descriptions\
+  \ of Brazilian companies categorized into a\r\nsubset of 9 categories"
+homepage: https://archive.ics.uci.edu/ml/datasets/CNAE-9
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00233/CNAE-9.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00233/CNAE-9.names
+keywords:
+- Multivariate
+- Text
+- Classification

@@ -1,0 +1,9 @@
+name: uci-farm-ads
+description: This data was collected from text ads found on twelve websites that deal
+  with various farm animal related topics.  The binary labels are based on whether
+  or not the content owner approves of the ad.
+homepage: https://archive.ics.uci.edu/ml/datasets/Farm+Ads
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00218/farm-data.zip

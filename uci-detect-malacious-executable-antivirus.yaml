@@ -1,0 +1,9 @@
+name: uci-detect-malacious-executable-antivirus
+description: I extract features from malacious and non-malacious and create and training
+  dataset to teach svm classifier.Dataset made of unknown executable to detect if
+  it is virus or normal safe executable.
+homepage: https://archive.ics.uci.edu/ml/datasets/Detect+Malacious+Executable(AntiVirus)
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00355/Dataset.rar

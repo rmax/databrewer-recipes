@@ -1,0 +1,8 @@
+name: uci-firm-teacher-clave-direction-classification
+description: The data are binary attack-point vectors and their clave-direction class(es)
+  according to the partido-alto-based paradigm.
+homepage: https://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00324/ClaveVectors_Firm-Teacher_Model.txt

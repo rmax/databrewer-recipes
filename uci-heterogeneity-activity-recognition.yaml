@@ -1,0 +1,18 @@
+name: uci-heterogeneity-activity-recognition
+description: The Heterogeneity Human Activity Recognition (HHAR) dataset from Smartphones
+  and Smartwatches is a dataset devised to benchmark human activity recognition algorithms
+  (classification, automatic data segmentation, sensor fusion, feature extraction,
+  etc.) in real-world contexts; specifically, the dataset is gathered with a variety
+  of different device models and use-scenarios, in order to reflect sensing heterogeneities
+  to be expected in real deployments.
+homepage: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
+files:
+- name: activity-recognition-exp-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00344/Activity%20recognition%20exp.zip
+- name: still-exp-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00344/Still%20exp.zip
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Clustering

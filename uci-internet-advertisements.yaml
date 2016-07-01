@@ -1,0 +1,16 @@
+name: uci-internet-advertisements
+description: This dataset represents a set of possible advertisements on Internet
+  pages.
+homepage: https://archive.ics.uci.edu/ml/datasets/Internet+Advertisements
+files:
+- name: dataset-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad-dataset.zip
+- name: documentation
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad.DOCUMENTATION
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad.names
+keywords:
+- Multivariate
+- Classification

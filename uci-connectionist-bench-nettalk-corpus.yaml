@@ -1,0 +1,16 @@
+name: uci-connectionist-bench-nettalk-corpus
+description: The file "nettalk.data" contains a list of 20,008 English words, along
+  with a phonetic transcription for each word. The task is to train a network to produce
+  the proper phonemes
+homepage: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Nettalk+Corpus)
+files:
+- name: dietterich-correction-to-nettalk
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/nettalk/dietterich-correction-to-nettalk
+- name: nettalk-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/nettalk/nettalk.data
+- name: nettalk-list
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/nettalk/nettalk.list
+- name: nettalk-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/nettalk/nettalk.names
+keywords:
+- Multivariate

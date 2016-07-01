@@ -1,0 +1,14 @@
+name: uci-perfume-data
+description: This data consists of odors of 20 different perfumes. Data was obtained
+  by using a handheld odor meter (OMX-GR sensor) per second for 28 seconds period.
+homepage: https://archive.ics.uci.edu/ml/datasets/Perfume+Data
+files:
+- name: perfume-data-xlsx
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00303/perfume_data.xlsx
+- name: testing-in-rows-xls
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00303/testing%20in%20rows.xls
+keywords:
+- Univariate
+- Domain-Theory
+- Classification
+- Clustering

@@ -1,0 +1,12 @@
+name: uci-opinosis-opinion-frasl-review
+description: "This dataset contains sentences extracted from user reviews on a given\
+  \ topic. Example topics are \xE2\u20AC\u0153performance of Toyota Camry\xE2\u20AC\
+  \x9D and \xE2\u20AC\u0153sound quality of ipod nano\xE2\u20AC\x9D."
+homepage: https://archive.ics.uci.edu/ml/datasets/Opinosis+Opinion+&frasl;+Review
+files:
+- name: opinosisdataset1-0-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/opinion/OpinosisDataset1.0.zip
+- name: opinion-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/opinion/opinion.names
+keywords:
+- Text

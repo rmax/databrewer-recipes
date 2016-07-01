@@ -1,0 +1,14 @@
+name: uci-car-evaluation
+description: Derived from simple hierarchical decision model, this database may be
+  useful for testing constructive induction and structure discovery methods.
+homepage: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+files:
+- name: c45-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/car/car.c45-names
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/car/car.names
+keywords:
+- Multivariate
+- Classification

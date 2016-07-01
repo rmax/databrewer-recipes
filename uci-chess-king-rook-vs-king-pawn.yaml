@@ -1,0 +1,11 @@
+name: uci-chess-king-rook-vs-king-pawn
+description: King+Rook versus King+Pawn on a7 (usually abbreviated KRKPA7).
+homepage: https://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King-Pawn)
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king-pawn/kr-vs-kp.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king-pawn/kr-vs-kp.names
+keywords:
+- Multivariate
+- Classification

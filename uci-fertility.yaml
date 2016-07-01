@@ -1,0 +1,10 @@
+name: uci-fertility
+description: 100 volunteers provide a semen sample analyzed according to the WHO 2010
+  criteria. Sperm concentration are related to socio-demographic data, environmental
+  factors, health status, and life habits
+homepage: https://archive.ics.uci.edu/ml/datasets/Fertility
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00244/fertility_Diagnosis.txt

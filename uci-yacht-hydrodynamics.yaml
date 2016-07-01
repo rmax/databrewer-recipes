@@ -1,0 +1,8 @@
+name: uci-yacht-hydrodynamics
+description: Delft data set, used to predict the hydodynamic performance of sailing
+  yachts from dimensions and velocity.
+homepage: https://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00243/yacht_hydrodynamics.data

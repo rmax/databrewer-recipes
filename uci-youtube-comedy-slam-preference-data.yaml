@@ -1,0 +1,9 @@
+name: uci-youtube-comedy-slam-preference-data
+description: This dataset provides user vote data on which video from a pair of videos
+  is funnier collected on YouTube Comedy Slam. The task is to automatically predict
+  this preference based on video metadata.
+homepage: https://archive.ics.uci.edu/ml/datasets/YouTube+Comedy+Slam+Preference+Data
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00223/comedy_comparisons.zip

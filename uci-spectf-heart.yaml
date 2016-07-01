@@ -1,0 +1,24 @@
+name: uci-spectf-heart
+description: 'Data on cardiac Single Proton Emission Computed Tomography (SPECT) images.
+  Each patient classified into two categories: normal and abnormal.'
+homepage: https://archive.ics.uci.edu/ml/datasets/SPECTF+Heart
+files:
+- name: donornote-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/DonorNote.txt
+- name: spect-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECT.names
+- name: spect-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECT.test
+- name: spect-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECT.train
+- name: spectf-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECTF.names
+- name: spectf-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECTF.test
+- name: spectf-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECTF.train
+- name: spectfincorrect-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECTFincorrect.test
+keywords:
+- Multivariate
+- Classification

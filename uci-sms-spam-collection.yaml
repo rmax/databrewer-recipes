@@ -1,0 +1,11 @@
+name: uci-sms-spam-collection
+description: The SMS Spam Collection is a public set of SMS labeled messages that
+  have been collected for mobile phone spam research.
+homepage: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+keywords:
+- Multivariate
+- Text
+- Domain-Theory
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip

@@ -1,0 +1,29 @@
+name: uci-soybean-small
+description: Michalski's famous soybean disease database
+homepage: https://archive.ics.uci.edu/ml/datasets/Soybean+(Small)
+files:
+- name: backup-large-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/backup-large.data
+- name: backup-large-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/backup-large.test
+- name: fisher-order
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/fisher-order
+- name: soybean-explanation
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-explanation
+- name: soybean-large-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-large.data
+- name: soybean-large-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-large.names
+- name: soybean-large-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-large.test
+- name: soybean-small-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-small.data
+- name: soybean-small-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-small.names
+- name: stepp-order
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/stepp-order
+- name: why-various-soybean-databases
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/soybean/why-various-soybean-databases
+keywords:
+- Multivariate
+- Classification

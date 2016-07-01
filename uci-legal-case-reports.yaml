@@ -1,0 +1,9 @@
+name: uci-legal-case-reports
+description: A textual corpus of 4000 legal cases for automatic summarization and
+  citation analysis. For each document we collect catchphrases, citations sentences,
+  citation catchphrases and citation classes.
+homepage: https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00239/corpus.zip

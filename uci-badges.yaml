@@ -1,0 +1,12 @@
+name: uci-badges
+description: Badges labeled with a "+" or "-" as a function of a person's name
+homepage: https://archive.ics.uci.edu/ml/datasets/Badges
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/badges/badges.data
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/badges/badges.info
+keywords:
+- Univariate
+- Text
+- Classification

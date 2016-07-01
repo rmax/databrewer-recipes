@@ -1,0 +1,12 @@
+name: uci-semeion-handwritten-digit
+description: 1593 handwritten digits from around 80 persons were scanned, stretched
+  in a rectangular box 16x16 in a gray scale of 256 values.
+homepage: https://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/semeion/semeion.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/semeion/semeion.names
+keywords:
+- Multivariate
+- Classification

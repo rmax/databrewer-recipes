@@ -1,0 +1,20 @@
+name: uci-dodgers-loop-sensor
+description: Loop sensor data was collected for the Glendale on ramp for the 101 North
+  freeway in Los Angeles
+homepage: https://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor
+files:
+- name: calit2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/CalIt2.data
+- name: calit2-events
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/CalIt2.events
+- name: calit2-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/CalIt2.names
+- name: dodgers-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/Dodgers.data
+- name: dodgers-events
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/Dodgers.events
+- name: dodgers-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/Dodgers.names
+keywords:
+- Multivariate
+- Time-Series

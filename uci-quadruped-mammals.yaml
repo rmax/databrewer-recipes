@@ -1,0 +1,13 @@
+name: uci-quadruped-mammals
+description: The file animals.c is a data generator of structured instances representing
+  quadruped animals
+homepage: https://archive.ics.uci.edu/ml/datasets/Quadruped+Mammals
+files:
+- name: animals
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/quadrapeds/animals.c
+- name: animals-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/quadrapeds/animals.names
+keywords:
+- Multivariate
+- Data-Generator
+- Classification

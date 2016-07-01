@@ -1,0 +1,30 @@
+name: uci-kdd-cup-1999-data
+description: This is the data set used for The Third International Knowledge Discovery
+  and Data Mining Tools Competition, which was held in conjunction with KDD-99
+homepage: https://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data
+files:
+- name: corrected
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/corrected.gz
+- name: kddcup-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.data.gz
+- name: kddcup-data-10-percent
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.data_10_percent.gz
+- name: kddcup-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.names
+- name: kddcup-newtestdata-10-percent-unlabeled
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.newtestdata_10_percent_unlabeled.gz
+- name: kddcup-testdata-unlabeled
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.testdata.unlabeled.gz
+- name: kddcup-testdata-unlabeled-10-percent
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.testdata.unlabeled_10_percent.gz
+- name: kddcup99-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup99.html
+- name: task-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/task.html
+- name: training-attack-types
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/training_attack_types
+- name: typo-correction-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/typo-correction.txt
+keywords:
+- Multivariate
+- Classification

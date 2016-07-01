@@ -1,0 +1,12 @@
+name: uci-arrhythmia
+description: Distinguish between the presence and absence of cardiac arrhythmia and
+  classify it in one of the 16 groups.
+homepage: https://archive.ics.uci.edu/ml/datasets/Arrhythmia
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.names
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,9 @@
+name: uci-dow-jones-index
+description: This dataset contains weekly data for the Dow Jones Industrial Index.  It
+  has been used in computational investing research.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
+keywords:
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00312/dow_jones_index.zip

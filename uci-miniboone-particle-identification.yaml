@@ -1,0 +1,8 @@
+name: uci-miniboone-particle-identification
+description: This dataset is taken from the MiniBooNE experiment and is used to distinguish
+  electron neutrinos (signal) from muon neutrinos (background).
+homepage: https://archive.ics.uci.edu/ml/datasets/MiniBooNE+particle+identification
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00199/MiniBooNE_PID.txt

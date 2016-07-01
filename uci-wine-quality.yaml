@@ -1,0 +1,16 @@
+name: uci-wine-quality
+description: Two datasets are included, related to red and white vinho verde wine
+  samples, from the north of Portugal. The goal is to model wine quality based on
+  physicochemical tests (see [Cortez et al., 2009], ).
+homepage: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+files:
+- name: red-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+- name: white-csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality.names
+keywords:
+- Multivariate
+- Classification
+- Regression

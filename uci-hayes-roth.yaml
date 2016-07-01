@@ -1,0 +1,13 @@
+name: uci-hayes-roth
+description: 'Topic: human subjects study'
+homepage: https://archive.ics.uci.edu/ml/datasets/Hayes-Roth
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hayes-roth/hayes-roth.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hayes-roth/hayes-roth.names
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hayes-roth/hayes-roth.test
+keywords:
+- Multivariate
+- Classification

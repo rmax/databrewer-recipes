@@ -1,0 +1,9 @@
+name: uci-yearpredictionmsd
+description: Prediction of the release year of a song from audio features. Songs are
+  mostly western, commercial tracks ranging from 1922 to 2011, with a peak in the
+  year 2000s.
+homepage: https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00203/YearPredictionMSD.txt.zip

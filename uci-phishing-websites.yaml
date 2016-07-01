@@ -1,0 +1,11 @@
+name: uci-phishing-websites
+description: "This dataset collected mainly from: PhishTank archive, MillerSmiles\
+  \ archive, Google\xE2\u20AC\u2122s searching operators."
+homepage: https://archive.ics.uci.edu/ml/datasets/Phishing+Websites
+files:
+- name: phishing-websites-features-docx
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00327/Phishing%20Websites%20Features.docx
+- name: training-dataset-arff
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00327/Training%20Dataset.arff
+keywords:
+- Classification

@@ -1,0 +1,6 @@
+name: uci-economic-sanctions
+description: Domain Theory on Economic Sanctions; Undocumented
+homepage: https://archive.ics.uci.edu/ml/datasets/Economic+Sanctions
+keywords:
+- Domain-Theory
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/pazzani/economic-sanctions

@@ -1,0 +1,14 @@
+name: uci-mushroom
+description: 'From Audobon Society Field Guide; mushrooms described in terms of physical
+  characteristics; classification: poisonous or edible'
+homepage: https://archive.ics.uci.edu/ml/datasets/Mushroom
+files:
+- name: agaricus-lepiota-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data
+- name: agaricus-lepiota-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.names
+- name: expanded
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/expanded.Z
+keywords:
+- Multivariate
+- Classification

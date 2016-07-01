@@ -1,0 +1,14 @@
+name: uci-challenger-usa-space-shuttle-o-ring
+description: 'Task: predict the number of O-rings that experience thermal distress
+  on a flight at 31 degrees F given data on the previous 23 shuttle flights'
+homepage: https://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring
+files:
+- name: only-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/o-ring-erosion-only.data
+- name: or-blowby-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/o-ring-erosion-or-blowby.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/o-ring-erosion.names
+keywords:
+- Multivariate
+- Regression

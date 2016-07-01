@@ -1,0 +1,11 @@
+name: uci-dermatology
+description: Aim for this dataset is to determine the type of Eryhemato-Squamous Disease.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dermatology
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dermatology/dermatology.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/dermatology/dermatology.names
+keywords:
+- Multivariate
+- Classification

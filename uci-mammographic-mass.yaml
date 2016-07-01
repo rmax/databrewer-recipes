@@ -1,0 +1,12 @@
+name: uci-mammographic-mass
+description: Discrimination of benign and malignant mammographic masses based on BI-RADS
+  attributes and the patient's age.
+homepage: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mammographic_masses.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mammographic_masses.names
+keywords:
+- Multivariate
+- Classification

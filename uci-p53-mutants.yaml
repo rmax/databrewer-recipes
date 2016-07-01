@@ -1,0 +1,14 @@
+name: uci-p53-mutants
+description: The goal is to model mutant p53 transcriptional activity (active vs inactive)
+  based on data extracted from biophysical simulations.
+homepage: https://archive.ics.uci.edu/ml/datasets/p53+Mutants
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/p53/p53.names
+- name: new-2012-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/p53/p53_new_2012.zip
+- name: old-2010-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/p53/p53_old_2010.zip
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,11 @@
+name: uci-stoneflakes
+description: "Stone flakes are waste products of the stone tool production in\r\n\
+  the prehistoric era. The variables are means of geometric and\r\nstylistic features\
+  \ of the flakes contained in different inventories."
+homepage: https://archive.ics.uci.edu/ml/datasets/StoneFlakes
+keywords:
+- Multivariate
+- Classification
+- Clustering
+- Causal-Discovery
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00299/StoneFlakes.dat

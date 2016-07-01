@@ -1,0 +1,12 @@
+name: uci-bach-chorales
+description: Time-series data based on chorales; challenge is to learn generative
+  grammar; data in Lisp
+homepage: https://archive.ics.uci.edu/ml/datasets/Bach+Chorales
+files:
+- name: doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chorales/chorales.doc
+- name: lisp
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chorales/chorales.lisp.Z
+keywords:
+- Univariate
+- Time-Series

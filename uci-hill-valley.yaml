@@ -1,0 +1,24 @@
+name: uci-hill-valley
+description: "Each record represents 100 points on a two-dimensional graph. When plotted\
+  \ in order (from 1 through 100) as the Y co-ordinate, the points will create either\
+  \ a Hill (a \u201Cbump\u201D in the terrain) or a Valley (a \u201Cdip\u201D in the\
+  \ terrain)."
+homepage: https://archive.ics.uci.edu/ml/datasets/Hill-Valley
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill-Valley.names
+- name: sample-arff-text
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_sample_arff.text
+- name: visual-examples-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_visual_examples.jpg
+- name: with-noise-testing-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_with_noise_Testing.data
+- name: with-noise-training-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_with_noise_Training.data
+- name: without-noise-testing-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_without_noise_Testing.data
+- name: without-noise-training-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/Hill_Valley_without_noise_Training.data
+keywords:
+- Sequential
+- Classification

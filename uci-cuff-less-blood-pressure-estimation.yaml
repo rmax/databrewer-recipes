@@ -1,0 +1,9 @@
+name: uci-cuff-less-blood-pressure-estimation
+description: This Data set provides preprocessed and cleaned vital signals which can
+  be used in designing algorithms for cuff-less estimation of the blood pressure.
+homepage: https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00340/data.zip

@@ -1,0 +1,11 @@
+name: uci-flags
+description: From Collins Gem Guide to Flags, 1986
+homepage: https://archive.ics.uci.edu/ml/datasets/Flags
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/flags/flag.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/flags/flag.names
+keywords:
+- Multivariate
+- Classification

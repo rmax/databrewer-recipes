@@ -1,0 +1,7 @@
+name: uci-sentiment-labelled-sentences
+description: The dataset contains sentences labelled with positive or negative sentiment.
+homepage: https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip

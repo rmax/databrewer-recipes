@@ -1,0 +1,12 @@
+name: uci-concrete-compressive-strength
+description: Concrete is the most important material in civil engineering. The concrete
+  compressive strength is a highly nonlinear function of age and ingredients.
+homepage: https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+files:
+- name: data-xls
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/Concrete_Data.xls
+- name: readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/Concrete_Readme.txt
+keywords:
+- Multivariate
+- Regression

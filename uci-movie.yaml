@@ -1,0 +1,55 @@
+name: uci-movie
+description: This data set contains a list of over 10000 films including many older,
+  odd, and cult films. There is information on actors, casts, directors, producers,
+  studios, etc.
+homepage: https://archive.ics.uci.edu/ml/datasets/Movie
+files:
+- name: doc-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/doc.html
+- name: movies-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/movies.data.html
+- name: movies-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/movies.html
+- name: questions
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/questions
+- name: uciform
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/uciform
+- files:
+  - name: awardtypes-doc
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/Awardtypes.doc
+  - name: tvchannels-doc
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/TVChannels.doc
+  - name: actors-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/actors.html
+  - name: adds-txt
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/adds.txt
+  - name: awtypes-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/awtypes.html
+  - name: casts-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/casts.html
+  - name: keys-txt
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/keys.txt
+  - name: locales-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/locales.html
+  - name: main-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/main.html
+  - name: movies-macros
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/movies.macros
+  - name: people-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/people.html
+  - name: queries-sql
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/queries.sql
+  - name: quotes-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/quotes.html
+  - name: remakes-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/remakes.html
+  - name: sayings-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/sayings.html
+  - name: studios-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/studios.html
+  - name: synonyms-html
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/synonyms.html
+  name: data
+keywords:
+- Multivariate
+- Relational

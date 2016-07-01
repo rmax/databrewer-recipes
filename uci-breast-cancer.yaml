@@ -1,0 +1,11 @@
+name: uci-breast-cancer
+description: Breast Cancer Data (Restricted Access)
+homepage: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/breast-cancer-data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/breast-cancer.names
+keywords:
+- Multivariate
+- Classification

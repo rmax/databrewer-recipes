@@ -1,0 +1,30 @@
+name: uci-robot-execution-failures
+description: This dataset contains force and torque measurements on a robot after
+  failure detection. Each failure is characterized by 15 force/torque samples collected
+  at regular time intervals
+homepage: https://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
+files:
+- name: a-out
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/a.out
+- name: format
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/format.c
+- name: lp1-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/lp1.data
+- name: lp2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/lp2.data
+- name: lp3-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/lp3.data
+- name: lp4-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/lp4.data
+- name: lp5-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/lp5.data
+- name: robot
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/robot
+- name: robotfailure-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/robotfailure.data.html
+- name: robotfailure-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/robotfailure.html
+keywords:
+- Multivariate
+- Time-Series
+- Classification

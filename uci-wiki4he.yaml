@@ -1,0 +1,10 @@
+name: uci-wiki4he
+description: Survey of faculty members from two Spanish universities on teaching uses
+  of Wikipedia
+homepage: https://archive.ics.uci.edu/ml/datasets/wiki4HE
+keywords:
+- Multivariate
+- Regression
+- Clustering
+- Causal-Discovery
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00334/wiki4HE.csv

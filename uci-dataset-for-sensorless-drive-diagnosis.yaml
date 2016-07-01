@@ -1,0 +1,8 @@
+name: uci-dataset-for-sensorless-drive-diagnosis
+description: Features are extracted from motor current. The motor has intact and defective
+  components. This results in 11 different classes with different conditions.
+homepage: https://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosis
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00325/Sensorless_drive_diagnosis.txt

@@ -1,0 +1,13 @@
+name: uci-iris
+description: Famous database; from Fisher, 1936
+homepage: https://archive.ics.uci.edu/ml/datasets/Iris
+files:
+- name: bezdekiris-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/bezdekIris.data
+- name: iris-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+- name: iris-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
+keywords:
+- Multivariate
+- Classification

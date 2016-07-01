@@ -1,0 +1,20 @@
+name: uci-mechanical-analysis
+description: Fault diagnosis problem of electromechanical devices; also PUMPS DATA
+  SET is newer version with domain theory and results
+homepage: https://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis
+files:
+- files:
+  - name: distribution
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/PUMPS-DATA-SET/DISTRIBUTION.Z
+  name: pumps-data-set
+- files:
+  - name: data
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/older-version/mechanical-analysis.data
+  - name: names
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/older-version/mechanical-analysis.names
+  - name: notused-instances
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/older-version/mechanical-analysis.notused-instances
+  name: older-version
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,11 @@
+name: uci-shuttle-landing-control
+description: Tiny database; all nominal values
+homepage: https://archive.ics.uci.edu/ml/datasets/Shuttle+Landing+Control
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/shuttle-landing-control/shuttle-landing-control.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/shuttle-landing-control/shuttle-landing-control.names
+keywords:
+- Multivariate
+- Classification

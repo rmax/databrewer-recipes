@@ -1,0 +1,7 @@
+name: uci-qualitative-bankruptcy
+description: Predict the Bankruptcy from Qualitative parameters from experts.
+homepage: https://archive.ics.uci.edu/ml/datasets/Qualitative_Bankruptcy
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00281/Qualitative_Bankruptcy%20(250%20instances).rar

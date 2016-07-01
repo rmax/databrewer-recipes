@@ -1,0 +1,16 @@
+name: uci-molecular-biology-protein-secondary-structure
+description: From CMU connectionist bench repository; Classifies secondary structure
+  of certain globular proteins
+homepage: https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Protein+Secondary+Structure)
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/protein-secondary-structure/protein-secondary-structure.names
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/protein-secondary-structure/protein-secondary-structure.test
+- name: theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/protein-secondary-structure/protein-secondary-structure.theory
+- name: train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/protein-secondary-structure/protein-secondary-structure.train
+keywords:
+- Sequential
+- Classification

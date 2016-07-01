@@ -1,0 +1,14 @@
+name: uci-character-trajectories
+description: Multiple, labelled samples of pen tip trajectories recorded whilst writing
+  individual characters. All samples are from the same writer, for the purposes of
+  primitive extraction. Only characters with a single pen-down segment were considered.
+homepage: https://archive.ics.uci.edu/ml/datasets/Character+Trajectories
+files:
+- name: mixoutall-shifted-mat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/character-trajectories/mixoutALL_shifted.mat
+- name: trajectories-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/character-trajectories/trajectories.names
+keywords:
+- Time-Series
+- Classification
+- Clustering

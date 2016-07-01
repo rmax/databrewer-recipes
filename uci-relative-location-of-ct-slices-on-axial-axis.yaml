@@ -1,0 +1,9 @@
+name: uci-relative-location-of-ct-slices-on-axial-axis
+description: The dataset consists of 384 features extracted from CT images. The class
+  variable is numeric and denotes the relative location of the CT slice on the axial
+  axis of the human body.
+homepage: https://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis
+keywords:
+- Domain-Theory
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00206/slice_localization_data.zip

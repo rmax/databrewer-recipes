@@ -1,0 +1,8 @@
+name: uci-forest-type-mapping
+description: Multi-temporal remote sensing data of a forested area in Japan. The goal
+  is to map different forest types using spectral data.
+homepage: https://archive.ics.uci.edu/ml/datasets/Forest+type+mapping
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00333/ForestTypes.zip

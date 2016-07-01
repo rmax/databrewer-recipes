@@ -1,0 +1,7 @@
+name: uci-diabetes
+description: This diabetes dataset is from AIM '94
+homepage: https://archive.ics.uci.edu/ml/datasets/Diabetes
+keywords:
+- Multivariate
+- Time-Series
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/diabetes/diabetes-data.tar.Z

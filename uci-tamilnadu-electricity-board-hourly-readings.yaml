@@ -1,0 +1,10 @@
+name: uci-tamilnadu-electricity-board-hourly-readings
+description: This data can be effectively produced the result to fewer parameter of
+  the Load profile can be reduced in the Database
+homepage: https://archive.ics.uci.edu/ml/datasets/Tamilnadu+Electricity+Board+Hourly+Readings
+keywords:
+- Multivariate
+- Classification
+- Regression
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00290/eb.arff

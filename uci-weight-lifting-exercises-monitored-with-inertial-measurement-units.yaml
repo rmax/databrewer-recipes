@@ -1,0 +1,9 @@
+name: uci-weight-lifting-exercises-monitored-with-inertial-measurement-units
+description: Six young health subjects were asked to perform 5 variations of the biceps
+  curl weight lifting exercise. One of the variations is the one predicted by the
+  health professional.
+homepage: https://archive.ics.uci.edu/ml/datasets/Weight+Lifting+Exercises+monitored+with+Inertial+Measurement+Units
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00273/Example_WearableComputing_weight_lifting_exercises_biceps_curl_variations.csv

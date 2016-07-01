@@ -1,0 +1,11 @@
+name: uci-zoo
+description: Artificial, 7 classes of animals
+homepage: https://archive.ics.uci.edu/ml/datasets/Zoo
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.names
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,21 @@
+name: uci-breast-cancer-wisconsin-diagnostic
+description: Diagnostic Wisconsin Breast Cancer Database
+homepage: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+files:
+- name: breast-cancer-wisconsin-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+- name: breast-cancer-wisconsin-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names
+- name: unformatted-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/unformatted-data
+- name: wdbc-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+- name: wdbc-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names
+- name: wpbc-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wpbc.data
+- name: wpbc-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wpbc.names
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,34 @@
+name: uci-corel-image-features
+description: This dataset contains image features extracted from a Corel image collection.
+  Four sets of features are available based on the color histogram, color histogram
+  layout, color moments, and co-occurence
+homepage: https://archive.ics.uci.edu/ml/datasets/Corel+Image+Features
+files:
+- name: 48000-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/48000.jpg
+- name: 151085-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/151085.jpg
+- name: 231076-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/231076.jpg
+- name: 294084-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/294084.jpg
+- name: 354090-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/354090.jpg
+- name: 534099-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/534099.jpg
+- name: colorhistogram-asc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/ColorHistogram.asc.gz
+- name: colormoments-asc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/ColorMoments.asc.gz
+- name: cooctexture-asc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/CoocTexture.asc.gz
+- name: corelfeatures-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/CorelFeatures.data.html
+- name: corelfeatures-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/CorelFeatures.html
+- name: layouthistogram-asc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/LayoutHistogram.asc.gz
+- name: size
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/size
+keywords:
+- Multivariate

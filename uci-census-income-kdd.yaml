@@ -1,0 +1,20 @@
+name: uci-census-income-kdd
+description: This data set contains weighted census data extracted from the 1994 and
+  1995 current population surveys conducted by the U.S. Census Bureau.
+homepage: https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
+files:
+- name: income-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census-income.data.gz
+- name: income-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census-income.data.html
+- name: income-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census-income.html
+- name: income-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census-income.names
+- name: income-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census-income.test.gz
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/census.tar.gz
+keywords:
+- Multivariate
+- Classification

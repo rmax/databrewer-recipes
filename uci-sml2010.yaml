@@ -1,0 +1,11 @@
+name: uci-sml2010
+description: This dataset is collected from a monitor system mounted in a domotic
+  house. It corresponds to approximately 40 days of monitoring data.
+homepage: https://archive.ics.uci.edu/ml/datasets/SML2010
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Text
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00274/NEW-DATA.zip

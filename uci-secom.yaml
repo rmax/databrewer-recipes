@@ -1,0 +1,14 @@
+name: uci-secom
+description: Data from a semi-conductor manufacturing process
+homepage: https://archive.ics.uci.edu/ml/datasets/SECOM
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom.names
+- name: labels-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom_labels.data
+keywords:
+- Multivariate
+- Classification
+- Causal-Discovery

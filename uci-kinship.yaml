@@ -1,0 +1,11 @@
+name: uci-kinship
+description: Relational dataset
+homepage: https://archive.ics.uci.edu/ml/datasets/Kinship
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kinship/kinship.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/kinship/kinship.names
+keywords:
+- Relational
+- Relational-Learning

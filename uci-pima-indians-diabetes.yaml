@@ -1,0 +1,24 @@
+name: uci-pima-indians-diabetes
+description: From National Institute of Diabetes and Digestive and Kidney Diseases;
+  Includes cost data (donated by Peter Turney)
+homepage: https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names
+- files:
+  - name: readme
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/costs/pima-indians-diabetes.README
+  - name: cost
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/costs/pima-indians-diabetes.cost
+  - name: delay
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/costs/pima-indians-diabetes.delay
+  - name: expense
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/costs/pima-indians-diabetes.expense
+  - name: group
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/costs/pima-indians-diabetes.group
+  name: costs
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,13 @@
+name: uci-covertype
+description: Forest CoverType dataset
+homepage: https://archive.ics.uci.edu/ml/datasets/Covertype
+files:
+- name: covtype-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.data.gz
+- name: covtype-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.info
+- name: old-covtype-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/old_covtype.info
+keywords:
+- Multivariate
+- Classification

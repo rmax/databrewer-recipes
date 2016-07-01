@@ -1,0 +1,12 @@
+name: uci-uspto-algorithm-challenge-run-by-nasa-harvard-tournament-lab-and-topcoder-problem-pat
+description: Data used for USPTO Algorithm Competition. Contains drawing pages from
+  US patents with manually labeled figure and part labels.
+homepage: https://archive.ics.uci.edu/ml/datasets/USPTO+Algorithm+Challenge,+run+by+NASA-Harvard+Tournament+Lab+and+TopCoder++++Problem:+Pat
+files:
+- name: data-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00268/Data.zip
+- name: sourcecode-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00268/SourceCode.zip
+keywords:
+- Domain-Theory
+- Classification

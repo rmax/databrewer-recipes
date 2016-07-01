@@ -1,0 +1,28 @@
+name: uci-statlog-vehicle-silhouettes
+description: 3D objects within a 2D image by application of an ensemble of shape feature
+  extractors to the 2D silhouettes of the objects.
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)
+files:
+- name: vehicle-doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/vehicle.doc
+- name: xaa-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xaa.dat
+- name: xab-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xab.dat
+- name: xac-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xac.dat
+- name: xad-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xad.dat
+- name: xae-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xae.dat
+- name: xaf-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xaf.dat
+- name: xag-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xag.dat
+- name: xah-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xah.dat
+- name: xai-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/xai.dat
+keywords:
+- Multivariate
+- Classification

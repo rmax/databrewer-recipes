@@ -1,0 +1,16 @@
+name: uci-horse-colic
+description: Well documented attributes; 368 instances with 28 attributes (continuous,
+  discrete, and nominal); 30% missing values
+homepage: https://archive.ics.uci.edu/ml/datasets/Horse+Colic
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/horse-colic/horse-colic.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/horse-colic/horse-colic.names
+- name: names-original
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/horse-colic/horse-colic.names.original
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/horse-colic/horse-colic.test
+keywords:
+- Multivariate
+- Classification

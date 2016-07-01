@@ -1,0 +1,15 @@
+name: uci-plants
+description: Data has been extracted from the USDA plants database. It contains all
+  plants (species and genera) in the database and the states of USA and Canada where
+  they occur.
+homepage: https://archive.ics.uci.edu/ml/datasets/Plants
+files:
+- name: plants-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/plants/plants.data
+- name: plants-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/plants/plants.names
+- name: stateabbr-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/plants/stateabbr.txt
+keywords:
+- Multivariate
+- Clustering

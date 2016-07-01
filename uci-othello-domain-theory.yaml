@@ -1,0 +1,16 @@
+name: uci-othello-domain-theory
+description: Used in research to generate features for an inductive learning system
+homepage: https://archive.ics.uci.edu/ml/datasets/Othello+Domain+Theory
+files:
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/othello/new-othello.names
+- name: theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/othello/new-othello.theory
+- files:
+  - name: names
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/othello/older-version/othello.names
+  - name: theory
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/othello/older-version/othello.theory
+  name: older-version
+keywords:
+- Domain-Theory

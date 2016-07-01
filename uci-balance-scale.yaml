@@ -1,0 +1,11 @@
+name: uci-balance-scale
+description: Balance scale weight & distance database
+homepage: https://archive.ics.uci.edu/ml/datasets/Balance+Scale
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/balance-scale/balance-scale.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/balance-scale/balance-scale.names
+keywords:
+- Multivariate
+- Classification

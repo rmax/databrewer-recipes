@@ -1,0 +1,11 @@
+name: uci-ionosphere
+description: Classification of radar returns from the ionosphere
+homepage: https://archive.ics.uci.edu/ml/datasets/Ionosphere
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.names
+keywords:
+- Multivariate
+- Classification

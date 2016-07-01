@@ -1,0 +1,20 @@
+name: uci-waveform-database-generator-version-2
+description: CART book's waveform domains
+homepage: https://archive.ics.uci.edu/ml/datasets/Waveform+Database+Generator+(Version+2)
+files:
+- name: waveform-noise
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform-+noise.c
+- name: waveform-noise-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform-+noise.data.Z
+- name: waveform-noise-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform-+noise.names
+- name: waveform
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform.c
+- name: waveform-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform.data.Z
+- name: waveform-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/waveform.names
+keywords:
+- Multivariate
+- Data-Generator
+- Classification

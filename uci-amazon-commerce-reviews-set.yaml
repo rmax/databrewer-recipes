@@ -1,0 +1,10 @@
+name: uci-amazon-commerce-reviews-set
+description: The dataset is used for authorship identification in online Writeprint
+  which is a new research field of pattern recognition.
+homepage: https://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set
+keywords:
+- Multivariate
+- Text
+- Domain-Theory
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00215/Amazon_initial_50_30_10000.rar

@@ -1,0 +1,11 @@
+name: uci-lung-cancer
+description: Lung cancer data; no attribute definitions
+homepage: https://archive.ics.uci.edu/ml/datasets/Lung+Cancer
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lung-cancer/lung-cancer.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/lung-cancer/lung-cancer.names
+keywords:
+- Multivariate
+- Classification

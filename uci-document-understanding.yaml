@@ -1,0 +1,33 @@
+name: uci-document-understanding
+description: Five concepts, expressed as predicates, to be learned
+homepage: https://archive.ics.uci.edu/ml/datasets/Document+Understanding
+files:
+- name: foil-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/FOIL.data
+- name: document-understanding-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/document-understanding.info
+- name: test1-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test1.data
+- name: test2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test2.data
+- name: test3-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test3.data
+- name: test4-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test4.data
+- name: test5-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test5.data
+- name: test6-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/test6.data
+- name: train1-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train1.data
+- name: train2-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train2.data
+- name: train3-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train3.data
+- name: train4-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train4.data
+- name: train5-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train5.data
+- name: train6-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/train6.data
+keywords: []

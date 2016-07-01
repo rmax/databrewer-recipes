@@ -1,0 +1,13 @@
+name: uci-poker-hand
+description: Purpose is to predict poker hands
+homepage: https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+files:
+- name: testing-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/poker/poker-hand-testing.data
+- name: training-true-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/poker/poker-hand-training-true.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/poker/poker-hand.names
+keywords:
+- Multivariate
+- Classification

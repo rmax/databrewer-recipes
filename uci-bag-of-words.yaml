@@ -1,0 +1,29 @@
+name: uci-bag-of-words
+description: This data set contains five text collections in the form of bags-of-words.
+homepage: https://archive.ics.uci.edu/ml/datasets/Bag+of+Words
+files:
+- name: docword-enron-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/docword.enron.txt.gz
+- name: docword-kos-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/docword.kos.txt.gz
+- name: docword-nips-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/docword.nips.txt.gz
+- name: docword-nytimes-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/docword.nytimes.txt.gz
+- name: docword-pubmed-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/docword.pubmed.txt.gz
+- name: readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/readme.txt
+- name: vocab-enron-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.enron.txt
+- name: vocab-kos-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.kos.txt
+- name: vocab-nips-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.nips.txt
+- name: vocab-nytimes-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.nytimes.txt
+- name: vocab-pubmed-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.pubmed.txt
+keywords:
+- Text
+- Clustering

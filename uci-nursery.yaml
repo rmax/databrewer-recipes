@@ -1,0 +1,14 @@
+name: uci-nursery
+description: Nursery Database was derived from a hierarchical decision model originally
+  developed to rank applications for nursery schools.
+homepage: https://archive.ics.uci.edu/ml/datasets/Nursery
+files:
+- name: c45-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.c45-names
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.names
+keywords:
+- Multivariate
+- Classification

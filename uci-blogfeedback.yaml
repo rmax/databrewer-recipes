@@ -1,0 +1,9 @@
+name: uci-blogfeedback
+description: Instances in this dataset contain features extracted from blog posts.
+  The task associated with the data is to predict how many comments the post will
+  receive.
+homepage: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00304/BlogFeedback.zip

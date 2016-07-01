@@ -1,0 +1,20 @@
+name: uci-m-tuberculosis-genes
+description: Data giving characteristics of each ORF (potential gene) in the M. tuberculosis
+  bacterium. Sequence, homology (similarity to other genes) and structural information,
+  and function (if known) are provided
+homepage: https://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes
+files:
+- name: data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb.data.html
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb.html
+- name: data-pl-bz2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb_data.pl.bz2
+- name: data-pl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb_data.pl.gz
+- name: functions-pl-bz2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb_functions.pl.bz2
+- name: functions-pl
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/tb_functions.pl.gz
+keywords:
+- Relational

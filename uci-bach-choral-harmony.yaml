@@ -1,0 +1,9 @@
+name: uci-bach-choral-harmony
+description: "The data set is composed of 60 chorales (5665 events) by J.S. Bach (1675-1750).\r\
+  \nEach event of each chorale is labelled using 1 among 101 chord labels and described\r\
+  \nthrough 14 features."
+homepage: https://archive.ics.uci.edu/ml/datasets/Bach+Choral+Harmony
+keywords:
+- Sequential
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00298/jsbach_chorals_harmony.zip

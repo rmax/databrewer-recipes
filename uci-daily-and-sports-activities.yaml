@@ -1,0 +1,11 @@
+name: uci-daily-and-sports-activities
+description: The dataset comprises motion sensor data of 19 daily and sports activities
+  each performed by 8 subjects in their own style for 5 minutes. Five Xsens MTx units
+  are used on the torso, arms, and legs.
+homepage: https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00256/data.zip

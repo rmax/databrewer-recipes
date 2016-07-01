@@ -1,0 +1,9 @@
+name: uci-first-order-theorem-proving
+description: Given a theorem, predict which of five heuristics will give the fastest
+  proof when used by a first-order prover. A sixth prediction declines to attempt
+  a proof, should the theorem be too difficult.
+homepage: https://archive.ics.uci.edu/ml/datasets/First-order+theorem+proving
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00249/ml-prove.tar.gz

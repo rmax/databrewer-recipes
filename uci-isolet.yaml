@@ -1,0 +1,16 @@
+name: uci-isolet
+description: 'Goal: Predict which letter-name was spoken--a simple classification
+  task.'
+homepage: https://archive.ics.uci.edu/ml/datasets/ISOLET
+files:
+- name: isolet-info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/isolet/isolet.info
+- name: isolet-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/isolet/isolet.names
+- name: isolet1-2-3-4-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/isolet/isolet1+2+3+4.data.Z
+- name: isolet5-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/isolet/isolet5.data.Z
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,15 @@
+name: uci-statlog-german-credit-data
+description: This dataset classifies people described by a set of attributes as good
+  or bad credit risks. Comes in two formats (one all numeric). Also comes with a cost
+  matrix
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)
+files:
+- name: german-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data
+- name: german-data-numeric
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data-numeric
+- name: german-doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.doc
+keywords:
+- Multivariate
+- Classification

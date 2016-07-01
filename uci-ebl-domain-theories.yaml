@@ -1,0 +1,21 @@
+name: uci-ebl-domain-theories
+description: Assorted small-scale domain theories
+homepage: https://archive.ics.uci.edu/ml/datasets/EBL+Domain+Theories
+files:
+- name: all
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/all
+- name: cup
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/cup
+- name: deductive-assumable
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/deductive.assumable
+- name: emotion
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/emotion
+- name: ice
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/ice
+- name: pople
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/pople
+- name: safe-to-stack
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/safe-to-stack
+- name: suicide
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ebl/suicide
+keywords: []

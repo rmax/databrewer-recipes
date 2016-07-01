@@ -1,0 +1,10 @@
+name: uci-mice-protein-expression
+description: Expression levels of 77 proteins measured in the cerebral cortex of 8
+  classes of control and Down syndrome mice exposed to context fear conditioning,
+  a task used to assess associative learning.
+homepage: https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00342/Data_Cortex_Nuclear.xls

@@ -1,0 +1,7 @@
+name: uci-restaurant-consumer-data
+description: The dataset was obtained from a recommender system prototype. The task
+  was to generate a top-n list of restaurants according to the consumer preferences.
+homepage: https://archive.ics.uci.edu/ml/datasets/Restaurant+&+consumer+data
+keywords:
+- Multivariate
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00232/RCdata.zip

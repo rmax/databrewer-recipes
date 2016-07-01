@@ -1,0 +1,7 @@
+name: uci-higgs
+description: This is a classification problem to distinguish between a signal process
+  which produces Higgs bosons and a background process which does not.
+homepage: https://archive.ics.uci.edu/ml/datasets/HIGGS
+keywords:
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00280/HIGGS.csv.gz

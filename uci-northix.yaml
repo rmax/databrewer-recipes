@@ -1,0 +1,10 @@
+name: uci-northix
+description: Northix is designed to be a schema matching benchmark problem for data
+  integration of two entity relationship databases.
+homepage: https://archive.ics.uci.edu/ml/datasets/Northix
+keywords:
+- Multivariate
+- Univariate
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00237/Northix.zip

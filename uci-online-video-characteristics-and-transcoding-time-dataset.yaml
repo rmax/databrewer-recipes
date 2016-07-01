@@ -1,0 +1,8 @@
+name: uci-online-video-characteristics-and-transcoding-time-dataset
+description: The dataset contains a million randomly sampled video instances listing
+  10 fundamental video characteristics along with the YouTube video ID.
+homepage: https://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00335/online_video_dataset.zip

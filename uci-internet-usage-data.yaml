@@ -1,0 +1,17 @@
+name: uci-internet-usage-data
+description: This data contains general demographic information on internet users
+  in 1997.
+homepage: https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data
+files:
+- name: changes
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/changes
+- name: final-general-col
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/final_general.col
+- name: final-general-dat
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/final_general.dat.gz
+- name: internet-usage-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/internet_usage.data.html
+- name: internet-usage-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/internet_usage.html
+keywords:
+- Multivariate

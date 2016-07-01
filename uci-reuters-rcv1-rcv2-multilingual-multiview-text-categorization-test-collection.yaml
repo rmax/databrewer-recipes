@@ -1,0 +1,9 @@
+name: uci-reuters-rcv1-rcv2-multilingual-multiview-text-categorization-test-collection
+description: This test collection contains feature characteristics of documents originally
+  written in five different languages and their translations, over a common set of
+  6 categories.
+homepage: https://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual,+Multiview+Text+Categorization+Test+collection
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00259/rcv1rcv2aminigoutte.tar.bz2

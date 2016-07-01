@@ -1,0 +1,11 @@
+name: uci-youtube-multiview-video-games-dataset
+description: This dataset contains about 120k instances, each described by 13 feature
+  types, with class information, specially useful for exploring multiview topics (cotraining,
+  ensembles, clustering,..).
+homepage: https://archive.ics.uci.edu/ml/datasets/YouTube+Multiview+Video+Games+Dataset
+keywords:
+- Multivariate
+- Text
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00269/dir_data.tar

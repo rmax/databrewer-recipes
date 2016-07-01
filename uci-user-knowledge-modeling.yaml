@@ -1,0 +1,9 @@
+name: uci-user-knowledge-modeling
+description: It is the real dataset about the students' knowledge status about the
+  subject of Electrical DC Machines. The dataset had been obtained from Ph.D. Thesis.
+homepage: https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
+keywords:
+- Multivariate
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00257/Data_User_Modeling_Dataset_Hamdi%20Tolga%20KAHRAMAN.xls

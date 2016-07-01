@@ -1,0 +1,12 @@
+name: uci-echocardiogram
+description: Data for classifying if patients will survive for at least one year after
+  a heart attack
+homepage: https://archive.ics.uci.edu/ml/datasets/Echocardiogram
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/echocardiogram/echocardiogram.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/echocardiogram/echocardiogram.names
+keywords:
+- Multivariate
+- Classification

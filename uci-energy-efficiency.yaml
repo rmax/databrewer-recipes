@@ -1,0 +1,9 @@
+name: uci-energy-efficiency
+description: This study looked into assessing the heating load and cooling load requirements
+  of buildings (that is, energy efficiency) as a function of building parameters.
+homepage: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+keywords:
+- Multivariate
+- Classification
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00242/ENB2012_data.xlsx

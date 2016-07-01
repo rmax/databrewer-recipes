@@ -1,0 +1,11 @@
+name: uci-amazon-access-samples
+description: Amazon's InfoSec is getting smarter about the way Access data is leveraged.
+  This is an anonymized sample of access provisioned within the company.
+homepage: https://archive.ics.uci.edu/ml/datasets/Amazon+Access+Samples
+keywords:
+- Time-Series
+- Domain-Theory
+- Regression
+- Clustering
+- Causal-Discovery
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00216/amzn-anon-access-samples.tgz

@@ -1,0 +1,8 @@
+name: uci-chronic-kidney-disease
+description: This dataset can be used to predict the chronic kidney disease and it
+  can be collected from the hospital nearly 2 months of period.
+homepage: https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00336/Chronic_Kidney_Disease.rar

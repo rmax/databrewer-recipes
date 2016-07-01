@@ -1,0 +1,28 @@
+name: uci-student-loan-relational
+description: Student Loan Relational Domain
+homepage: https://archive.ics.uci.edu/ml/datasets/Student+Loan+Relational
+files:
+- name: disabled
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/disabled.pl
+- name: domain-theory
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/domain-theory.pl
+- name: enlist
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/enlist.pl
+- name: enrolled
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/enrolled.pl
+- name: filed-for-bankrupcy
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/filed_for_bankrupcy.pl
+- name: longest-absense-from-school
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/longest_absense_from_school.pl
+- name: male
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/male.pl
+- name: misc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/misc.pl
+- name: no-payment-due
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/no_payment_due.pl
+- name: student-loan-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/student-loan.names
+- name: unemployed
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/unemployed.pl
+keywords:
+- Domain-Theory

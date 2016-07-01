@@ -1,0 +1,11 @@
+name: uci-chess-king-rook-vs-king
+description: Chess Endgame Database for White King and Rook against Black King (KRK).
+homepage: https://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King)
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king/krkopt.data
+- name: info
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king/krkopt.info
+keywords:
+- Multivariate
+- Classification

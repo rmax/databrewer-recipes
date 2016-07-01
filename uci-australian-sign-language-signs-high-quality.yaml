@@ -1,0 +1,18 @@
+name: uci-australian-sign-language-signs-high-quality
+description: This data consists of sample of Auslan (Australian Sign Language) signs.
+  27 examples of each of 95 Auslan signs were captured from a native signer using
+  high-quality position trackers
+homepage: https://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+(High+Quality)
+files:
+- name: auslan-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/auslan.data.html
+- name: auslan-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/auslan.html
+- name: tctodd-tar-bz2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/tctodd.tar.bz2
+- name: tctodd-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/tctodd.tar.gz
+keywords:
+- Multivariate
+- Time-Series
+- Classification

@@ -1,0 +1,32 @@
+name: uci-uji-pen-characters
+description: Data consists of written characters in a UNIPEN-like format
+homepage: https://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters
+files:
+- name: ujipenchars-w01
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w01
+- name: ujipenchars-w02
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w02
+- name: ujipenchars-w03
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w03
+- name: ujipenchars-w04
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w04
+- name: ujipenchars-w05
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w05
+- name: ujipenchars-w06
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w06
+- name: ujipenchars-w07
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w07
+- name: ujipenchars-w08
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w08
+- name: ujipenchars-w09
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w09
+- name: ujipenchars-w10
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w10
+- name: ujipenchars-w11
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/UJIpenchars-w11
+- name: uji-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/uji.names
+keywords:
+- Multivariate
+- Sequential
+- Classification

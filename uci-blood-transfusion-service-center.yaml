@@ -1,0 +1,12 @@
+name: uci-blood-transfusion-service-center
+description: Data taken from the Blood Transfusion Service Center in Hsin-Chu City
+  in Taiwan -- this is a classification problem.
+homepage: https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/blood-transfusion/transfusion.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/blood-transfusion/transfusion.names
+keywords:
+- Multivariate
+- Classification

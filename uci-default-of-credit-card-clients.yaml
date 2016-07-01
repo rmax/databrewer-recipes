@@ -1,0 +1,9 @@
+name: uci-default-of-credit-card-clients
+description: "This research aimed at the case of customers\xE2\u20AC\u2122 default\
+  \ payments in Taiwan and compares the predictive accuracy of probability of default\
+  \ among six data mining methods."
+homepage: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00350/default%20of%20credit%20card%20clients.xls

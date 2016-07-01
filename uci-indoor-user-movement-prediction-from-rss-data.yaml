@@ -1,0 +1,11 @@
+name: uci-indoor-user-movement-prediction-from-rss-data
+description: This dataset contains temporal data from a Wireless Sensor Network deployed
+  in real-world office environments. The task is intended as real-life benchmark in
+  the area of Ambient Assisted Living.
+homepage: https://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+data
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00348/MovementAAL.zip

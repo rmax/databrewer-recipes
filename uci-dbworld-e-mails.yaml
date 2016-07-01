@@ -1,0 +1,9 @@
+name: uci-dbworld-e-mails
+description: 'It contains 64 e-mails which I have manually collected from DBWorld
+  mailing list. They are classified in: ''announces of conferences'' and ''everything
+  else''.'
+homepage: https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
+keywords:
+- Text
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00219/dbworld.zip

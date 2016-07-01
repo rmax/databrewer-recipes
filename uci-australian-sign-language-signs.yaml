@@ -1,0 +1,16 @@
+name: uci-australian-sign-language-signs
+description: This data consists of sample of Auslan (Australian Sign Language) signs.
+  Examples of 95 signs were collected from five signers with a total of 6650 sign
+  samples.
+homepage: https://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs
+files:
+- name: allsigns-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/allsigns.tar.gz
+- name: auslan-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/auslan.data.html
+- name: auslan-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/auslan.html
+keywords:
+- Multivariate
+- Time-Series
+- Classification

@@ -1,0 +1,8 @@
+name: uci-student-alcohol-consumption
+description: The result also provides the correlation between alcohol usage and the
+  social, gender and study time attributes for each student.
+homepage: https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00356/student.zip

@@ -1,0 +1,11 @@
+name: uci-opportunity-activity-recognition
+description: The OPPORTUNITY Dataset for Human Activity Recognition from Wearable,
+  Object, and Ambient Sensors is a dataset devised to benchmark human activity recognition
+  algorithms (classification, automatic data segmentation, sensor fusion, feature
+  extraction, etc).
+homepage: https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00226/OpportunityUCIDataset.zip

@@ -1,0 +1,16 @@
+name: uci-solar-flare
+description: Each class attribute counts the number of solar flares of a certain class
+  that occur in a 24 hour period
+homepage: https://archive.ics.uci.edu/ml/datasets/Solar+Flare
+files:
+- name: flare-data1
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/flare.data1
+- name: flare-data2
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/flare.data2
+- name: flare-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/flare.names
+- name: past-usage
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/past-usage
+keywords:
+- Multivariate
+- Regression

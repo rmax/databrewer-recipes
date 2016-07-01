@@ -1,0 +1,23 @@
+name: uci-arcene
+description: ARCENE's task is to distinguish cancer versus normal patterns from mass-spectrometric
+  data. This is a two-class classification problem with continuous input variables.
+  This dataset is one of 5 datasets of the NIPS 2003 feature selection challenge.
+homepage: https://archive.ics.uci.edu/ml/datasets/Arcene
+files:
+- name: dataset-pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/Dataset.pdf
+- name: arcene-valid-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/arcene_valid.labels
+- name: param
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/arcene.param
+- name: test-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/arcene_test.data
+- name: train-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/arcene_train.data
+- name: train-labels
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/arcene_train.labels
+- name: valid-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/arcene_valid.data
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,11 @@
+name: uci-buzz-in-social-media
+description: 'This data-set contains examples of buzz events from two different social
+  networks: Twitter, and Tom''s Hardware, a forum network focusing on new technology
+  with more conservative dynamics.'
+homepage: https://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+
+keywords:
+- Time-Series
+- Multivariate
+- Regression
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00248/regression.tar.gz

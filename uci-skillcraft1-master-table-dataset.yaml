@@ -1,0 +1,8 @@
+name: uci-skillcraft1-master-table-dataset
+description: This data was used in Thompson et al. (2013). A list of possible game
+  actions is discussed in Thompson, Blair, Chen, & Henrey (2013).
+homepage: https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00272/SkillCraft1_Dataset.csv

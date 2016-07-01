@@ -1,0 +1,9 @@
+name: uci-leaf
+description: This dataset consists in a collection of shape and texture features extracted
+  from digital images of leaf specimens originating from a total of 40 different plant
+  species.
+homepage: https://archive.ics.uci.edu/ml/datasets/Leaf
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00288/leaf.zip

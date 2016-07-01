@@ -1,0 +1,9 @@
+name: uci-condition-based-maintenance-of-naval-propulsion-plants
+description: Data have been generated from a sophisticated simulator of a Gas Turbines
+  (GT), mounted on a Frigate characterized by a COmbined Diesel eLectric And Gas (CODLAG)
+  propulsion plant type.
+homepage: https://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00316/UCI%20CBM%20Dataset.zip

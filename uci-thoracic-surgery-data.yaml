@@ -1,0 +1,9 @@
+name: uci-thoracic-surgery-data
+description: 'The data is dedicated to classification problem related to the post-operative
+  life expectancy in the lung cancer patients: class 1 - death within one year after
+  surgery, class 2 - survival.'
+homepage: https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00277/ThoraricSurgery.arff

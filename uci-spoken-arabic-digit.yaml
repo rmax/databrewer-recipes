@@ -1,0 +1,18 @@
+name: uci-spoken-arabic-digit
+description: This dataset contains timeseries of mel-frequency cepstrum coefficients
+  (MFCCs) corresponding to spoken Arabic digits.  Includes data from 44 male and 44
+  female native Arabic speakers.
+homepage: https://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digit
+files:
+- name: test-arabic-digit-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00195/Test_Arabic_Digit.txt
+- name: train-arabic-digit-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00195/Train_Arabic_Digit.txt
+- name: documentation-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00195/documentation.html
+- name: graphic-jpg
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00195/graphic.jpg
+keywords:
+- Multivariate
+- Time-Series
+- Classification

@@ -1,0 +1,12 @@
+name: uci-chess-king-rook-vs-king-knight
+description: Knight Pin Chess End-Game Database Creator
+homepage: https://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King-Knight)
+files:
+- name: kr-vs-kkn
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king-knight/kr-vs-kkn.l
+- name: kr-vs-kkn-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king-knight/kr-vs-kkn.names
+keywords:
+- Multivariate
+- Data-Generator
+- Classification

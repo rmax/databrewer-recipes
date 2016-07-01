@@ -1,0 +1,12 @@
+name: uci-reuters-21578-text-categorization-collection
+description: This is a collection of documents that appeared on Reuters newswire in
+  1987. The documents were assembled and indexed with categories.
+homepage: https://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection
+files:
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reuters21578.html
+- name: tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reuters21578.tar.gz
+keywords:
+- Text
+- Classification

@@ -1,0 +1,11 @@
+name: uci-user-identification-from-walking-activity
+description: The dataset collects data from an Android smartphone positioned in the
+  chest pocket from 22 participants walking in the wild over a predefined path.
+homepage: https://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity
+keywords:
+- Univariate
+- Sequential
+- Time-Series
+- Classification
+- Clustering
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00286/User%20Identification%20From%20Walking%20Activity.zip

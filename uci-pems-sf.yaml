@@ -1,0 +1,10 @@
+name: uci-pems-sf
+description: 15 months worth of daily data (440 daily records) that describes the
+  occupancy rate, between 0 and 1, of different car lanes of the San Francisco bay
+  area freeways across time.
+homepage: https://archive.ics.uci.edu/ml/datasets/PEMS-SF
+keywords:
+- Multivariate
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00204/PEMS-SF.zip

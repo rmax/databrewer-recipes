@@ -1,0 +1,11 @@
+name: uci-housing
+description: Taken from StatLib library
+homepage: https://archive.ics.uci.edu/ml/datasets/Housing
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
+keywords:
+- Multivariate
+- Regression

@@ -1,0 +1,9 @@
+name: uci-emg-dataset-in-lower-limb
+description: '3 different exercises: sitting, standing and walking in the muscles:
+  biceps femoris, vastus medialis, rectus femoris and semitendinosus addition to goniometry
+  in the exercises.'
+homepage: https://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb
+keywords:
+- Multivariate
+- Time-Series
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00278/SEMG_DB1.rar

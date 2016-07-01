@@ -1,0 +1,13 @@
+name: uci-record-linkage-comparison-patterns
+description: Element-wise comparison of records with personal data from a record linkage
+  setting. The task is to decide from a comparison pattern whether the underlying
+  records belong to one person.
+homepage: https://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns
+files:
+- name: documentation
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00210/documentation
+- name: donation-zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00210/donation.zip
+keywords:
+- Multivariate
+- Classification

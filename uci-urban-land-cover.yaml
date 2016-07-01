@@ -1,0 +1,8 @@
+name: uci-urban-land-cover
+description: Classification of urban land cover using high resolution aerial imagery.
+  Intended to assist sustainable urban planning efforts.
+homepage: https://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00295/Urban%20land%20cover.zip

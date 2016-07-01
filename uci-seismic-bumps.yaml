@@ -1,0 +1,9 @@
+name: uci-seismic-bumps
+description: "The data describe the problem of high energy (higher than 10^4 J) seismic\
+  \ bumps forecasting in a coal \r\nmine. Data come from two of longwalls located\
+  \ in a Polish coal mine."
+homepage: https://archive.ics.uci.edu/ml/datasets/seismic-bumps
+keywords:
+- Multivariate
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00266/seismic-bumps.arff

@@ -1,0 +1,6 @@
+name: uci-qualitative-structure-activity-relationships
+description: 'Two sets of datasets are given: pyrimidines and triazines'
+homepage: https://archive.ics.uci.edu/ml/datasets/Qualitative+Structure+Activity+Relationships
+keywords:
+- Domain-Theory
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/qsar/drug_data

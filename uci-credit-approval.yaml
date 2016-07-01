@@ -1,0 +1,15 @@
+name: uci-credit-approval
+description: This data concerns credit card applications; good mix of attributes
+homepage: https://archive.ics.uci.edu/ml/datasets/Credit+Approval
+files:
+- name: credit-lisp
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/credit.lisp
+- name: credit-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/credit.names
+- name: crx-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data
+- name: crx-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.names
+keywords:
+- Multivariate
+- Classification

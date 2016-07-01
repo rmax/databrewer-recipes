@@ -1,0 +1,23 @@
+name: uci-japanese-vowels
+description: This dataset records 640 time series of 12 LPC cepstrum coefficients
+  taken from nine male speakers.
+homepage: https://archive.ics.uci.edu/ml/datasets/Japanese+Vowels
+files:
+- name: japanesevowels-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/JapaneseVowels.data.html
+- name: japanesevowels-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/JapaneseVowels.html
+- name: japanesevowels-task-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/JapaneseVowels.task.html
+- name: ae-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/ae.test
+- name: ae-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/ae.train
+- name: size-ae-test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/size_ae.test
+- name: size-ae-train
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/size_ae.train
+keywords:
+- Multivariate
+- Time-Series
+- Classification

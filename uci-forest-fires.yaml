@@ -1,0 +1,13 @@
+name: uci-forest-fires
+description: 'This is a difficult regression task, where the aim is to predict the
+  burned area of forest fires, in the northeast region of Portugal, by using meteorological
+  and other data (see details at: ).'
+homepage: https://archive.ics.uci.edu/ml/datasets/Forest+Fires
+files:
+- name: csv
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.names
+keywords:
+- Multivariate
+- Regression

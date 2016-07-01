@@ -1,0 +1,38 @@
+name: uci-us-census-data-1990
+description: The USCensus1990raw data set contains a one percent sample of the Public
+  Use Microdata Samples (PUMS) person records drawn from the full 1990 census sample.
+homepage: https://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)
+files:
+- name: readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/ReadMe.txt
+- name: uscensus1990-desc-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990-desc.html
+- name: uscensus1990-task-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990-task.html
+- name: uscensus1990-attributes-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.attributes.txt
+- name: uscensus1990-data-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.data.txt
+- name: uscensus1990-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.html
+- name: uscensus1990-mapping-sql
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.mapping.sql
+- name: uscensus1990-readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.readme.txt
+- name: uscensus1990-task-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.task.txt
+- name: uscensus1990raw-desc-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw-desc.html
+- name: uscensus1990raw-attributes-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.attributes.txt
+- name: uscensus1990raw-coding-htm
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.coding.htm
+- name: uscensus1990raw-data-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.data.txt
+- name: uscensus1990raw-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.html
+- name: uscensus1990raw-readme-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.readme.txt
+keywords:
+- Multivariate
+- Clustering

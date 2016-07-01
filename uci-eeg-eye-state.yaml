@@ -1,0 +1,10 @@
+name: uci-eeg-eye-state
+description: The data set consists of 14 EEG values and a value indicating the eye
+  state.
+homepage: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+keywords:
+- Multivariate
+- Sequential
+- Time-Series
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00264/EEG%20Eye%20State.arff

@@ -1,0 +1,15 @@
+name: uci-entree-chicago-recommendation-data
+description: This data contains a record of user interactions with the Entree Chicago
+  restaurant recommendation system.
+homepage: https://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data
+files:
+- name: data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/entree.data.html
+- name: html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/entree.html
+- name: data-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/entree_data.tar.gz
+keywords:
+- Transactional
+- Sequential
+- Recommender-Systems

@@ -1,0 +1,12 @@
+name: uci-congressional-voting-records
+description: 1984 United Stated Congressional Voting Records; Classify as Republican
+  or Democrat
+homepage: https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/voting-records/house-votes-84.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/voting-records/house-votes-84.names
+keywords:
+- Multivariate
+- Classification

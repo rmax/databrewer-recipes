@@ -1,0 +1,11 @@
+name: uci-university
+description: Data in original (LISP-readable) form
+homepage: https://archive.ics.uci.edu/ml/datasets/University
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/university/university.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/university/university.names
+keywords:
+- Multivariate
+- Classification

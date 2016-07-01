@@ -1,0 +1,13 @@
+name: uci-protein-data
+description: Undocumented
+homepage: https://archive.ics.uci.edu/ml/datasets/Protein+Data
+files:
+- name: folding-nicer-format-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/sigillito/folding-nicer-format.data
+- name: more-documentation-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/sigillito/more-documentation.names
+- name: secondary-structure-data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/sigillito/secondary-structure.data
+- name: secondary-structure-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/sigillito/secondary-structure.names
+keywords: []

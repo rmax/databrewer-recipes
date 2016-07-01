@@ -1,0 +1,12 @@
+name: uci-page-blocks-classification
+description: The problem consists of classifying all the blocks of the page layout
+  of a document that has been detected by a segmentation process.
+homepage: https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/page-blocks/page-blocks.data.Z
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/page-blocks/page-blocks.names
+keywords:
+- Multivariate
+- Classification

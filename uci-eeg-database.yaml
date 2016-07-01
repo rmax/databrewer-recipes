@@ -1,0 +1,273 @@
+name: uci-eeg-database
+description: This data arises from a large study to examine EEG correlates of genetic
+  predisposition to alcoholism. It contains measurements from 64 electrodes placed
+  on the scalp sampled at 256 Hz
+homepage: https://archive.ics.uci.edu/ml/datasets/EEG+Database
+files:
+- name: smni-cmi-test-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TEST.tar.gz
+- name: smni-cmi-train-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TRAIN.tar.gz
+- name: alcoholic-gif
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/alcoholic.gif
+- name: control-gif
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/control.gif
+- name: eeg-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg.data.html
+- name: eeg-full-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg.full.html
+- name: eeg-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg.html
+- name: eeg-full-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full.tar
+- name: smni-eeg-data-tar
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/smni_eeg_data.tar.gz
+- files:
+  - name: co2a0000364-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000364.tar.gz
+  - name: co2a0000365-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000365.tar.gz
+  - name: co2a0000368-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000368.tar.gz
+  - name: co2a0000369-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000369.tar.gz
+  - name: co2a0000370-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000370.tar.gz
+  - name: co2a0000371-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000371.tar.gz
+  - name: co2a0000372-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000372.tar.gz
+  - name: co2a0000375-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000375.tar.gz
+  - name: co2a0000377-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000377.tar.gz
+  - name: co2a0000378-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000378.tar.gz
+  - name: co2a0000379-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000379.tar.gz
+  - name: co2a0000380-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000380.tar.gz
+  - name: co2a0000381-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000381.tar.gz
+  - name: co2a0000382-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000382.tar.gz
+  - name: co2a0000384-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000384.tar.gz
+  - name: co2a0000385-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000385.tar.gz
+  - name: co2a0000386-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000386.tar.gz
+  - name: co2a0000387-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000387.tar.gz
+  - name: co2a0000388-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000388.tar.gz
+  - name: co2a0000390-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000390.tar.gz
+  - name: co2a0000392-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000392.tar.gz
+  - name: co2a0000394-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000394.tar.gz
+  - name: co2a0000395-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000395.tar.gz
+  - name: co2a0000396-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000396.tar.gz
+  - name: co2a0000398-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000398.tar.gz
+  - name: co2a0000400-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000400.tar.gz
+  - name: co2a0000402-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000402.tar.gz
+  - name: co2a0000403-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000403.tar.gz
+  - name: co2a0000404-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000404.tar.gz
+  - name: co2a0000405-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000405.tar.gz
+  - name: co2a0000406-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000406.tar.gz
+  - name: co2a0000407-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000407.tar.gz
+  - name: co2a0000409-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000409.tar.gz
+  - name: co2a0000410-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000410.tar.gz
+  - name: co2a0000411-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000411.tar.gz
+  - name: co2a0000412-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000412.tar.gz
+  - name: co2a0000414-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000414.tar.gz
+  - name: co2a0000415-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000415.tar.gz
+  - name: co2a0000416-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000416.tar.gz
+  - name: co2a0000417-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000417.tar.gz
+  - name: co2a0000418-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000418.tar.gz
+  - name: co2a0000419-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000419.tar.gz
+  - name: co2a0000421-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000421.tar.gz
+  - name: co2a0000422-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000422.tar.gz
+  - name: co2a0000423-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000423.tar.gz
+  - name: co2a0000424-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000424.tar.gz
+  - name: co2a0000425-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000425.tar.gz
+  - name: co2a0000426-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000426.tar.gz
+  - name: co2a0000427-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000427.tar.gz
+  - name: co2a0000428-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000428.tar.gz
+  - name: co2a0000429-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000429.tar.gz
+  - name: co2a0000430-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000430.tar.gz
+  - name: co2a0000432-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000432.tar.gz
+  - name: co2a0000433-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000433.tar.gz
+  - name: co2a0000434-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000434.tar.gz
+  - name: co2a0000435-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000435.tar.gz
+  - name: co2a0000436-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000436.tar.gz
+  - name: co2a0000437-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000437.tar.gz
+  - name: co2a0000438-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000438.tar.gz
+  - name: co2a0000439-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000439.tar.gz
+  - name: co2a0000440-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000440.tar.gz
+  - name: co2a0000443-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000443.tar.gz
+  - name: co2a0000444-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000444.tar.gz
+  - name: co2a0000445-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000445.tar.gz
+  - name: co2a0000447-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2a0000447.tar.gz
+  - name: co2c0000337-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000337.tar.gz
+  - name: co2c0000338-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000338.tar.gz
+  - name: co2c0000339-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000339.tar.gz
+  - name: co2c0000340-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000340.tar.gz
+  - name: co2c0000341-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000341.tar.gz
+  - name: co2c0000342-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000342.tar.gz
+  - name: co2c0000344-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000344.tar.gz
+  - name: co2c0000345-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000345.tar.gz
+  - name: co2c0000346-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000346.tar.gz
+  - name: co2c0000347-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000347.tar.gz
+  - name: co2c0000348-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000348.tar.gz
+  - name: co2c0000351-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000351.tar.gz
+  - name: co2c0000352-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000352.tar.gz
+  - name: co2c0000354-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000354.tar.gz
+  - name: co2c0000355-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000355.tar.gz
+  - name: co2c0000356-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000356.tar.gz
+  - name: co2c0000357-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000357.tar.gz
+  - name: co2c0000359-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000359.tar.gz
+  - name: co2c0000362-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000362.tar.gz
+  - name: co2c0000363-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000363.tar.gz
+  - name: co2c0000364-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000364.tar.gz
+  - name: co2c0000367-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000367.tar.gz
+  - name: co2c0000370-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000370.tar.gz
+  - name: co2c0000371-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000371.tar.gz
+  - name: co2c0000373-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000373.tar.gz
+  - name: co2c0000374-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000374.tar.gz
+  - name: co2c0000378-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000378.tar.gz
+  - name: co2c0000379-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000379.tar.gz
+  - name: co2c0000381-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000381.tar.gz
+  - name: co2c0000382-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000382.tar.gz
+  - name: co2c0000383-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000383.tar.gz
+  - name: co2c0000384-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000384.tar.gz
+  - name: co2c0000387-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000387.tar.gz
+  - name: co2c0000388-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000388.tar.gz
+  - name: co2c0000389-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000389.tar.gz
+  - name: co2c0000390-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000390.tar.gz
+  - name: co2c0000391-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000391.tar.gz
+  - name: co2c0000392-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000392.tar.gz
+  - name: co2c0000393-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000393.tar.gz
+  - name: co2c0000394-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000394.tar.gz
+  - name: co2c0000395-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000395.tar.gz
+  - name: co2c0000396-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000396.tar.gz
+  - name: co2c0000397-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c0000397.tar.gz
+  - name: co2c1000367-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co2c1000367.tar.gz
+  - name: co3a0000448-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000448.tar.gz
+  - name: co3a0000450-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000450.tar.gz
+  - name: co3a0000451-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000451.tar.gz
+  - name: co3a0000453-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000453.tar.gz
+  - name: co3a0000454-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000454.tar.gz
+  - name: co3a0000455-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000455.tar.gz
+  - name: co3a0000456-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000456.tar.gz
+  - name: co3a0000457-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000457.tar.gz
+  - name: co3a0000458-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000458.tar.gz
+  - name: co3a0000459-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000459.tar.gz
+  - name: co3a0000460-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000460.tar.gz
+  - name: co3a0000461-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3a0000461.tar.gz
+  - name: co3c0000402-tar
+    url: https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/co3c0000402.tar.gz
+  name: eeg_full
+keywords:
+- Multivariate
+- Time-Series

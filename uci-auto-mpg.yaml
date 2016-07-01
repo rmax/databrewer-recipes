@@ -1,0 +1,13 @@
+name: uci-auto-mpg
+description: Revised from CMU StatLib library, data concerns city-cycle fuel consumption
+homepage: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data
+- name: data-original
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data-original
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.names
+keywords:
+- Multivariate
+- Regression

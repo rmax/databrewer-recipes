@@ -1,0 +1,29 @@
+name: uci-ipums-census-database
+description: This data set contains unweighted PUMS census data from the Los Angeles
+  and Long Beach areas for the years 1970, 1980, and 1990.
+homepage: https://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Database
+files:
+- name: codebook
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/codebook
+- name: ipums-data-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.data.html
+- name: ipums-html
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.html
+- name: ipums-la-97
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.la.97.gz
+- name: ipums-la-97-gz-old
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.la.97.gz.old
+- name: ipums-la-98
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.la.98.gz
+- name: ipums-la-99
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.la.99.gz
+- name: ipums-la-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/ipums.la.names
+- name: s-ipums-la-97
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/s.ipums.la.97.gz
+- name: s-ipums-la-98
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/s.ipums.la.98.gz
+- name: s-ipums-la-99
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/s.ipums.la.99.gz
+keywords:
+- Multivariate

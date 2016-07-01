@@ -1,0 +1,11 @@
+name: uci-opinrank-review-dataset
+description: "This data set contains user reviews of cars and and hotels collected\
+  \ from Tripadvisor (~259,000 \r\nreviews) and Edmunds (~42,230 reviews)."
+homepage: https://archive.ics.uci.edu/ml/datasets/OpinRank+Review+Dataset
+files:
+- name: pdf
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00205/OpinRankDataset.pdf
+- name: zip
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/00205/OpinRankDataset.zip
+keywords:
+- Text

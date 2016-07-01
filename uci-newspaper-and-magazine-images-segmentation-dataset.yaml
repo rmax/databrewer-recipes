@@ -1,0 +1,8 @@
+name: uci-newspaper-and-magazine-images-segmentation-dataset
+description: Dataset is well suited for segmentation tasks. It contains 101 scanned
+  pages from different newspapers and magazines in Russian with ground truth pixel-based
+  masks.
+homepage: https://archive.ics.uci.edu/ml/datasets/Newspaper+and+magazine+images+segmentation+dataset
+keywords:
+- Classification
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00306/dataset_segmentation.rar

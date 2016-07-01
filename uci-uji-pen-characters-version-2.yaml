@@ -1,0 +1,12 @@
+name: uci-uji-pen-characters-version-2
+description: A pen-based database with more than 11k isolated handwritten characters
+homepage: https://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+(Version+2)
+files:
+- name: uji2-names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version2/uji2.names
+- name: ujipenchars2-txt
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version2/ujipenchars2.txt
+keywords:
+- Multivariate
+- Sequential
+- Classification

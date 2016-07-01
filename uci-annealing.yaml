@@ -1,0 +1,13 @@
+name: uci-annealing
+description: Steel annealing data
+homepage: https://archive.ics.uci.edu/ml/datasets/Annealing
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/annealing/anneal.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/annealing/anneal.names
+- name: test
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/annealing/anneal.test
+keywords:
+- Multivariate
+- Classification

@@ -1,0 +1,14 @@
+name: uci-statlog-landsat-satellite
+description: Multi-spectral values of pixels in 3x3 neighbourhoods in a satellite
+  image, and the classification associated with the central pixel in each neighbourhood
+homepage: https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite)
+files:
+- name: doc
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.doc
+- name: trn
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.trn
+- name: tst
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.tst
+keywords:
+- Multivariate
+- Classification

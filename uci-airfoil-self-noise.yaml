@@ -1,0 +1,9 @@
+name: uci-airfoil-self-noise
+description: NASA data set, obtained from a series of aerodynamic and acoustic tests
+  of two and three-dimensional airfoil blade sections conducted in an anechoic wind
+  tunnel.
+homepage: https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise
+keywords:
+- Multivariate
+- Regression
+url: https://archive.ics.uci.edu/ml/machine-learning-databases/00291/airfoil_self_noise.dat

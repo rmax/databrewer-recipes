@@ -1,0 +1,12 @@
+name: uci-computer-hardware
+description: Relative CPU Performance Data, described in terms of its cycle time,
+  memory size, etc.
+homepage: https://archive.ics.uci.edu/ml/datasets/Computer+Hardware
+files:
+- name: data
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/cpu-performance/machine.data
+- name: names
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/cpu-performance/machine.names
+keywords:
+- Multivariate
+- Regression
