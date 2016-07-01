@@ -1,0 +1,28 @@
+# Config file for automatic testing at travis-ci.org
+
+language: python
+python: 3.5
+sudo: false
+
+before_install:
+  - python --version
+  - uname -a
+  - lsb_release -a
+
+install: 
+  - pip install -U jsonschema pyyaml six
+
+script:
+  - python validate.py
+
+before_cache:
+  - rm -fr $HOME/.cache/pip/log
+
+cache:
+  diretories:
+    - $HOME/.cache/pip
+
+notifications:
+  email:
+    on_sucess: never
+    on_failure: always
