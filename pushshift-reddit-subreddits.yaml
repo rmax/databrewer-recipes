@@ -1,0 +1,4 @@
+name: pushshift-reddit-subreddits
+description: Reddit subreddits dump
+homepage: https://files.pushshift.io/subreddits/
+url: https://files.pushshift.io/subreddits/subreddits.gz
