@@ -10,6 +10,11 @@ import yaml
 
 from six.moves.urllib_parse import urlparse
 
+try:
+    from tqdm import tqdm
+except ImportError:
+    tqdm = None
+
 
 # TODO: Move this schema to the databrewer package.
 RECIPE_SCHEMA = {
@@ -120,10 +125,13 @@ def validate_files(obj):
         raise ValueError("Filenames not unique")
 
 
-def main(prefix, fail_fast):
+def main(prefix, quiet, fail_fast):
     logging.debug("Datasets prefix: %s", prefix)
     ret = 0
-    for recipe in find_recipes(args.prefix):
+    recipes = find_recipes(args.prefix)
+    if tqdm:
+        recipes = tqdm(recipes, unit=' recipes')
+    for recipe in recipes:
         logging.debug("Validating %s", recipe)
         ret |= validate_recipe(recipe)
         if ret:
@@ -143,4 +151,6 @@ if __name__ == "__main__":
     args = get_args()
     level = logging.DEBUG if args.debug else logging.INFO
     logging.basicConfig(level=level, format='[%(levelname)s] %(message)s')
-    sys.exit(main(args.prefix, args.fail_fast))
+    sys.exit(main(args.prefix,
+                  quiet=not args.debug,
+                  fail_fast=args.fail_fast))
