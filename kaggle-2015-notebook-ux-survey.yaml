@@ -1,5 +1,5 @@
 name: kaggle-2015-notebook-ux-survey
 description: 2015 Notebook UX Survey. Understand user perspectives on Jupyter Notebooks
 homepage: https://www.kaggle.com/jupyter/2015-notebook-ux-survey
-restricted: true
-url: https://www.kaggle.com/jupyter/2015-notebook-ux-survey/downloads/2015-notebook-ux-survey-release-2016-01-20-19-29-13.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/22/22/2015-notebook-ux-survey-release-2016-01-20-19-29-13.zip

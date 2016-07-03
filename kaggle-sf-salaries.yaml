@@ -1,5 +1,5 @@
 name: kaggle-sf-salaries
 description: SF Salaries. Explore San Francisco city employee salary data
 homepage: https://www.kaggle.com/kaggle/sf-salaries
-restricted: true
-url: https://www.kaggle.com/kaggle/sf-salaries/downloads/sf-salaries-release-2015-12-21-03-21-32.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/14/14/sf-salaries-release-2015-12-21-03-21-32.zip

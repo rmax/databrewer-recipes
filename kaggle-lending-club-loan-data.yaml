@@ -1,5 +1,5 @@
 name: kaggle-lending-club-loan-data
 description: Lending Club Loan Data. Analyze Lending Club's issued loans
 homepage: https://www.kaggle.com/wendykan/lending-club-loan-data
-restricted: true
-url: https://www.kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/34/51/lending-club-loan-data.zip

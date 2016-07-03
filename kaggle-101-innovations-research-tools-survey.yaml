@@ -2,5 +2,5 @@ name: kaggle-101-innovations-research-tools-survey
 description: 101 Innovations - Research Tools Survey. Explore global research practices
   and opinions on scholarly communication
 homepage: https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey
-restricted: true
-url: https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey/downloads/101-innovations-research-tools-survey.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/39/71/101-innovations-research-tools-survey.zip

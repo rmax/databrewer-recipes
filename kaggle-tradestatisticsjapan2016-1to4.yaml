@@ -1,5 +1,5 @@
 name: kaggle-tradestatisticsjapan2016-1to4
 description: 2016 Japanese Trade Statistics. with HS code,Countrhy code
 homepage: https://www.kaggle.com/zanjibar/tradestatisticsjapan2016-1to4
-restricted: true
-url: https://www.kaggle.com/zanjibar/tradestatisticsjapan2016-1to4/downloads/2016-japanese-trade-statistics.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/58/128/2016-japanese-trade-statistics.zip

@@ -2,5 +2,5 @@ name: kaggle-reddit-comments-may-2015
 description: May 2015 Reddit Comments. Get personal with a dataset of comments from
   May 2015
 homepage: https://www.kaggle.com/reddit/reddit-comments-may-2015
-restricted: true
-url: https://www.kaggle.com/reddit/reddit-comments-may-2015/downloads/reddit-comments-may-2015.7z
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/7/7/reddit-comments-may-2015.7z

@@ -1,5 +1,5 @@
 name: kaggle-amazon-fine-food-reviews
 description: Amazon Fine Food Reviews. Analyze ~500,000 food reviews from Amazon
 homepage: https://www.kaggle.com/snap/amazon-fine-food-reviews
-restricted: true
-url: https://www.kaggle.com/snap/amazon-fine-food-reviews/downloads/amazon-fine-foods-release-2016-01-08-20-34-54.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/18/18/amazon-fine-foods-release-2016-01-08-20-34-54.zip

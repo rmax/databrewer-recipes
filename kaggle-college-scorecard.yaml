@@ -2,5 +2,5 @@ name: kaggle-college-scorecard
 description: 'US Dept of Education: College Scorecard. Raise the curtain on the true
   cost of higher education'
 homepage: https://www.kaggle.com/kaggle/college-scorecard
-restricted: true
-url: https://www.kaggle.com/kaggle/college-scorecard/downloads/college-scorecard-release-2015-09-23-15-08-57.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/11/11/college-scorecard-release-2015-09-23-15-08-57.zip

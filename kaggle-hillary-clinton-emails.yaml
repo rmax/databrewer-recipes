@@ -2,5 +2,5 @@ name: kaggle-hillary-clinton-emails
 description: Hillary Clinton's Emails. Uncover the political landscape in Hillary
   Clinton's emails
 homepage: https://www.kaggle.com/kaggle/hillary-clinton-emails
-restricted: true
-url: https://www.kaggle.com/kaggle/hillary-clinton-emails/downloads/hillary-clinton-emails-release-2015-09-11-01-39-01.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/10/10/hillary-clinton-emails-release-2015-09-11-01-39-01.zip

@@ -2,5 +2,5 @@ name: kaggle-drosophila-melanogaster-genome
 description: Drosophila Melanogaster Genome. Explore the annotated genome of the common
   fruit fly
 homepage: https://www.kaggle.com/mylesoneill/drosophila-melanogaster-genome
-restricted: true
-url: https://www.kaggle.com/mylesoneill/drosophila-melanogaster-genome/downloads/drosophila-melanogaster-genome.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/52/97/drosophila-melanogaster-genome.zip

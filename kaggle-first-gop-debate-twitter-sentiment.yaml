@@ -2,5 +2,5 @@ name: kaggle-first-gop-debate-twitter-sentiment
 description: First GOP Debate Twitter Sentiment. Analyze tweets on the first 2016
   GOP Presidential Debate
 homepage: https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment
-restricted: true
-url: https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment/downloads/first-gop-debate-twitter-sentiment-release-2015-12-28-05-51-00.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/16/16/first-gop-debate-twitter-sentiment-release-2015-12-28-05-51-00.zip

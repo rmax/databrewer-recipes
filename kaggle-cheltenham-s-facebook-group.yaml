@@ -1,5 +1,5 @@
 name: kaggle-cheltenham-s-facebook-group
 description: Cheltenham's Facebook Groups. Discover How a Community Leverages Facebook
 homepage: https://www.kaggle.com/mchirico/cheltenham-s-facebook-group
-restricted: true
-url: https://www.kaggle.com/mchirico/cheltenham-s-facebook-group/downloads/cheltenham-s-facebook-group.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/54/127/cheltenham-s-facebook-group.zip

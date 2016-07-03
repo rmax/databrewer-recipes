@@ -2,5 +2,5 @@ name: kaggle-mortality
 description: Death in the United States. Learn more about the leading causes of death
   in 2014
 homepage: https://www.kaggle.com/cdc/mortality
-restricted: true
-url: https://www.kaggle.com/cdc/mortality/downloads/DeathRecords.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/28/32/DeathRecords.zip

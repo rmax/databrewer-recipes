@@ -1,5 +1,5 @@
 name: kaggle-iris
 description: Iris. Classify iris plants into three species in this classic dataset
 homepage: https://www.kaggle.com/uciml/iris
-restricted: true
-url: https://www.kaggle.com/uciml/iris/downloads/iris-release-2016-01-12-01-48-31.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/19/19/iris-release-2016-01-12-01-48-31.zip

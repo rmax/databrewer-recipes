@@ -2,5 +2,5 @@ name: kaggle-2016-march-ml-mania
 description: 2016 March ML Mania Predictions. Forecasting the 2016 NCAA Basketball
   Tournament
 homepage: https://www.kaggle.com/wcukierski/2016-march-ml-mania
-restricted: true
-url: https://www.kaggle.com/wcukierski/2016-march-ml-mania/downloads/2016-march-machine-learning-mania-predictions.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/inbox-files/1476/2016-march-machine-learning-mania-predictions.zip

@@ -1,5 +1,5 @@
 name: kaggle-2016-us-election
 description: 2016 US Election. Explore data related to the 2016 US Election
 homepage: https://www.kaggle.com/benhamner/2016-us-election
-restricted: true
-url: https://www.kaggle.com/benhamner/2016-us-election/downloads/2016_presidential_election_2016-03-25-21-27-54.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/24/131/2016-us-election.zip

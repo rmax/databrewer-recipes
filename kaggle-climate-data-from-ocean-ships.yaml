@@ -2,5 +2,5 @@ name: kaggle-climate-data-from-ocean-ships
 description: Ocean Ship Logbooks (1750-1850). Explore changing climatology with data
   from early shipping logs
 homepage: https://www.kaggle.com/kaggle/climate-data-from-ocean-ships
-restricted: true
-url: https://www.kaggle.com/kaggle/climate-data-from-ocean-ships/downloads/climate-data-from-ocean-ships.7z
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/8/8/climate-data-from-ocean-ships.7z

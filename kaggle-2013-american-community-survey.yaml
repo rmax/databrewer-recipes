@@ -2,5 +2,5 @@ name: kaggle-2013-american-community-survey
 description: 2013 American Community Survey. Find insights in the 2013 American Community
   Survey
 homepage: https://www.kaggle.com/census/2013-american-community-survey
-restricted: true
-url: https://www.kaggle.com/census/2013-american-community-survey/downloads/2013-american-community-survey.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/6/6/2013-american-community-survey.zip

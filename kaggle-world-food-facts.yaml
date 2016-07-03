@@ -1,5 +1,5 @@
 name: kaggle-world-food-facts
 description: World Food Facts. Explore nutrition facts from foods around the world
 homepage: https://www.kaggle.com/openfoodfacts/world-food-facts
-restricted: true
-url: https://www.kaggle.com/openfoodfacts/world-food-facts/downloads/world-food-facts-release-2016-01-13-03-19-37.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/20/20/world-food-facts-release-2016-01-13-03-19-37.zip

@@ -2,5 +2,5 @@ name: kaggle-warcraft-avatar-history
 description: World of Warcraft Avatar History. Track the players of this popular online
   game
 homepage: https://www.kaggle.com/mylesoneill/warcraft-avatar-history
-restricted: true
-url: https://www.kaggle.com/mylesoneill/warcraft-avatar-history/downloads/warcraft-avatar-history.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/42/117/warcraft-avatar-history.zip

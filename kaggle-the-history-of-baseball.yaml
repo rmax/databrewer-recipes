@@ -2,5 +2,5 @@ name: kaggle-the-history-of-baseball
 description: The History of Baseball. A complete history of major league baseball
   stats from 1871 to 2015
 homepage: https://www.kaggle.com/kaggle/the-history-of-baseball
-restricted: true
-url: https://www.kaggle.com/kaggle/the-history-of-baseball/downloads/baseball_2016-03-08-22-23-12.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/26/30/baseball_2016-03-08-22-23-12.zip

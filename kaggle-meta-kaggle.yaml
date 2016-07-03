@@ -1,5 +1,5 @@
 name: kaggle-meta-kaggle
 description: Meta Kaggle. The dataset on Kaggle, on Kaggle
 homepage: https://www.kaggle.com/kaggle/meta-kaggle
-restricted: true
-url: https://www.kaggle.com/kaggle/meta-kaggle/downloads/meta-kaggle.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/9/123/meta-kaggle.zip

@@ -2,5 +2,5 @@ name: kaggle-airplane-crashes-since-1908
 description: Airplane Crashes Since 1908. Full history of airplane crashes throughout
   the world, from 1908-present
 homepage: https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
-restricted: true
-url: https://www.kaggle.com/saurograndi/airplane-crashes-since-1908/downloads/airplane-crashes-since-1908.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/47/85/airplane-crashes-since-1908.zip

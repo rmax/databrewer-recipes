@@ -2,5 +2,5 @@ name: kaggle-sf-bay-area-bike-share
 description: SF Bay Area Bike Share. Anonymized bike trip data from August 2013 to
   August 2015
 homepage: https://www.kaggle.com/benhamner/sf-bay-area-bike-share
-restricted: true
-url: https://www.kaggle.com/benhamner/sf-bay-area-bike-share/downloads/sf-bay-area-bike-share.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/57/116/sf-bay-area-bike-share.zip

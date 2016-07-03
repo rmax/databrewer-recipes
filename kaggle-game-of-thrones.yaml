@@ -1,5 +1,5 @@
 name: kaggle-game-of-thrones
 description: Game of Thrones. Explore deaths and battles from this fantasy world
 homepage: https://www.kaggle.com/mylesoneill/game-of-thrones
-restricted: true
-url: https://www.kaggle.com/mylesoneill/game-of-thrones/downloads/game-of-thrones.zip
+restricted: false
+url: https://kaggle2.blob.core.windows.net/datasets/43/77/game-of-thrones.zip
