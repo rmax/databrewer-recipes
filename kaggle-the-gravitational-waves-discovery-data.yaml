@@ -2,5 +2,13 @@ name: kaggle-the-gravitational-waves-discovery-data
 description: The Gravitational Waves Discovery Data. The GW150914 Gravitational Waves
   event data
 homepage: https://www.kaggle.com/elenacuoco/the-gravitational-waves-discovery-data
-restricted: true
-url: https://www.kaggle.com/elenacuoco/the-gravitational-waves-discovery-data/downloads/the-gravitational-waves-discovery-data.zip
+restricted: false
+files:
+  - name: h1-4
+    url: https://losc.ligo.org/s/events/GW150914/H-H1_LOSC_4_V1-1126257414-4096.hdf5
+  - name: l1-4
+    url: https://losc.ligo.org/s/events/GW150914/L-L1_LOSC_4_V1-1126257414-4096.hdf5
+  - name: h1-16
+    url: https://losc.ligo.org/s/events/GW150914/H-H1_LOSC_16_V1-1126257414-4096.hdf5
+  - name: l1-16
+    url: https://losc.ligo.org/s/events/GW150914/L-L1_LOSC_16_V1-1126257414-4096.hdf5
