@@ -1,0 +1,6 @@
+name: network-of-thrones
+description: |
+  Network of Thrones Data Set: a CSV file that contains 353 weighted
+  edges connecting 107 characters from "A Storm of Swords."
+homepage: https://www.macalester.edu/~abeverid/thrones.html
+url: https://www.macalester.edu/~abeverid/data/stormofswords.csv
