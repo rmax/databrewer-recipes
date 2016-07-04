@@ -1,0 +1,235 @@
+name: nyc-tlc-taxi
+description: This dataset includes trip records from all trips completed in yellow
+  and green taxis in NYC in 2014 and select months of 2015.
+homepage: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+files:
+- name: yellow
+  files:
+  - name: 2015-01
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-01.csv
+  - name: 2015-02
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-02.csv
+  - name: 2015-03
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-03.csv
+  - name: 2015-04
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-04.csv
+  - name: 2015-05
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-05.csv
+  - name: 2015-06
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-06.csv
+  - name: 2015-07
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-07.csv
+  - name: 2015-08
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-08.csv
+  - name: 2015-09
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-09.csv
+  - name: 2015-10
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-10.csv
+  - name: 2015-11
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-11.csv
+  - name: 2015-12
+    url: https://storage.googleapis.com/tlc-trip-data/2015/yellow_tripdata_2015-12.csv
+  - name: 2014-01
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-01.csv
+  - name: 2014-02
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-02.csv
+  - name: 2014-03
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-03.csv
+  - name: 2014-04
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-04.csv
+  - name: 2014-05
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-05.csv
+  - name: 2014-06
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-06.csv
+  - name: 2014-07
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-07.csv
+  - name: 2014-08
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-08.csv
+  - name: 2014-09
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-09.csv
+  - name: 2014-10
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-10.csv
+  - name: 2014-11
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-11.csv
+  - name: 2014-12
+    url: https://storage.googleapis.com/tlc-trip-data/2014/yellow_tripdata_2014-12.csv
+  - name: 2013-01
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-01.csv
+  - name: 2013-02
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-02.csv
+  - name: 2013-03
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-03.csv
+  - name: 2013-04
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-04.csv
+  - name: 2013-05
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-05.csv
+  - name: 2013-06
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-06.csv
+  - name: 2013-07
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-07.csv
+  - name: 2013-08
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-08.csv
+  - name: 2013-09
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-09.csv
+  - name: 2013-10
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-10.csv
+  - name: 2013-11
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-11.csv
+  - name: 2013-12
+    url: https://storage.googleapis.com/tlc-trip-data/2013/yellow_tripdata_2013-12.csv
+  - name: 2012-01
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-01.csv
+  - name: 2012-02
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-02.csv
+  - name: 2012-03
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-03.csv
+  - name: 2012-04
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-04.csv
+  - name: 2012-05
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-05.csv
+  - name: 2012-06
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-06.csv
+  - name: 2012-07
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-07.csv
+  - name: 2012-08
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-08.csv
+  - name: 2012-09
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-09.csv
+  - name: 2012-10
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-10.csv
+  - name: 2012-11
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-11.csv
+  - name: 2012-12
+    url: https://storage.googleapis.com/tlc-trip-data/2012/yellow_tripdata_2012-12.csv
+  - name: 2011-01
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-01.csv
+  - name: 2011-02
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-02.csv
+  - name: 2011-03
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-03.csv
+  - name: 2011-04
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-04.csv
+  - name: 2011-05
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-05.csv
+  - name: 2011-06
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-06.csv
+  - name: 2011-07
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-07.csv
+  - name: 2011-08
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-08.csv
+  - name: 2011-09
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-09.csv
+  - name: 2011-10
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-10.csv
+  - name: 2011-11
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-11.csv
+  - name: 2011-12
+    url: https://storage.googleapis.com/tlc-trip-data/2011/yellow_tripdata_2011-12.csv
+  - name: 2010-01
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-01.csv
+  - name: 2010-02
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-02.csv
+  - name: 2010-03
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-03.csv
+  - name: 2010-04
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-04.csv
+  - name: 2010-05
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-05.csv
+  - name: 2010-06
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-06.csv
+  - name: 2010-07
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-07.csv
+  - name: 2010-08
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-08.csv
+  - name: 2010-09
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-09.csv
+  - name: 2010-10
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-10.csv
+  - name: 2010-11
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-11.csv
+  - name: 2010-12
+    url: https://storage.googleapis.com/tlc-trip-data/2010/yellow_tripdata_2010-12.csv
+  - name: 2009-01
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-01.csv
+  - name: 2009-02
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-02.csv
+  - name: 2009-03
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-03.csv
+  - name: 2009-04
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-04.csv
+  - name: 2009-05
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-05.csv
+  - name: 2009-06
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-06.csv
+  - name: 2009-07
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-07.csv
+  - name: 2009-08
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-08.csv
+  - name: 2009-09
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-09.csv
+  - name: 2009-10
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-10.csv
+  - name: 2009-11
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-11.csv
+  - name: 2009-12
+    url: https://storage.googleapis.com/tlc-trip-data/2009/yellow_tripdata_2009-12.csv
+- name: green
+  files:
+  - name: 2015-01
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-01.csv
+  - name: 2015-02
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-02.csv
+  - name: 2015-03
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-03.csv
+  - name: 2015-04
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-04.csv
+  - name: 2015-05
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-05.csv
+  - name: 2015-06
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-06.csv
+  - name: 2015-07
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-07.csv
+  - name: 2015-08
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-08.csv
+  - name: 2015-09
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-09.csv
+  - name: 2015-10
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-10.csv
+  - name: 2015-11
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-11.csv
+  - name: 2015-12
+    url: https://storage.googleapis.com/tlc-trip-data/2015/green_tripdata_2015-12.csv
+  - name: 2014-01
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-01.csv
+  - name: 2014-02
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-02.csv
+  - name: 2014-03
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-03.csv
+  - name: 2014-04
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-04.csv
+  - name: 2014-05
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-05.csv
+  - name: 2014-06
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-06.csv
+  - name: 2014-07
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-07.csv
+  - name: 2014-08
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-08.csv
+  - name: 2014-09
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-09.csv
+  - name: 2014-10
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-10.csv
+  - name: 2014-11
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-11.csv
+  - name: 2014-12
+    url: https://storage.googleapis.com/tlc-trip-data/2014/green_tripdata_2014-12.csv
+  - name: 2013-08
+    url: https://storage.googleapis.com/tlc-trip-data/2013/green_tripdata_2013-08.csv
+  - name: 2013-09
+    url: https://storage.googleapis.com/tlc-trip-data/2013/green_tripdata_2013-09.csv
+  - name: 2013-10
+    url: https://storage.googleapis.com/tlc-trip-data/2013/green_tripdata_2013-10.csv
+  - name: 2013-11
+    url: https://storage.googleapis.com/tlc-trip-data/2013/green_tripdata_2013-11.csv
+  - name: 2013-12
+    url: https://storage.googleapis.com/tlc-trip-data/2013/green_tripdata_2013-12.csv

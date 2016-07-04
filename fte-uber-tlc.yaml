@@ -1,0 +1,47 @@
+name: fte-uber-tlc
+description: Over 4.5 million Uber pickups in New York City from April to
+  September 2014, and 14.3 million more Uber pickups from January to June 2015.
+homepage: https://github.com/fivethirtyeight/uber-tlc-foil-response
+files:
+- name: zone-lookup
+  url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/taxi-zone-lookup.csv
+- name: uber
+  files:
+  - name: 2014-04
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-apr14.csv
+  - name: 2014-05
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-may14.csv
+  - name: 2014-06
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-jun14.csv
+  - name: 2014-07
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-jul14.csv
+  - name: 2014-08
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-aug14.csv
+  - name: 2014-09
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-sep14.csv
+  - name: 2015-0106
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/uber-trip-data/uber-raw-data-janjune-15.csv.zip
+- name: other
+  files:
+  - name: american
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/American_B01362.csv
+  - name: carmel
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Carmel_B00256.csv
+  - name: dial7
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Dial7_B00887.csv
+  - name: diplo
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Diplo_B01196.csv
+  - name: federal
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Federal_02216.csv
+  - name: firstclass
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Firstclass_B01536.csv
+  - name: highclass
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Highclass_B01717.csv
+  - name: lyft
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Lyft_B02510.csv
+  - name: prestige
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Prestige_B01338.csv
+  - name: skyline
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/Skyline_B00111.csv
+  - name: other
+    url: https://github.com/fivethirtyeight/uber-tlc-foil-response/raw/master/other-FHV-data/other-FHV-data-jan-aug-2015.csv

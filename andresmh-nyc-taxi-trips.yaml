@@ -1,0 +1,56 @@
+name: andresmh-nyc-taxi-trips
+description: NYC Taxi Trips. Data obtained through a FOIA request
+homepage: http://www.andresmh.com/nyctaxitrips/
+files:
+- name: trip-data
+  files:
+  - name: "01"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_1.csv.zip
+  - name: "02"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_2.csv.zip
+  - name: "03"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_3.csv.zip
+  - name: "04"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_4.csv.zip
+  - name: "05"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_5.csv.zip
+  - name: "06"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_6.csv.zip
+  - name: "07"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_7.csv.zip
+  - name: "08"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_8.csv.zip
+  - name: "09"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_9.csv.zip
+  - name: "10"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_10.csv.zip
+  - name: "11"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_11.csv.zip
+  - name: "12"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_data_12.csv.zip
+- name: trip-fare
+  files:
+  - name: "01"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_1.csv.zip
+  - name: "02"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_2.csv.zip
+  - name: "03"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_3.csv.zip
+  - name: "04"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_4.csv.zip
+  - name: "05"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_5.csv.zip
+  - name: "06"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_6.csv.zip
+  - name: "07"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_7.csv.zip
+  - name: "08"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_8.csv.zip
+  - name: "09"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_9.csv.zip
+  - name: "10"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_10.csv.zip
+  - name: "11"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_11.csv.zip
+  - name: "12"
+    url: https://nyctaxitrips.blob.core.windows.net/data/trip_fare_12.csv.zip
