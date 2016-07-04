@@ -1,0 +1,14 @@
+name: kaggle-comp-how-much-did-it-rain
+description: How Much Did It Rain?. Predict probabilistic distribution of hourly rain
+  given polarimetric radar measurements
+homepage: https://www.kaggle.com/c/how-much-did-it-rain
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/how-much-did-it-rain/download/sampleSubmission.csv
+- name: test-2014-csv
+  url: https://www.kaggle.com/c/how-much-did-it-rain/download/test_2014.csv.zip
+- name: train-2013-csv
+  url: https://www.kaggle.com/c/how-much-did-it-rain/download/train_2013.csv.zip
+- name: sample-solution-py
+  url: https://www.kaggle.com/c/how-much-did-it-rain/download/sample_solution.py
+restricted: true

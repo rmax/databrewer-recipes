@@ -1,0 +1,18 @@
+name: kaggle-comp-galaxy-zoo-the-galaxy-challenge
+description: Galaxy Zoo - The Galaxy Challenge. Classify the morphologies of distant
+  galaxies in our Universe
+homepage: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge
+files:
+- name: all-ones-benchmark
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/all_ones_benchmark.zip
+- name: all-zeros-benchmark
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/all_zeros_benchmark.zip
+- name: central-pixel-benchmark
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/central_pixel_benchmark.zip
+- name: images-training-rev1
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/images_training_rev1.zip
+- name: images-test-rev1
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/images_test_rev1.zip
+- name: training-solutions-rev1
+  url: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/download/training_solutions_rev1.zip
+restricted: true

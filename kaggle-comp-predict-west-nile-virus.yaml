@@ -1,0 +1,24 @@
+name: kaggle-comp-predict-west-nile-virus
+description: West Nile Virus Prediction. Predict West Nile virus in mosquitos across
+  the city of Chicago
+homepage: https://www.kaggle.com/c/predict-west-nile-virus
+files:
+- name: noaa-weather-qclcd-documentation-pdf
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/noaa_weather_qclcd_documentation.pdf
+- name: weather-csv
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/weather.csv.zip
+- name: spray-csv
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/spray.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/train.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/test.csv.zip
+- name: mapdata-copyright-openstreetmap-contributors-rds
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/mapdata_copyright_openstreetmap_contributors.rds
+- name: mapdata-copyright-openstreetmap-contributors-txt
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/mapdata_copyright_openstreetmap_contributors.txt.zip
+- name: west-nile
+  url: https://www.kaggle.com/c/predict-west-nile-virus/download/west_nile.zip
+restricted: true

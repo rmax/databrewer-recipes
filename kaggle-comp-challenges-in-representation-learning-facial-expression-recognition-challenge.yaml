@@ -1,0 +1,10 @@
+name: kaggle-comp-challenges-in-representation-learning-facial-expression-recognition-challenge
+description: 'Challenges in Representation Learning: Facial Expression Recognition
+  Challenge. Learn facial expressions from an image'
+homepage: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+files:
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/download/example_submission.csv
+- name: fer2013-tar
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/download/fer2013.tar.gz
+restricted: true

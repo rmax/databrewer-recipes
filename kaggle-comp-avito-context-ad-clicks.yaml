@@ -1,0 +1,29 @@
+name: kaggle-comp-avito-context-ad-clicks
+description: Avito Context Ad Clicks. Predict if context ads will earn a user's click
+homepage: https://www.kaggle.com/c/avito-context-ad-clicks
+files:
+- name: userinfo-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/UserInfo.tsv.7z
+- name: category-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/Category.tsv.7z
+- name: location-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/Location.tsv.7z
+- name: phonerequestsstream-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/PhoneRequestsStream.tsv.7z
+- name: testsearchstream-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/testSearchStream.tsv.7z
+- name: samplesubmission-csv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/sampleSubmission.csv.7z
+- name: samplesubmission-histctr-csv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/sampleSubmission_HistCTR.csv.7z
+- name: adsinfo-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/AdsInfo.tsv.7z
+- name: visitsstream-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/VisitsStream.tsv.7z
+- name: trainsearchstream-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/trainSearchStream.tsv.7z
+- name: searchinfo-tsv-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/SearchInfo.tsv.7z
+- name: database-sqlite-7z
+  url: https://www.kaggle.com/c/avito-context-ad-clicks/download/database.sqlite.7z
+restricted: true

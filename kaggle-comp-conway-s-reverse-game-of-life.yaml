@@ -1,0 +1,12 @@
+name: kaggle-comp-conway-s-reverse-game-of-life
+description: Conway's Reverse Game of Life. Reverse the arrow of time in the Game
+  of Life
+homepage: https://www.kaggle.com/c/conway-s-reverse-game-of-life
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/conway-s-reverse-game-of-life/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/conway-s-reverse-game-of-life/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/conway-s-reverse-game-of-life/download/train.csv.zip
+restricted: true

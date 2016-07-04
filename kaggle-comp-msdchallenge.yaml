@@ -1,0 +1,16 @@
+name: kaggle-comp-msdchallenge
+description: Million Song Dataset Challenge. Predict which songs a user will listen
+  to.
+homepage: https://www.kaggle.com/c/msdchallenge
+files:
+- name: kaggle-users-txt
+  url: https://www.kaggle.com/c/msdchallenge/download/kaggle_users.txt
+- name: kaggle-songs-txt
+  url: https://www.kaggle.com/c/msdchallenge/download/kaggle_songs.txt
+- name: kaggle-visible-evaluation-triplets
+  url: https://www.kaggle.com/c/msdchallenge/download/kaggle_visible_evaluation_triplets.zip
+- name: taste-profile-song-to-tracks-txt
+  url: https://www.kaggle.com/c/msdchallenge/download/taste_profile_song_to_tracks.txt.zip
+- name: msdchallengegettingstarted-pdf
+  url: https://www.kaggle.com/c/msdchallenge/download/MSDChallengeGettingstarted.pdf
+restricted: true

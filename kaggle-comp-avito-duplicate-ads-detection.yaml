@@ -1,0 +1,39 @@
+name: kaggle-comp-avito-duplicate-ads-detection
+description: Avito Duplicate Ads Detection. Can you detect duplicitous duplicate ads?
+homepage: https://www.kaggle.com/c/avito-duplicate-ads-detection
+files:
+- name: category-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Category.csv.zip
+- name: location-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Location.csv.zip
+- name: itempairs-train-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/ItemPairs_train.csv.zip
+- name: iteminfo-test-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/ItemInfo_test.csv.zip
+- name: iteminfo-train-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/ItemInfo_train.csv.zip
+- name: images-0
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_0.zip
+- name: images-1
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_1.zip
+- name: images-2
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_2.zip
+- name: images-3
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_3.zip
+- name: images-4
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_4.zip
+- name: images-5
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_5.zip
+- name: images-6
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_6.zip
+- name: images-7
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_7.zip
+- name: images-8
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_8.zip
+- name: images-9
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Images_9.zip
+- name: itempairs-test-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/ItemPairs_test.csv.zip
+- name: random-submission-csv
+  url: https://www.kaggle.com/c/avito-duplicate-ads-detection/download/Random_submission.csv.zip
+restricted: true

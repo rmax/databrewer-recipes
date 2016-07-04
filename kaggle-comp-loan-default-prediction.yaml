@@ -1,0 +1,12 @@
+name: kaggle-comp-loan-default-prediction
+description: Loan Default Prediction - Imperial College London. Constructing an optimal
+  portfolio of loans
+homepage: https://www.kaggle.com/c/loan-default-prediction
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/loan-default-prediction/download/sampleSubmission.csv
+- name: train-v2-csv
+  url: https://www.kaggle.com/c/loan-default-prediction/download/train_v2.csv.zip
+- name: test-v2-csv
+  url: https://www.kaggle.com/c/loan-default-prediction/download/test_v2.csv.zip
+restricted: true

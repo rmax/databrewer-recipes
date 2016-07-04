@@ -1,0 +1,36 @@
+name: kaggle-comp-belkin-energy-disaggregation-competition
+description: Belkin Energy Disaggregation Competition. Disaggregate household energy
+  consumption into individual appliances
+homepage: https://www.kaggle.com/c/belkin-energy-disaggregation-competition
+files:
+- name: loaderscripts
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/LoaderScripts.zip
+- name: h2
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H2.zip
+- name: h3
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H3.zip
+- name: h4
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H4.zip
+- name: h1
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H1.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/SampleSubmission.csv
+- name: h1copy
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H1copy.zip
+- name: h1-alltagginginfo-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H1_AllTaggingInfo.csv
+- name: h2-alltagginginfo-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H2_AllTaggingInfo.csv
+- name: h3-alltagginginfo-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H3_AllTaggingInfo.csv
+- name: h4-alltagginginfo-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H4_AllTaggingInfo.csv
+- name: h1-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H1_CSV.zip
+- name: h2-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H2_CSV.zip
+- name: h3-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H3_CSV.zip
+- name: h4-csv
+  url: https://www.kaggle.com/c/belkin-energy-disaggregation-competition/download/H4_CSV.zip
+restricted: true

@@ -1,0 +1,18 @@
+name: kaggle-comp-home-depot-product-search-relevance
+description: Home Depot Product Search Relevance. Predict the relevance of search
+  results on homedepot.com
+homepage: https://www.kaggle.com/c/home-depot-product-search-relevance
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/sample_submission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/test.csv.zip
+- name: product-descriptions-csv
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/product_descriptions.csv.zip
+- name: attributes-csv
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/attributes.csv.zip
+- name: relevance-instructions-docx
+  url: https://www.kaggle.com/c/home-depot-product-search-relevance/download/relevance_instructions.docx
+restricted: true

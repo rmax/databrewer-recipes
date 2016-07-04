@@ -1,0 +1,15 @@
+name: kaggle-comp-whale-detection-challenge
+description: The Marinexplore and Cornell University Whale Detection Challenge. Create
+  an algorithm to detect North Atlantic right whale calls from audio recordings, prevent
+  collisions with shipping traffic
+homepage: https://www.kaggle.com/c/whale-detection-challenge
+files:
+- name: whale-data
+  url: https://www.kaggle.com/c/whale-detection-challenge/download/whale_data.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/whale-detection-challenge/download/sample_submission.csv
+- name: d5470-cornell-copyright-permission-notice-pdf
+  url: https://www.kaggle.com/c/whale-detection-challenge/download/D5470%20Cornell%20Copyright%20Permission%20Notice.pdf
+- name: small-data-sample-revised
+  url: https://www.kaggle.com/c/whale-detection-challenge/download/small_data_sample_revised.zip
+restricted: true

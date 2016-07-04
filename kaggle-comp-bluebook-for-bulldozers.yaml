@@ -1,0 +1,34 @@
+name: kaggle-comp-bluebook-for-bulldozers
+description: Blue Book for Bulldozers. Predict the auction sale price for a piece
+  of heavy equipment to create a "blue book" for bulldozers.
+homepage: https://www.kaggle.com/c/bluebook-for-bulldozers
+files:
+- name: train-7z
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Train.7z
+- name: train
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Train.zip
+- name: valid-7z
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Valid.7z
+- name: valid-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Valid.csv
+- name: valid
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Valid.zip
+- name: data-dictionary-xlsx
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Data%20Dictionary.xlsx
+- name: median-benchmark-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/median_benchmark.csv
+- name: machine-appendix-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Machine_Appendix.csv
+- name: validsolution-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/ValidSolution.csv
+- name: trainandvalid-7z
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/TrainAndValid.7z
+- name: trainandvalid-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/TrainAndValid.csv
+- name: trainandvalid
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/TrainAndValid.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/Test.csv
+- name: random-forest-benchmark-test-csv
+  url: https://www.kaggle.com/c/bluebook-for-bulldozers/download/random_forest_benchmark_test.csv
+restricted: true

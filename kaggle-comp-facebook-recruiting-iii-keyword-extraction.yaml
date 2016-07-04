@@ -1,0 +1,12 @@
+name: kaggle-comp-facebook-recruiting-iii-keyword-extraction
+description: Facebook Recruiting III - Keyword Extraction. Data Scientist                   at                 Facebook        Menlo
+  Park, CA
+homepage: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
+files:
+- name: train
+  url: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Train.zip
+- name: test
+  url: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Test.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/SampleSubmission.csv
+restricted: true

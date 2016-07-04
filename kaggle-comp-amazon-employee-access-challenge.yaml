@@ -1,0 +1,12 @@
+name: kaggle-comp-amazon-employee-access-challenge
+description: Amazon.com - Employee Access Challenge. Predict an employee's access
+  needs, given his/her job role
+homepage: https://www.kaggle.com/c/amazon-employee-access-challenge
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/amazon-employee-access-challenge/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/amazon-employee-access-challenge/download/train.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/amazon-employee-access-challenge/download/sampleSubmission.csv
+restricted: true

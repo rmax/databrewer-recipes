@@ -1,0 +1,15 @@
+name: kaggle-comp-noaa-right-whale-recognition
+description: Right Whale Recognition. Identify endangered right whales in aerial photographs
+homepage: https://www.kaggle.com/c/noaa-right-whale-recognition
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/noaa-right-whale-recognition/download/sample_submission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/noaa-right-whale-recognition/download/train.csv.zip
+- name: imgs
+  url: https://www.kaggle.com/c/noaa-right-whale-recognition/download/imgs.zip
+- name: w-7489-jpg
+  url: https://www.kaggle.com/c/noaa-right-whale-recognition/download/w_7489.jpg.zip
+- name: imgs-subset
+  url: https://www.kaggle.com/c/noaa-right-whale-recognition/download/imgs_subset.zip
+restricted: true

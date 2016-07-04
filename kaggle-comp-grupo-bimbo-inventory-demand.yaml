@@ -1,0 +1,18 @@
+name: kaggle-comp-grupo-bimbo-inventory-demand
+description: Grupo Bimbo Inventory Demand. Maximize sales and minimize returns of
+  bakery goods
+homepage: https://www.kaggle.com/c/grupo-bimbo-inventory-demand
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/sample_submission.csv.zip
+- name: cliente-tabla-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/cliente_tabla.csv.zip
+- name: producto-tabla-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/producto_tabla.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/test.csv.zip
+- name: town-state-csv
+  url: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/download/town_state.csv.zip
+restricted: true

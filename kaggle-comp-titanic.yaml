@@ -1,0 +1,20 @@
+name: kaggle-comp-titanic
+description: 'Titanic: Machine Learning from Disaster. Predict survival on the Titanic
+  using Excel, Python, R & Random Forests'
+homepage: https://www.kaggle.com/c/titanic
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/titanic/download/train.csv
+- name: gendermodel-csv
+  url: https://www.kaggle.com/c/titanic/download/gendermodel.csv
+- name: genderclassmodel-csv
+  url: https://www.kaggle.com/c/titanic/download/genderclassmodel.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/titanic/download/test.csv
+- name: gendermodel-py
+  url: https://www.kaggle.com/c/titanic/download/gendermodel.py
+- name: genderclassmodel-py
+  url: https://www.kaggle.com/c/titanic/download/genderclassmodel.py
+- name: myfirstforest-py
+  url: https://www.kaggle.com/c/titanic/download/myfirstforest.py
+restricted: true

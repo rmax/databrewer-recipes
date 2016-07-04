@@ -1,0 +1,15 @@
+name: kaggle-comp-stayalert
+description: Stay Alert! The Ford Challenge. Driving while not alert can be deadly.
+  The objective is to design a classifier that will detect whether the driver is alert
+  or not alert, employing data that are acquired while driving.
+homepage: https://www.kaggle.com/c/stayalert
+files:
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/stayalert/download/example_submission.csv
+- name: fordtest-csv
+  url: https://www.kaggle.com/c/stayalert/download/fordTest.csv
+- name: fordtrain-csv
+  url: https://www.kaggle.com/c/stayalert/download/fordTrain.csv
+- name: solution-csv
+  url: https://www.kaggle.com/c/stayalert/download/Solution.csv
+restricted: true

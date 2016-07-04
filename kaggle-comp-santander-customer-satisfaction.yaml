@@ -1,0 +1,11 @@
+name: kaggle-comp-santander-customer-satisfaction
+description: Santander Customer Satisfaction. Which customers are happy customers?
+homepage: https://www.kaggle.com/c/santander-customer-satisfaction
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/santander-customer-satisfaction/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/santander-customer-satisfaction/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/santander-customer-satisfaction/download/train.csv.zip
+restricted: true

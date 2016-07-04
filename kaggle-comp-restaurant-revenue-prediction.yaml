@@ -1,0 +1,12 @@
+name: kaggle-comp-restaurant-revenue-prediction
+description: Restaurant Revenue Prediction. Predict annual restaurant sales based
+  on objective measurements
+homepage: https://www.kaggle.com/c/restaurant-revenue-prediction
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/restaurant-revenue-prediction/download/sampleSubmission.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/restaurant-revenue-prediction/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/restaurant-revenue-prediction/download/test.csv.zip
+restricted: true

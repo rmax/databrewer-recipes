@@ -1,0 +1,11 @@
+name: kaggle-comp-avazu-ctr-prediction
+description: Click-Through Rate Prediction. Predict whether a mobile ad will be clicked
+homepage: https://www.kaggle.com/c/avazu-ctr-prediction
+files:
+- name: train
+  url: https://www.kaggle.com/c/avazu-ctr-prediction/download/train.gz
+- name: test
+  url: https://www.kaggle.com/c/avazu-ctr-prediction/download/test.gz
+- name: samplesubmission
+  url: https://www.kaggle.com/c/avazu-ctr-prediction/download/sampleSubmission.gz
+restricted: true

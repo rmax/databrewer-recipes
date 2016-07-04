@@ -1,0 +1,36 @@
+name: kaggle-comp-cervical-cancer-screening
+description: Cervical Cancer Screening. Help prevent cervical cancer by identifying
+  at-risk populations
+homepage: https://www.kaggle.com/c/cervical-cancer-screening
+files:
+- name: diagnosis-code-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/diagnosis_code.csv.zip
+- name: drugs-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/drugs.csv.zip
+- name: physicians-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/physicians.csv.zip
+- name: procedure-code-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/procedure_code.csv.zip
+- name: surgical-code-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/surgical_code.csv.zip
+- name: surgical-head-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/surgical_head.csv.gz
+- name: patient-activity-head-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/patient_activity_head.csv.gz
+- name: diagnosis-head-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/diagnosis_head.csv.gz
+- name: patients-train-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/patients_train.csv.gz
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/sample_submission.csv.gz
+- name: patients-test-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/patients_test.csv.gz
+- name: prescription-head-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/prescription_head.csv.gz
+- name: procedure-head-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/procedure_head.csv.gz
+- name: train-patients-to-exclude-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/train_patients_to_exclude.csv
+- name: test-patients-to-exclude-csv
+  url: https://www.kaggle.com/c/cervical-cancer-screening/download/test_patients_to_exclude.csv
+restricted: true

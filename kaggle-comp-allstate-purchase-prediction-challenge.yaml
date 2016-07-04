@@ -1,0 +1,12 @@
+name: kaggle-comp-allstate-purchase-prediction-challenge
+description: Allstate Purchase Prediction Challenge. Predict a purchased policy based
+  on transaction history
+homepage: https://www.kaggle.com/c/allstate-purchase-prediction-challenge
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/allstate-purchase-prediction-challenge/download/sampleSubmission.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/allstate-purchase-prediction-challenge/download/train.csv.zip
+- name: test-v2-csv
+  url: https://www.kaggle.com/c/allstate-purchase-prediction-challenge/download/test_v2.csv.zip
+restricted: true

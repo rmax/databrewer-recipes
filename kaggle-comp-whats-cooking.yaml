@@ -1,0 +1,11 @@
+name: kaggle-comp-whats-cooking
+description: What's Cooking?. Use recipe ingredients to categorize the cuisine
+homepage: https://www.kaggle.com/c/whats-cooking
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/whats-cooking/download/sample_submission.csv.zip
+- name: test-json
+  url: https://www.kaggle.com/c/whats-cooking/download/test.json.zip
+- name: train-json
+  url: https://www.kaggle.com/c/whats-cooking/download/train.json.zip
+restricted: true

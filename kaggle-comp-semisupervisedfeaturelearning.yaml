@@ -1,0 +1,14 @@
+name: kaggle-comp-semisupervisedfeaturelearning
+description: Semi-Supervised Feature Learning. There's been a lot of recent work done
+  in unsupervised feature learning for classification and there are a ton of older
+  methods that also work well. The purpose of this competition is to find out which
+  of these methods work best on relatively large-scale high dimensional learning tasks.
+homepage: https://www.kaggle.com/c/SemiSupervisedFeatureLearning
+files:
+- name: semisupervised-feature-learning-tgz
+  url: https://www.kaggle.com/c/SemiSupervisedFeatureLearning/download/semisupervised_feature_learning.tgz
+- name: matlab-format-data-tgz
+  url: https://www.kaggle.com/c/SemiSupervisedFeatureLearning/download/matlab_format_data.tgz
+- name: public-test-labels-dat
+  url: https://www.kaggle.com/c/SemiSupervisedFeatureLearning/download/public_test.labels.dat.gz
+restricted: true

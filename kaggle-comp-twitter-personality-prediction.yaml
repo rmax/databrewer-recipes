@@ -1,0 +1,12 @@
+name: kaggle-comp-twitter-personality-prediction
+description: Personality Prediction Based on Twitter Stream. Identify the best performing
+  model(s) to predict personality traits based on Twitter usage
+homepage: https://www.kaggle.com/c/twitter-personality-prediction
+files:
+- name: personality-traits-testset-v1-csv
+  url: https://www.kaggle.com/c/twitter-personality-prediction/download/Personality_Traits_Testset_v1.csv
+- name: sample-code-r
+  url: https://www.kaggle.com/c/twitter-personality-prediction/download/sample_code.R
+- name: random-sample-submission-csv
+  url: https://www.kaggle.com/c/twitter-personality-prediction/download/random%20sample%20submission.csv
+restricted: true

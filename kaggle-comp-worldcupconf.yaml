@@ -1,0 +1,6 @@
+name: kaggle-comp-worldcupconf
+description: World Cup 2010 - Confidence Challenge. The Confidence Challenge requires
+  competitors to assign a level of confidence to their World Cup predictions.
+homepage: https://www.kaggle.com/c/worldcupconf
+files: []
+restricted: true

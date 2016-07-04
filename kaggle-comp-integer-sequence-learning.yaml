@@ -1,0 +1,11 @@
+name: kaggle-comp-integer-sequence-learning
+description: Integer Sequence Learning. 1, 2, 3, 4, 5, 7?!
+homepage: https://www.kaggle.com/c/integer-sequence-learning
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/integer-sequence-learning/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/integer-sequence-learning/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/integer-sequence-learning/download/train.csv.zip
+restricted: true

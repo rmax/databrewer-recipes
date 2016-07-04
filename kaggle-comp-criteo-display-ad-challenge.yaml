@@ -1,0 +1,8 @@
+name: kaggle-comp-criteo-display-ad-challenge
+description: Display Advertising Challenge. Predict click-through rates on display
+  ads
+homepage: https://www.kaggle.com/c/criteo-display-ad-challenge
+files:
+- name: random-submission
+  url: https://www.kaggle.com/c/criteo-display-ad-challenge/download/random_submission.zip
+restricted: true

@@ -1,0 +1,12 @@
+name: kaggle-comp-liberty-mutual-fire-peril
+description: Liberty Mutual Group - Fire Peril Loss Cost. Predict expected fire losses
+  for insurance policies
+homepage: https://www.kaggle.com/c/liberty-mutual-fire-peril
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/liberty-mutual-fire-peril/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/liberty-mutual-fire-peril/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/liberty-mutual-fire-peril/download/train.csv.zip
+restricted: true

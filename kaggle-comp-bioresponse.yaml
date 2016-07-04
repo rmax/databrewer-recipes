@@ -1,0 +1,12 @@
+name: kaggle-comp-bioresponse
+description: Predicting a Biological Response. Predict a biological response of molecules
+  from their chemical properties
+homepage: https://www.kaggle.com/c/bioresponse
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/bioresponse/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/bioresponse/download/test.csv
+- name: svm-benchmark-csv
+  url: https://www.kaggle.com/c/bioresponse/download/svm_benchmark.csv
+restricted: true

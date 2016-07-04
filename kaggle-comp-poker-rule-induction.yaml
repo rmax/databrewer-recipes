@@ -1,0 +1,11 @@
+name: kaggle-comp-poker-rule-induction
+description: Poker Rule Induction. Determine the poker hand of five playing cards
+homepage: https://www.kaggle.com/c/poker-rule-induction
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/poker-rule-induction/download/sampleSubmission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/poker-rule-induction/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/poker-rule-induction/download/test.csv.zip
+restricted: true

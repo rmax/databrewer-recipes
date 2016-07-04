@@ -1,0 +1,15 @@
+name: kaggle-comp-facebook-recruiting-iv-human-or-bot
+description: 'Facebook Recruiting IV: Human or Robot?. Software Engineer, Machine
+  Learning                   at                 Facebook        Menlo Park - Seattle
+  - New York - London'
+homepage: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/download/train.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/download/sampleSubmission.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/download/test.csv.zip
+- name: bids-csv
+  url: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/download/bids.csv.zip
+restricted: true

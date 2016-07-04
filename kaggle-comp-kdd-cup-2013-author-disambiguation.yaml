@@ -1,0 +1,12 @@
+name: kaggle-comp-kdd-cup-2013-author-disambiguation
+description: KDD Cup 2013 - Author Disambiguation Challenge (Track 2). Identify which
+  authors correspond to the same person
+homepage: https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation/download/sampleSubmission.csv
+- name: datarev2-postgres
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation/download/dataRev2.postgres
+- name: datarev2
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation/download/dataRev2.zip
+restricted: true

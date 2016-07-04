@@ -1,0 +1,12 @@
+name: kaggle-comp-prudential-life-insurance-assessment
+description: Prudential Life Insurance Assessment. Can you make buying life insurance
+  easier?
+homepage: https://www.kaggle.com/c/prudential-life-insurance-assessment
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/prudential-life-insurance-assessment/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/prudential-life-insurance-assessment/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/prudential-life-insurance-assessment/download/train.csv.zip
+restricted: true

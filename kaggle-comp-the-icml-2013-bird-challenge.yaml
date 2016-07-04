@@ -1,0 +1,28 @@
+name: kaggle-comp-the-icml-2013-bird-challenge
+description: The ICML 2013 Bird Challenge. Identify bird species from continuous audio
+  recordings
+homepage: https://www.kaggle.com/c/the-icml-2013-bird-challenge
+files:
+- name: phylogenetic-distance-txt
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/phylogenetic_distance.txt
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/sampleSubmission.csv
+- name: species-numbers-csv
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/species_numbers.csv
+- name: test-set-features
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/test_set_features.zip
+- name: test-set
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/test_set.zip
+- name: train-set-features
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/train_set_features.zip
+- name: train-set
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/train_set.zip
+- name: readme-train-txt
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/README_TRAIN.txt
+- name: weather-txt
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/weather.txt
+- name: readme-test-txt
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/README_TEST.txt
+- name: test-csv
+  url: https://www.kaggle.com/c/the-icml-2013-bird-challenge/download/test.csv
+restricted: true

@@ -1,0 +1,17 @@
+name: kaggle-comp-dsg-hackathon
+description: EMC Data Science Global Hackathon (Air Quality Prediction). Build a local
+  early warning systems to accurately predict dangerous levels of air pollutants on
+  an hourly basis.
+homepage: https://www.kaggle.com/c/dsg-hackathon
+files:
+- name: sample-code-r
+  url: https://www.kaggle.com/c/dsg-hackathon/download/sample_code.r
+- name: sitelocations-csv
+  url: https://www.kaggle.com/c/dsg-hackathon/download/SiteLocations.csv
+- name: submissionzerosexceptnas-csv
+  url: https://www.kaggle.com/c/dsg-hackathon/download/SubmissionZerosExceptNAs.csv
+- name: trainingdata-csv
+  url: https://www.kaggle.com/c/dsg-hackathon/download/TrainingData.csv
+- name: sitelocations-with-more-sites-csv
+  url: https://www.kaggle.com/c/dsg-hackathon/download/SiteLocations_with_more_sites.csv
+restricted: true

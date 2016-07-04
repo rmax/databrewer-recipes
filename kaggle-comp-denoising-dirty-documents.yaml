@@ -1,0 +1,13 @@
+name: kaggle-comp-denoising-dirty-documents
+description: Denoising Dirty Documents. Remove noise from printed text
+homepage: https://www.kaggle.com/c/denoising-dirty-documents
+files:
+- name: train-cleaned
+  url: https://www.kaggle.com/c/denoising-dirty-documents/download/train_cleaned.zip
+- name: test
+  url: https://www.kaggle.com/c/denoising-dirty-documents/download/test.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/denoising-dirty-documents/download/sampleSubmission.csv.zip
+- name: train
+  url: https://www.kaggle.com/c/denoising-dirty-documents/download/train.zip
+restricted: true

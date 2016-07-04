@@ -1,0 +1,12 @@
+name: kaggle-comp-state-farm-distracted-driver-detection
+description: State Farm Distracted Driver Detection. Can computer vision spot distracted
+  drivers?
+homepage: https://www.kaggle.com/c/state-farm-distracted-driver-detection
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/sample_submission.csv.zip
+- name: imgs
+  url: https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/imgs.zip
+- name: driver-imgs-list-csv
+  url: https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/driver_imgs_list.csv.zip
+restricted: true

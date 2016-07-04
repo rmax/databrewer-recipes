@@ -1,0 +1,17 @@
+name: kaggle-comp-acm-sf-chapter-hackathon-small
+description: Data Mining Hackathon on (20 mb) Best Buy mobile web site - ACM SF Bay
+  Area Chapter. Getting Started - Predict which Xbox game a visitor will be most interested
+  in based on their search query.  (20 MB)
+homepage: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small
+files:
+- name: small-product-data-xml
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/download/small_product_data.xml
+- name: train-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/download/test.csv
+- name: popular-skus-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/download/popular_skus.csv
+- name: popular-skus-py
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/download/popular_skus.py
+restricted: true

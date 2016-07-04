@@ -1,0 +1,36 @@
+name: kaggle-comp-predict-wordpress-likes
+description: 'GigaOM WordPress Challenge: Splunk Innovation Prospect. Predict which
+  blog posts someone will like.'
+homepage: https://www.kaggle.com/c/predict-wordpress-likes
+files:
+- name: kaggle-stats-blogs-20111123-20120423-json
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/kaggle-stats-blogs-20111123-20120423.json.gz
+- name: kaggle-stats-users-20111123-20120423-json
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/kaggle-stats-users-20111123-20120423.json.gz
+- name: uniform-sample-submission-csv
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/uniform_sample_submission.csv
+- name: favoriteblogs-r
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/favoriteblogs.R
+- name: test-csv
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/test.csv
+- name: trainposts
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/trainPosts.zip
+- name: testposts
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/testPosts.zip
+- name: trainpoststhin
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/trainPostsThin.zip
+- name: testpoststhin
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/testPostsThin.zip
+- name: trainusers
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/trainUsers.zip
+- name: final-data-only-non-thin-posts-files
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/final%20data%20--%20only%20non-thin%20posts%20files.zip
+- name: final-data-all-except-non-thin-posts-files
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/final%20data%20--%20all%20except%20non-thin%20posts%20files.zip
+- name: kaggle-stats-user-20120206-20120806-json
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/kaggle-stats-user-20120206-20120806.json.gz
+- name: kaggle-stats-blog-20120206-20120806-json
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/kaggle-stats-blog-20120206-20120806.json.gz
+- name: evaluation-original-and-final
+  url: https://www.kaggle.com/c/predict-wordpress-likes/download/evaluation%20original%20and%20final.zip
+restricted: true

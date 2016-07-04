@@ -1,0 +1,20 @@
+name: kaggle-comp-merckactivity
+description: Merck Molecular Activity Challenge. Help develop safe and effective medicines
+  by predicting molecular activity.
+homepage: https://www.kaggle.com/c/MerckActivity
+files:
+- name: rsquared-r
+  url: https://www.kaggle.com/c/MerckActivity/download/Rsquared.R
+- name: testset-7z
+  url: https://www.kaggle.com/c/MerckActivity/download/TestSet.7z
+- name: testset
+  url: https://www.kaggle.com/c/MerckActivity/download/TestSet.zip
+- name: trainingset-7z
+  url: https://www.kaggle.com/c/MerckActivity/download/TrainingSet.7z
+- name: trainingset
+  url: https://www.kaggle.com/c/MerckActivity/download/TrainingSet.zip
+- name: ntree20-basicbenchmark-csv
+  url: https://www.kaggle.com/c/MerckActivity/download/ntree20_basicBenchmark.csv
+- name: ntree20-benchmark-r
+  url: https://www.kaggle.com/c/MerckActivity/download/ntree20_benchmark.R
+restricted: true

@@ -1,0 +1,38 @@
+name: kaggle-comp-darkworlds
+description: Observing Dark Worlds. Can you find the Dark Matter that dominates our
+  Universe? Winton Capital offers you the chance to unlock the secrets of dark worlds.
+homepage: https://www.kaggle.com/c/DarkWorlds
+files:
+- name: test-halocounts-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/Test_haloCounts.csv
+- name: training-halos-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/Training_halos.csv
+- name: random-benchmark-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/Random_Benchmark.csv
+- name: gridded-signal-benchmark-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/Gridded_Signal_benchmark.csv
+- name: maximum-likelihood-benchmark-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/Maximum_likelihood_Benchmark.csv
+- name: lenstool-benchmark-csv
+  url: https://www.kaggle.com/c/DarkWorlds/download/lenstool.benchmark.csv
+- name: maximum-likelihood-benchmark-py
+  url: https://www.kaggle.com/c/DarkWorlds/download/Maximum_likelihood_Benchmark.py
+- name: random-benchmark-py
+  url: https://www.kaggle.com/c/DarkWorlds/download/Random_Benchmark.py
+- name: gridded-signal-benchmark-py
+  url: https://www.kaggle.com/c/DarkWorlds/download/Gridded_Signal_benchmark.py
+- name: train-skies-tar
+  url: https://www.kaggle.com/c/DarkWorlds/download/Train_Skies.tar
+- name: train-skies-7z
+  url: https://www.kaggle.com/c/DarkWorlds/download/Train_Skies.7z
+- name: train-skies
+  url: https://www.kaggle.com/c/DarkWorlds/download/Train_Skies.zip
+- name: test-skies-tar
+  url: https://www.kaggle.com/c/DarkWorlds/download/Test_Skies.tar
+- name: test-skies-7z
+  url: https://www.kaggle.com/c/DarkWorlds/download/Test_Skies.7z
+- name: test-skies
+  url: https://www.kaggle.com/c/DarkWorlds/download/Test_Skies.zip
+- name: darkworldsmetric-py
+  url: https://www.kaggle.com/c/DarkWorlds/download/DarkWorldsMetric.py
+restricted: true

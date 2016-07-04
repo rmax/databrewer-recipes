@@ -1,0 +1,11 @@
+name: kaggle-comp-bike-sharing-demand
+description: Bike Sharing Demand. Forecast use of a city bikeshare system
+homepage: https://www.kaggle.com/c/bike-sharing-demand
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/bike-sharing-demand/download/sampleSubmission.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/bike-sharing-demand/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/bike-sharing-demand/download/test.csv
+restricted: true

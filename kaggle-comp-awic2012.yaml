@@ -1,0 +1,20 @@
+name: kaggle-comp-awic2012
+description: ICFHR 2012 - Arabic Writer Identification. Identify which writer wrote
+  which documents.
+homepage: https://www.kaggle.com/c/awic2012
+files:
+- name: images-7z
+  url: https://www.kaggle.com/c/awic2012/download/images.7z
+- name: images
+  url: https://www.kaggle.com/c/awic2012/download/images.zip
+- name: features-7z
+  url: https://www.kaggle.com/c/awic2012/download/features.7z
+- name: features
+  url: https://www.kaggle.com/c/awic2012/download/features.zip
+- name: sample-entry-csv
+  url: https://www.kaggle.com/c/awic2012/download/sample_entry.csv
+- name: matlab-benchmarks-7z
+  url: https://www.kaggle.com/c/awic2012/download/matlab_benchmarks.7z
+- name: matlab-benchmarks
+  url: https://www.kaggle.com/c/awic2012/download/matlab_benchmarks.zip
+restricted: true

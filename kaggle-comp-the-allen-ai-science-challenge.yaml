@@ -1,0 +1,7 @@
+name: kaggle-comp-the-allen-ai-science-challenge
+description: The Allen AI Science Challenge. Is your model smarter than an 8th grader?
+homepage: https://www.kaggle.com/c/the-allen-ai-science-challenge
+files:
+- name: submission-sample-phase2-csv
+  url: https://www.kaggle.com/c/the-allen-ai-science-challenge/download/submission_sample_phase2.csv.zip
+restricted: true

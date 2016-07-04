@@ -1,0 +1,12 @@
+name: kaggle-comp-digit-recognizer
+description: Digit Recognizer. Classify handwritten digits using the famous MNIST
+  data
+homepage: https://www.kaggle.com/c/digit-recognizer
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/digit-recognizer/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/digit-recognizer/download/test.csv
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/digit-recognizer/download/sample_submission.csv
+restricted: true

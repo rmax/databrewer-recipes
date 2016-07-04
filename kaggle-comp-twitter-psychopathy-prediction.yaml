@@ -1,0 +1,8 @@
+name: kaggle-comp-twitter-psychopathy-prediction
+description: Psychopathy Prediction Based on Twitter Usage. Identify people who have
+  a high degree of Psychopathy based on Twitter usage.
+homepage: https://www.kaggle.com/c/twitter-psychopathy-prediction
+files:
+- name: sample-code-r
+  url: https://www.kaggle.com/c/twitter-psychopathy-prediction/download/sample_code.R
+restricted: true

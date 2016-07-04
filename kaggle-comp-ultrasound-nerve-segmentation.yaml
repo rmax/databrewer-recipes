@@ -1,0 +1,14 @@
+name: kaggle-comp-ultrasound-nerve-segmentation
+description: Ultrasound Nerve Segmentation. Identify nerve structures in ultrasound
+  images of the neck
+homepage: https://www.kaggle.com/c/ultrasound-nerve-segmentation
+files:
+- name: train-masks-csv
+  url: https://www.kaggle.com/c/ultrasound-nerve-segmentation/download/train_masks.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/ultrasound-nerve-segmentation/download/sample_submission.csv.zip
+- name: test
+  url: https://www.kaggle.com/c/ultrasound-nerve-segmentation/download/test.zip
+- name: train
+  url: https://www.kaggle.com/c/ultrasound-nerve-segmentation/download/train.zip
+restricted: true

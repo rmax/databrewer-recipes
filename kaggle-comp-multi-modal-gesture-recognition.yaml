@@ -1,0 +1,26 @@
+name: kaggle-comp-multi-modal-gesture-recognition
+description: Multi-modal Gesture Recognition. Recognize gesture sequences in video
+  and depth data from Kinect
+homepage: https://www.kaggle.com/c/multi-modal-gesture-recognition
+files:
+- name: training-csv
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/training.csv
+- name: randompredictions-csv
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/randomPredictions.csv
+- name: training1-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/training1.tar.gz
+- name: training2-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/training2.tar.gz
+- name: training3-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/training3.tar.gz
+- name: validation1-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/validation1.tar.gz
+- name: validation2-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/validation2.tar.gz
+- name: validation3-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/validation3.tar.gz
+- name: training4-tar
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/training4.tar.gz
+- name: sample-code-mmrgc
+  url: https://www.kaggle.com/c/multi-modal-gesture-recognition/download/sample_code_mmrgc.zip
+restricted: true

@@ -1,0 +1,22 @@
+name: kaggle-comp-seizure-prediction
+description: American Epilepsy Society Seizure Prediction Challenge. Predict seizures
+  in intracranial EEG recordings
+homepage: https://www.kaggle.com/c/seizure-prediction
+files:
+- name: dog-1-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Dog_1.tar.gz
+- name: dog-2-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Dog_2.tar.gz
+- name: dog-3-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Dog_3.tar.gz
+- name: dog-4-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Dog_4.tar.gz
+- name: dog-5-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Dog_5.tar.gz
+- name: patient-1-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Patient_1.tar.gz
+- name: patient-2-tar
+  url: https://www.kaggle.com/c/seizure-prediction/download/Patient_2.tar.gz
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/seizure-prediction/download/sampleSubmission.csv
+restricted: true

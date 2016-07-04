@@ -1,0 +1,11 @@
+name: kaggle-comp-socialnetwork
+description: IJCNN Social Network Challenge. This competition requires participants
+  to predict edges in an online social network. The winner will receive free registration
+  and the opportunity to present their solution at IJCNN 2011.
+homepage: https://www.kaggle.com/c/socialNetwork
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/socialNetwork/download/sample_submission.csv
+- name: social-test-txt
+  url: https://www.kaggle.com/c/socialNetwork/download/social_test.txt
+restricted: true

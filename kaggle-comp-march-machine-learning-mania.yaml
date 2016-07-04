@@ -1,0 +1,20 @@
+name: kaggle-comp-march-machine-learning-mania
+description: March Machine Learning Mania. Tip off college basketball by predicting
+  the 2014 NCAA Tournament
+homepage: https://www.kaggle.com/c/march-machine-learning-mania
+files:
+- name: regular-season-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/regular_season_results.csv
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/sample_submission.csv
+- name: tourney-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/tourney_results.csv
+- name: tourney-slots-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/tourney_slots.csv
+- name: seasons-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/seasons.csv
+- name: teams-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/teams.csv
+- name: tourney-seeds-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania/download/tourney_seeds.csv
+restricted: true

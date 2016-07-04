@@ -1,0 +1,12 @@
+name: kaggle-comp-battlefin-s-big-data-combine-forecasting-challenge
+description: The Big Data Combine Engineered by BattleFin. Predict short term movements
+  in stock prices using news and sentiment data provided by RavenPack
+homepage: https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/download/sampleSubmission.csv
+- name: data
+  url: https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/download/data.zip
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/download/trainLabels.csv
+restricted: true

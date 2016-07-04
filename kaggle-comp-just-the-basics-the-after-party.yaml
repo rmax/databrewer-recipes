@@ -1,0 +1,11 @@
+name: kaggle-comp-just-the-basics-the-after-party
+description: Just the Basics - Strata 2013 After-party. Live from Santa Clara, CA
+homepage: https://www.kaggle.com/c/just-the-basics-the-after-party
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/just-the-basics-the-after-party/download/test.csv
+- name: train-labels-csv
+  url: https://www.kaggle.com/c/just-the-basics-the-after-party/download/train_labels.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/just-the-basics-the-after-party/download/train.csv
+restricted: true

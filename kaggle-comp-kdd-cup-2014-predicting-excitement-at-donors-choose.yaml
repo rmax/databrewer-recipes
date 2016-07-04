@@ -1,0 +1,18 @@
+name: kaggle-comp-kdd-cup-2014-predicting-excitement-at-donors-choose
+description: KDD Cup 2014 - Predicting Excitement at DonorsChoose.org. Predict funding
+  requests that deserve an A+
+homepage: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose
+files:
+- name: donations-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/donations.csv.zip
+- name: outcomes-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/outcomes.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/sampleSubmission.csv.zip
+- name: resources-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/resources.csv.zip
+- name: essays-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/essays.csv.zip
+- name: projects-csv
+  url: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/download/projects.csv.zip
+restricted: true

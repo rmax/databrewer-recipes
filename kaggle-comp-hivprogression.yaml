@@ -1,0 +1,11 @@
+name: kaggle-comp-hivprogression
+description: Predict HIV Progression. This contest requires competitors to predict
+  the likelihood that an HIV patient's infection will become less severe, given a
+  small dataset and limited clinical information.
+homepage: https://www.kaggle.com/c/hivprogression
+files:
+- name: test-data-csv
+  url: https://www.kaggle.com/c/hivprogression/download/test_data.csv
+- name: training-data-csv
+  url: https://www.kaggle.com/c/hivprogression/download/training_data.csv
+restricted: true

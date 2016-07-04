@@ -1,0 +1,12 @@
+name: kaggle-comp-liberty-mutual-group-property-inspection-prediction
+description: 'Liberty Mutual Group: Property Inspection Prediction. Quantify property
+  hazards before time of inspection'
+homepage: https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction/download/sample_submission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction/download/test.csv.zip
+restricted: true

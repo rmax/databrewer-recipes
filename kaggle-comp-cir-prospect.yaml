@@ -1,0 +1,9 @@
+name: kaggle-comp-cir-prospect
+description: 'Follow the Money: Investigative Reporting Prospect. Find hidden patterns,
+  connections, and ultimately compelling stories in a treasure trove of data about
+  US federal campaign contributions'
+homepage: https://www.kaggle.com/c/cir-prospect
+files:
+- name: fec2012-csv
+  url: https://www.kaggle.com/c/cir-prospect/download/fec2012_csv.zip
+restricted: true

@@ -1,0 +1,13 @@
+name: kaggle-comp-the-icml-2013-whale-challenge-right-whale-redux
+description: The ICML 2013 Whale Challenge - Right Whale Redux. Develop recognition
+  solutions to detect and classify right whales for BIG data mining and exploration
+  studies
+homepage: https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/download/sampleSubmission.csv
+- name: test2
+  url: https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/download/test2.zip
+- name: train2
+  url: https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/download/train2.zip
+restricted: true

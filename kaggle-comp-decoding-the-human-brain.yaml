@@ -1,0 +1,16 @@
+name: kaggle-comp-decoding-the-human-brain
+description: DecMeg2014 - Decoding the Human Brain. Predict visual stimuli from MEG
+  recordings of human brain activity
+homepage: https://www.kaggle.com/c/decoding-the-human-brain
+files:
+- name: train-01-06
+  url: https://www.kaggle.com/c/decoding-the-human-brain/download/train_01_06.zip
+- name: train-07-12
+  url: https://www.kaggle.com/c/decoding-the-human-brain/download/train_07_12.zip
+- name: train-13-16
+  url: https://www.kaggle.com/c/decoding-the-human-brain/download/train_13_16.zip
+- name: test-17-23
+  url: https://www.kaggle.com/c/decoding-the-human-brain/download/test_17_23.zip
+- name: random-submission-csv
+  url: https://www.kaggle.com/c/decoding-the-human-brain/download/random_submission.csv
+restricted: true

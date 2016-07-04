@@ -1,0 +1,44 @@
+name: kaggle-comp-icdar2013-gender-prediction-from-handwriting
+description: ICDAR2013 - Gender Prediction from Handwriting. Predict if a handwritten
+  document has been produced by a male or a female writer
+homepage: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting
+files:
+- name: train-answers-csv
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/train_answers.csv
+- name: train
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/train.zip
+- name: test
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/test.zip
+- name: images-gender
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/images_gender.zip
+- name: logisticregression-r
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/LogisticRegression.r
+- name: randomforest-r
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/RandomForest.r
+- name: robust-fitting-of-linear-models-r
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/Robust_Fitting_of_Linear_Models.r
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/example_submission.csv
+- name: images-subset
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/images_subset.zip
+- name: 1-50
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/1_50.zip
+- name: 51-100
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/51_100.zip
+- name: 101-150
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/101_150.zip
+- name: 151-200
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/151_200.zip
+- name: 201-250
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/201_250.zip
+- name: 251-300
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/251_300.zip
+- name: 301-350
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/301_350.zip
+- name: 351-400
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/351_400.zip
+- name: 401-450
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/401_450.zip
+- name: 451-475
+  url: https://www.kaggle.com/c/icdar2013-gender-prediction-from-handwriting/download/451_475.zip
+restricted: true

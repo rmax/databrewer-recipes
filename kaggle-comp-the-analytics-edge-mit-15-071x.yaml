@@ -1,0 +1,14 @@
+name: kaggle-comp-the-analytics-edge-mit-15-071x
+description: The Analytics Edge (15.071x). Learn what predicts happiness by using
+  informal polling questions.
+homepage: https://www.kaggle.com/c/the-analytics-edge-mit-15-071x
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/the-analytics-edge-mit-15-071x/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/the-analytics-edge-mit-15-071x/download/test.csv
+- name: questions-pdf
+  url: https://www.kaggle.com/c/the-analytics-edge-mit-15-071x/download/Questions.pdf
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/the-analytics-edge-mit-15-071x/download/sampleSubmission.csv
+restricted: true

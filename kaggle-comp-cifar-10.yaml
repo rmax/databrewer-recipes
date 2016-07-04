@@ -1,0 +1,14 @@
+name: kaggle-comp-cifar-10
+description: CIFAR-10 - Object Recognition in Images. Identify the subject of 60,000
+  labeled images
+homepage: https://www.kaggle.com/c/cifar-10
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/cifar-10/download/sampleSubmission.csv
+- name: test-7z
+  url: https://www.kaggle.com/c/cifar-10/download/test.7z
+- name: train-7z
+  url: https://www.kaggle.com/c/cifar-10/download/train.7z
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/cifar-10/download/trainLabels.csv
+restricted: true

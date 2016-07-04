@@ -1,0 +1,12 @@
+name: kaggle-comp-sf-crime
+description: San Francisco Crime Classification. Predict the category of crimes that
+  occurred in the city by the bay
+homepage: https://www.kaggle.com/c/sf-crime
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/sf-crime/download/test.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/sf-crime/download/sampleSubmission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/sf-crime/download/train.csv.zip
+restricted: true

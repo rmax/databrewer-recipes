@@ -1,0 +1,11 @@
+name: kaggle-comp-grasp-and-lift-eeg-detection
+description: Grasp-and-Lift EEG Detection. Identify hand motions from EEG recordings
+homepage: https://www.kaggle.com/c/grasp-and-lift-eeg-detection
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/grasp-and-lift-eeg-detection/download/sample_submission.csv.zip
+- name: test
+  url: https://www.kaggle.com/c/grasp-and-lift-eeg-detection/download/test.zip
+- name: train
+  url: https://www.kaggle.com/c/grasp-and-lift-eeg-detection/download/train.zip
+restricted: true

@@ -1,0 +1,15 @@
+name: kaggle-comp-eurovision2010
+description: Forecast Eurovision Voting. This competition requires contestants to
+  forecast the voting for this year's Eurovision Song Contest in Norway on May 25th,
+  27th and 29th.
+homepage: https://www.kaggle.com/c/Eurovision2010
+files:
+- name: 2010-data-csv
+  url: https://www.kaggle.com/c/Eurovision2010/download/2010%20Data.csv
+- name: eurovision-song-contest-2010-dataset-xls
+  url: https://www.kaggle.com/c/Eurovision2010/download/Eurovision%20Song%20Contest%202010%20dataset.xls
+- name: final-data-by-year-csv
+  url: https://www.kaggle.com/c/Eurovision2010/download/Final%20data%20by%20year.csv
+- name: semi-final-data-by-year-csv
+  url: https://www.kaggle.com/c/Eurovision2010/download/Semi-final%20data%20by%20year.csv
+restricted: true

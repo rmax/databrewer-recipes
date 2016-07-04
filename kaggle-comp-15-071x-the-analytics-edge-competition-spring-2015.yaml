@@ -1,0 +1,12 @@
+name: kaggle-comp-15-071x-the-analytics-edge-competition-spring-2015
+description: 15.071x - The Analytics Edge (Spring 2015). Test your analytics skills
+  by predicting which New York Times blog articles will be the most popular
+homepage: https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015
+files:
+- name: nytimesblogtest-csv
+  url: https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015/download/NYTimesBlogTest.csv
+- name: nytimesblogtrain-csv
+  url: https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015/download/NYTimesBlogTrain.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015/download/SampleSubmission.csv
+restricted: true

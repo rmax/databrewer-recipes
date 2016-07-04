@@ -1,0 +1,21 @@
+name: kaggle-comp-second-annual-data-science-bowl
+description: Second Annual Data Science Bowl. Transforming How We Diagnose Heart Disease
+homepage: https://www.kaggle.com/c/second-annual-data-science-bowl
+files:
+- name: validate-csv
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/validate.csv
+- name: validate
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/validate.zip
+- name: train
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/train.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/train.csv.zip
+- name: sample-submission-validate-csv
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/sample_submission_validate.csv.zip
+- name: test
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/test.zip
+- name: sample-submission-test-csv
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/sample_submission_test.csv
+- name: solution-csv
+  url: https://www.kaggle.com/c/second-annual-data-science-bowl/download/solution.csv
+restricted: true

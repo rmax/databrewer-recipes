@@ -1,0 +1,15 @@
+name: kaggle-comp-chess
+description: Chess ratings - Elo versus the Rest of the World. This competition aims
+  to discover whether other approaches can predict the outcome of chess games more
+  accurately than the workhorse Elo rating system.
+homepage: https://www.kaggle.com/c/chess
+files:
+- name: cross-validation-dataset-csv
+  url: https://www.kaggle.com/c/chess/download/cross_validation_dataset.csv
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/chess/download/example_submission.csv
+- name: test-data-csv
+  url: https://www.kaggle.com/c/chess/download/test_data.csv
+- name: training-data-csv
+  url: https://www.kaggle.com/c/chess/download/training_data.csv
+restricted: true

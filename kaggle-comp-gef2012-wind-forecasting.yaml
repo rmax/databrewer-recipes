@@ -1,0 +1,25 @@
+name: kaggle-comp-gef2012-wind-forecasting
+description: 'Global Energy Forecasting Competition 2012 - Wind Forecasting. A wind
+  power forecasting problem: predicting hourly power generation up to 48 hours ahead
+  at 7 wind farms'
+homepage: https://www.kaggle.com/c/GEF2012-wind-forecasting
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/train.csv
+- name: windforecasts-wf1-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf1.csv
+- name: windforecasts-wf2-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf2.csv
+- name: windforecasts-wf3-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf3.csv
+- name: windforecasts-wf4-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf4.csv
+- name: windforecasts-wf5-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf5.csv
+- name: windforecasts-wf6-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf6.csv
+- name: windforecasts-wf7-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/windforecasts_wf7.csv
+- name: benchmark-csv
+  url: https://www.kaggle.com/c/GEF2012-wind-forecasting/download/benchmark.csv
+restricted: true

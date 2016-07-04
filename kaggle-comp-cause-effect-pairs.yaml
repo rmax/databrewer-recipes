@@ -1,0 +1,20 @@
+name: kaggle-comp-cause-effect-pairs
+description: Cause-effect pairs. Given samples from a pair of variables A, B, find
+  whether A is a cause of B.
+homepage: https://www.kaggle.com/c/cause-effect-pairs
+files:
+- name: sup1data-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/SUP1data_text.zip
+- name: sup2data-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/SUP2data_text.zip
+- name: cefinal-test-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/CEfinal_test_text.zip
+- name: cefinal-valid-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/CEfinal_valid_text.zip
+- name: cefinal-train-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/CEfinal_train_text.zip
+- name: sup3data-text
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/SUP3data_text.zip
+- name: basic-python-benchmark-2-csv
+  url: https://www.kaggle.com/c/cause-effect-pairs/download/basic_python_benchmark_2.csv
+restricted: true

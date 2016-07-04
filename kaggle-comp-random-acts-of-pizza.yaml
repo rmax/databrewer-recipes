@@ -1,0 +1,11 @@
+name: kaggle-comp-random-acts-of-pizza
+description: Random Acts of Pizza. Predicting altruism through free pizza
+homepage: https://www.kaggle.com/c/random-acts-of-pizza
+files:
+- name: train-json
+  url: https://www.kaggle.com/c/random-acts-of-pizza/download/train.json.zip
+- name: test-json
+  url: https://www.kaggle.com/c/random-acts-of-pizza/download/test.json.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/random-acts-of-pizza/download/sampleSubmission.csv
+restricted: true

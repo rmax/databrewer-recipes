@@ -1,0 +1,14 @@
+name: kaggle-comp-expedia-hotel-recommendations
+description: Expedia Hotel Recommendations. Which hotel type will an Expedia customer
+  book?
+homepage: https://www.kaggle.com/c/expedia-hotel-recommendations
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/expedia-hotel-recommendations/download/sample_submission.csv.gz
+- name: destinations-csv
+  url: https://www.kaggle.com/c/expedia-hotel-recommendations/download/destinations.csv.gz
+- name: test-csv
+  url: https://www.kaggle.com/c/expedia-hotel-recommendations/download/test.csv.gz
+- name: train-csv
+  url: https://www.kaggle.com/c/expedia-hotel-recommendations/download/train.csv.gz
+restricted: true

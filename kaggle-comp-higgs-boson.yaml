@@ -1,0 +1,14 @@
+name: kaggle-comp-higgs-boson
+description: Higgs Boson Machine Learning Challenge. Use the ATLAS experiment to identify
+  the Higgs boson
+homepage: https://www.kaggle.com/c/higgs-boson
+files:
+- name: random-submission
+  url: https://www.kaggle.com/c/higgs-boson/download/random_submission.zip
+- name: training
+  url: https://www.kaggle.com/c/higgs-boson/download/training.zip
+- name: test
+  url: https://www.kaggle.com/c/higgs-boson/download/test.zip
+- name: higgsbosoncompetition-amsmetric-rev1-py
+  url: https://www.kaggle.com/c/higgs-boson/download/HiggsBosonCompetition_AMSMetric_rev1.py
+restricted: true

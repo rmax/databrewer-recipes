@@ -1,0 +1,25 @@
+name: kaggle-comp-coupon-purchase-prediction
+description: Coupon Purchase Prediction. Predict which coupons a customer will buy
+homepage: https://www.kaggle.com/c/coupon-purchase-prediction
+files:
+- name: coupon-list-test-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_list_test.csv.zip
+- name: coupon-area-test-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_area_test.csv.zip
+- name: coupon-list-train-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_list_train.csv.zip
+- name: coupon-area-train-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_area_train.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/sample_submission.csv.zip
+- name: coupon-detail-train-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_detail_train.csv.zip
+- name: user-list-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/user_list.csv.zip
+- name: documentation
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/documentation.zip
+- name: coupon-visit-train-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/coupon_visit_train.csv.zip
+- name: prefecture-locations-csv
+  url: https://www.kaggle.com/c/coupon-purchase-prediction/download/prefecture_locations.csv
+restricted: true

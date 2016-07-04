@@ -1,0 +1,22 @@
+name: kaggle-comp-street-view-getting-started-with-julia
+description: First Steps With Julia. Use Julia to identify characters from Google
+  Street View images
+homepage: https://www.kaggle.com/c/street-view-getting-started-with-julia
+files:
+- name: train
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/train.zip
+- name: test
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/test.zip
+- name: trainresized
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/trainResized.zip
+- name: testresized
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/testResized.zip
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/trainLabels.csv
+- name: resizedata-py
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/resizeData.py
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/sampleSubmission.csv
+- name: source-code-files
+  url: https://www.kaggle.com/c/street-view-getting-started-with-julia/download/source-code-files.zip
+restricted: true

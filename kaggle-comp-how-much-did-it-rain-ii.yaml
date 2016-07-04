@@ -1,0 +1,14 @@
+name: kaggle-comp-how-much-did-it-rain-ii
+description: How Much Did It Rain? II. Predict hourly rainfall using data from polarimetric
+  radars
+homepage: https://www.kaggle.com/c/how-much-did-it-rain-ii
+files:
+- name: train
+  url: https://www.kaggle.com/c/how-much-did-it-rain-ii/download/train.zip
+- name: test
+  url: https://www.kaggle.com/c/how-much-did-it-rain-ii/download/test.zip
+- name: sample-solution-csv
+  url: https://www.kaggle.com/c/how-much-did-it-rain-ii/download/sample_solution.csv.zip
+- name: sample-dask-py
+  url: https://www.kaggle.com/c/how-much-did-it-rain-ii/download/sample_dask.py
+restricted: true

@@ -1,0 +1,16 @@
+name: kaggle-comp-pkdd-15-taxi-trip-time-prediction-ii
+description: 'ECML/PKDD 15: Taxi Trip Time Prediction (II). Predict the total travel
+  time of taxi trips based on their initial partial trajectories'
+homepage: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii
+files:
+- name: metadata-taxistandsid-name-gpslocation-csv
+  url: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/download/metaData_taxistandsID_name_GPSlocation.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/download/train.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/download/sampleSubmission.csv.zip
+- name: evaluation-script-r
+  url: https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/download/evaluation_script.r
+restricted: true

@@ -1,0 +1,14 @@
+name: kaggle-comp-expedia-personalized-sort
+description: Personalize Expedia Hotel Searches - ICDM 2013. Learning to rank hotels
+  to maximize purchases
+homepage: https://www.kaggle.com/c/expedia-personalized-sort
+files:
+- name: data
+  url: https://www.kaggle.com/c/expedia-personalized-sort/download/data.zip
+- name: basicpythonbenchmark
+  url: https://www.kaggle.com/c/expedia-personalized-sort/download/basicPythonBenchmark.zip
+- name: testorderbenchmark
+  url: https://www.kaggle.com/c/expedia-personalized-sort/download/testOrderBenchmark.zip
+- name: randombenchmark
+  url: https://www.kaggle.com/c/expedia-personalized-sort/download/randomBenchmark.zip
+restricted: true

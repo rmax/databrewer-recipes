@@ -1,0 +1,8 @@
+name: kaggle-comp-dunnhumbychallenge
+description: dunnhumby's Shopper Challenge. Going grocery shopping, we all have to
+  do it, some even enjoy it, but can you predict it? dunnhumby is looking to build
+  a model to better predict when supermarket shoppers will next visit the store and
+  how much they will spend.
+homepage: https://www.kaggle.com/c/dunnhumbychallenge
+files: []
+restricted: true

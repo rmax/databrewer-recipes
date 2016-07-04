@@ -1,0 +1,12 @@
+name: kaggle-comp-sentiment-analysis-on-movie-reviews
+description: Sentiment Analysis on Movie Reviews. Classify the sentiment of sentences
+  from the Rotten Tomatoes dataset
+homepage: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
+files:
+- name: test-tsv
+  url: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/test.tsv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/sampleSubmission.csv
+- name: train-tsv
+  url: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/train.tsv.zip
+restricted: true

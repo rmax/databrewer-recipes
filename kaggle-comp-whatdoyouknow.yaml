@@ -1,0 +1,18 @@
+name: kaggle-comp-whatdoyouknow
+description: What Do You Know?. Improve the state of the art in student evaluation
+  by predicting whether a student will answer the next test question correctly.
+homepage: https://www.kaggle.com/c/WhatDoYouKnow
+files:
+- name: benchmark-lmer-r
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/benchmark_lmer.r
+- name: benchmark-lmer-submission-csv
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/benchmark_lmer_submission.csv
+- name: grockit-all-data-7z
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/grockit_all_data.7z
+- name: grockit-all-data
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/grockit_all_data.zip
+- name: test-sorted-csv
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/test_sorted.csv
+- name: solution-sorted-csv
+  url: https://www.kaggle.com/c/WhatDoYouKnow/download/solution_sorted.csv
+restricted: true

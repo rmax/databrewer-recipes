@@ -1,0 +1,16 @@
+name: kaggle-comp-mlsp-2014-mri
+description: MLSP 2014 Schizophrenia Classification Challenge. Diagnose schizophrenia
+  using multimodal features from MRI scans
+homepage: https://www.kaggle.com/c/mlsp-2014-mri
+files:
+- name: helpercode
+  url: https://www.kaggle.com/c/mlsp-2014-mri/download/HelperCode.zip
+- name: additionalinformation
+  url: https://www.kaggle.com/c/mlsp-2014-mri/download/AdditionalInformation.zip
+- name: submission-example-csv
+  url: https://www.kaggle.com/c/mlsp-2014-mri/download/submission_example.csv
+- name: train
+  url: https://www.kaggle.com/c/mlsp-2014-mri/download/Train.zip
+- name: test
+  url: https://www.kaggle.com/c/mlsp-2014-mri/download/Test.zip
+restricted: true

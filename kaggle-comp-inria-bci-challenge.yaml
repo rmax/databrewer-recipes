@@ -1,0 +1,15 @@
+name: kaggle-comp-inria-bci-challenge
+description: BCI Challenge @ NER 2015. A spell on you if you cannot detect errors!
+homepage: https://www.kaggle.com/c/inria-bci-challenge
+files:
+- name: channelslocation-csv
+  url: https://www.kaggle.com/c/inria-bci-challenge/download/ChannelsLocation.csv
+- name: test
+  url: https://www.kaggle.com/c/inria-bci-challenge/download/test.zip
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/inria-bci-challenge/download/TrainLabels.csv
+- name: train
+  url: https://www.kaggle.com/c/inria-bci-challenge/download/train.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/inria-bci-challenge/download/SampleSubmission.csv
+restricted: true

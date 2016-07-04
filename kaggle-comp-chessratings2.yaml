@@ -1,0 +1,31 @@
+name: kaggle-comp-chessratings2
+description: Deloitte/FIDE Chess Rating Challenge. This contest, sponsored by professional
+  services firm Deloitte, will find the most accurate system to predict chess outcomes,
+  and FIDE will also bring a top finisher to Athens to present their system
+homepage: https://www.kaggle.com/c/ChessRatings2
+files:
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/ChessRatings2/download/example_submission.csv
+- name: initial-ratings-csv
+  url: https://www.kaggle.com/c/ChessRatings2/download/initial_ratings.csv
+- name: primary-training-part1
+  url: https://www.kaggle.com/c/ChessRatings2/download/primary_training_part1.zip
+- name: primary-training-part2
+  url: https://www.kaggle.com/c/ChessRatings2/download/primary_training_part2.zip
+- name: primary-training-part3
+  url: https://www.kaggle.com/c/ChessRatings2/download/primary_training_part3.zip
+- name: secondary-training
+  url: https://www.kaggle.com/c/ChessRatings2/download/secondary_training.zip
+- name: tertiary-training
+  url: https://www.kaggle.com/c/ChessRatings2/download/tertiary_training.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/ChessRatings2/download/test.csv
+- name: followup-primary-training
+  url: https://www.kaggle.com/c/ChessRatings2/download/followup_primary_training.zip
+- name: followup-secondary-training
+  url: https://www.kaggle.com/c/ChessRatings2/download/followup_secondary_training.zip
+- name: followup-tertiary-training
+  url: https://www.kaggle.com/c/ChessRatings2/download/followup_tertiary_training.zip
+- name: followup-other-files
+  url: https://www.kaggle.com/c/ChessRatings2/download/followup_other_files.zip
+restricted: true

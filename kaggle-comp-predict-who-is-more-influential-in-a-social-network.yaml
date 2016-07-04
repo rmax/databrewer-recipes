@@ -1,0 +1,12 @@
+name: kaggle-comp-predict-who-is-more-influential-in-a-social-network
+description: Influencers in Social Networks. Predict which people are influential
+  in a social network
+homepage: https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/download/test.csv
+- name: sample-predictions-csv
+  url: https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/download/sample_predictions.csv
+restricted: true

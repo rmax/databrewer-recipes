@@ -1,0 +1,61 @@
+name: kaggle-comp-visualize-the-state-of-education-in-colorado
+description: Visualize the State of Public Education in Colorado. Using 3 years of
+  school grading data supplied by the Colorado Department of Education and R-Squared
+  Research, visually uncover trends in the Colorado public school system.
+homepage: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado
+files:
+- name: 2011-coact-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_COACT.csv
+- name: 2011-data-map-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_data_map.csv
+- name: 2011-enrl-working-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_enrl_working.csv
+- name: 2011-final-grade-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_final_grade.csv
+- name: 2011-k-12-frl-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_k_12_FRL.csv
+- name: 2011-remediation-hs-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_remediation_HS.csv
+- name: 2011-school-address-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_school_address.csv
+- name: 2011-1yr-3yr-change-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2011_1YR_3YR_change.csv
+- name: 2010-k-12-frl-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_k_12_FRL.csv
+- name: 2010-remediation-hs-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_remediation_HS.csv
+- name: 2010-coact-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_COACT.csv
+- name: 2010-enrl-working-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_enrl_working.csv
+- name: 2010-school-address-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_school_address.csv
+- name: 2010-1yr-3yr-change-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_1YR_3YR_change.csv
+- name: 2010-final-grade-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_final_grade.csv
+- name: 2010-data-map-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2010_data_map.csv
+- name: detailedgradinglogic-pdf
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/DetailedGradingLogic.pdf
+- name: school-gps-coordinates-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/school_gps_coordinates.csv
+- name: 2012-1yr-3yr-change-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_1YR_3YR_change.csv
+- name: 2012-final-grade-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_final_grade.csv
+- name: 2012-school-address-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_school_address.csv
+- name: 2012-coact-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_COACT.csv
+- name: 2012-remediation-hs-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_remediation_HS.csv
+- name: 2012-k-12-frl-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_k_12_FRL.csv
+- name: 2012-enrl-working-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_enrl_working.csv
+- name: 2012-data-map-csv
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/2012_data_map.csv
+- name: coloradoschoolgrades-20121210
+  url: https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado/download/ColoradoSchoolGrades_20121210.zip
+restricted: true

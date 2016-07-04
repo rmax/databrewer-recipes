@@ -1,0 +1,12 @@
+name: kaggle-comp-homesite-quote-conversion
+description: Homesite Quote Conversion. Which customers will purchase a quoted insurance
+  plan?
+homepage: https://www.kaggle.com/c/homesite-quote-conversion
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/homesite-quote-conversion/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/homesite-quote-conversion/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/homesite-quote-conversion/download/train.csv.zip
+restricted: true

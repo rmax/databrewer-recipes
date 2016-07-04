@@ -1,0 +1,13 @@
+name: kaggle-comp-word2vec-nlp-tutorial
+description: Bag of Words Meets Bags of Popcorn. Use Google's Word2Vec for movie reviews
+homepage: https://www.kaggle.com/c/word2vec-nlp-tutorial
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/sampleSubmission.csv
+- name: unlabeledtraindata-tsv
+  url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/unlabeledTrainData.tsv.zip
+- name: testdata-tsv
+  url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/testData.tsv.zip
+- name: labeledtraindata-tsv
+  url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv.zip
+restricted: true

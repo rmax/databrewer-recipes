@@ -1,0 +1,10 @@
+name: kaggle-comp-billion-word-imputation
+description: Billion Word Imputation. Find and impute missing words in the billion
+  word corpus
+homepage: https://www.kaggle.com/c/billion-word-imputation
+files:
+- name: test-v2-txt
+  url: https://www.kaggle.com/c/billion-word-imputation/download/test_v2.txt.zip
+- name: train-v2-txt
+  url: https://www.kaggle.com/c/billion-word-imputation/download/train_v2.txt.zip
+restricted: true

@@ -1,0 +1,9 @@
+name: kaggle-comp-facebook-ii
+description: Facebook II - Mapping the Internet. Data Engineer                   at                 Facebook        Multiple
+homepage: https://www.kaggle.com/c/facebook-ii
+files:
+- name: train
+  url: https://www.kaggle.com/c/facebook-ii/download/train.zip
+- name: paths-txt
+  url: https://www.kaggle.com/c/facebook-ii/download/paths.txt
+restricted: true

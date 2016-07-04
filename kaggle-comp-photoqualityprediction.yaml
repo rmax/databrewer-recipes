@@ -1,0 +1,12 @@
+name: kaggle-comp-photoqualityprediction
+description: Photo Quality Prediction. Given anonymized information on thousands of
+  photo albums, predict whether a human evaluator would mark them as 'good'.
+homepage: https://www.kaggle.com/c/PhotoQualityPrediction
+files:
+- name: training-csv
+  url: https://www.kaggle.com/c/PhotoQualityPrediction/download/training.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/PhotoQualityPrediction/download/test.csv
+- name: example-entry-csv
+  url: https://www.kaggle.com/c/PhotoQualityPrediction/download/example_entry.csv
+restricted: true

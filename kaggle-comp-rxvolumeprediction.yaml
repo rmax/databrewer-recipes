@@ -1,0 +1,29 @@
+name: kaggle-comp-rxvolumeprediction
+description: Prescription Volume Prediction. Predict future prescription volume
+homepage: https://www.kaggle.com/c/RxVolumePrediction
+files:
+- name: data-dictionary-xls
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/Data%20Dictionary.xls
+- name: trainingset-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/trainingSet.csv
+- name: supplementarycustomers-7z
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/SupplementaryCustomers.7z
+- name: supplementarycustomers
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/SupplementaryCustomers.zip
+- name: brandspecificsupplement-7z
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/BrandSpecificSupplement.7z
+- name: brandspecificsupplement
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/BrandSpecificSupplement.zip
+- name: pfz-cust-ids-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/PFZ_Cust_Ids.csv
+- name: benchmark-numerical-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/benchmark_numerical.csv
+- name: benchmark-random-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/benchmark_random.csv
+- name: pfz-competitiondocumentation-pdf
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/PFZ_CompetitionDocumentation.pdf
+- name: benchmark-last6mo-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/benchmark_last6mo.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/RxVolumePrediction/download/test.csv
+restricted: true

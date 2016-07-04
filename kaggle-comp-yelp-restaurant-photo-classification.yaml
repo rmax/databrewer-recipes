@@ -1,0 +1,18 @@
+name: kaggle-comp-yelp-restaurant-photo-classification
+description: Yelp Restaurant Photo Classification. Data Mining Engineer                   at                 Yelp        San
+  Francisco, CA
+homepage: https://www.kaggle.com/c/yelp-restaurant-photo-classification
+files:
+- name: train-photo-to-biz-ids-csv-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/train_photo_to_biz_ids.csv.tgz
+- name: train-csv-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/train.csv.tgz
+- name: train-photos-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/train_photos.tgz
+- name: test-photos-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/test_photos.tgz
+- name: sample-submission-csv-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/sample_submission.csv.tgz
+- name: test-photo-to-biz-csv-tgz
+  url: https://www.kaggle.com/c/yelp-restaurant-photo-classification/download/test_photo_to_biz.csv.tgz
+restricted: true

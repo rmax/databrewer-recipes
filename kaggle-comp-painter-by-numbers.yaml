@@ -1,0 +1,35 @@
+name: kaggle-comp-painter-by-numbers
+description: Painter by Numbers. Does every painter leave a fingerprint?
+homepage: https://www.kaggle.com/c/painter-by-numbers
+files:
+- name: test
+  url: https://www.kaggle.com/c/painter-by-numbers/download/test.zip
+- name: train
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train.zip
+- name: train-info-csv
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_info.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/painter-by-numbers/download/sampleSubmission.csv.zip
+- name: submission-info-csv
+  url: https://www.kaggle.com/c/painter-by-numbers/download/submission_info.csv.zip
+- name: train-1
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_1.zip
+- name: train-2
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_2.zip
+- name: train-3
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_3.zip
+- name: train-4
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_4.zip
+- name: train-5
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_5.zip
+- name: train-6
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_6.zip
+- name: train-7
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_7.zip
+- name: train-8
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_8.zip
+- name: train-9
+  url: https://www.kaggle.com/c/painter-by-numbers/download/train_9.zip
+- name: replacements-for-corrupted-files
+  url: https://www.kaggle.com/c/painter-by-numbers/download/replacements_for_corrupted_files.zip
+restricted: true

@@ -1,0 +1,20 @@
+name: kaggle-comp-yelp-recsys-2013
+description: 'RecSys2013: Yelp Business Rating Prediction. RecSys Challenge 2013:
+  Yelp business rating prediction'
+homepage: https://www.kaggle.com/c/yelp-recsys-2013
+files:
+- name: yelp-test-set
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/yelp_test_set.zip
+- name: yelp-training-set
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/yelp_training_set.zip
+- name: yelp-training-set-mac
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/yelp_training_set_mac.zip
+- name: idlookuptable-csv
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/IdLookupTable.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/sampleSubmission.csv
+- name: final-test-set
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/final_test_set.zip
+- name: samplesubmissionfinal-csv
+  url: https://www.kaggle.com/c/yelp-recsys-2013/download/sampleSubmissionFinal.csv
+restricted: true

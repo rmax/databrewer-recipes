@@ -1,0 +1,5 @@
+name: kaggle-comp-us-census-challenge
+description: U.S. Census Return Rate Challenge. Predict census mail return rates.
+homepage: https://www.kaggle.com/c/us-census-challenge
+files: []
+restricted: true

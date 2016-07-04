@@ -1,0 +1,20 @@
+name: kaggle-comp-facebookrecruiting
+description: Facebook Recruiting Competition. Data Scientist                   at                 Facebook         Multiple
+  Locations
+homepage: https://www.kaggle.com/c/FacebookRecruiting
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/test.csv
+- name: bfs-benchmark-csv
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/bfs_benchmark.csv
+- name: random-benchmark-csv
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/random_benchmark.csv
+- name: train-7z
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/train.7z
+- name: train
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/train.gz
+- name: train
+  url: https://www.kaggle.com/c/FacebookRecruiting/download/train.zip
+restricted: true

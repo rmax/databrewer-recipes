@@ -1,0 +1,36 @@
+name: kaggle-comp-diabetic-retinopathy-detection
+description: Diabetic Retinopathy Detection. Identify signs of diabetic retinopathy
+  in eye images
+homepage: https://www.kaggle.com/c/diabetic-retinopathy-detection
+files:
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/trainLabels.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/sampleSubmission.csv.zip
+- name: sample
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/sample.zip
+- name: train-zip-001
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/train.zip.001
+- name: train-zip-002
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/train.zip.002
+- name: train-zip-003
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/train.zip.003
+- name: train-zip-004
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/train.zip.004
+- name: train-zip-005
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/train.zip.005
+- name: test-zip-001
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.001
+- name: test-zip-002
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.002
+- name: test-zip-003
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.003
+- name: test-zip-004
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.004
+- name: test-zip-005
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.005
+- name: test-zip-006
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.006
+- name: test-zip-007
+  url: https://www.kaggle.com/c/diabetic-retinopathy-detection/download/test.zip.007
+restricted: true

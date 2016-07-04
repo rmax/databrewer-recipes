@@ -1,0 +1,18 @@
+name: kaggle-comp-rta
+description: RTA Freeway Travel Time Prediction. This competition requires participants
+  to predict travel time on Sydney's M4 freeway from past travel time observations.
+homepage: https://www.kaggle.com/c/RTA
+files:
+- name: m4-map-pdf
+  url: https://www.kaggle.com/c/RTA/download/m4-map.pdf
+- name: routelengthapprox-csv
+  url: https://www.kaggle.com/c/RTA/download/RouteLengthApprox.csv
+- name: rtadata-csv
+  url: https://www.kaggle.com/c/RTA/download/RTAData.csv
+- name: rtaerror-csv
+  url: https://www.kaggle.com/c/RTA/download/RTAError.csv
+- name: rtahistorical-csv
+  url: https://www.kaggle.com/c/RTA/download/RTAHistorical.csv
+- name: sampleentry-csv
+  url: https://www.kaggle.com/c/RTA/download/sampleEntry.csv
+restricted: true

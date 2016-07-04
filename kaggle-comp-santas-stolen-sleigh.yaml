@@ -1,0 +1,10 @@
+name: kaggle-comp-santas-stolen-sleigh
+description: "Santa's Stolen Sleigh. \u266B Alarm\_bells ring, are you listening?\_\
+  Santa's sleigh has gone\_missing\_\u266B"
+homepage: https://www.kaggle.com/c/santas-stolen-sleigh
+files:
+- name: gifts-csv
+  url: https://www.kaggle.com/c/santas-stolen-sleigh/download/gifts.csv
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/santas-stolen-sleigh/download/sample_submission.csv
+restricted: true

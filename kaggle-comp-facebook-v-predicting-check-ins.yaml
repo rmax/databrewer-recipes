@@ -1,0 +1,12 @@
+name: kaggle-comp-facebook-v-predicting-check-ins
+description: 'Facebook V: Predicting Check Ins. Machine Learning Software Engineer                   at                 Facebook        Menlo
+  Park, CA or Seattle, WA'
+homepage: https://www.kaggle.com/c/facebook-v-predicting-check-ins
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/facebook-v-predicting-check-ins/download/test.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/facebook-v-predicting-check-ins/download/sample_submission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/facebook-v-predicting-check-ins/download/train.csv.zip
+restricted: true

@@ -1,0 +1,11 @@
+name: kaggle-comp-dogs-vs-cats
+description: Dogs vs. Cats. Create an algorithm to distinguish dogs from cats
+homepage: https://www.kaggle.com/c/dogs-vs-cats
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/dogs-vs-cats/download/sampleSubmission.csv
+- name: test1
+  url: https://www.kaggle.com/c/dogs-vs-cats/download/test1.zip
+- name: train
+  url: https://www.kaggle.com/c/dogs-vs-cats/download/train.zip
+restricted: true

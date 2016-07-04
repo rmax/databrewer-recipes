@@ -1,0 +1,16 @@
+name: kaggle-comp-flavours-of-physics
+description: "Flavours of Physics: Finding \u03C4  \u2192  \u03BC\u03BC\u03BC. Identify\
+  \ a rare decay phenomenon"
+homepage: https://www.kaggle.com/c/flavours-of-physics
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/flavours-of-physics/download/sample_submission.csv.zip
+- name: training-csv
+  url: https://www.kaggle.com/c/flavours-of-physics/download/training.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/flavours-of-physics/download/test.csv.zip
+- name: check-correlation-csv
+  url: https://www.kaggle.com/c/flavours-of-physics/download/check_correlation.csv.zip
+- name: check-agreement-csv
+  url: https://www.kaggle.com/c/flavours-of-physics/download/check_agreement.csv.zip
+restricted: true

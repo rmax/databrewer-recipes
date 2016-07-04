@@ -1,0 +1,8 @@
+name: kaggle-comp-random-number-grand-challenge
+description: The Random Number Grand Challenge. Decode a sequence of pseudorandom
+  numbers
+homepage: https://www.kaggle.com/c/random-number-grand-challenge
+files:
+- name: randomsubmission-csv
+  url: https://www.kaggle.com/c/random-number-grand-challenge/download/randomSubmission.csv
+restricted: true

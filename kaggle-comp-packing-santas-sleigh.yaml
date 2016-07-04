@@ -1,0 +1,20 @@
+name: kaggle-comp-packing-santas-sleigh
+description: Packing Santa's Sleigh. He's making a list, checking it twice; to fill
+  up his sleigh, he needs your advice
+homepage: https://www.kaggle.com/c/packing-santas-sleigh
+files:
+- name: presents-7z
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/presents.7z
+- name: presents-mat
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/presents.mat
+- name: presents
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/presents.zip
+- name: santas-sleigh-matlab-sample-code-m
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/Santas_Sleigh_MATLAB_Sample_Code.m
+- name: matlab-packing-submission-file
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/MATLAB_Packing_Submission_File.zip
+- name: samplesubmission-bottompacking
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/sampleSubmission_bottomPacking.zip
+- name: santas-sleigh-matlab-metric-calculation-v2-m
+  url: https://www.kaggle.com/c/packing-santas-sleigh/download/Santas_Sleigh_MATLAB_Metric_Calculation_v2.m
+restricted: true

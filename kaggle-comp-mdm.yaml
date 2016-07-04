@@ -1,0 +1,16 @@
+name: kaggle-comp-mdm
+description: Mapping Dark Matter. Measure the small distortion in galaxy images caused
+  by dark matter
+homepage: https://www.kaggle.com/c/mdm
+files:
+- name: mdm-images
+  url: https://www.kaggle.com/c/mdm/download/mdm_images.zip
+- name: great10-pdf
+  url: https://www.kaggle.com/c/mdm/download/great10.pdf
+- name: mdm-example-training-csv
+  url: https://www.kaggle.com/c/mdm/download/mdm_example_training.csv
+- name: mdm-example-entry-csv
+  url: https://www.kaggle.com/c/mdm/download/mdm_example_entry.csv
+- name: mdm-training-solution-sorted-csv
+  url: https://www.kaggle.com/c/mdm/download/mdm_training_solution_sorted.csv
+restricted: true

@@ -1,0 +1,10 @@
+name: kaggle-comp-the-seeclickfix-311-challenge
+description: See Click Predict Fix - Hackathon. Predict which 311 issues are most
+  important to citizens
+homepage: https://www.kaggle.com/c/the-seeclickfix-311-challenge
+files:
+- name: data-7z
+  url: https://www.kaggle.com/c/the-seeclickfix-311-challenge/download/data.7z
+- name: unencrypted-data
+  url: https://www.kaggle.com/c/the-seeclickfix-311-challenge/download/unencrypted_data.zip
+restricted: true

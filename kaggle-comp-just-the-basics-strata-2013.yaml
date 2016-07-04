@@ -1,0 +1,18 @@
+name: kaggle-comp-just-the-basics-strata-2013
+description: "Just the Basics - Strata 2013. Live from Santa Clara, CA - Core Data\
+  \ Science Skills with Kaggle\u2019s Top Competitors"
+homepage: https://www.kaggle.com/c/just-the-basics-strata-2013
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/train.csv
+- name: train-labels-csv
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/train_labels.csv
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/example_submission.csv
+- name: firstprediction-r
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/firstPrediction.r
+- name: secondprediction-r
+  url: https://www.kaggle.com/c/just-the-basics-strata-2013/download/secondPrediction.r
+restricted: true

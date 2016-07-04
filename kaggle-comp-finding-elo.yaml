@@ -1,0 +1,13 @@
+name: kaggle-comp-finding-elo
+description: Finding Elo. Predict a chess player's FIDE Elo rating from one game
+homepage: https://www.kaggle.com/c/finding-elo
+files:
+- name: stockfish-csv
+  url: https://www.kaggle.com/c/finding-elo/download/stockfish.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/finding-elo/download/sampleSubmission.csv.zip
+- name: data-uci-pgn
+  url: https://www.kaggle.com/c/finding-elo/download/data_uci.pgn.zip
+- name: data-pgn
+  url: https://www.kaggle.com/c/finding-elo/download/data.pgn.zip
+restricted: true

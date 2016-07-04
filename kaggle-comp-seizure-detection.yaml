@@ -1,0 +1,12 @@
+name: kaggle-comp-seizure-detection
+description: UPenn and Mayo Clinic's Seizure Detection Challenge. Detect seizures
+  in intracranial EEG recordings
+homepage: https://www.kaggle.com/c/seizure-detection
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/seizure-detection/download/sampleSubmission.csv
+- name: clips-tar
+  url: https://www.kaggle.com/c/seizure-detection/download/clips.tar.gz
+- name: sample-clip-mat
+  url: https://www.kaggle.com/c/seizure-detection/download/sample_clip.mat.gz
+restricted: true

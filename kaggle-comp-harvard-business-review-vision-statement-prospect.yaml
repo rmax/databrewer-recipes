@@ -1,0 +1,10 @@
+name: kaggle-comp-harvard-business-review-vision-statement-prospect
+description: Harvard Business Review 'Vision Statement' Prospect. Your Analysis and/or
+  Visualization featured in the Harvard Business Review
+homepage: https://www.kaggle.com/c/harvard-business-review-vision-statement-prospect
+files:
+- name: sample-hbr-visionstatement-spreads-pdf
+  url: https://www.kaggle.com/c/harvard-business-review-vision-statement-prospect/download/Sample_HBR_VisionStatement_Spreads.pdf
+- name: hbr-citations-correct-abstracts-csv
+  url: https://www.kaggle.com/c/harvard-business-review-vision-statement-prospect/download/HBR%20Citations_correct_abstracts.csv
+restricted: true

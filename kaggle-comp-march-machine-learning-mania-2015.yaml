@@ -1,0 +1,33 @@
+name: kaggle-comp-march-machine-learning-mania-2015
+description: March Machine Learning Mania 2015. Predict the 2015 NCAA Basketball Tournament
+homepage: https://www.kaggle.com/c/march-machine-learning-mania-2015
+files:
+- name: tourney-compact-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_compact_results.csv
+- name: seasons-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/seasons.csv
+- name: teams-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/teams.csv
+- name: tourney-detailed-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_detailed_results.csv
+- name: tourney-slots-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_slots.csv
+- name: tourney-seeds-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_seeds.csv
+- name: regular-season-detailed-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/regular_season_detailed_results.csv
+- name: regular-season-compact-results-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/regular_season_compact_results.csv
+- name: tourney-seeds-2015-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_seeds_2015.csv
+- name: regular-season-detailed-results-2015-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/regular_season_detailed_results_2015.csv
+- name: regular-season-compact-results-2015-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/regular_season_compact_results_2015.csv
+- name: tourney-slots-2015-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/tourney_slots_2015.csv
+- name: sample-submission-2015-csv
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/sample_submission_2015.csv
+- name: all-selected-predictions
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2015/download/all_selected_predictions.zip
+restricted: true

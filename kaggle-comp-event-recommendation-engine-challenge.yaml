@@ -1,0 +1,26 @@
+name: kaggle-comp-event-recommendation-engine-challenge
+description: Event Recommendation Engine Challenge. Predict what events our users
+  will be interested in based on user actions, event metadata, and demographic information.
+homepage: https://www.kaggle.com/c/event-recommendation-engine-challenge
+files:
+- name: event-attendees-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/event_attendees.csv.gz
+- name: events-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/events.csv.gz
+- name: user-friends-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/user_friends.csv.gz
+- name: random-benchmark-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/random_benchmark.csv
+- name: users-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/users.csv
+- name: event-popularity-benchmark-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/event_popularity_benchmark.csv
+- name: public-leaderboard-solution-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/public_leaderboard_solution.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/train.csv
+- name: event-popularity-benchmark-private-test-only-csv
+  url: https://www.kaggle.com/c/event-recommendation-engine-challenge/download/event_popularity_benchmark_private_test_only.csv
+restricted: true

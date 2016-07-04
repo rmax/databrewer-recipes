@@ -1,0 +1,14 @@
+name: kaggle-comp-pakdd-cup-2014
+description: PAKDD 2014 - ASUS Malfunctional Components Prediction. Predict malfunctional
+  components of ASUS notebooks
+homepage: https://www.kaggle.com/c/pakdd-cup-2014
+files:
+- name: saletrain-csv
+  url: https://www.kaggle.com/c/pakdd-cup-2014/download/SaleTrain.csv
+- name: output-targetid-mapping-csv
+  url: https://www.kaggle.com/c/pakdd-cup-2014/download/Output_TargetID_Mapping.csv
+- name: repairtrain-csv
+  url: https://www.kaggle.com/c/pakdd-cup-2014/download/RepairTrain.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/pakdd-cup-2014/download/SampleSubmission.csv
+restricted: true

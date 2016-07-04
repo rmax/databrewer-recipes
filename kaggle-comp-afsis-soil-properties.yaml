@@ -1,0 +1,12 @@
+name: kaggle-comp-afsis-soil-properties
+description: Africa Soil Property Prediction Challenge. Predict physical and chemical
+  properties of soil using spectral measurements
+homepage: https://www.kaggle.com/c/afsis-soil-properties
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/afsis-soil-properties/download/sample_submission.csv
+- name: test
+  url: https://www.kaggle.com/c/afsis-soil-properties/download/test.zip
+- name: train
+  url: https://www.kaggle.com/c/afsis-soil-properties/download/train.zip
+restricted: true

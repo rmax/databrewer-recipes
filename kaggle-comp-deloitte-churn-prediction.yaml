@@ -1,0 +1,22 @@
+name: kaggle-comp-deloitte-churn-prediction
+description: As the World Churns. Predict which customers will leave an insurance
+  company in the next 12 months.
+homepage: https://www.kaggle.com/c/deloitte-churn-prediction
+files:
+- name: test-7z
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/test.7z
+- name: test
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/test.zip
+- name: train-7z
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/train.7z
+- name: train
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/train.zip
+- name: deloitte-churnprediction-datadictionary-xlsx
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/Deloitte_ChurnPrediction_DataDictionary.xlsx
+- name: additionalcompetitioninformation-pdf
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/AdditionalCompetitionInformation.pdf
+- name: ordered-ids-csv
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/ordered_ids.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/deloitte-churn-prediction/download/sampleSubmission.csv
+restricted: true

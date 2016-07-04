@@ -1,0 +1,26 @@
+name: kaggle-comp-customer-retention
+description: Will I Stay or Will I Go?. Predict which of our current customers will
+  stay insured with us for an entire policy term.
+homepage: https://www.kaggle.com/c/customer-retention
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/customer-retention/download/test.csv
+- name: rolled-up-data-kaggle-v2
+  url: https://www.kaggle.com/c/customer-retention/download/rolled_up_data_Kaggle_V2.zip
+- name: data-dictionary-xlsx
+  url: https://www.kaggle.com/c/customer-retention/download/Data%20Dictionary.xlsx
+- name: sas-rollup-code-rtf
+  url: https://www.kaggle.com/c/customer-retention/download/SAS%20rollup%20code.rtf
+- name: data-description-txt
+  url: https://www.kaggle.com/c/customer-retention/download/data%20description.txt
+- name: logistic-regression-sample-submission-csv
+  url: https://www.kaggle.com/c/customer-retention/download/logistic_regression_sample_submission.csv
+- name: train-rolled-up-sample-7z
+  url: https://www.kaggle.com/c/customer-retention/download/train_rolled_up_sample.7z
+- name: train-rolled-up-7z
+  url: https://www.kaggle.com/c/customer-retention/download/train_rolled_up.7z
+- name: test-rolled-up-7z
+  url: https://www.kaggle.com/c/customer-retention/download/test_rolled_up.7z
+- name: train-test-explanation-xlsx
+  url: https://www.kaggle.com/c/customer-retention/download/Train%20Test%20Explanation.xlsx
+restricted: true

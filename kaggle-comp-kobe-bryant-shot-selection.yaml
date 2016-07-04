@@ -1,0 +1,9 @@
+name: kaggle-comp-kobe-bryant-shot-selection
+description: Kobe Bryant Shot Selection. Which shots did Kobe sink?
+homepage: https://www.kaggle.com/c/kobe-bryant-shot-selection
+files:
+- name: data-csv
+  url: https://www.kaggle.com/c/kobe-bryant-shot-selection/download/data.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/kobe-bryant-shot-selection/download/sample_submission.csv.zip
+restricted: true

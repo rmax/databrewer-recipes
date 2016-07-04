@@ -1,0 +1,33 @@
+name: kaggle-comp-risky-business
+description: Risky Business. Predict the risk of customer credit default
+homepage: https://www.kaggle.com/c/risky-business
+files:
+- name: riskybusinessevaluationmetric-r
+  url: https://www.kaggle.com/c/risky-business/download/RiskyBusinessEvaluationMetric.R
+- name: trainsample
+  url: https://www.kaggle.com/c/risky-business/download/TrainSample.zip
+- name: train-model
+  url: https://www.kaggle.com/c/risky-business/download/train_model.zip
+- name: train-apac
+  url: https://www.kaggle.com/c/risky-business/download/train_apac.zip
+- name: train-ons
+  url: https://www.kaggle.com/c/risky-business/download/train_ons.zip
+- name: train-trans
+  url: https://www.kaggle.com/c/risky-business/download/train_trans.zip
+- name: test-apac
+  url: https://www.kaggle.com/c/risky-business/download/test_apac.zip
+- name: test-ons
+  url: https://www.kaggle.com/c/risky-business/download/test_ons.zip
+- name: test-model
+  url: https://www.kaggle.com/c/risky-business/download/test_model.zip
+- name: test-trans
+  url: https://www.kaggle.com/c/risky-business/download/test_trans.zip
+- name: random-submission
+  url: https://www.kaggle.com/c/risky-business/download/random_submission.zip
+- name: additionalcompetitioninformation-pdf
+  url: https://www.kaggle.com/c/risky-business/download/AdditionalCompetitionInformation.pdf
+- name: postgresqlingest-sql
+  url: https://www.kaggle.com/c/risky-business/download/PostgreSQLIngest.sql
+- name: riskybusinessdatadictionary-xlsx
+  url: https://www.kaggle.com/c/risky-business/download/RiskyBusinessDataDictionary.xlsx
+restricted: true

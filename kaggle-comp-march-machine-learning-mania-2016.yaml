@@ -1,0 +1,7 @@
+name: kaggle-comp-march-machine-learning-mania-2016
+description: March Machine Learning Mania 2016. Predict the 2016 NCAA Basketball Tournament
+homepage: https://www.kaggle.com/c/march-machine-learning-mania-2016
+files:
+- name: march-machine-learning-mania-2016-v2
+  url: https://www.kaggle.com/c/march-machine-learning-mania-2016/download/march-machine-learning-mania-2016-v2.zip
+restricted: true

@@ -1,0 +1,22 @@
+name: kaggle-comp-algorithmictradingchallenge
+description: Algorithmic Trading Challenge. Develop new models to accurately predict
+  the market response to large trades.
+homepage: https://www.kaggle.com/c/AlgorithmicTradingChallenge
+files:
+- name: training-7z
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/training.7z
+- name: training
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/training.zip
+- name: testing-7z
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/testing.7z
+- name: testing
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/testing.zip
+- name: example-entry-linear-7z
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/example_entry_linear.7z
+- name: example-entry-linear
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/example_entry_linear.zip
+- name: example-entry-naive-7z
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/example_entry_naive.7z
+- name: example-entry-naive
+  url: https://www.kaggle.com/c/AlgorithmicTradingChallenge/download/example_entry_naive.zip
+restricted: true

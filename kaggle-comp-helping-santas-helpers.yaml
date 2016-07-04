@@ -1,0 +1,9 @@
+name: kaggle-comp-helping-santas-helpers
+description: Helping Santa's Helpers. Jingle bells, Santa tells ...
+homepage: https://www.kaggle.com/c/helping-santas-helpers
+files:
+- name: toys-rev2
+  url: https://www.kaggle.com/c/helping-santas-helpers/download/toys_rev2.zip
+- name: samplesubmission-rev2
+  url: https://www.kaggle.com/c/helping-santas-helpers/download/sampleSubmission_rev2.zip
+restricted: true

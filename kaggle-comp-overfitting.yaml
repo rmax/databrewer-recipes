@@ -1,0 +1,8 @@
+name: kaggle-comp-overfitting
+description: Don't Overfit!. With nearly as many variables as training cases, what
+  are the best techniques to avoid disaster?
+homepage: https://www.kaggle.com/c/overfitting
+files:
+- name: overfitting-csv
+  url: https://www.kaggle.com/c/overfitting/download/overfitting.csv
+restricted: true

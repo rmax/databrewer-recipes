@@ -1,0 +1,16 @@
+name: kaggle-comp-pkdd-15-predict-taxi-service-trajectory-i
+description: 'ECML/PKDD 15: Taxi Trajectory Prediction (I). Predict the destination
+  of taxi trips based on initial partial trajectories'
+homepage: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i
+files:
+- name: evaluation-script-r
+  url: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/download/evaluation_script.r
+- name: metadata-taxistandsid-name-gpslocation-csv
+  url: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/download/metaData_taxistandsID_name_GPSlocation.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/download/train.csv.zip
+restricted: true

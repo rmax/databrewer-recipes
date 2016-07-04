@@ -1,0 +1,20 @@
+name: kaggle-comp-lshtc
+description: Large Scale Hierarchical Text Classification. Classify Wikipedia documents
+  into one of 325,056 categories
+homepage: https://www.kaggle.com/c/lshtc
+files:
+- name: hierarchy
+  url: https://www.kaggle.com/c/lshtc/download/hierarchy.zip
+- name: test
+  url: https://www.kaggle.com/c/lshtc/download/test.zip
+- name: train
+  url: https://www.kaggle.com/c/lshtc/download/train.zip
+- name: allzerosbenchmark
+  url: https://www.kaggle.com/c/lshtc/download/AllZerosBenchmark.zip
+- name: knn-baseline-tar
+  url: https://www.kaggle.com/c/lshtc/download/knn-baseline.tar.gz
+- name: test-remapped
+  url: https://www.kaggle.com/c/lshtc/download/test-remapped.zip
+- name: train-remapped
+  url: https://www.kaggle.com/c/lshtc/download/train-remapped.zip
+restricted: true

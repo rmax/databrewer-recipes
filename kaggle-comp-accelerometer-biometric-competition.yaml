@@ -1,0 +1,14 @@
+name: kaggle-comp-accelerometer-biometric-competition
+description: Accelerometer Biometric Competition. Recognize users of mobile devices
+  from accelerometer data
+homepage: https://www.kaggle.com/c/accelerometer-biometric-competition
+files:
+- name: questions-csv
+  url: https://www.kaggle.com/c/accelerometer-biometric-competition/download/questions.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/accelerometer-biometric-competition/download/sampleSubmission.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/accelerometer-biometric-competition/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/accelerometer-biometric-competition/download/train.csv.zip
+restricted: true

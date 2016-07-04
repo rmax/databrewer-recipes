@@ -1,0 +1,17 @@
+name: kaggle-comp-challenges-in-representation-learning-the-black-box-learning-challenge
+description: 'Challenges in Representation Learning: The Black Box Learning Challenge.
+  Competitors train a classifier on a dataset that is not human readable, without
+  knowledge of what the data consists of.'
+homepage: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge/download/test.csv
+- name: extra-unsupervised-data-npy
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge/download/extra_unsupervised_data.npy
+- name: extra-unsupervised-data-tgz
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge/download/extra_unsupervised_data.tgz
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-the-black-box-learning-challenge/download/sample_submission.csv
+restricted: true

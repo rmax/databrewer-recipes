@@ -1,0 +1,7 @@
+name: kaggle-comp-introducing-kaggle-scripts
+description: Introducing Kaggle Scripts. Your code deserves better
+homepage: https://www.kaggle.com/c/introducing-kaggle-scripts
+files:
+- name: datascience-png
+  url: https://www.kaggle.com/c/introducing-kaggle-scripts/download/datascience.png
+restricted: true

@@ -1,0 +1,18 @@
+name: kaggle-comp-detecting-insults-in-social-commentary
+description: Detecting Insults in Social Commentary. Principal Data Scientist                   at                 Impermium
+  Corporation        Redwood City, CA
+homepage: https://www.kaggle.com/c/detecting-insults-in-social-commentary
+files:
+- name: sample-submission-null-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/sample_submission_null.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/train.csv
+- name: test-with-solutions-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/test_with_solutions.csv
+- name: impermium-verification-set-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/impermium_verification_set.csv
+- name: impermium-verification-labels-csv
+  url: https://www.kaggle.com/c/detecting-insults-in-social-commentary/download/impermium_verification_labels.csv
+restricted: true

@@ -1,0 +1,12 @@
+name: kaggle-comp-forest-cover-type-prediction
+description: Forest Cover Type Prediction. Use cartographic variables to classify
+  forest categories
+homepage: https://www.kaggle.com/c/forest-cover-type-prediction
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/forest-cover-type-prediction/download/train.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/forest-cover-type-prediction/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/forest-cover-type-prediction/download/test.csv.zip
+restricted: true

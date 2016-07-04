@@ -1,0 +1,16 @@
+name: kaggle-comp-walmart-recruiting-store-sales-forecasting
+description: Walmart Recruiting - Store Sales Forecasting. Data Scientist                   at                 Walmart        Various
+  Locations
+homepage: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+files:
+- name: features-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/download/features.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/download/sampleSubmission.csv.zip
+- name: stores-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/download/stores.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/download/train.csv.zip
+restricted: true

@@ -1,0 +1,14 @@
+name: kaggle-comp-rossmann-store-sales
+description: Rossmann Store Sales. Forecast sales using store, promotion, and competitor
+  data
+homepage: https://www.kaggle.com/c/rossmann-store-sales
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/rossmann-store-sales/download/sample_submission.csv.zip
+- name: store-csv
+  url: https://www.kaggle.com/c/rossmann-store-sales/download/store.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/rossmann-store-sales/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/rossmann-store-sales/download/train.csv.zip
+restricted: true

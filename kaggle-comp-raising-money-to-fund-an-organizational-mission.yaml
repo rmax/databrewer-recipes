@@ -1,0 +1,34 @@
+name: kaggle-comp-raising-money-to-fund-an-organizational-mission
+description: Raising Money to Fund an Organizational Mission. Help worthy organizations
+  more efficiently target and recruit loyal donors to support their causes.
+homepage: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission
+files:
+- name: zip-perf-txt
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/Zip_Perf.txt
+- name: kaggle-donation-dataset-formatted
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_donation_dataset_formatted.zip
+- name: kaggle-mail-dataset-formatted1b
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_mail_dataset_formatted1b.zip
+- name: kaggle-mail-dataset-formatted1a
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_mail_dataset_formatted1a.zip
+- name: kaggle-mail-dataset-formatted3
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_mail_dataset_formatted3.zip
+- name: kaggle-mail-dataset-formatted2
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_mail_dataset_formatted2.zip
+- name: kaggle-training-dataset-formatted2
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/kaggle_training_dataset_formatted2.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/test.csv
+- name: kaggle-faq-pdf
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/Kaggle%20FAQ.pdf
+- name: kaggle-faq-docx
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/Kaggle%20FAQ.docx
+- name: test
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/test.zip
+- name: zip-sample-submission-r
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/zip%20sample%20submission.r
+- name: training-sample
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/training_sample.zip
+- name: demo-per-formatted
+  url: https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission/download/demo_per_formatted.zip
+restricted: true

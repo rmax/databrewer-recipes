@@ -1,0 +1,36 @@
+name: kaggle-comp-connectomics
+description: CONNECTOMICS. Reconstruct the wiring between neurons from fluorescence
+  imaging of neural activity
+homepage: https://www.kaggle.com/c/connectomics
+files:
+- name: normal-1-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-1.tgz
+- name: normal-2-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-2.tgz
+- name: normal-3-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-3.tgz
+- name: normal-4-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-4.tgz
+- name: normal-4-lownoise-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-4-lownoise.tgz
+- name: small-tgz
+  url: https://www.kaggle.com/c/connectomics/download/small.tgz
+- name: highcc-tgz
+  url: https://www.kaggle.com/c/connectomics/download/highcc.tgz
+- name: lowcc-tgz
+  url: https://www.kaggle.com/c/connectomics/download/lowcc.tgz
+- name: lowcon-tgz
+  url: https://www.kaggle.com/c/connectomics/download/lowcon.tgz
+- name: highcon-tgz
+  url: https://www.kaggle.com/c/connectomics/download/highcon.tgz
+- name: normal-3-highrate-tgz
+  url: https://www.kaggle.com/c/connectomics/download/normal-3-highrate.tgz
+- name: test-tgz
+  url: https://www.kaggle.com/c/connectomics/download/test.tgz
+- name: md5checksums-txt
+  url: https://www.kaggle.com/c/connectomics/download/md5checksums.txt
+- name: valid-tgz
+  url: https://www.kaggle.com/c/connectomics/download/valid.tgz
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/connectomics/download/sampleSubmission.csv.zip
+restricted: true

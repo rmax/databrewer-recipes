@@ -1,0 +1,13 @@
+name: kaggle-comp-walmart-recruiting-trip-type-classification
+description: 'Walmart Recruiting: Trip Type Classification. Numerous positions within
+  big data & analytics                   at                 Walmart        Multiple
+  locations'
+homepage: https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-trip-type-classification/download/sample_submission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-trip-type-classification/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-trip-type-classification/download/test.csv.zip
+restricted: true

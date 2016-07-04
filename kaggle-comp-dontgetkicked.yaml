@@ -1,0 +1,17 @@
+name: kaggle-comp-dontgetkicked
+description: Don't Get Kicked!. Predict if a car purchased at auction is a lemon
+homepage: https://www.kaggle.com/c/DontGetKicked
+files:
+- name: carvana-data-dictionary-txt
+  url: https://www.kaggle.com/c/DontGetKicked/download/Carvana_Data_Dictionary.txt
+- name: test-csv
+  url: https://www.kaggle.com/c/DontGetKicked/download/test.csv
+- name: training-csv
+  url: https://www.kaggle.com/c/DontGetKicked/download/training.csv
+- name: example-entry-csv
+  url: https://www.kaggle.com/c/DontGetKicked/download/example_entry.csv
+- name: test
+  url: https://www.kaggle.com/c/DontGetKicked/download/test.zip
+- name: training
+  url: https://www.kaggle.com/c/DontGetKicked/download/training.zip
+restricted: true

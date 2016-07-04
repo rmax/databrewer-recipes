@@ -1,0 +1,14 @@
+name: kaggle-comp-yandex-personalized-web-search-challenge
+description: Personalized Web Search Challenge. Re-rank web documents using personal
+  preferences
+homepage: https://www.kaggle.com/c/yandex-personalized-web-search-challenge
+files:
+- name: test
+  url: https://www.kaggle.com/c/yandex-personalized-web-search-challenge/download/test.gz
+- name: train
+  url: https://www.kaggle.com/c/yandex-personalized-web-search-challenge/download/train.gz
+- name: random-baseline
+  url: https://www.kaggle.com/c/yandex-personalized-web-search-challenge/download/random-baseline.gz
+- name: non-personalised-baseline
+  url: https://www.kaggle.com/c/yandex-personalized-web-search-challenge/download/non-personalised-baseline.gz
+restricted: true

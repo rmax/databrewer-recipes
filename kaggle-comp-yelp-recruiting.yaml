@@ -1,0 +1,18 @@
+name: kaggle-comp-yelp-recruiting
+description: Yelp Recruiting Competition. Data Scientist                   at                 Yelp        San
+  Francisco, CA
+homepage: https://www.kaggle.com/c/yelp-recruiting
+files:
+- name: eligibility-release-pdf
+  url: https://www.kaggle.com/c/yelp-recruiting/download/eligibility_release.pdf
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/yelp-recruiting/download/sample_submission.csv
+- name: yelp-test-set-tgz
+  url: https://www.kaggle.com/c/yelp-recruiting/download/yelp_test_set.tgz
+- name: yelp-test-set
+  url: https://www.kaggle.com/c/yelp-recruiting/download/yelp_test_set.zip
+- name: yelp-training-set-tgz
+  url: https://www.kaggle.com/c/yelp-recruiting/download/yelp_training_set.tgz
+- name: yelp-training-set
+  url: https://www.kaggle.com/c/yelp-recruiting/download/yelp_training_set.zip
+restricted: true

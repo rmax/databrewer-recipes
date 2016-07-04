@@ -1,0 +1,16 @@
+name: kaggle-comp-acquire-valued-shoppers-challenge
+description: Acquire Valued Shoppers Challenge. Predict which shoppers will become
+  repeat buyers
+homepage: https://www.kaggle.com/c/acquire-valued-shoppers-challenge
+files:
+- name: offers-csv
+  url: https://www.kaggle.com/c/acquire-valued-shoppers-challenge/download/offers.csv.gz
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/acquire-valued-shoppers-challenge/download/sampleSubmission.csv.gz
+- name: testhistory-csv
+  url: https://www.kaggle.com/c/acquire-valued-shoppers-challenge/download/testHistory.csv.gz
+- name: trainhistory-csv
+  url: https://www.kaggle.com/c/acquire-valued-shoppers-challenge/download/trainHistory.csv.gz
+- name: transactions-csv
+  url: https://www.kaggle.com/c/acquire-valued-shoppers-challenge/download/transactions.csv.gz
+restricted: true

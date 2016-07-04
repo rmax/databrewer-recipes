@@ -1,0 +1,32 @@
+name: kaggle-comp-asap-aes
+description: 'The Hewlett Foundation: Automated Essay Scoring. Develop an automated
+  scoring algorithm for student-written essays.'
+homepage: https://www.kaggle.com/c/asap-aes
+files:
+- name: training-set-rel3-tsv
+  url: https://www.kaggle.com/c/asap-aes/download/training_set_rel3.tsv
+- name: training-set-rel3-xls
+  url: https://www.kaggle.com/c/asap-aes/download/training_set_rel3.xls
+- name: training-set-rel3-xlsx
+  url: https://www.kaggle.com/c/asap-aes/download/training_set_rel3.xlsx
+- name: valid-set-tsv
+  url: https://www.kaggle.com/c/asap-aes/download/valid_set.tsv
+- name: valid-set-xls
+  url: https://www.kaggle.com/c/asap-aes/download/valid_set.xls
+- name: valid-set-xlsx
+  url: https://www.kaggle.com/c/asap-aes/download/valid_set.xlsx
+- name: valid-sample-submission-1-column-csv
+  url: https://www.kaggle.com/c/asap-aes/download/valid_sample_submission_1_column.csv
+- name: valid-sample-submission-1-column-no-header-csv
+  url: https://www.kaggle.com/c/asap-aes/download/valid_sample_submission_1_column_no_header.csv
+- name: valid-sample-submission-2-column-csv
+  url: https://www.kaggle.com/c/asap-aes/download/valid_sample_submission_2_column.csv
+- name: valid-sample-submission-5-column-csv
+  url: https://www.kaggle.com/c/asap-aes/download/valid_sample_submission_5_column.csv
+- name: essay-set-descriptions
+  url: https://www.kaggle.com/c/asap-aes/download/Essay_Set_Descriptions.zip
+- name: training-materials
+  url: https://www.kaggle.com/c/asap-aes/download/Training_Materials.zip
+- name: test-set-tsv
+  url: https://www.kaggle.com/c/asap-aes/download/test_set.tsv
+restricted: true

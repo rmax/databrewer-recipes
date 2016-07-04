@@ -1,0 +1,15 @@
+name: kaggle-comp-r
+description: R Package Recommendation Engine. The aim of this competition is to develop
+  a recommendation engine for R libraries (or packages). (R is opensource statistics
+  software.)
+homepage: https://www.kaggle.com/c/R
+files:
+- name: test-data-csv
+  url: https://www.kaggle.com/c/R/download/test_data.csv
+- name: training-data-csv
+  url: https://www.kaggle.com/c/R/download/training_data.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/R/download/test.csv
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/R/download/example_submission.csv
+restricted: true

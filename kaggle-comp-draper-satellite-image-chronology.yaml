@@ -1,0 +1,15 @@
+name: kaggle-comp-draper-satellite-image-chronology
+description: Draper Satellite Image Chronology. Can you put order to space and time?
+homepage: https://www.kaggle.com/c/draper-satellite-image-chronology
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/draper-satellite-image-chronology/download/sample_submission.csv
+- name: train-sm
+  url: https://www.kaggle.com/c/draper-satellite-image-chronology/download/train_sm.zip
+- name: test-sm
+  url: https://www.kaggle.com/c/draper-satellite-image-chronology/download/test_sm.zip
+- name: train
+  url: https://www.kaggle.com/c/draper-satellite-image-chronology/download/train.zip
+- name: test
+  url: https://www.kaggle.com/c/draper-satellite-image-chronology/download/test.zip
+restricted: true

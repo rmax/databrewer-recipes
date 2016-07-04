@@ -1,0 +1,9 @@
+name: kaggle-comp-caterpillar-tube-pricing
+description: Caterpillar Tube Pricing. Model quoted prices for industrial tube assemblies
+homepage: https://www.kaggle.com/c/caterpillar-tube-pricing
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/caterpillar-tube-pricing/download/sample_submission.csv
+- name: data
+  url: https://www.kaggle.com/c/caterpillar-tube-pricing/download/data.zip
+restricted: true

@@ -1,0 +1,18 @@
+name: kaggle-comp-walmart-recruiting-sales-in-stormy-weather
+description: 'Walmart Recruiting II: Sales in Stormy Weather. Data Scientist                   at                 Walmart        Various
+  Locations'
+homepage: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather
+files:
+- name: key-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/key.csv.zip
+- name: noaa-weather-qclcd-documentation-pdf
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/noaa_weather_qclcd_documentation.pdf
+- name: weather-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/weather.csv.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/sampleSubmission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/download/test.csv.zip
+restricted: true

@@ -1,0 +1,18 @@
+name: kaggle-comp-airbnb-recruiting-new-user-bookings
+description: Airbnb New User Bookings. Data Scientist                   at                 Airbnb        San
+  Francisco
+homepage: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+files:
+- name: countries-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/countries.csv.zip
+- name: age-gender-bkts-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/age_gender_bkts.csv.zip
+- name: test-users-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/test_users.csv.zip
+- name: sessions-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/sessions.csv.zip
+- name: sample-submission-ndf-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/sample_submission_NDF.csv.zip
+- name: train-users-2-csv
+  url: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/download/train_users_2.csv.zip
+restricted: true

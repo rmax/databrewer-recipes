@@ -1,0 +1,44 @@
+name: kaggle-comp-deloitte-western-australia-rental-prices
+description: Western Australia Rental Prices. Predict rental prices for properties
+  across Western Australia
+homepage: https://www.kaggle.com/c/deloitte-western-australia-rental-prices
+files:
+- name: data-dictionary-xlsx
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/data_dictionary.xlsx
+- name: erd-pdf
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/erd.pdf
+- name: land-restrictions-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_restrictions.csv.zip
+- name: land-urban-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_urban.csv.zip
+- name: land-valuation-key-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_valuation_key.csv.zip
+- name: land-zonings-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_zonings.csv.zip
+- name: land-admin-areas-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_admin_areas.csv.zip
+- name: valuation-entities-classifications-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/valuation_entities_classifications.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/train.csv.zip
+- name: land-pins-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land_pins.csv.zip
+- name: land-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/land.csv.zip
+- name: valuation-entities-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/valuation_entities.csv.zip
+- name: valuation-entities-details-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/valuation_entities_details.csv.zip
+- name: points-of-interest-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/points_of_interest.csv.zip
+- name: demographics-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/demographics.csv.zip
+- name: demographics-key-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/demographics_key.csv.zip
+- name: distances-csv
+  url: https://www.kaggle.com/c/deloitte-western-australia-rental-prices/download/distances.csv.zip
+restricted: true

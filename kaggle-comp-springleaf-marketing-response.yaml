@@ -1,0 +1,12 @@
+name: kaggle-comp-springleaf-marketing-response
+description: Springleaf Marketing Response. Determine whether to send a direct mail
+  piece to a customer
+homepage: https://www.kaggle.com/c/springleaf-marketing-response
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/springleaf-marketing-response/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/springleaf-marketing-response/download/train.csv.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/springleaf-marketing-response/download/sample_submission.csv.zip
+restricted: true

@@ -1,0 +1,11 @@
+name: kaggle-comp-informs2010
+description: INFORMS Data Mining Contest 2010. The goal of this contest is to predict
+  short term movements in stock prices. The winners of this contest will be honoured
+  of the INFORMS Annual Meeting in Austin-Texas (November 7-10).
+homepage: https://www.kaggle.com/c/informs2010
+files:
+- name: testdata
+  url: https://www.kaggle.com/c/informs2010/download/TestData.zip
+- name: trainingdata
+  url: https://www.kaggle.com/c/informs2010/download/TrainingData.zip
+restricted: true

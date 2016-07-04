@@ -1,0 +1,12 @@
+name: kaggle-comp-the-winton-stock-market-challenge
+description: The Winton Stock Market Challenge. Join a multi-disciplinary team of
+  research scientists
+homepage: https://www.kaggle.com/c/the-winton-stock-market-challenge
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/the-winton-stock-market-challenge/download/train.csv.zip
+- name: sample-submission-2-csv
+  url: https://www.kaggle.com/c/the-winton-stock-market-challenge/download/sample_submission_2.csv.zip
+- name: test-2-csv
+  url: https://www.kaggle.com/c/the-winton-stock-market-challenge/download/test_2.csv.zip
+restricted: true

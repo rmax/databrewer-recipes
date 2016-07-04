@@ -1,0 +1,17 @@
+name: kaggle-comp-acm-sf-chapter-hackathon-big
+description: Data Mining Hackathon on BIG DATA (7GB) Best Buy mobile web site. Predict
+  which BestBuy product a mobile web visitor will be most interested in based on their
+  search query or behavior over 2 years (7 GB).
+homepage: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/download/test.csv
+- name: product-data-tar
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/download/product_data.tar.gz
+- name: popular-skus-py
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/download/popular_skus.py
+- name: popular-skus-csv
+  url: https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/download/popular_skus.csv
+restricted: true

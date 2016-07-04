@@ -1,0 +1,13 @@
+name: kaggle-comp-datasciencebowl
+description: National Data Science Bowl. Predict ocean health, one plankton at a time
+homepage: https://www.kaggle.com/c/datasciencebowl
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/datasciencebowl/download/sampleSubmission.csv.zip
+- name: train
+  url: https://www.kaggle.com/c/datasciencebowl/download/train.zip
+- name: test
+  url: https://www.kaggle.com/c/datasciencebowl/download/test.zip
+- name: plankton-identification-pdf
+  url: https://www.kaggle.com/c/datasciencebowl/download/plankton_identification.pdf
+restricted: true

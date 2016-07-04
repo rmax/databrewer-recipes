@@ -1,0 +1,30 @@
+name: kaggle-comp-asap-sas
+description: 'The Hewlett Foundation: Short Answer Scoring. Develop a scoring algorithm
+  for student-written short-answer responses.'
+homepage: https://www.kaggle.com/c/asap-sas
+files:
+- name: public-leaderboard-tsv
+  url: https://www.kaggle.com/c/asap-sas/download/public_leaderboard.tsv
+- name: training-materials
+  url: https://www.kaggle.com/c/asap-sas/download/Training_Materials.zip
+- name: data-set-descriptions
+  url: https://www.kaggle.com/c/asap-sas/download/Data_Set_Descriptions.zip
+- name: train-tsv
+  url: https://www.kaggle.com/c/asap-sas/download/train.tsv
+- name: guidelines-for-transcribing-student-essays-docx
+  url: https://www.kaggle.com/c/asap-sas/download/Guidelines%20for%20Transcribing%20Student%20Essays.docx
+- name: train-rel-2-tsv
+  url: https://www.kaggle.com/c/asap-sas/download/train_rel_2.tsv
+- name: public-leaderboard-rel-2-tsv
+  url: https://www.kaggle.com/c/asap-sas/download/public_leaderboard_rel_2.tsv
+- name: length-benchmark-csv
+  url: https://www.kaggle.com/c/asap-sas/download/length_benchmark.csv
+- name: bag-of-words-benchmark-csv
+  url: https://www.kaggle.com/c/asap-sas/download/bag_of_words_benchmark.csv
+- name: private-leaderboard-tsv
+  url: https://www.kaggle.com/c/asap-sas/download/private_leaderboard.tsv
+- name: public-leaderboard-solution-csv
+  url: https://www.kaggle.com/c/asap-sas/download/public_leaderboard_solution.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/asap-sas/download/test.csv
+restricted: true

@@ -1,0 +1,31 @@
+name: kaggle-comp-cprod1
+description: 'CPROD1: Consumer PRODucts contest #1. Identify product mentions within
+  a largely user-generated web-based corpus and disambiguate the mentions against
+  a large product catalog.'
+homepage: https://www.kaggle.com/c/cprod1
+files:
+- name: trainingset-7z
+  url: https://www.kaggle.com/c/cprod1/download/TrainingSet.7z
+- name: trainingset
+  url: https://www.kaggle.com/c/cprod1/download/TrainingSet.zip
+- name: publicleaderboardset-7z
+  url: https://www.kaggle.com/c/cprod1/download/PublicLeaderboardSet.7z
+- name: publicleaderboardset
+  url: https://www.kaggle.com/c/cprod1/download/PublicLeaderboardSet.zip
+- name: cprod1-baseline-120707-pl
+  url: https://www.kaggle.com/c/cprod1/download/CPROD1_baseline.120707.pl
+- name: training-disambiguated-product-mentions-120725-csv-7z
+  url: https://www.kaggle.com/c/cprod1/download/training-disambiguated-product-mentions.120725.csv.7z
+- name: training-disambiguated-product-mentions-120725-csv
+  url: https://www.kaggle.com/c/cprod1/download/training-disambiguated-product-mentions.120725.csv.gz
+- name: cprod1-baseline2-tar-7z
+  url: https://www.kaggle.com/c/cprod1/download/CPROD1_baseline2.tar.7z
+- name: cprod1-baseline2-tar
+  url: https://www.kaggle.com/c/cprod1/download/CPROD1_baseline2.tar.gz
+- name: test-csv
+  url: https://www.kaggle.com/c/cprod1/download/test.csv
+- name: evaluation-text-7z
+  url: https://www.kaggle.com/c/cprod1/download/evaluation-text.7z
+- name: evaluation-text
+  url: https://www.kaggle.com/c/cprod1/download/evaluation-text.zip
+restricted: true

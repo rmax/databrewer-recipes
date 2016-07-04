@@ -1,0 +1,18 @@
+name: kaggle-comp-icdar2013-stroke-recovery-from-offline-data
+description: ICDAR2013 - Handwriting Stroke Recovery from Offline Data. Predict the
+  trajectory of a handwritten signature
+homepage: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data
+files:
+- name: images-stroke
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/images_stroke.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/train.csv
+- name: stroke-matlab
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/stroke_matlab.zip
+- name: submission-example-csv
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/submission_example.csv
+- name: unnormalized-data-csv
+  url: https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data/download/unnormalized_data.csv
+restricted: true

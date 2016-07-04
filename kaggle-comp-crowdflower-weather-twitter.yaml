@@ -1,0 +1,14 @@
+name: kaggle-comp-crowdflower-weather-twitter
+description: 'Partly Sunny with a Chance of Hashtags. What can a #machine learn from
+  tweets about the #weather?'
+homepage: https://www.kaggle.com/c/crowdflower-weather-twitter
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/crowdflower-weather-twitter/download/sampleSubmission.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/crowdflower-weather-twitter/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/crowdflower-weather-twitter/download/train.csv
+- name: variablenames-txt
+  url: https://www.kaggle.com/c/crowdflower-weather-twitter/download/variableNames.txt
+restricted: true

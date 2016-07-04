@@ -1,0 +1,15 @@
+name: kaggle-comp-givemesomecredit
+description: Give Me Some Credit. Improve on the state of the art in credit scoring
+  by predicting the probability that somebody will experience financial distress in
+  the next two years.
+homepage: https://www.kaggle.com/c/GiveMeSomeCredit
+files:
+- name: cs-training-csv
+  url: https://www.kaggle.com/c/GiveMeSomeCredit/download/cs-training.csv
+- name: cs-test-csv
+  url: https://www.kaggle.com/c/GiveMeSomeCredit/download/cs-test.csv
+- name: data-dictionary-xls
+  url: https://www.kaggle.com/c/GiveMeSomeCredit/download/Data%20Dictionary.xls
+- name: sampleentry-csv
+  url: https://www.kaggle.com/c/GiveMeSomeCredit/download/sampleEntry.csv
+restricted: true

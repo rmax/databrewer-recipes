@@ -1,0 +1,28 @@
+name: kaggle-comp-benchmark-bond-trade-price-challenge
+description: Benchmark Bond Trade Price Challenge. Develop models to accurately predict
+  the trade price of a bond.
+homepage: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge
+files:
+- name: train-7z
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/train.7z
+- name: train-csv
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/train.csv
+- name: train-mat
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/train.mat
+- name: train
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/train.zip
+- name: test-7z
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/test.7z
+- name: test-csv
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/test.csv
+- name: test-mat
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/test.mat
+- name: test
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/test.zip
+- name: random-forest-benchmark-r
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/random_forest_benchmark.r
+- name: random-forest-sample-submission-csv
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/random_forest_sample_submission.csv
+- name: old-data
+  url: https://www.kaggle.com/c/benchmark-bond-trade-price-challenge/download/old_data.zip
+restricted: true

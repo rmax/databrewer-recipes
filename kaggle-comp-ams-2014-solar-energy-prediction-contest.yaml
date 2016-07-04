@@ -1,0 +1,22 @@
+name: kaggle-comp-ams-2014-solar-energy-prediction-contest
+description: AMS 2013-2014 Solar Energy Prediction Contest. Forecast daily solar energy
+  with an ensemble of weather models
+homepage: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest
+files:
+- name: train-csv
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/train.csv
+- name: gefs-train-tar
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/gefs_train.tar.gz
+- name: gefs-test-tar
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/gefs_test.tar.gz
+- name: gefs-train
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/gefs_train.zip
+- name: gefs-test
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/gefs_test.zip
+- name: station-info-csv
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/station_info.csv
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/sampleSubmission.csv
+- name: gefs-elevations-nc
+  url: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/download/gefs_elevations.nc
+restricted: true

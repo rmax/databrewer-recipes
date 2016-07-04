@@ -1,0 +1,20 @@
+name: kaggle-comp-telstra-recruiting-network
+description: Telstra Network Disruptions. Data Scientist                   at                 Telstra        Sydney,
+  Melbourne, and other cities in Australia
+homepage: https://www.kaggle.com/c/telstra-recruiting-network
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/sample_submission.csv.zip
+- name: severity-type-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/severity_type.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/test.csv.zip
+- name: log-feature-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/log_feature.csv.zip
+- name: resource-type-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/resource_type.csv.zip
+- name: event-type-csv
+  url: https://www.kaggle.com/c/telstra-recruiting-network/download/event_type.csv.zip
+restricted: true

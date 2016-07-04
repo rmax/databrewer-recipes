@@ -1,0 +1,26 @@
+name: kaggle-comp-job-salary-prediction
+description: Job Salary Prediction. Predict the salary of any UK job ad based on its
+  contents
+homepage: https://www.kaggle.com/c/job-salary-prediction
+files:
+- name: location-tree-csv
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Location_Tree.csv
+- name: mean-benchmark-csv
+  url: https://www.kaggle.com/c/job-salary-prediction/download/mean_benchmark.csv
+- name: train-rev1-7z
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Train_rev1.7z
+- name: train-rev1
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Train_rev1.zip
+- name: valid-rev1-7z
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Valid_rev1.7z
+- name: valid-rev1-csv
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Valid_rev1.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/job-salary-prediction/download/test.csv
+- name: test-rev1-7z
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Test_rev1.7z
+- name: test-rev1
+  url: https://www.kaggle.com/c/job-salary-prediction/download/Test_rev1.zip
+- name: random-forest-benchmark-test-rev1-csv
+  url: https://www.kaggle.com/c/job-salary-prediction/download/random_forest_benchmark_test_rev1.csv
+restricted: true

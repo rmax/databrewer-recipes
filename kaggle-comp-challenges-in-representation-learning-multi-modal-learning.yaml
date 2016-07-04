@@ -1,0 +1,20 @@
+name: kaggle-comp-challenges-in-representation-learning-multi-modal-learning
+description: 'Challenges in Representation Learning: Multi-modal Learning. The multi-modal
+  learning challenge'
+homepage: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning
+files:
+- name: public-test-images-tgz
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/public_test_images.tgz
+- name: public-test-options-tgz
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/public_test_options.tgz
+- name: espgame100k-tar
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/ESPGame100k.tar.gz
+- name: private-test-images-tar
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/private_test_images.tar.gz
+- name: private-test-options-tar
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/private_test_options.tar.gz
+- name: test-csv
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/test.csv
+- name: mlc2013-tar
+  url: https://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/download/mlc2013.tar.gz
+restricted: true

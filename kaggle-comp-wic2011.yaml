@@ -1,0 +1,19 @@
+name: kaggle-comp-wic2011
+description: ICDAR 2011 - Arabic Writer Identification. This competition require participants
+  to develop an algorithm to identify who wrote which documents. The winner will be
+  honored at a special session of the ICDAR 2011 conference.
+homepage: https://www.kaggle.com/c/WIC2011
+files:
+- name: binary
+  url: https://www.kaggle.com/c/WIC2011/download/binary.zip
+- name: color
+  url: https://www.kaggle.com/c/WIC2011/download/color.zip
+- name: gray
+  url: https://www.kaggle.com/c/WIC2011/download/gray.zip
+- name: sample-entry-csv
+  url: https://www.kaggle.com/c/WIC2011/download/sample_entry.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/WIC2011/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/WIC2011/download/train.csv
+restricted: true

@@ -1,0 +1,12 @@
+name: kaggle-comp-gesturechallenge2
+description: CHALEARN Gesture Challenge 2. Develop a Gesture Recognizer for Microsoft
+  Kinect (TM)
+homepage: https://www.kaggle.com/c/GestureChallenge2
+files:
+- name: valid-all-files-combined-7z
+  url: https://www.kaggle.com/c/GestureChallenge2/download/valid_all_files_combined.7z
+- name: sample-predict-csv
+  url: https://www.kaggle.com/c/GestureChallenge2/download/sample_predict.csv
+- name: devel01-40-7z
+  url: https://www.kaggle.com/c/GestureChallenge2/download/devel01-40.7z
+restricted: true

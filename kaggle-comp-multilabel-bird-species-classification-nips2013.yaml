@@ -1,0 +1,12 @@
+name: kaggle-comp-multilabel-bird-species-classification-nips2013
+description: Multi-label Bird Species Classification - NIPS 2013. Identify which of
+  87 classes of birds and amphibians are present into 1000 continuous wild sound recordings
+homepage: https://www.kaggle.com/c/multilabel-bird-species-classification-nips2013
+files:
+- name: nips4b-bird-challenge-train-labels-tar
+  url: https://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/download/NIPS4B_BIRD_CHALLENGE_TRAIN_LABELS.tar
+- name: nips4b-bird-challenge-train-test-mfcc-tar
+  url: https://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/download/NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_MFCC.tar.gz
+- name: nips4b-bird-challenge-train-test-wav-tar
+  url: https://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/download/NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_WAV.tar.gz
+restricted: true

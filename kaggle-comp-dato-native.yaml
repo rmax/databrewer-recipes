@@ -1,0 +1,25 @@
+name: kaggle-comp-dato-native
+description: Truly Native?. Predict which web pages served by StumbleUpon are sponsored
+homepage: https://www.kaggle.com/c/dato-native
+files:
+- name: '2'
+  url: https://www.kaggle.com/c/dato-native/download/2.zip
+- name: '0'
+  url: https://www.kaggle.com/c/dato-native/download/0.zip
+- name: '1'
+  url: https://www.kaggle.com/c/dato-native/download/1.zip
+- name: '3'
+  url: https://www.kaggle.com/c/dato-native/download/3.zip
+- name: '4'
+  url: https://www.kaggle.com/c/dato-native/download/4.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/dato-native/download/sampleSubmission.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/dato-native/download/train.csv.zip
+- name: samplesubmission-v2-csv
+  url: https://www.kaggle.com/c/dato-native/download/sampleSubmission_v2.csv.zip
+- name: train-v2-csv
+  url: https://www.kaggle.com/c/dato-native/download/train_v2.csv.zip
+- name: '5'
+  url: https://www.kaggle.com/c/dato-native/download/5.zip
+restricted: true

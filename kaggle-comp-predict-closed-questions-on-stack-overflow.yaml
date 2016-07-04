@@ -1,0 +1,62 @@
+name: kaggle-comp-predict-closed-questions-on-stack-overflow
+description: Predict Closed Questions on Stack Overflow. Predict which new questions
+  asked on Stack Overflow will be closed
+homepage: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow
+files:
+- name: train-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train.7z
+- name: train-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train.csv
+- name: train
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train.zip
+- name: public-leaderboard-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/public_leaderboard.7z
+- name: public-leaderboard-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/public_leaderboard.csv
+- name: public-leaderboard
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/public_leaderboard.gz
+- name: public-leaderboard
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/public_leaderboard.zip
+- name: train-sample-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample.csv
+- name: train-sample-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample.7z
+- name: train-sample
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample.gz
+- name: train-sample
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample.zip
+- name: basic-benchmark-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/basic_benchmark.csv
+- name: uniform-benchmark-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/uniform_benchmark.csv
+- name: prior-benchmark-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/prior_benchmark.csv
+- name: 2012-07-stack-overflow-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/2012-07%20Stack%20Overflow.7z
+- name: test-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/test.csv
+- name: private-leaderboard-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/private_leaderboard.7z
+- name: private-leaderboard-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/private_leaderboard.csv
+- name: private-leaderboard
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/private_leaderboard.gz
+- name: private-leaderboard
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/private_leaderboard.zip
+- name: train-october-9-2012-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train_October_9_2012.7z
+- name: train-october-9-2012-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train_October_9_2012.csv
+- name: train-october-9-2012
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train_October_9_2012.gz
+- name: train-october-9-2012
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train_October_9_2012.zip
+- name: train-sample-october-9-2012-v2-7z
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample_October_9_2012_v2.7z
+- name: train-sample-october-9-2012-v2-csv
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample_October_9_2012_v2.csv
+- name: train-sample-october-9-2012-v2
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample_October_9_2012_v2.gz
+- name: train-sample-october-9-2012-v2
+  url: https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/download/train-sample_October_9_2012_v2.zip
+restricted: true

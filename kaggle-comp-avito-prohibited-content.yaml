@@ -1,0 +1,15 @@
+name: kaggle-comp-avito-prohibited-content
+description: The Hunt for Prohibited Content. Predict which ads contain illicit content
+homepage: https://www.kaggle.com/c/avito-prohibited-content
+files:
+- name: avito-prohibitedcontent-samplecode-py
+  url: https://www.kaggle.com/c/avito-prohibited-content/download/avito_ProhibitedContent_SampleCode.py
+- name: avito-train
+  url: https://www.kaggle.com/c/avito-prohibited-content/download/avito_train.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/avito-prohibited-content/download/sample_submission.csv
+- name: avito-test
+  url: https://www.kaggle.com/c/avito-prohibited-content/download/avito_test.zip
+- name: apatk-py
+  url: https://www.kaggle.com/c/avito-prohibited-content/download/APatK.py
+restricted: true

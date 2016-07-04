@@ -1,0 +1,12 @@
+name: kaggle-comp-otto-group-product-classification-challenge
+description: Otto Group Product Classification Challenge. Classify products into the
+  correct category
+homepage: https://www.kaggle.com/c/otto-group-product-classification-challenge
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/otto-group-product-classification-challenge/download/sampleSubmission.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/otto-group-product-classification-challenge/download/train.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/otto-group-product-classification-challenge/download/test.csv.zip
+restricted: true

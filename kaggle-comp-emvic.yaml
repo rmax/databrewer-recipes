@@ -1,0 +1,16 @@
+name: kaggle-comp-emvic
+description: Eye Movements Verification and Identification Competition. Determine
+  how people may be identified based on their eye movement characteristic.
+homepage: https://www.kaggle.com/c/emvic
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/emvic/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/emvic/download/train.csv
+- name: rf-benchmark-csv
+  url: https://www.kaggle.com/c/emvic/download/rf_benchmark.csv
+- name: uniform-benchmark-csv
+  url: https://www.kaggle.com/c/emvic/download/uniform_benchmark.csv
+- name: svm-benchmark-csv
+  url: https://www.kaggle.com/c/emvic/download/svm_benchmark.csv
+restricted: true

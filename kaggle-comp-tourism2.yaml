@@ -1,0 +1,11 @@
+name: kaggle-comp-tourism2
+description: Tourism Forecasting Part Two. Part two requires competitors to predict
+  793 tourism-related time series. The winner of this competition will be invited
+  to contribute a discussion paper to the International Journal of Forecasting.
+homepage: https://www.kaggle.com/c/tourism2
+files:
+- name: example-submission-csv
+  url: https://www.kaggle.com/c/tourism2/download/example_submission.csv
+- name: tourism2-revision2-csv
+  url: https://www.kaggle.com/c/tourism2/download/tourism2_revision2.csv
+restricted: true

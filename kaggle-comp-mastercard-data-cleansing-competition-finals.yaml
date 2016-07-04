@@ -1,0 +1,14 @@
+name: kaggle-comp-mastercard-data-cleansing-competition-finals
+description: MasterCard - Data Cleansing Competition. Improve the quality of information
+  within transaction data
+homepage: https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals
+files:
+- name: project-briefing-for-kaggle-competitors-20130228-v1-3-docx
+  url: https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals/download/Project%20Briefing%20for%20Kaggle%20Competitors%2020130228%20v1.3.docx
+- name: scoring-pdf
+  url: https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals/download/scoring.pdf
+- name: timeline-pdf
+  url: https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals/download/timeline.pdf
+- name: final-csv
+  url: https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals/download/final.csv
+restricted: true

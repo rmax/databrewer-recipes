@@ -1,0 +1,13 @@
+name: kaggle-comp-tradeshift-text-classification
+description: Tradeshift Text Classification. Classify text blocks in documents
+homepage: https://www.kaggle.com/c/tradeshift-text-classification
+files:
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/tradeshift-text-classification/download/trainLabels.csv.gz
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/tradeshift-text-classification/download/sampleSubmission.csv.gz
+- name: test-csv
+  url: https://www.kaggle.com/c/tradeshift-text-classification/download/test.csv.gz
+- name: train-csv
+  url: https://www.kaggle.com/c/tradeshift-text-classification/download/train.csv.gz
+restricted: true

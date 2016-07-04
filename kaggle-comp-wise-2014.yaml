@@ -1,0 +1,16 @@
+name: kaggle-comp-wise-2014
+description: Greek Media Monitoring Multilabel Classification (WISE 2014). Multi-label
+  classification of printed media articles to topics
+homepage: https://www.kaggle.com/c/wise-2014
+files:
+- name: wise2014-arff-test
+  url: https://www.kaggle.com/c/wise-2014/download/wise2014-arff-test.zip
+- name: wise2014-libsvm-test
+  url: https://www.kaggle.com/c/wise-2014/download/wise2014-libsvm-test.zip
+- name: wise2014-libsvm-train
+  url: https://www.kaggle.com/c/wise-2014/download/wise2014-libsvm-train.zip
+- name: wise2014-arff-train
+  url: https://www.kaggle.com/c/wise-2014/download/wise2014-arff-train.zip
+- name: samplesubmission
+  url: https://www.kaggle.com/c/wise-2014/download/sampleSubmission.zip
+restricted: true

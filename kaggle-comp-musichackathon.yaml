@@ -1,0 +1,26 @@
+name: kaggle-comp-musichackathon
+description: EMI Music Data Science Hackathon - July 21st - 24 hours. Can you predict
+  if a listener will love a new song?
+homepage: https://www.kaggle.com/c/MusicHackathon
+files:
+- name: userkey-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/UserKey.csv
+- name: users-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/users.csv
+- name: words-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/words.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/train.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/test.csv
+- name: sample-r
+  url: https://www.kaggle.com/c/MusicHackathon/download/sample.r
+- name: artists-mean-benchmark-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/artists_mean_benchmark.csv
+- name: tracks-mean-benchmark-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/tracks_mean_benchmark.csv
+- name: users-mean-benchmark-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/users_mean_benchmark.csv
+- name: global-mean-benchmark-csv
+  url: https://www.kaggle.com/c/MusicHackathon/download/global_mean_benchmark.csv
+restricted: true

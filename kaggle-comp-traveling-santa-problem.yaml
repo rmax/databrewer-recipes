@@ -1,0 +1,10 @@
+name: kaggle-comp-traveling-santa-problem
+description: Traveling Santa Problem. Solve ye olde traveling salesman problem to
+  help Santa Claus deliver his presents
+homepage: https://www.kaggle.com/c/traveling-santa-problem
+files:
+- name: santa-cities-csv
+  url: https://www.kaggle.com/c/traveling-santa-problem/download/santa_cities.csv
+- name: random-paths-benchmark-csv
+  url: https://www.kaggle.com/c/traveling-santa-problem/download/random_paths_benchmark.csv
+restricted: true

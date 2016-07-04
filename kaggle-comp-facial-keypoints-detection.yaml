@@ -1,0 +1,14 @@
+name: kaggle-comp-facial-keypoints-detection
+description: Facial Keypoints Detection. Detect the location of keypoints on face
+  images
+homepage: https://www.kaggle.com/c/facial-keypoints-detection
+files:
+- name: training
+  url: https://www.kaggle.com/c/facial-keypoints-detection/download/training.zip
+- name: test
+  url: https://www.kaggle.com/c/facial-keypoints-detection/download/test.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/facial-keypoints-detection/download/SampleSubmission.csv
+- name: idlookuptable-csv
+  url: https://www.kaggle.com/c/facial-keypoints-detection/download/IdLookupTable.csv
+restricted: true

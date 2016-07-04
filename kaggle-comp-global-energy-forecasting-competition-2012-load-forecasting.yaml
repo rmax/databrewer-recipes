@@ -1,0 +1,19 @@
+name: kaggle-comp-global-energy-forecasting-competition-2012-load-forecasting
+description: 'Global Energy Forecasting Competition 2012 - Load Forecasting. A hierarchical
+  load forecasting problem: backcasting and forecasting hourly loads (in kW) for a
+  US utility with 20 zones.'
+homepage: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting
+files:
+- name: load-history-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/Load_history.csv
+- name: temperature-history-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/temperature_history.csv
+- name: submission-template-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/submission_template.csv
+- name: benchmark-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/Benchmark.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/test.csv
+- name: weights-csv
+  url: https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting/download/weights.csv
+restricted: true

@@ -1,0 +1,24 @@
+name: kaggle-comp-kdd-cup-2013-author-paper-identification-challenge
+description: KDD Cup 2013 - Author-Paper Identification Challenge (Track 1). Determine
+  whether an author has written a given paper
+homepage: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge
+files:
+- name: basicpythonbenchmark-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/basicPythonBenchmark.csv
+- name: randombenchmark-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/randomBenchmark.csv
+- name: basiccoauthorbenchmark-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/basicCoauthorBenchmark.csv
+- name: datarev2-postgres
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/dataRev2.postgres
+- name: datarev2
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/dataRev2.zip
+- name: validsolution-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/ValidSolution.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/Test.csv
+- name: testpaper-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/TestPaper.csv
+- name: basiccoauthorbenchmarkrev2test-csv
+  url: https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/download/basicCoauthorBenchmarkRev2Test.csv
+restricted: true

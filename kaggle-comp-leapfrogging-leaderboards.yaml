@@ -1,0 +1,12 @@
+name: kaggle-comp-leapfrogging-leaderboards
+description: Leaping Leaderboard Leapfrogs. Provide creative visualizations of the
+  Kaggle leaderboard
+homepage: https://www.kaggle.com/c/leapfrogging-leaderboards
+files:
+- name: all-leaderboards
+  url: https://www.kaggle.com/c/leapfrogging-leaderboards/download/ALL_LEADERBOARDS.zip
+- name: teams-csv
+  url: https://www.kaggle.com/c/leapfrogging-leaderboards/download/teams.csv
+- name: user-photos
+  url: https://www.kaggle.com/c/leapfrogging-leaderboards/download/user_photos.zip
+restricted: true

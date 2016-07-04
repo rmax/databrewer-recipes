@@ -1,0 +1,20 @@
+name: kaggle-comp-claimpredictionchallenge
+description: Allstate Claim Prediction Challenge. A key part of insurance is charging
+  each customer the appropriate price for the risk they represent.
+homepage: https://www.kaggle.com/c/ClaimPredictionChallenge
+files:
+- name: dictionary-html
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/dictionary.html
+- name: train-set-7z
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/train_set.7z
+- name: train-set
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/train_set.zip
+- name: test-set-7z
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/test_set.7z
+- name: test-set
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/test_set.zip
+- name: example-compressed-entry
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/example_compressed_entry.zip
+- name: example-uncompressed-entry-csv
+  url: https://www.kaggle.com/c/ClaimPredictionChallenge/download/example_uncompressed_entry.csv
+restricted: true

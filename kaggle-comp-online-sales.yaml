@@ -1,0 +1,14 @@
+name: kaggle-comp-online-sales
+description: Online Product Sales. Predict the online sales of a consumer product
+  based on a data set of product features.
+homepage: https://www.kaggle.com/c/online-sales
+files:
+- name: testdataset-csv
+  url: https://www.kaggle.com/c/online-sales/download/TestDataset.csv
+- name: trainingdataset-csv
+  url: https://www.kaggle.com/c/online-sales/download/TrainingDataset.csv
+- name: sample-submission-using-training-column-means-csv
+  url: https://www.kaggle.com/c/online-sales/download/sample_submission_using_training_column_means.csv
+- name: sample-code-r
+  url: https://www.kaggle.com/c/online-sales/download/sample_code.R
+restricted: true

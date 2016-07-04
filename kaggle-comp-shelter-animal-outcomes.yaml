@@ -1,0 +1,11 @@
+name: kaggle-comp-shelter-animal-outcomes
+description: Shelter Animal Outcomes. Help improve outcomes for shelter animals
+homepage: https://www.kaggle.com/c/shelter-animal-outcomes
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/shelter-animal-outcomes/download/sample_submission.csv.gz
+- name: test-csv
+  url: https://www.kaggle.com/c/shelter-animal-outcomes/download/test.csv.gz
+- name: train-csv
+  url: https://www.kaggle.com/c/shelter-animal-outcomes/download/train.csv.gz
+restricted: true

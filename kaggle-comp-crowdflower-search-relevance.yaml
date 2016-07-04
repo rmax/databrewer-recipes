@@ -1,0 +1,12 @@
+name: kaggle-comp-crowdflower-search-relevance
+description: Crowdflower Search Results Relevance. Predict the relevance of search
+  results from eCommerce sites
+homepage: https://www.kaggle.com/c/crowdflower-search-relevance
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/crowdflower-search-relevance/download/sampleSubmission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/crowdflower-search-relevance/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/crowdflower-search-relevance/download/train.csv.zip
+restricted: true

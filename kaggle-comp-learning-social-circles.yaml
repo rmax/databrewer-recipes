@@ -1,0 +1,22 @@
+name: kaggle-comp-learning-social-circles
+description: Learning Social Circles in Networks. Model friend memberships to multiple
+  circles
+homepage: https://www.kaggle.com/c/learning-social-circles
+files:
+- name: egonets
+  url: https://www.kaggle.com/c/learning-social-circles/download/egonets.zip
+- name: features
+  url: https://www.kaggle.com/c/learning-social-circles/download/features.zip
+- name: training
+  url: https://www.kaggle.com/c/learning-social-circles/download/Training.zip
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/learning-social-circles/download/sample_submission.csv
+- name: testset-users-friends-csv
+  url: https://www.kaggle.com/c/learning-social-circles/download/testSet_users_friends.csv
+- name: connected-components-py
+  url: https://www.kaggle.com/c/learning-social-circles/download/connected_components.py
+- name: socialcircles-metric-py
+  url: https://www.kaggle.com/c/learning-social-circles/download/socialCircles_metric.py
+- name: featurelist-txt
+  url: https://www.kaggle.com/c/learning-social-circles/download/featureList.txt
+restricted: true

@@ -1,0 +1,22 @@
+name: kaggle-comp-emc-data-science
+description: EMC Israel Data Science Challenge. Match source code files to the open
+  source code project
+homepage: https://www.kaggle.com/c/emc-data-science
+files:
+- name: train-data-csv-tgz
+  url: https://www.kaggle.com/c/emc-data-science/download/train_data.csv.tgz
+- name: train-labels-csv-tgz
+  url: https://www.kaggle.com/c/emc-data-science/download/train_labels.csv.tgz
+- name: test-data-csv-tgz
+  url: https://www.kaggle.com/c/emc-data-science/download/test_data.csv.tgz
+- name: emc-io-py
+  url: https://www.kaggle.com/c/emc-data-science/download/EMC_IO.py
+- name: emc-io-r
+  url: https://www.kaggle.com/c/emc-data-science/download/EMC_IO.r
+- name: dist-sample-submission
+  url: https://www.kaggle.com/c/emc-data-science/download/dist_sample_submission.zip
+- name: logistic-distribution-combo-sample-submission
+  url: https://www.kaggle.com/c/emc-data-science/download/logistic_distribution_combo_sample_submission.zip
+- name: sample-r
+  url: https://www.kaggle.com/c/emc-data-science/download/sample.R
+restricted: true

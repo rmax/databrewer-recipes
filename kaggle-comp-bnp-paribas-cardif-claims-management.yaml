@@ -1,0 +1,12 @@
+name: kaggle-comp-bnp-paribas-cardif-claims-management
+description: BNP Paribas Cardif Claims Management. Can you accelerate BNP Paribas
+  Cardif's claims management process?
+homepage: https://www.kaggle.com/c/bnp-paribas-cardif-claims-management
+files:
+- name: sample-submission-csv
+  url: https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/sample_submission.csv.zip
+- name: test-csv
+  url: https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/test.csv.zip
+- name: train-csv
+  url: https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/download/train.csv.zip
+restricted: true

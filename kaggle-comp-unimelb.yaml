@@ -1,0 +1,12 @@
+name: kaggle-comp-unimelb
+description: Predict Grant Applications. This task requires participants to predict
+  the outcome of grant applications for the University of Melbourne.
+homepage: https://www.kaggle.com/c/unimelb
+files:
+- name: unimelb-example-csv
+  url: https://www.kaggle.com/c/unimelb/download/unimelb_example.csv
+- name: unimelb-test-csv
+  url: https://www.kaggle.com/c/unimelb/download/unimelb_test.csv
+- name: unimelb-training-csv
+  url: https://www.kaggle.com/c/unimelb/download/unimelb_training.csv
+restricted: true

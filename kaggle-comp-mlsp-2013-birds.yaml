@@ -1,0 +1,14 @@
+name: kaggle-comp-mlsp-2013-birds
+description: MLSP 2013 Bird Classification Challenge. Predict the set of bird species
+  present in an audio recording, collected in field conditions.
+homepage: https://www.kaggle.com/c/mlsp-2013-birds
+files:
+- name: readme-txt
+  url: https://www.kaggle.com/c/mlsp-2013-birds/download/README.txt
+- name: mlsp13birdchallenge-documentation-pdf
+  url: https://www.kaggle.com/c/mlsp-2013-birds/download/mlsp13birdchallenge_documentation.pdf
+- name: mlsp-contest-dataset
+  url: https://www.kaggle.com/c/mlsp-2013-birds/download/mlsp_contest_dataset.zip
+- name: light-data
+  url: https://www.kaggle.com/c/mlsp-2013-birds/download/light_data.zip
+restricted: true

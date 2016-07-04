@@ -1,0 +1,16 @@
+name: kaggle-comp-stumbleupon
+description: StumbleUpon Evergreen Classification Challenge. Build a classifier to
+  categorize webpages as evergreen or non-evergreen
+homepage: https://www.kaggle.com/c/stumbleupon
+files:
+- name: raw-content
+  url: https://www.kaggle.com/c/stumbleupon/download/raw_content.zip
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/stumbleupon/download/sampleSubmission.csv
+- name: test-tsv
+  url: https://www.kaggle.com/c/stumbleupon/download/test.tsv
+- name: train-tsv
+  url: https://www.kaggle.com/c/stumbleupon/download/train.tsv
+- name: data-access-agreement-docx
+  url: https://www.kaggle.com/c/stumbleupon/download/Data%20Access%20Agreement.docx
+restricted: true

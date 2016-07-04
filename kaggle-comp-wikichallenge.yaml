@@ -1,0 +1,35 @@
+name: kaggle-comp-wikichallenge
+description: Wikipedia's Participation Challenge. This competition challenges data-mining
+  experts to build a predictive model that predicts the number of edits an editor
+  will make five months from the end date of the training dataset.
+homepage: https://www.kaggle.com/c/wikichallenge
+files:
+- name: wikichallenge-data-all-7z-001
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.001
+- name: wikichallenge-data-all-7z-002
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.002
+- name: wikichallenge-data-all-7z-003
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.003
+- name: wikichallenge-data-all-7z-004
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.004
+- name: wikichallenge-data-all-7z-005
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.005
+- name: wikichallenge-data-all-7z-006
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.006
+- name: wikichallenge-data-all-7z-007
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.007
+- name: wikichallenge-data-all-7z-008
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.008
+- name: wikichallenge-data-all-7z-009
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.009
+- name: wikichallenge-data-all-7z-010
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.7z.010
+- name: wikichallenge-data-all
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_all.zip
+- name: wikichallenge-example-entry-csv
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_example_entry.csv
+- name: wikichallenge-data-optional-regdates
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_optional_regdates.zip
+- name: wikichallenge-data-optional-validation
+  url: https://www.kaggle.com/c/wikichallenge/download/wikichallenge_data_optional_validation.zip
+restricted: true

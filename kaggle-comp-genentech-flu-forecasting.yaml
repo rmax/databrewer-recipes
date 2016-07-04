@@ -1,0 +1,17 @@
+name: kaggle-comp-genentech-flu-forecasting
+description: Flu Forecasting. Predict when, where and how strong the flu will be
+homepage: https://www.kaggle.com/c/genentech-flu-forecasting
+files:
+- name: cdcsurveillance
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/CDCSurveillance.zip
+- name: training-monthly
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/training_monthly.zip
+- name: genentechfluforcasting-eligibilityreleaseform-pdf
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/GenentechFluForcasting_EligibilityReleaseForm.pdf
+- name: additionalinformation-rev1-pdf
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/AdditionalInformation_rev1.pdf
+- name: training-weekly-rev2
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/training_weekly_rev2.zip
+- name: all-zeros-benchmark-rev1
+  url: https://www.kaggle.com/c/genentech-flu-forecasting/download/all_zeros_benchmark_rev1.zip
+restricted: true

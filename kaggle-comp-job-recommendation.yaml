@@ -1,0 +1,31 @@
+name: kaggle-comp-job-recommendation
+description: Job Recommendation Challenge. Predict which jobs users will apply to
+homepage: https://www.kaggle.com/c/job-recommendation
+files:
+- name: apps-tsv
+  url: https://www.kaggle.com/c/job-recommendation/download/apps.tsv
+- name: test-users-tsv
+  url: https://www.kaggle.com/c/job-recommendation/download/test_users.tsv
+- name: user-history-tsv
+  url: https://www.kaggle.com/c/job-recommendation/download/user_history.tsv
+- name: users-tsv
+  url: https://www.kaggle.com/c/job-recommendation/download/users.tsv
+- name: popular-jobs-csv
+  url: https://www.kaggle.com/c/job-recommendation/download/popular_jobs.csv
+- name: popular-jobs-py
+  url: https://www.kaggle.com/c/job-recommendation/download/popular_jobs.py
+- name: apps
+  url: https://www.kaggle.com/c/job-recommendation/download/apps.zip
+- name: test-users
+  url: https://www.kaggle.com/c/job-recommendation/download/test_users.zip
+- name: user-history
+  url: https://www.kaggle.com/c/job-recommendation/download/user_history.zip
+- name: users
+  url: https://www.kaggle.com/c/job-recommendation/download/users.zip
+- name: splitjobs
+  url: https://www.kaggle.com/c/job-recommendation/download/splitjobs.zip
+- name: jobs
+  url: https://www.kaggle.com/c/job-recommendation/download/jobs.zip
+- name: window-dates-tsv
+  url: https://www.kaggle.com/c/job-recommendation/download/window_dates.tsv
+restricted: true

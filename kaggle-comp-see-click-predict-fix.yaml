@@ -1,0 +1,12 @@
+name: kaggle-comp-see-click-predict-fix
+description: See Click Predict Fix. Predict which 311 issues are most important to
+  citizens
+homepage: https://www.kaggle.com/c/see-click-predict-fix
+files:
+- name: samplesubmission-csv
+  url: https://www.kaggle.com/c/see-click-predict-fix/download/sampleSubmission.csv
+- name: test-csv
+  url: https://www.kaggle.com/c/see-click-predict-fix/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/see-click-predict-fix/download/train.csv
+restricted: true

@@ -1,0 +1,33 @@
+name: kaggle-comp-predicting-parkinson-s-disease-progression-with-smartphone-data
+description: "Predicting Parkinson's Disease Progression with Smartphone Data. Can\
+  \ we objectively measure the symptoms of Parkinson\u2019s disease with a smartphone?\
+  \ We have the data to find out!"
+homepage: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data
+files:
+- name: hdl
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/HDL.zip
+- name: humdyn-r
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/HumDyn.R
+- name: hdl-data-documentation-pdf
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/HDL%20Data%20Documentation.pdf
+- name: study-overview-pdf
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/Study%20Overview.pdf
+- name: participant-codes-and-description-pdf
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/Participant%20Codes%20and%20Description.pdf
+- name: updrs-part-1-questionaire-initialscore-xls
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/UPDRS%20Part%201%20Questionaire-initialscore.xls
+- name: updrs-questionaire-blank-docx
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/UPDRS_Questionaire_Blank.docx
+- name: binary-sample-tar-bz2
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/binary_sample.tar.bz2
+- name: text-sample-tar-bz2
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/text_sample.tar.bz2
+- name: mjff-binary-files
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/mjff_binary_files.zip
+- name: mjff-text-files
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/mjff_text_files.zip
+- name: updrs-part-1-questionaire-2-xlsx
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/UPDRS%20Part%201%20Questionaire%202.xlsx
+- name: participant-description-xls
+  url: https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/download/Participant%20Description.xls
+restricted: true

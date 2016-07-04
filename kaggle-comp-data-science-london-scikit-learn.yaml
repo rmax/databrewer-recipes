@@ -1,0 +1,12 @@
+name: kaggle-comp-data-science-london-scikit-learn
+description: Data Science London + Scikit-learn. Scikit-learn is an open-source machine
+  learning library for Python. Give it a try here!
+homepage: https://www.kaggle.com/c/data-science-london-scikit-learn
+files:
+- name: test-csv
+  url: https://www.kaggle.com/c/data-science-london-scikit-learn/download/test.csv
+- name: train-csv
+  url: https://www.kaggle.com/c/data-science-london-scikit-learn/download/train.csv
+- name: trainlabels-csv
+  url: https://www.kaggle.com/c/data-science-london-scikit-learn/download/trainLabels.csv
+restricted: true
