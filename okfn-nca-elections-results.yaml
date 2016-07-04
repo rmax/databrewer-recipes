@@ -1,0 +1,5 @@
+name: okfn-nca-elections-results
+description: '2011 NCA elections results . Full results of NCA elections scrapped
+  from high election commission website (http://isie.tn) '
+homepage: http://data.okfn.org/data/radproject/NCA%20elections%20results
+url: https://raw.github.com/radproject/2011-nca-results/master/data/nca2011.csv

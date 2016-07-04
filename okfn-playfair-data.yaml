@@ -1,0 +1,17 @@
+name: okfn-playfair-data
+description: Data from William Playfair's work. Data used in William Playfair's works
+  including the data used in the first uses of bar, pie, and line plots.
+homepage: http://data.okfn.org/data/jrnold/playfair-data
+files:
+- name: commerce
+  url: https://raw.github.com/jrnold/playfair-data/master/data/commerce.csv
+- name: scotland
+  url: https://raw.github.com/jrnold/playfair-data/master/data/scotland.csv
+- name: great-divisions-us
+  url: https://raw.github.com/jrnold/playfair-data/master/data/great_divisions_US.csv
+- name: great-divisions-us-figure
+  url: https://raw.github.com/jrnold/playfair-data/master/data/great_divisions_US_figure.csv
+- name: playfair-1801
+  url: https://raw.github.com/jrnold/playfair-data/master/data/Playfair1801.csv
+- name: city-popuations
+  url: https://raw.github.com/jrnold/playfair-data/master/data/city_populations.csv

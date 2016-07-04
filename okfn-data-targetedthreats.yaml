@@ -1,0 +1,4 @@
+name: okfn-data-targetedthreats
+description: Targeted Threats. Targeted attacks related to civil society
+homepage: http://data.okfn.org/data/digitalfreedom/data-targetedthreats
+url: https://raw.github.com/digitalfreedom/data-targetedthreats/master/targetedthreats.csv

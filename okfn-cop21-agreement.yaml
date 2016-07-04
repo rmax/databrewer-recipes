@@ -1,0 +1,14 @@
+name: okfn-cop21-agreement
+description: Negotiating Texts for COP21 UNFCCC. Negotiating texts for COP21, the
+  21st Conference of Parties (COP) to the UN Framework Convention on Climate Change,
+  taking place in Paris in December 2015.
+homepage: http://data.okfn.org/data/okfn/cop21-agreement
+files:
+- name: adp-compilation-4dec15-1000
+  url: https://raw.github.com/okfn/cop21/master/archive/adp_compilation_4dec15_1000.pdf
+- name: 11infnot
+  url: https://raw.github.com/okfn/cop21/master/archive/11infnot.pdf
+- name: 8infnot
+  url: https://raw.github.com/okfn/cop21/master/archive/8infnot.pdf
+- name: negotiating-text-12022015-2200
+  url: https://raw.github.com/okfn/cop21/master/archive/negotiating_text_12022015@2200.pdf

@@ -1,0 +1,5 @@
+name: okfn-openbe
+description: . Start with a short description of the dataset (the first sentence and
+  first paragraph should be extractable to provide short standalone descriptions).
+homepage: http://data.okfn.org/data/Yannael/openbe
+url: https://raw.github.com/Yannael/openbe/master/data/openbe.csv

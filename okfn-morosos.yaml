@@ -1,0 +1,5 @@
+name: okfn-morosos
+description: Morosos de Costa Rica. Scrape of tax defaulter data published the government
+  of Costa Rica.
+homepage: http://data.okfn.org/data/investigacion/morosos
+url: https://raw.github.com/investigacion/morosos/master/data/tsv/cedulas.tsv

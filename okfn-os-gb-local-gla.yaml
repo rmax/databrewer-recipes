@@ -1,0 +1,5 @@
+name: okfn-os-gb-local-gla
+description: Greater London Authority (GLA) Spending. This repository contains code
+  and data related to Greater London Authority spending
+homepage: http://data.okfn.org/data/rgrp/os-gb-local-gla
+url: https://raw.github.com/rgrp/dataset-gla/master/data/all.csv

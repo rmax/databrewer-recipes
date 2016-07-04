@@ -1,0 +1,5 @@
+name: okfn-geo-boundaries-world-110m
+description: Country Polygons as GeoJSON at 1:110m. geodata data package providing
+  geojson polygons for all the world's countries
+homepage: http://data.okfn.org/data/datasets/geo-boundaries-world-110m
+url: https://raw.github.com/datasets/geo-boundaries-world-110m/master/countries.geojson

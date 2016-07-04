@@ -1,0 +1,8 @@
+name: okfn-nyse-other-listings
+description: NYSE and Other Listings. List of companies in the NYSE, and other exchanges
+homepage: http://data.okfn.org/data/core/nyse-other-listings
+files:
+- name: nyse-listed
+  url: https://raw.github.com/datasets/nyse-listings/master/data/nyse-listed.csv
+- name: other-listed
+  url: https://raw.github.com/datasets/nyse-listings/master/data/other-listed.csv

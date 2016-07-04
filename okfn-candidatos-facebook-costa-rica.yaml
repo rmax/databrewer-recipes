@@ -1,0 +1,10 @@
+name: okfn-candidatos-facebook-costa-rica
+description: '''Likes'' y posts de candidatos elecciones 2014 en Costa Rica en Facebook.
+  Base de datos de ''likes'' de posts de los candidatos en los elecciones de 2014
+  de Costa Rica.'
+homepage: http://data.okfn.org/data/investigacion/candidatos-facebook-costa-rica
+files:
+- name: candidatos-facebook-csv
+  url: https://raw.github.com/investigacion/candidatos-facebook-data/master/data/csv/candidatos-facebook.csv
+- name: candidatos-facebook-json
+  url: https://raw.github.com/investigacion/candidatos-facebook-data/master/data/json/candidatos-facebook.json

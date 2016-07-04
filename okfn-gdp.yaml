@@ -1,0 +1,5 @@
+name: okfn-gdp
+description: Country, Regional and World GDP (Gross Domestic Product). Country, regional
+  and world GDP in current US Dollars ($)
+homepage: http://data.okfn.org/data/core/gdp
+url: https://raw.github.com/datasets/gdp/master/data/gdp.csv

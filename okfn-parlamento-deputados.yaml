@@ -1,0 +1,5 @@
+name: okfn-parlamento-deputados
+description: "Deputados do Parlamento. Lista de Deputados da Assembleia da Rep\xFA\
+  blica"
+homepage: http://data.okfn.org/data/centraldedados/parlamento-deputados
+url: https://raw.github.com/centraldedados/parlamento-deputados/master/data/deputados.csv

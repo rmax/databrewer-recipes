@@ -1,0 +1,5 @@
+name: okfn-smdg-master-terminal-facilities-list
+description: SMDG Master Terminal Facilities List. Code list for terminal facilities
+  built as an extension to UN/LOCODE
+homepage: http://data.okfn.org/data/core/smdg-master-terminal-facilities-list
+url: https://raw.github.com/datasets/smdg-master-terminal-facilities-list/master/data/smdg-master-terminal-facilities-list.csv

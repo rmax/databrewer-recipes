@@ -1,0 +1,12 @@
+name: okfn-businessmodelcanvas-spec
+description: BusinessModelCanvas formal specification. BMCanvas-openDataStds
+homepage: http://data.okfn.org/data/ppKrauss/BusinessModelCanvas-spec
+files:
+- name: canvas-boxes-definition
+  url: https://raw.github.com/ppKrauss/BMCanvas-openDataStds/master/data/def-*.csv
+- name: struture-of-a-canvas
+  url: https://raw.github.com/ppKrauss/BMCanvas-openDataStds/master/data/strut-*.csv
+- name: def-elements
+  url: https://raw.github.com/ppKrauss/BMCanvas-openDataStds/master/data/def-elements.csv
+- name: refmodels
+  url: https://raw.github.com/ppKrauss/BMCanvas-openDataStds/master/data/refModels.csv

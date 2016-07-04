@@ -1,0 +1,5 @@
+name: okfn-opendatasites
+description: Open Data Websites (Portals and Catalogs). Dataset of Open Data portals
+  and catalogs from around the world based derived from http://dataportals.org/.
+homepage: http://data.okfn.org/data/okfn/opendatasites
+url: https://raw.github.com/okfn/opendatasites/master/data/sites.csv

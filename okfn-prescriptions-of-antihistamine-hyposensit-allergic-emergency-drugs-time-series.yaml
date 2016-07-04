@@ -1,0 +1,4 @@
+name: okfn-prescriptions-of-antihistamine-hyposensit-allergic-emergency-drugs-time-series
+description: 'Antihist-Hyposensit-Allergic-ts. '
+homepage: http://data.okfn.org/data/hibariba/Prescriptions%20of%20Antihistamine,%20Hyposensit%20&%20Allergic%20Emergency%20drugs%20-%20Time%20Series
+url: https://raw.githubusercontent.com/hibariba/data.Antihist-Hyposensit-Allergic-ts/master/data/AHA_ts.csv

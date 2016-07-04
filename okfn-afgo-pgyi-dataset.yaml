@@ -1,0 +1,20 @@
+name: okfn-afgo-pgyi-dataset
+description: Afgo Pgyi Dataset. datatheme-afgo-pgyi
+homepage: http://data.okfn.org/data/tesera/afgo-pgyi-dataset
+files:
+- name: plot
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/plot.csv
+- name: plot-measurement
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/plot_measurement.csv
+- name: trees
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/trees.csv
+- name: trees-measurement
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/trees_measurement.csv
+- name: photo-avi
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/photo_avi.csv
+- name: treatment
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/treatment.csv
+- name: disturbance
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/disturbance.csv
+- name: regeneration
+  url: https://raw.github.com/tesera/datatheme-afgo-pgyi/master/regeneration.csv

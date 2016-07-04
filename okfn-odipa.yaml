@@ -1,0 +1,8 @@
+name: okfn-odipa
+description: ODIPA. Open Beer Recipe for ODIPA
+homepage: http://data.okfn.org/data/pezholio/odipa
+files:
+- name: recipe-in-beer-json-format
+  url: https://raw.github.com/pezholio/odipa/master/data/odipa.json
+- name: recipe-in-beer-xml-format
+  url: https://raw.github.com/pezholio/odipa/master/data/odipa.xml

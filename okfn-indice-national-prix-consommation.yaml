@@ -1,0 +1,7 @@
+name: okfn-indice-national-prix-consommation
+description: "INDICE NATIONAL DES PRIX \xC0 LA CONSOMMATION (I.N.P.C.). L\u2019Agence\
+  \ Nationale de la Statistique et de la D\xE9mographie (ANSD) publie depuis janvier\
+  \ 2010, la note mensuelle de l\u2019Indice National des Prix \xE0 la Consommation\
+  \ (INPC)"
+homepage: http://data.okfn.org/data/senegalouvert-datasets/Indice_National_Prix_Consommation
+url: https://raw.github.com/senegalouvert-datasets/Indice_National_Prix_Consommation/master//data/indice_national_prix_consommation.csv

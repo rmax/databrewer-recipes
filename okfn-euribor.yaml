@@ -1,0 +1,34 @@
+name: okfn-euribor
+description: Euribor rates. Euribor rates by year and granularity
+homepage: http://data.okfn.org/data/core/euribor
+files:
+- name: euribor-10m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-10m-monthly.csv
+- name: euribor-11m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-11m-monthly.csv
+- name: euribor-12m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-12m-monthly.csv
+- name: euribor-1m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-1m-monthly.csv
+- name: euribor-1w-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-1w-monthly.csv
+- name: euribor-2m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-2m-monthly.csv
+- name: euribor-2w-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-2w-monthly.csv
+- name: euribor-3m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-3m-monthly.csv
+- name: euribor-3w-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-3w-monthly.csv
+- name: euribor-4m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-4m-monthly.csv
+- name: euribor-5m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-5m-monthly.csv
+- name: euribor-6m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-6m-monthly.csv
+- name: euribor-7m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-7m-monthly.csv
+- name: euribor-8m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-8m-monthly.csv
+- name: euribor-9m-monthly
+  url: https://raw.github.com/datasets/euribor/master/data/euribor-9m-monthly.csv

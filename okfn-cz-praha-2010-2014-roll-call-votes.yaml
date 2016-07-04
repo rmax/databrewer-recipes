@@ -1,0 +1,11 @@
+name: okfn-cz-praha-2010-2014-roll-call-votes
+description: Cz Praha 2010 2014 Roll Call Votes. Roll-call votes from Prague Assembly
+  2010-2014
+homepage: http://data.okfn.org/data/michalskop/cz-praha-2010-2014-roll-call-votes
+files:
+- name: people
+  url: https://raw.github.com/michalskop/CZ-Praha-2010-2014-Roll-call-Votes/master/data/people.csv
+- name: vote-events
+  url: https://raw.github.com/michalskop/CZ-Praha-2010-2014-Roll-call-Votes/master/data/vote_events.csv
+- name: votes
+  url: https://raw.github.com/michalskop/CZ-Praha-2010-2014-Roll-call-Votes/master/data/votes.csv

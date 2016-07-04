@@ -1,0 +1,8 @@
+name: okfn-global-temp
+description: Global Temperature Time Series. Global Temperature Time Series
+homepage: http://data.okfn.org/data/core/global-temp
+files:
+- name: annual
+  url: https://raw.github.com/datasets/global-temp/master/data/annual.csv
+- name: monthly
+  url: https://raw.github.com/datasets/global-temp/master/data/monthly.csv

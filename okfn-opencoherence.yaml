@@ -1,0 +1,12 @@
+name: okfn-opencoherence
+description: Open Coherence Project, draft1. Open Coherence
+homepage: http://data.okfn.org/data/ppKrauss/openCoherence
+files:
+- name: lawdocs
+  url: https://raw.github.com/ppKrauss/openCoherence2/master/data/lawDocs.csv
+- name: xpath-transducers
+  url: https://raw.github.com/ppKrauss/openCoherence2/master/data/xpathTransducers.csv
+- name: scirepos
+  url: https://raw.github.com/ppKrauss/openCoherence2/master/data/sciRepos.csv
+- name: lawrepos
+  url: https://raw.github.com/ppKrauss/openCoherence2/master/data/lawRepos.csv

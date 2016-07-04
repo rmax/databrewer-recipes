@@ -1,0 +1,11 @@
+name: okfn-geo-nuts-administrative-boundaries
+description: European NUTS boundaries as GeoJSON at 1:60m. geodata data package providing
+  geojson polygons and shp for administratives European NUTS levels 1, 2 and 3
+homepage: http://data.okfn.org/data/core/geo-nuts-administrative-boundaries
+files:
+- name: nuts-rg-60m-2010-lvl-1
+  url: https://raw.github.com/datasets/geo-nuts-administrative-boundaries/master/data/nuts_rg_60m_2010_lvl_1.geojson
+- name: nuts-rg-60m-2010-lvl-2
+  url: https://raw.github.com/datasets/geo-nuts-administrative-boundaries/master/data/nuts_rg_60m_2010_lvl_2.geojson
+- name: nuts-rg-60m-2010-lvl-3
+  url: https://raw.github.com/datasets/geo-nuts-administrative-boundaries/master/data/nuts_rg_60m_2010_lvl_3.geojson

@@ -1,0 +1,10 @@
+name: okfn-glasgow-mach-stations
+description: "Proposed locations for Glasgow\u2019s MACH bike hire scheme (May 2014).\
+  \ Longitude and latitude points for the proposed locations of Glasgow's upcoming\
+  \ council-run bike hire stations"
+homepage: http://data.okfn.org/data/flother/glasgow-mach-stations
+files:
+- name: stations
+  url: https://raw.github.com/flother/glasgow-cycle-hire/master/stations.geojson
+- name: foi-station-list
+  url: https://raw.github.com/flother/glasgow-cycle-hire/master/foi_station_list.pdf

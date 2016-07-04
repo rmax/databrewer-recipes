@@ -1,0 +1,8 @@
+name: okfn-nasdaq-listings
+description: Nasdaq Listings. List of companies in the NASDAQ exchanges
+homepage: http://data.okfn.org/data/core/nasdaq-listings
+files:
+- name: nasdaq-listed
+  url: https://raw.github.com/datasets/nasdaq-listings/master/data/nasdaq-listed.csv
+- name: nasdaq-listed-symbols
+  url: https://raw.github.com/datasets/nasdaq-listings/master/data/nasdaq-listed-symbols.csv

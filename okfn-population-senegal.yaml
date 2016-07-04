@@ -1,0 +1,4 @@
+name: okfn-population-senegal
+description: "R\xE9partition de la population selon le sexe. Population-Senegal"
+homepage: http://data.okfn.org/data/senegalouvert/Population-Senegal
+url: https://github.com/senegalouvert/Population-Senegal/raw/master/data/Repartition_population_selon_sexe_1970_2005.csv

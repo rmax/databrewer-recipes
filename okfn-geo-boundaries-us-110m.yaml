@@ -1,0 +1,10 @@
+name: okfn-geo-boundaries-us-110m
+description: United States Polygons as GeoJSON (.geojson/.topojson) at 1:110m. geodata
+  data package providing geojson polygons for United States' Internal Administrative
+  Boundaries
+homepage: http://data.okfn.org/data/datasets/geo-boundaries-us-110m
+files:
+- name: ne-110m-admin-1-states-provinces-shp-scale-rank-geojson
+  url: https://raw.github.com/datasets/geo-boundaries-us-110m/master/json/ne_110m_admin_1_states_provinces_shp_scale_rank.geojson
+- name: ne-110m-admin-1-states-provinces-shp-scale-rank-topojson
+  url: https://raw.github.com/datasets/geo-boundaries-us-110m/master/json/ne_110m_admin_1_states_provinces_shp_scale_rank.topojson

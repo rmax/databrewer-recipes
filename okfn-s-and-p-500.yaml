@@ -1,0 +1,6 @@
+name: okfn-s-and-p-500
+description: Standard and Poor's (S&P) 500 Index Data including Dividend, Earnings
+  and P/E Ratio. S&amp;P 500 index data including level, dividend, earnings and P/E
+  ratio on a monthly basis since 1870
+homepage: http://data.okfn.org/data/core/s-and-p-500
+url: https://raw.github.com/datasets/s-and-p-500/master/data/data.csv

@@ -1,0 +1,5 @@
+name: okfn-gold-prices
+description: Gold Prices (Monthly in USD). Monthly gold prices since 1950 in USD (London
+  market)
+homepage: http://data.okfn.org/data/core/gold-prices
+url: https://raw.github.com/datasets/gold-prices/master/data/data.csv

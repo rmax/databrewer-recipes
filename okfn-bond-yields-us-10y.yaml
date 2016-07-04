@@ -1,0 +1,5 @@
+name: okfn-bond-yields-us-10y
+description: 10 year US Government Bond Yields (long-term interest rate). 10 year
+  nominal yields on US government bonds from the Federal Reserve
+homepage: http://data.okfn.org/data/core/bond-yields-us-10y
+url: https://raw.github.com/datasets/bond-yields-us-10y/master/data/monthly.csv

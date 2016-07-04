@@ -1,0 +1,4 @@
+name: okfn-landnr
+description: "Landn\xFAmer from Sta\xF0fangaskr\xE1. Building records for Iceland"
+homepage: http://data.okfn.org/data/flother/landnr
+url: https://raw.github.com/flother/landnr/master/data/landnr.json

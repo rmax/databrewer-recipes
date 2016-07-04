@@ -1,0 +1,6 @@
+name: okfn-genome-sequencing-costs
+description: Costs assosiated with DNA sequencing since 2001. For many years, the
+  National Human Genome Research Institute (NHGRI) has tracked the costs associated
+  with DNA sequencing performed at the sequencing centers funded by the Institute
+homepage: http://data.okfn.org/data/core/genome-sequencing-costs
+url: https://raw.github.com/datasets/genome-sequencing-costs/master/data/sequencing_costs.csv

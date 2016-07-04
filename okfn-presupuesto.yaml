@@ -1,0 +1,5 @@
+name: okfn-presupuesto
+description: Proforma del Presupuesto General del Estado 2015 - Ecuador. Proforma
+  del Presupuesto General del Estado 2015 - Ecuador
+homepage: http://data.okfn.org/data/edobejar/presupuesto
+url: https://raw.github.com/edobejar/presupuesto/master/data/presupuesto.csv

@@ -1,0 +1,17 @@
+name: okfn-co2-ppm
+description: CO2 PPM - Trends in Atmospheric Carbon Dioxide. Data are sourced from
+  the US Government's Earth System Research Laboratory, Global Monitoring Division
+homepage: http://data.okfn.org/data/core/co2-ppm
+files:
+- name: co2-mm-mlo
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-mm-mlo.csv
+- name: co2-annmean-mlo
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-annmean-mlo.csv
+- name: co2-gr-mlo
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-gr-mlo.csv
+- name: co2-mm-gl
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-mm-gl.csv
+- name: co2-annmean-gl
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-annmean-gl.csv
+- name: co2-gr-gl
+  url: https://raw.github.com/datasets/co2-ppm/master/data/co2-gr-gl.csv

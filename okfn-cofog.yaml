@@ -1,0 +1,6 @@
+name: okfn-cofog
+description: Classification of the Functions of Government. Classification of the
+  Functions of Government (COFOG) is a classification defined by the United Nations
+  Statistics Division
+homepage: http://data.okfn.org/data/core/cofog
+url: https://raw.github.com/datasets/cofog/master/data/cofog.csv

@@ -1,0 +1,5 @@
+name: okfn-cpi
+description: Annual Consumer Price Index (CPI). Annual Consumer Price Index (CPI)
+  for most countries in the world
+homepage: http://data.okfn.org/data/core/cpi
+url: https://raw.github.com/datasets/cpi/master/data/cpi.csv

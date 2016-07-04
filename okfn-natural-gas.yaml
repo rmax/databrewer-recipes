@@ -1,0 +1,9 @@
+name: okfn-natural-gas
+description: Natural gas. Time series of major Natural Gas Prices including US Henry
+  Hub
+homepage: http://data.okfn.org/data/core/natural-gas
+files:
+- name: natural-gas-daily
+  url: https://raw.github.com/datasets/natural-gas-prices/master/data/natural-gas-daily.csv
+- name: natural-gas-monthly
+  url: https://raw.github.com/datasets/natural-gas-prices/master/data/natural-gas-monthly.csv

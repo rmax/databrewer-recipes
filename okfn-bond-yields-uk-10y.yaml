@@ -1,0 +1,9 @@
+name: okfn-bond-yields-uk-10y
+description: 10y UK Government Bond Yields (long-term interest rate). 10 year nominal
+  yields on UK government bonds from the bank of England
+homepage: http://data.okfn.org/data/core/bond-yields-uk-10y
+files:
+- name: quarterly
+  url: https://raw.github.com/datasets/bond-yields-uk-10y/master/data/quarterly.csv
+- name: annual
+  url: https://raw.github.com/datasets/bond-yields-uk-10y/master/data/annual.csv

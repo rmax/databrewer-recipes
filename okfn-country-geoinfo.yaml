@@ -1,0 +1,10 @@
+name: okfn-country-geoinfo
+description: Spatial relations between countries and between another geographical
+  standards. Complement of country-codes dataset, offers neighbor list of each country,  list
+  of UTM grid cells covering the contry, and other  geographical information.
+homepage: http://data.okfn.org/data/okfn-brasil/country-geoinfo
+files:
+- name: country-geoinfo
+  url: https://raw.githubusercontent.com/okfn-brasil/country-geoinfo/master/data/country-geoinfo.csv
+- name: territorycontainment
+  url: https://raw.githubusercontent.com/okfn-brasil/country-geoinfo/master/data/territoryContainment.csv

@@ -1,0 +1,10 @@
+name: okfn-nigeria-dad-geocoded-research-release-level-1-v1-0-1
+description: Nigeria DADGeocoded Research Release. scotts-utils
+homepage: http://data.okfn.org/data/AidData-WM/nigeria_dad_geocoded_research_release_level_1_v1.0.1
+files:
+- name: projects-tsv
+  url: https://raw.github.com/AidData-WM/scotts-utils/master/../data/projects.tsv
+- name: locations-tsv
+  url: https://raw.github.com/AidData-WM/scotts-utils/master/../data/locations.tsv
+- name: transactions-tsv
+  url: https://raw.github.com/AidData-WM/scotts-utils/master/../data/transactions.tsv

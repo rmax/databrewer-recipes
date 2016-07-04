@@ -1,0 +1,11 @@
+name: okfn-my-dataset
+description: Title of Datapackage. It is a example package description to write any
+  foo information :)
+homepage: http://data.okfn.org/data/paulolimac/my-dataset
+files:
+- name: coordinates
+  url: https://github.com/paulolimac/datapackage-examplified/raw/master/data/simpleCoordinates.csv
+- name: map
+  url: https://github.com/paulolimac/datapackage-examplified/raw/master/data/simpleCoordinates.geojson
+- name: fieldtypes
+  url: https://github.com/paulolimac/datapackage-examplified/raw/master/data/fieldTypes.csv

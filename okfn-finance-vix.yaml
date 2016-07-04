@@ -1,0 +1,5 @@
+name: okfn-finance-vix
+description: VIX - CBOE Volatility Index. CBOE Volatility Index (VIX) time-series
+  dataset including daily open, close, high and low
+homepage: http://data.okfn.org/data/rossmounce/finance-vix
+url: https://raw.github.com/rossmounce/finance-vix/master/data/vix-daily.csv

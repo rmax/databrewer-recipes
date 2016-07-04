@@ -1,0 +1,5 @@
+name: okfn-open-photovoltaic-module-database
+description: Open Source Database for Photovoltaic Modules. This is an Open Source
+  Database for Photovoltaic Modules
+homepage: http://data.okfn.org/data/PV-Log/Open-Photovoltaic-Module-Database
+url: https://github.com/PV-Log/Open-Photovoltaic-Module-Database/raw/master/data/modules.csv

@@ -1,0 +1,6 @@
+name: okfn-helsingin-kaupungin-tietojarjestelmaluettelo
+description: "Helsingin kaupungin tietoj\xE4rjestelm\xE4luettelo. Koostettu yhten\xE4\
+  inen CSV-muotoinen luettelo alkuper\xE4isest\xE4 kaupungin julkisemasta Excel-tiedostosta,\
+  \ jossa eri virastojen tetoj\xE4rjestelm\xE4t ovat eri v\xE4lilehdill\xE4."
+homepage: http://data.okfn.org/data/okffi/Helsingin%20kaupungin%20tietoj%C3%A4rjestelm%C3%A4luettelo
+url: https://raw.github.com/okffi/popup-katalogi/master/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv

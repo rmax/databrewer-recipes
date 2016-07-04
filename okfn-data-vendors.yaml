@@ -1,0 +1,4 @@
+name: okfn-data-vendors
+description: Surveillance Vendors. A data package of vendors of surveillance tech
+homepage: http://data.okfn.org/data/digitalfreedom/data-vendors
+url: https://raw.github.com/digitalfreedom/data-vendors/master/vendors.csv

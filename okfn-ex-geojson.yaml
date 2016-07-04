@@ -1,0 +1,5 @@
+name: okfn-ex-geojson
+description: Example Geo (JSON) Data Package. Example Geo Data Package showing how
+  to package up GeoJSON data.
+homepage: http://data.okfn.org/data/datasets/ex-geojson
+url: https://raw.github.com/datasets/ex-geojson/master/data/example.geojson

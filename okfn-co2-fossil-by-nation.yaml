@@ -1,0 +1,5 @@
+name: okfn-co2-fossil-by-nation
+description: CO2 Emissions from Fossil Fuels since 1751, By Nation. Per Country CO2
+  Emissions from fossil-fuels annually since 1751
+homepage: http://data.okfn.org/data/kiliakis/co2-fossil-by-nation
+url: https://raw.github.com/kiliakis/co2-emissions/master/data/fossil-fuel-co2-emissions-by-nation.csv

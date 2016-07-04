@@ -1,0 +1,4 @@
+name: okfn-media-types
+description: Media Types. List of Media Types, Media Subtypes, and their extensions.
+homepage: http://data.okfn.org/data/core/media-types
+url: https://raw.github.com/datasets/media-types/master/media-types.csv

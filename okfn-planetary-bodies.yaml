@@ -1,0 +1,4 @@
+name: okfn-planetary-bodies
+description: Planetary Bodies. Test data for the github-viewer app
+homepage: http://data.okfn.org/data/theodi/planetary-bodies
+url: https://raw.github.com/theodi/test-data/master/data.csv

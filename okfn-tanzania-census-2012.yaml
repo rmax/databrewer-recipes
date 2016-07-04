@@ -1,0 +1,5 @@
+name: okfn-tanzania-census-2012
+description: Tanzania Census 2012 - Population per Council. A scraped version of the
+  Tanzania, population per Council data from the national bureau of statistics
+homepage: http://data.okfn.org/data/mihi-tr/tanzania-census-2012
+url: https://raw.github.com/mihi-tr/tanzania-census-dpkg/master/data/tanzania-census.csv

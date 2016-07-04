@@ -1,0 +1,5 @@
+name: okfn-open-data-census
+description: Open Data Index. The Open Data Index assesses the state of open government
+  data around the world.
+homepage: http://data.okfn.org/data/tlevine/open-data-census
+url: https://raw.github.com/tlevine/open-data-index/master/open-data-index.csv

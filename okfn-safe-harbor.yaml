@@ -1,0 +1,5 @@
+name: okfn-safe-harbor
+description: Safe Harbor companies registered with the FTC. Safe Harbor filings with
+  the Department of Commerce
+homepage: http://data.okfn.org/data/pdehaye/safe-harbor
+url: https://raw.github.com/pdehaye/safe-harbor/master/data/safe_harbor.csv

@@ -1,0 +1,5 @@
+name: okfn-icc-incoterms
+description: 'International Chamber of Commerce Incoterms. Current Incoterms used
+  in international sale of goods as defined by international chamber of commerce '
+homepage: http://data.okfn.org/data/warrantgroup/icc-incoterms
+url: https://raw.github.com/warrantgroup/ICC-Incoterms/master/data/data.csv

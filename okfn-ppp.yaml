@@ -1,0 +1,5 @@
+name: okfn-ppp
+description: Purchasing power parity (PPP). Data are sourced from the World Bank,
+  International Comparison Program database
+homepage: http://data.okfn.org/data/core/ppp
+url: https://raw.github.com/datasets/ppp/master/data/ppp-gdp.csv

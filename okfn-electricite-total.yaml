@@ -1,0 +1,4 @@
+name: okfn-electricite-total
+description: "Electricit\xE9 total. Total Electricity Data Total Electricity"
+homepage: http://data.okfn.org/data/senegalouvert/electricite-total
+url: https://raw.github.com/senegalouvert/electricite-total/master/data/electricite-total.csv

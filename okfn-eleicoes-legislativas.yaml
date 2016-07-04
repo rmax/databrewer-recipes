@@ -1,0 +1,5 @@
+name: okfn-eleicoes-legislativas
+description: "Elei\xE7\xF5es legislativas. Resultados das elei\xE7\xF5es legislativas\
+  \ desde 1976"
+homepage: http://data.okfn.org/data/centraldedados/eleicoes-legislativas
+url: https://raw.github.com/centraldedados/eleicoes-legislativas/master/data/resultados-legislativas.csv

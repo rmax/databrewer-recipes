@@ -1,0 +1,5 @@
+name: okfn-medien-transparenz
+description: Medien Transparenz. Data on political advertising spending in Austria
+  from medientransparenzgesetz publications by Austria&#39;s RTR.
+homepage: http://data.okfn.org/data/mihi-tr/medien-transparenz
+url: https://raw.github.com/mihi-tr/dpkg-medientransparenz/master/data/mtg.csv

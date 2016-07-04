@@ -1,0 +1,6 @@
+name: okfn-list-of-deaths-1993-2012
+description: List of deaths of refugees in europe and on europes borders. http://www.unitedagainstracism.org
+  released a list of people who died as refugees/asylum seekers in Europe and on it's
+  borders
+homepage: http://data.okfn.org/data/mihi-tr/list-of-deaths-1993-2012
+url: https://raw.github.com/mihi-tr/list-of-deaths-dpkg/master/data/listofdeath.csv

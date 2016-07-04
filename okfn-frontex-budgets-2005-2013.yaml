@@ -1,0 +1,5 @@
+name: okfn-frontex-budgets-2005-2013
+description: FRONTEX Budgets 2005-2013. The Frontex budgets, scraped from various
+  PDFs on the frontex website
+homepage: http://data.okfn.org/data/mihi-tr/frontex-budgets-2005-2013
+url: https://raw.github.com/mihi-tr/frontex-budgets-dpkg/master/data/Frontex-Budget-2005-2013.csv

@@ -1,0 +1,25 @@
+name: okfn-eleicoes-autarquicas
+description: "Elei\xE7\xF5es Aut\xE1rquicas. Aqui encontram-se os candidatos nas elei\xE7\
+  \xF5es aut\xE1rquicas em Portugal desde 1974"
+homepage: http://data.okfn.org/data/centraldedados/eleicoes_autarquicas
+files:
+- name: '1976'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1976.csv
+- name: '1979'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1979.csv
+- name: '1982'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1982.csv
+- name: '1985'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1985.csv
+- name: '1989'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1989.csv
+- name: '1993'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1993.csv
+- name: '1997'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/1997.csv
+- name: '2001'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/2001.csv
+- name: '2005'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/2005.csv
+- name: '2009'
+  url: https://raw.github.com/centraldedados/eleicoes-autarquicas/master/data/2009.csv

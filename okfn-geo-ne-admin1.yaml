@@ -1,0 +1,5 @@
+name: okfn-geo-ne-admin1
+description: Natural Earth Admin1 Polygons as GeoJSON. Polygons polygons for the largest
+  administrative subdivisions in every countries
+homepage: http://data.okfn.org/data/core/geo-ne-admin1
+url: https://raw.github.com/datasets/geo-ne-admin1/master/data/admin1.geojson

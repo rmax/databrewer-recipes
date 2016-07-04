@@ -1,0 +1,5 @@
+name: okfn-gini-index
+description: Historic values of the GINI Index. The repository of the data package
+  of the GINI Index
+homepage: http://data.okfn.org/data/core/gini-index
+url: https://raw.github.com/datasets/gini-index/master/data/gini-index.csv

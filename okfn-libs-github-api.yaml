@@ -1,0 +1,5 @@
+name: okfn-libs-github-api
+description: Libs Github Api. Summary statistics on programming languages used in
+  libraries via the code in their GitHub projects.
+homepage: http://data.okfn.org/data/phette23/libs-github-api
+url: https://raw.github.com/phette23/libs-github-api/master/data/summary.csv

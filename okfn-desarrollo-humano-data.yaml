@@ -1,0 +1,9 @@
+name: okfn-desarrollo-humano-data
+description: Desarrollo Humano Cantonal de Costa Rica. Base de datos del desarrollo
+  humano cantonal de Costa Rica
+homepage: http://data.okfn.org/data/investigacion/desarrollo-humano-data
+files:
+- name: desarrollo-humano-csv
+  url: https://raw.github.com/investigacion/desarrollo-humano-data/master/data/csv/desarrollo-humano.csv
+- name: desarrollo-humano-json
+  url: https://raw.github.com/investigacion/desarrollo-humano-data/master/data/json/desarrollo-humano.json

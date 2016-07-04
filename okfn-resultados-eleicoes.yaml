@@ -1,0 +1,5 @@
+name: okfn-resultados-eleicoes
+description: "Resultados das Elei\xE7\xF5es legislativas. Resultados das Elei\xE7\xF5\
+  es Legislativas"
+homepage: http://data.okfn.org/data/centraldedados/resultados_eleicoes
+url: https://raw.github.com/centraldedados/resultados_eleicoes_simples/master/data/dados_deputados.csv

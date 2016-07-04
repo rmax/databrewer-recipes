@@ -1,0 +1,9 @@
+name: okfn-government-expenditure-cofog
+description: Government expenditure, COFOG nomenclature. Government expenditure, COFOG
+  nomenclature.
+homepage: http://data.okfn.org/data/Yannael/government-expenditure-cofog
+files:
+- name: government-expenditure-cofog-belgium
+  url: https://raw.github.com/Yannael/government-expenditure-cofog/master/data/government-expenditure-cofog-belgium.csv
+- name: government-expenditure-cofog-united-kingdom
+  url: https://raw.github.com/Yannael/government-expenditure-cofog/master/data/government-expenditure-cofog-united-kingdom.csv

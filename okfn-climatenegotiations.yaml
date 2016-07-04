@@ -1,0 +1,14 @@
+name: okfn-climatenegotiations
+description: Climate Negotiations Browser data. http://www.climatenegotiations.org/
+homepage: http://data.okfn.org/data/medialab/ClimateNegotiations
+files:
+- name: sections-metadata
+  url: https://raw.github.com/medialab/climateDebateExplorer/master/ENB-data/metadata_overview/sections_metadata.csv
+- name: sections-fulldata-csv-zip
+  url: https://raw.github.com/medialab/climateDebateExplorer/master/ENB-data/metadata_overview/sections_fulldata.csv.zip
+- name: topics-keywords
+  url: https://raw.github.com/medialab/climateDebateExplorer/master/ENB-data/topics-keywords.csv
+- name: deprecated-enb-section-jsons
+  url: https://raw.github.com/medialab/climateDebateExplorer/master/ENB-data/enb_section_jsons
+- name: enb-section-jsons-topiked
+  url: https://raw.github.com/medialab/climateDebateExplorer/master/ENB-data/enb_section_jsons-topiked

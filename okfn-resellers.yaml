@@ -1,0 +1,5 @@
+name: okfn-resellers
+description: Resellers. This is currently a list of these resellers throughout the
+  world and some additional details
+homepage: http://data.okfn.org/data/digitalfreedom/resellers
+url: https://raw.github.com/digitalfreedom/data-resellers/master/resellers.csv

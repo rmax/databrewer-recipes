@@ -1,0 +1,12 @@
+name: okfn-zipcode-jp
+description: Japanese Zipcode. Japanese Zipcode CSV data from Japan Post
+homepage: http://data.okfn.org/data/skitazaki/zipcode-jp
+files:
+- name: ken-all-oogaki
+  url: https://raw.github.com/skitazaki/datasets-zipcode-jp/master/data/ken_all_oogaki.csv
+- name: ken-all-kogaki
+  url: https://raw.github.com/skitazaki/datasets-zipcode-jp/master/data/ken_all_kogaki.csv
+- name: ken-all-roman
+  url: https://raw.github.com/skitazaki/datasets-zipcode-jp/master/data/ken_all_roman.csv
+- name: facility
+  url: https://raw.github.com/skitazaki/datasets-zipcode-jp/master/data/facility.csv

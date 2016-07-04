@@ -1,0 +1,5 @@
+name: okfn-avvisi-gara
+description: Avvisi di Gara - Albo Pretorio Comune Palermo. Gli ultimi avvisi di gara,
+  pubblicati sull'albo pretorio del Comune di Palermo
+homepage: http://data.okfn.org/data/SiciliaHub/avvisi_gara
+url: https://raw.github.com/SiciliaHub/albopretoriopa/master/avvisi_gara.csv

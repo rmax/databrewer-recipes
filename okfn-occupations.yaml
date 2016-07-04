@@ -1,0 +1,4 @@
+name: okfn-occupations
+description: List of occupations. occupations
+homepage: http://data.okfn.org/data/johnlsheridan/occupations
+url: https://raw.github.com/johnlsheridan/occupations/master/occupations.csv

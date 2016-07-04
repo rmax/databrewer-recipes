@@ -1,0 +1,5 @@
+name: okfn-eu-emissions-trading-system
+description: European Union Emissions Trading System (EU ETS) data from EUTL. Data
+  about the EU emission trading system (ETS)
+homepage: http://data.okfn.org/data/core/eu-emissions-trading-system
+url: https://raw.github.com/datasets/eu-emissions-trading-system/master/data/eu-ets.csv

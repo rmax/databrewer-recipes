@@ -1,0 +1,14 @@
+name: okfn-os-gb-gov-cra
+description: Country and Regional Analyses (CRA) - UK Government Finances. The HM
+  Treasury Country and Regional Analysis (CRA) dataset shows where in the country
+  benefit has been had from the spending of each government department.
+homepage: http://data.okfn.org/data/os-data/os-gb-gov-cra
+files:
+- name: cra
+  url: https://raw.github.com/os-data/gb-country-regional-analysis/master/data/cra.csv
+- name: departments
+  url: https://raw.github.com/os-data/gb-country-regional-analysis/master/data/departments.csv
+- name: nuts-pop
+  url: https://raw.github.com/os-data/gb-country-regional-analysis/master/data/nuts_pop.csv
+- name: pogs
+  url: https://raw.github.com/os-data/gb-country-regional-analysis/master/data/pogs.csv

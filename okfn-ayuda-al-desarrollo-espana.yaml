@@ -1,0 +1,12 @@
+name: okfn-ayuda-al-desarrollo-espana
+description: "Ayuda oficial al desarrollo, 2007-2012, Espa\xF1a. Datos sobre el ayuda\
+  \ oficial al desarrallo que viene de Espa\xF1a."
+homepage: http://data.okfn.org/data/karwana/ayuda-al-desarrollo-espana
+files:
+- name: paises-creditos
+  url: "https://raw.github.com/karwana/ayuda-data/master/data/tsv/pa\xEDses-cr\xE9\
+    ditos.csv"
+- name: paises-deuda
+  url: "https://raw.github.com/karwana/ayuda-data/master/data/tsv/pa\xEDses-deuda.csv"
+- name: paises-total
+  url: "https://raw.github.com/karwana/ayuda-data/master/data/tsv/pa\xEDses-total.csv"

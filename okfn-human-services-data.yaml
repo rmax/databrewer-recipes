@@ -1,0 +1,48 @@
+name: okfn-human-services-data
+description: Human Services Data. OpenReferral
+homepage: http://data.okfn.org/data/codeforamerica/human_services_data
+files:
+- name: organization
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/organization.csv
+- name: program
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/program.csv
+- name: service
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/service.csv
+- name: service-at-location
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/service_at_location.csv
+- name: location
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/location.csv
+- name: phone
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/phone.csv
+- name: contact
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/contact.csv
+- name: physical-address
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/address.csv
+- name: postal-address
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/postal_address.csv
+- name: regular-schedule
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/regular_schedule.csv
+- name: holiday-schedule
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/holiday_schedule.csv
+- name: funding
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/funding.csv
+- name: eligibility
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/eligibility.csv
+- name: service-area
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/service_area.csv
+- name: required-document
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/required_document.csv
+- name: fee
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/fee.csv
+- name: payment-accepted
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/payment_accepted.csv
+- name: intepretation-services
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/interpretation_services.csv
+- name: language
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/language.csv
+- name: accessibility-for-disabilities
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/accessibility_for_disabilities.csv
+- name: metadata
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/metadata.csv
+- name: meta-table-description
+  url: https://raw.github.com/codeforamerica/OpenReferral/master/meta_table_description.csv

@@ -1,0 +1,5 @@
+name: okfn-parteien-oesterreich
+description: 'Liste der Parteien in Oesterreich. Liste der Parteien in Oesterreich,
+  die vom BMI veroeffentlicht werden: http://www.bmi.gv.at/cms/BMI_Service/parteienverz/start.aspx '
+homepage: http://data.okfn.org/data/mihi-tr/parteien-oesterreich
+url: https://raw.github.com/mihi-tr/parteien-oesterreich-dpkg/master/data/parties.csv

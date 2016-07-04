@@ -1,0 +1,8 @@
+name: okfn-browser-stats
+description: Web Browser Usage Statistics. Web browser usage statistics over time
+homepage: http://data.okfn.org/data/datasets/browser-stats
+files:
+- name: data
+  url: https://raw.github.com/datasets/browser-stats/master/data.csv
+- name: data-extant-csv
+  url: https://raw.github.com/datasets/browser-stats/master/data-extant.csv

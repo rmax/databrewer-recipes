@@ -1,0 +1,6 @@
+name: okfn-dataset-mod-disposals
+description: 'Disposal database: House of Commons report. MoD present and future disposal
+  properties that are in the public domain that is provided for reference in the House
+  of Commons library'
+homepage: http://data.okfn.org/data/theodi/dataset-mod-disposals
+url: https://raw.github.com/theodi/dataset-mod-disposals/master/disposals.csv

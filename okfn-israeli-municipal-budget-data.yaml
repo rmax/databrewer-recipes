@@ -1,0 +1,9 @@
+name: okfn-israeli-municipal-budget-data
+description: Israeli Municipal Budget Data. Budget data for each municipality in Israel,
+  as published by the Central Bureau of Statistics
+homepage: http://data.okfn.org/data/pwalsh/israeli-municipal-budget-data
+files:
+- name: budget-data-planned
+  url: https://raw.github.com/pwalsh/il-municipal-budget-data/master/data/planned.csv
+- name: budget-data-executed
+  url: https://raw.github.com/pwalsh/il-municipal-budget-data/master/data/executed.csv

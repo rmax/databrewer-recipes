@@ -1,0 +1,5 @@
+name: okfn-search-engine-market-shares
+description: Search Engine Market Shares. Search engine market shares around the world
+  over time
+homepage: http://data.okfn.org/data/rgrp/search-engine-market-shares
+url: https://raw.github.com/rgrp/search-engine-market-shares/master/data/market-share.csv

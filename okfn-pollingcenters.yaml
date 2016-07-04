@@ -1,0 +1,5 @@
+name: okfn-pollingcenters
+description: 'Tunisia polling centers . polling centers crowdmapped by Mourakiboun
+  Organisation  with support from Democracy International '
+homepage: http://data.okfn.org/data/radproject/pollingcenters
+url: https://raw.github.com/radproject/pollingcenters/master/data/pollingCenters.csv

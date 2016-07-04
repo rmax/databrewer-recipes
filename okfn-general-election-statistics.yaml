@@ -1,0 +1,5 @@
+name: okfn-general-election-statistics
+description: 'General election statistics. general statistics about turnout during
+  Tunisia Parliamentary elections and presidential elections round 1 '
+homepage: http://data.okfn.org/data/radproject/General%20election%20statistics
+url: https://raw.github.com/radproject/general-election-statistics/master/data/Stats_formatted.csv

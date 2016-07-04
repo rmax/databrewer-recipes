@@ -1,0 +1,4 @@
+name: okfn-data-surveillance-laws
+description: 'Surveillance Laws. '
+homepage: http://data.okfn.org/data/digitalfreedom/data-surveillance-laws
+url: https://raw.github.com/digitalfreedom/data-surveillance-laws/master/surveillance-laws.csv

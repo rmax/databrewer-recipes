@@ -1,0 +1,8 @@
+name: okfn-imf-weo
+description: IMF World Economic Outlook Database. UDHR in Unicode project
+homepage: http://data.okfn.org/data/hanteng/imf-weo
+files:
+- name: indicators
+  url: https://raw.github.com/hanteng/UDHR/master/data/indicators.csv
+- name: values
+  url: https://raw.github.com/hanteng/UDHR/master/data/values.csv

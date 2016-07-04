@@ -1,0 +1,14 @@
+name: okfn-un-locode
+description: UN-LOCODE Codelist. UN-LOCODE datapackage
+homepage: http://data.okfn.org/data/core/un-locode
+files:
+- name: code-list
+  url: https://raw.github.com/datasets/un-locode/master/data/code-list.csv
+- name: country-codes
+  url: https://raw.github.com/datasets/un-locode/master/data/country-codes.csv
+- name: function-classifiers
+  url: https://raw.github.com/datasets/un-locode/master/data/function-classifiers.csv
+- name: status-indicators
+  url: https://raw.github.com/datasets/un-locode/master/data/status-indicators.csv
+- name: subdivision-codes
+  url: https://raw.github.com/datasets/un-locode/master/data/subdivision-codes.csv

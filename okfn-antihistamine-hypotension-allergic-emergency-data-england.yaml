@@ -1,0 +1,8 @@
+name: okfn-antihistamine-hypotension-allergic-emergency-data-england
+description: '. '
+homepage: http://data.okfn.org/data/hibariba/Antihistamine,%20Hypotension%20&%20Allergic%20Emergency%20Data%20-%20England
+files:
+- name: data-aha-location-freq-csv
+  url: https://raw.githubusercontent.com/hibariba/data.Antihist-Hyposensit-Allergic/master/data/AHA_location_freq.csv
+- name: data-aha-location-csv
+  url: https://raw.githubusercontent.com/hibariba/data.Antihist-Hyposensit-Allergic/master/data/AHA_location.csv

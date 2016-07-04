@@ -1,0 +1,24 @@
+name: okfn-berlin-marathon
+description: Berlin marathon results. Berlin Marathon
+homepage: http://data.okfn.org/data/kummerspeck/berlin-marathon
+files:
+- name: '2005'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2005.csv
+- name: '2006'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2006.csv
+- name: '2007'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2007.csv
+- name: '2008'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2008.csv
+- name: '2009'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2009.csv
+- name: '2010'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2010.csv
+- name: '2011'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2011.csv
+- name: '2012'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2012.csv
+- name: '2013'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2013.csv
+- name: '2014'
+  url: https://raw.github.com/kummerspeck/berlin-marathon/master/data/2014.csv

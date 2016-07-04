@@ -1,0 +1,5 @@
+name: okfn-eleicoes-datas
+description: "Datas de elei\xE7\xF5es e referendos. Datas de atos eleitorais e referendos\
+  \ em Portugal desde 1975"
+homepage: http://data.okfn.org/data/centraldedados/eleicoes-datas
+url: https://raw.github.com/centraldedados/eleicoes-datas/master/data/eleicoes-datas.csv

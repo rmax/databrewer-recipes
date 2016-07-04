@@ -1,0 +1,21 @@
+name: okfn-divisiones-territoriales-costa-rica
+description: 'Divisiones territoriales de Costa Rica. Divisiones territoriales de
+  Costa Rica: provincias, cantones y distritos'
+homepage: http://data.okfn.org/data/investigacion/divisiones-territoriales-costa-rica
+files:
+- name: adm1-provincias-csv
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/csv/adm1-provincias.csv
+- name: adm2-cantones-csv
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/csv/adm2-cantones.csv
+- name: adm2-gadm-csv
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/csv/adm2-gadm.csv
+- name: adm3-distritos-csv
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/csv/adm3-distritos.csv
+- name: adm1-provincias-json
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/json/adm1-provincias.json
+- name: adm2-cantones-json
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/json/adm2-cantones.json
+- name: adm2-gadm-json
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/json/adm2-gadm.json
+- name: adm3-distritos-json
+  url: https://raw.github.com/investigacion/divisiones-territoriales-data/master/data/json/adm3-distritos.json

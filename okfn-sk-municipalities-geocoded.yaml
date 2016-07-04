@@ -1,0 +1,10 @@
+name: okfn-sk-municipalities-geocoded
+description: Sk Municipalities Geocoded. List of geocoded Slovak municipalities
+homepage: http://data.okfn.org/data/michalskop/sk-municipalities-geocoded
+files:
+- name: slovakia
+  url: https://raw.github.com/michalskop/SK-municipalities-geocoded/master/data/sk.csv
+- name: bratislava
+  url: https://raw.github.com/michalskop/SK-municipalities-geocoded/master/data/sk-ba.csv
+- name: kosice
+  url: https://raw.github.com/michalskop/SK-municipalities-geocoded/master/data/sk-ke.csv

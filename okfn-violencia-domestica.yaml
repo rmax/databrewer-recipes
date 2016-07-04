@@ -1,0 +1,5 @@
+name: okfn-violencia-domestica
+description: "Viol\xEAncia dom\xE9stica. N\xFAmero de ocorr\xEAncias de viol\xEAncia\
+  \ dom\xE9stica entre 2008 e 2014"
+homepage: http://data.okfn.org/data/centraldedados/violencia_domestica
+url: https://raw.github.com/centraldedados/violencia-domestica/master/data/dgai_violencia_domestica_2008_2014.csv

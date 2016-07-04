@@ -1,0 +1,10 @@
+name: okfn-gdp-us
+description: Gross Domestic Product of the United States (US GDP). Gross Domestic
+  Product (GDP) of the United States (US) both nominal and real on an annual and quarterly
+  basis
+homepage: http://data.okfn.org/data/core/gdp-us
+files:
+- name: year
+  url: https://raw.github.com/datasets/gdp-us/master/year.csv
+- name: quarter
+  url: https://raw.github.com/datasets/gdp-us/master/quarter.csv

@@ -1,0 +1,6 @@
+name: okfn-osm-bicicletarios
+description: "Biciclet\xE1rios no OpenStreetMap. Mapa de biciclet\xE1rios no OpenStretMap,\
+  \ que cont\xE9m a posi\xE7\xE3o geogr\xE1fica e outras informa\xE7\xF5es sobre capacidade,\
+  \ cobertura, vigil\xE2ncia e outros atributos descritos no wiki do OpenStreetMap"
+homepage: http://data.okfn.org/data/transporteaberto/osm-bicicletarios
+url: https://raw.github.com/transporteaberto/osm-bicicletarios/master/data/bicicletarios.csv

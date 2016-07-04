@@ -1,0 +1,5 @@
+name: okfn-licenses
+description: Licenses. a list of open (http://opensource.org/, http://opendefinition.org/)
+  licenses.
+homepage: http://data.okfn.org/data/okfn/licenses
+url: https://raw.github.com/okfn/licenses/master/licenses.csv

@@ -1,0 +1,5 @@
+name: okfn-gdp-by-industry-and-country
+description: GDP by industry and country. GDP by industry and country - GDP/breakdown
+  at current prices in National currency (all countries)
+homepage: http://data.okfn.org/data/femtotrader/gdp_by_industry_and_country
+url: https://raw.github.com/femtotrader/macroeconomicdata/master/data/gdp_by_industry_and_country.csv

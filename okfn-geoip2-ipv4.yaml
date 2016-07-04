@@ -1,0 +1,5 @@
+name: okfn-geoip2-ipv4
+description: IPv4 geolocation. Database of IPv4 address networks with their respective
+  geographical location.
+homepage: http://data.okfn.org/data/core/geoip2-ipv4
+url: https://raw.github.com/datasets/geoip2/master/data/geoip2-ipv4.csv

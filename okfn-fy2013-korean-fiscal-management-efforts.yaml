@@ -1,0 +1,12 @@
+name: okfn-fy2013-korean-fiscal-management-efforts
+description: "korean Fiscal Management Efforts FY2013. 2013 \uD68C\uACC4\uB144\uB3C4\
+  \ \uB300\uD55C\uBBFC\uAD6D \uC7AC\uC815 \uC885\uD569 \uBCF4\uACE0\uC11C, \uD55C\uAD6D\
+  \uC9C0\uBC29\uD589\uC815\uC5F0\uAD6C\uC6D0"
+homepage: http://data.okfn.org/data/codenamu/FY2013-korean-fiscal-management-efforts
+files:
+- name: si
+  url: https://raw.github.com/codenamu/2013_fiscal_efforts/master/city.csv
+- name: gun
+  url: https://raw.github.com/codenamu/2013_fiscal_efforts/master/goon.csv
+- name: gu
+  url: https://raw.github.com/codenamu/2013_fiscal_efforts/master/gu.csv

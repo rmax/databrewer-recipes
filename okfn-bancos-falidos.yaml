@@ -1,0 +1,5 @@
+name: okfn-bancos-falidos
+description: "Bancos falidos. Reposit\xF3rio do dataset dedicado \xE0 lista de bancos\
+  \ falidos."
+homepage: http://data.okfn.org/data/centraldedados/bancos-falidos
+url: https://raw.github.com/centraldedados/BANCOS-falidos/master/data/bancos-falidos.csv

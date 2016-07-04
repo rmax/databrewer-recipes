@@ -1,0 +1,8 @@
+name: okfn-multimedia
+description: Multimedia. data_pkgs
+homepage: http://data.okfn.org/data/prmkbr/Multimedia
+files:
+- name: movies
+  url: https://raw.github.com/prmkbr/data_pkgs/master/data/movies.csv
+- name: ted-talks
+  url: https://raw.github.com/prmkbr/data_pkgs/master/data/ted_talks.csv

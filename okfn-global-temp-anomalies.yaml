@@ -1,0 +1,9 @@
+name: okfn-global-temp-anomalies
+description: Nasa GISS Surface Temperature (GISTEMP) Analysis. Data are sourced from
+  Carbon Dioxide Information Analysis Center (CDIAC)
+homepage: http://data.okfn.org/data/core/global-temp-anomalies
+files:
+- name: global-temp-annual
+  url: https://raw.github.com/datasets/global-temp-anomalies/master/data/global-temp-annual.csv
+- name: global-temp-5yr
+  url: https://raw.github.com/datasets/global-temp-anomalies/master/data/global-temp-5yr.csv

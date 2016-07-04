@@ -1,0 +1,11 @@
+name: okfn-uk-general-election-2015
+description: Data on constituencies and candidates from the UK's general election
+  in May 2015. A set of CSV files containing the constituencies, candidates, and results
+  from the general election held in the United Kingdom on 7 May 2015, collected as
+  a data package.
+homepage: http://data.okfn.org/data/flother/uk-general-election-2015
+files:
+- name: constituencies
+  url: https://raw.github.com/flother/uk-general-election-2015/master/data/constituencies.csv
+- name: candidates
+  url: https://raw.github.com/flother/uk-general-election-2015/master/data/candidates.csv

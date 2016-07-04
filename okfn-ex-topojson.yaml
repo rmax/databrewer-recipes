@@ -1,0 +1,5 @@
+name: okfn-ex-topojson
+description: TopoJSON Example Data Package. Example TopoJSON Data Package providing
+  a data package for Mike Bostock&#39;s example TopoJSON at https://github.com/mbostock/topojson/tree/master/examples
+homepage: http://data.okfn.org/data/datasets/ex-topojson
+url: https://github.com/mbostock/topojson/raw/master/examples/us-10m.json

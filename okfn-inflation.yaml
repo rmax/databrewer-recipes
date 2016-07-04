@@ -1,0 +1,10 @@
+name: okfn-inflation
+description: Annual inflation by GDP deflator and consumer prices. Inflation, GDP
+  deflator (annual %) and Inflation, consumer prices (annual %) for most countries
+  in the world when it has been measured.Data
+homepage: http://data.okfn.org/data/core/inflation
+files:
+- name: inflation-gdp
+  url: https://raw.github.com/datasets/inflation/master/data/inflation-gdp.csv
+- name: inflation-consumer
+  url: https://raw.github.com/datasets/inflation/master/data/inflation-consumer.csv

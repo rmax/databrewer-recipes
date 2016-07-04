@@ -1,0 +1,8 @@
+name: okfn-israeli-government-structure
+description: Israeli Government Structure. Israeli Government Structure Credits
+homepage: http://data.okfn.org/data/pwalsh/israeli-government-structure
+files:
+- name: levels
+  url: https://raw.github.com/pwalsh/il-government-structure/master/data/levels.csv
+- name: entities
+  url: https://raw.github.com/pwalsh/il-government-structure/master/data/entities.csv

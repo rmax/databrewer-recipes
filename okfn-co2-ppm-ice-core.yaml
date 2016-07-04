@@ -1,0 +1,5 @@
+name: okfn-co2-ppm-ice-core
+description: CO2 PPM from vostok ice core. Historical CO2 Record from the Vostok Ice
+  Core Preparation Requirements
+homepage: http://data.okfn.org/data/kiliakis/co2-ppm-ice-core
+url: https://raw.github.com/kiliakis/co2-ppm-ice-core/master/data/co2-ppm-vostok.csv

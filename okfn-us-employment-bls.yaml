@@ -1,0 +1,9 @@
+name: okfn-us-employment-bls
+description: US Employment and Unemployment rates since 1940. US Employment and Unemployment
+  rates since 1940
+homepage: http://data.okfn.org/data/datasets/us-employment-bls
+files:
+- name: aat1
+  url: https://raw.github.com/datasets/us-employment-bls/master/data/aat1.csv
+- name: aat1-src
+  url: http://www.bls.gov/cps/aa2010/aat1.txt

@@ -1,0 +1,5 @@
+name: okfn-hk-govt-land-sales
+description: Hong Kong Government Land Sales. A dataset of Hong Kong Government land
+  sales
+homepage: http://data.okfn.org/data/mikehiggins/hk-govt-land-sales
+url: https://raw.github.com/mikehiggins/hk-govt-land-sales/master/data/land-sales.json

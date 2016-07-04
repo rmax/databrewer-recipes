@@ -1,0 +1,9 @@
+name: okfn-reciclaje
+description: Reciclaje por canton en Costa Rica. Base de datos de estadisticos de
+  reciclaje por canton en Costa Rica.
+homepage: http://data.okfn.org/data/investigacion/reciclaje
+files:
+- name: reciclaje-csv
+  url: https://raw.github.com/investigacion/reciclaje-data/master/data/csv/reciclaje.csv
+- name: reciclaje-json
+  url: https://raw.github.com/investigacion/reciclaje-data/master/data/json/reciclaje.json

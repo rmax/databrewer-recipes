@@ -1,0 +1,16 @@
+name: okfn-sea-level-rise
+description: "Global Average Absolute Sea Level Change, 1880-2014. This data contains\
+  \ cumulative changes in sea level for the world\u2019s oceans since 1880, based\
+  \ on a combination of long-term tide gauge measurements and recent satellite measurements."
+homepage: http://data.okfn.org/data/core/sea-level-rise
+files:
+- name: csiro-alt-gmsl-mo-2015
+  url: https://raw.github.com/datasets/sea-level-rise/master/data/CSIRO_ALT_gmsl_mo_2015.csv
+- name: csiro-alt-gmsl-yr-2015
+  url: https://raw.github.com/datasets/sea-level-rise/master/data/CSIRO_ALT_gmsl_yr_2015.csv
+- name: csiro-recons-gmsl-mo-2015
+  url: https://raw.github.com/datasets/sea-level-rise/master/data/CSIRO_Recons_gmsl_mo_2015.csv
+- name: csiro-recons-gmsl-yr-2015
+  url: https://raw.github.com/datasets/sea-level-rise/master/data/CSIRO_Recons_gmsl_yr_2015.csv
+- name: epa-sea-level
+  url: https://raw.github.com/datasets/sea-level-rise/master/data/epa-sea-level.csv

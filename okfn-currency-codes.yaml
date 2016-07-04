@@ -1,0 +1,5 @@
+name: okfn-currency-codes
+description: ISO 4217 Currency Codes. List of currencies and their 3 digit codes as
+  defined by ISO 4217
+homepage: http://data.okfn.org/data/core/currency-codes
+url: https://raw.github.com/datasets/currency-codes/master/data/codes-all.csv

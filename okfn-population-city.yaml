@@ -1,0 +1,11 @@
+name: okfn-population-city
+description: 'City Population Annual Timeseries (UN Statistics Division). City population
+  yearly timeseries for female and male, and for both sexes, collected by the United
+  Nations Statistics Division and published by UNData in 22 Dec 2014  Next update
+  in UNdata: Jun 2015 (est.) Periodicity: biannual'
+homepage: http://data.okfn.org/data/core/population-city
+files:
+- name: unsd-citypopulation-year-both
+  url: https://raw.github.com/datasets/population-city/master//data/unsd-citypopulation-year-both.csv
+- name: unsd-citypopulation-year-fm
+  url: https://raw.github.com/datasets/population-city/master//data/unsd-citypopulation-year-fm.csv

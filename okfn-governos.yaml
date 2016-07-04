@@ -1,0 +1,10 @@
+name: okfn-governos
+description: Governos e legislaturas. Governos, cargos e legislaturas
+homepage: http://data.okfn.org/data/centraldedados/governos
+files:
+- name: governos-cargos
+  url: https://raw.github.com/centraldedados/governos/master/data/governos-cargos.csv
+- name: governos-pm
+  url: https://raw.github.com/centraldedados/governos/master/data/governos-pm.csv
+- name: legislaturas
+  url: https://raw.github.com/centraldedados/governos/master/data/legislaturas.csv

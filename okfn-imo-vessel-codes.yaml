@@ -1,0 +1,5 @@
+name: okfn-imo-vessel-codes
+description: IMO Vessel Codes. List of IMO coded vessels, vessel type, flag code and
+  vessel names
+homepage: http://data.okfn.org/data/warrantgroup/imo-vessel-codes
+url: https://raw.github.com/warrantgroup/IMO-Vessel-Codes/master/data/imo-vessel-codes.csv

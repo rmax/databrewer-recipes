@@ -1,0 +1,5 @@
+name: okfn-open-inverter-database
+description: Open Source Database for Photovoltaic Inverters. This is an Open Source
+  Database for Photovoltaic Inverters
+homepage: http://data.okfn.org/data/PV-Log/Open-Inverter-Database
+url: https://github.com/PV-Log/Open-Photovoltaic-Inverter-Database/raw/master/data/inverters.csv

@@ -1,0 +1,63 @@
+name: okfn-cdb13
+description: CDB13 Battle Dataset. A database of over 600 battles that were fought
+  between 1600AD and 1973AD
+homepage: http://data.okfn.org/data/nporwal/CDB13
+files:
+- name: version
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/version.csv
+- name: commanders
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/commanders.csv
+- name: battle-dyads
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/battle_dyads.csv
+- name: weather
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/weather.csv
+- name: front-widths
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/front_widths.csv
+- name: battle-actors
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/battle_actors.csv
+- name: belligerents
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/belligerents.csv
+- name: battles
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/battles.csv
+- name: battle-durations
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/battle_durations.csv
+- name: terrain
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/terrain.csv
+- name: active-periods
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/active_periods.csv
+- name: enum-cea
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_cea.csv
+- name: enum-aeroa
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_aeroa.csv
+- name: enum-pri
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_pri.csv
+- name: enum-surpa
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_surpa.csv
+- name: enum-reso
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_reso.csv
+- name: enum-crit
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_crit.csv
+- name: enum-post
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_post.csv
+- name: enum-wx4
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wx4.csv
+- name: enum-wx5
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wx5.csv
+- name: enum-wx1
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wx1.csv
+- name: enum-wx2
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wx2.csv
+- name: enum-wx3
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wx3.csv
+- name: enum-postype
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_postype.csv
+- name: enum-terra2
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_terra2.csv
+- name: enum-terra3
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_terra3.csv
+- name: enum-terra1
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_terra1.csv
+- name: enum-wina
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_wina.csv
+- name: enum-codead
+  url: https://raw.github.com/nporwal/cdb13_ml_analysis/master/data/enum_codead.csv

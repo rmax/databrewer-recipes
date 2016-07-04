@@ -1,0 +1,5 @@
+name: okfn-geo-admin1-us
+description: Natural Earth Admin1 Polygons as GeoJSON. Natural Earth Polygons for
+  the states in the United Stated of America
+homepage: http://data.okfn.org/data/core/geo-admin1-us
+url: https://raw.github.com/datasets/geo-ne-admin1-us/master/data/admin1-us.geojson

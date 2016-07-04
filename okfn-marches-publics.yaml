@@ -1,0 +1,6 @@
+name: okfn-marches-publics
+description: "March\xE9s publics du S\xE9n\xE9gal. March\xE9s publics pass\xE9s par\
+  \ les diff\xE9rents minist\xE8res, collectivit\xE9s locales, soci\xE9t\xE9s nationales,\
+  \ soci\xE9t\xE9s \xE0 participation publique majoritaire.."
+homepage: http://data.okfn.org/data/senegalouvert-datasets/Marches_Publics
+url: https://raw.github.com/senegalouvert-datasets/Marches_Publics/master//data/attribution_marche_armp_senegal.csv

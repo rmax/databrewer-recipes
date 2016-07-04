@@ -1,0 +1,5 @@
+name: okfn-electoral-sub-districts
+description: electoral sub districts.  Level 3territorial subdivision for holding
+  elections in Tunisia during 2011 and 2014
+homepage: http://data.okfn.org/data/radproject/Electoral%20sub%20districts%20%20
+url: https://raw.github.com/radproject/electoral-sub-districts/master/data/delegations.geojson

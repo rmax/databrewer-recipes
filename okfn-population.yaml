@@ -1,0 +1,5 @@
+name: okfn-population
+description: Population figures for countries, regions (e.g. Asia) and the world.
+  Population figures for countries, regions (e.g
+homepage: http://data.okfn.org/data/core/population
+url: https://raw.github.com/datasets/population/master/data/population.csv

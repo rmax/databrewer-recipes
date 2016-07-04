@@ -1,0 +1,71 @@
+name: okfn-euro-elections
+description: 'UK European Election Results 2014. '
+homepage: http://data.okfn.org/data/theodi/euro-elections
+files:
+- name: votes
+  files:
+  - name: wales
+    url: https://raw.github.com/theodi/euro-elections/master/votes/wales.csv
+    filename: wales-votes.csv
+  - name: example
+    url: https://raw.github.com/theodi/euro-elections/master/votes/example-votes.csv
+  - name: south-west
+    url: https://raw.github.com/theodi/euro-elections/master/votes/south-west.csv
+    filename: south-west-votes.csv
+  - name: north-west
+    url: https://raw.github.com/theodi/euro-elections/master/votes/north-west.csv
+    filename: north-west-votes.csv
+  - name: london
+    url: https://raw.github.com/theodi/euro-elections/master/votes/london-votes.csv
+  - name: scotland
+    url: https://raw.github.com/theodi/euro-elections/master/votes/scotland-votes.csv
+  - name: west-midlands
+    url: https://raw.github.com/theodi/euro-elections/master/votes/west-midlands-votes.csv
+  - name: south-east
+    url: https://raw.github.com/theodi/euro-elections/master/votes/south-east.csv
+    filename: south-east-votes.csv
+  - name: yorkshire-and-the-humber
+    url: https://raw.github.com/theodi/euro-elections/master/votes/yorkshire-and-the-humber.csv
+    filename: yorkshire-and-the-humber-votes.csv
+  - name: north-east
+    url: https://raw.github.com/theodi/euro-elections/master/votes/north-east.csv
+    filename: north-east-votes.csv
+  - name: eastern
+    url: https://raw.github.com/theodi/euro-elections/master/votes/eastern.csv
+    filename: eastern-votes.csv
+  - name: east-midlands
+    url: https://raw.github.com/theodi/euro-elections/master/votes/east-midlands-votes.csv
+- name: parties
+  url: https://raw.github.com/theodi/euro-elections/master/parties/parties.csv
+- name: seats
+  files:
+  - name: wales
+    url: https://raw.github.com/theodi/euro-elections/master/seats/wales.csv
+    filename: wales-seats.csv
+  - name: south-west
+    url: https://raw.github.com/theodi/euro-elections/master/seats/south-west.csv
+    filename: south-west-seats.csv
+  - name: north-west
+    url: https://raw.github.com/theodi/euro-elections/master/seats/north-west.csv
+    filename: north-west-seats.csv
+  - name: west-midlands
+    url: https://raw.github.com/theodi/euro-elections/master/seats/west-midlands-seats.csv
+  - name: scotland
+    url: https://raw.github.com/theodi/euro-elections/master/seats/scotland-seats.csv
+  - name: northern-ireland
+    url: https://raw.github.com/theodi/euro-elections/master/seats/northern-ireland.csv
+    filename: northern-ireland-seats.csv
+  - name: london
+    url: https://raw.github.com/theodi/euro-elections/master/seats/london-seats.csv
+  - name: south
+    url: https://raw.github.com/theodi/euro-elections/master/seats/south-east.csv
+  - name: example
+    url: https://raw.github.com/theodi/euro-elections/master/seats/example-seats.csv
+  - name: yorkshire-and-the-humber
+    url: https://raw.github.com/theodi/euro-elections/master/seats/yorkshire-and-the-humber.csv
+    filename: yorkshire-and-the-humber-seats.csv
+  - name: north-east
+    url: https://raw.github.com/theodi/euro-elections/master/seats/north-east.csv
+    filename: north-east-seats.csv
+- name: regions
+  url: https://raw.github.com/theodi/euro-elections/master/regions/regions.csv

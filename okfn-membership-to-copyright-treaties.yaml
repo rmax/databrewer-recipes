@@ -1,0 +1,6 @@
+name: okfn-membership-to-copyright-treaties
+description: 'Membership to Copyright Treaties. This data provides the details of
+  the membership by states to WIPO administered treaties on the subject matter of
+  copyright, namely:'
+homepage: http://data.okfn.org/data/core/membership-to-copyright-treaties
+url: https://raw.github.com/datasets/membership-to-copyright-treaties/master/membership-to-copyright-treaties.csv

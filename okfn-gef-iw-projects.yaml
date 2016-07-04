@@ -1,0 +1,4 @@
+name: okfn-gef-iw-projects
+description: 'GEF IW Projects. project-data '
+homepage: http://data.okfn.org/data/iwlearn/gef-iw-projects
+url: https://raw.github.com/iwlearn/project-data/master/data/projects.csv

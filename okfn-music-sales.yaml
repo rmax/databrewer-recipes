@@ -1,0 +1,6 @@
+name: okfn-music-sales
+description: Recorded Music Sales 1969-Present. Worldwide recorded music sales 1969-Present
+  worldwide sourced from the IFPI&#39;s annual &quot;Recording Industry in Numbers
+  Report&quot;
+homepage: http://data.okfn.org/data/rgrp/music-sales
+url: https://raw.github.com/rgrp/music-sales/master/data/data.csv

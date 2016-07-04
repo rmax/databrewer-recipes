@@ -1,0 +1,5 @@
+name: okfn-postcode-and-demographic-data-of-gp-practices-in-england
+description: GP Practice - England. Demographic and location data for all GP practices
+  in England.
+homepage: http://data.okfn.org/data/CDECatapult/Postcode%20and%20demographic%20data%20of%20GP%20Practices%20in%20England
+url: https://raw.github.com/CDECatapult/data.gp-practice-england/master/data/GP_Practice-info-England.csv

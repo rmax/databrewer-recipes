@@ -1,0 +1,7 @@
+name: okfn-fr-ccomptes-affected-taxes
+description: "Cartographie de la fiscalit\xE9 affect\xE9e, selon le p\xE9rim\xE8tre\
+  \ retenu pour le rapport du Conseil des pr\xE9l\xE8vements obligatoires (2007-2013).\
+  \ Cartographie de la fiscalit\xE9 affect\xE9e, selon le p\xE9rim\xE8tre retenu pour\
+  \ le rapport du Conseil des pr\xE9l\xE8vements obligatoires (2007-2013)"
+homepage: http://data.okfn.org/data/cbenz/fr-ccomptes-affected-taxes
+url: https://raw.github.com/cbenz/ccomptes-affected-taxes/master/data/taxes.csv

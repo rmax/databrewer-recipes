@@ -1,0 +1,6 @@
+name: okfn-glacier-mass-balance
+description: Average cumulative mass balance of reference Glaciers worldwide. This
+  is cumulative change in mass balance of a set of reference glaciers worldwide beginning
+  in 1945
+homepage: http://data.okfn.org/data/core/glacier-mass-balance
+url: https://raw.github.com/datasets/glacier-mass-balance/master/data/glaciers.csv

@@ -1,0 +1,5 @@
+name: okfn-gdp-uk
+description: UK Gross Domestic Product (GDP). UK Real GDP since 1948 from the Office
+  of National Statistics including percentage change and index versions
+homepage: http://data.okfn.org/data/core/gdp-uk
+url: https://raw.github.com/datasets/gdp-uk/master/annual.csv

@@ -1,0 +1,5 @@
+name: okfn-hard-drive-prices
+description: Hard Drive Prices (1950-Present). Hard disk drives (HDD) prices over
+  time (1950-present)
+homepage: http://data.okfn.org/data/rgrp/hard-drive-prices
+url: https://raw.github.com/rgrp/hard-drive-prices/master/data.csv

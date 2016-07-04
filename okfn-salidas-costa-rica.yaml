@@ -1,0 +1,10 @@
+name: okfn-salidas-costa-rica
+description: "Salidas de costarricenses al extranjero. Consulte en esta base de datos,\
+  \ las salidas de ciudadanos de Costa Rica (por avi\xF3n y tierra) efectuadas por\
+  \ mes desde enero de 2003."
+homepage: http://data.okfn.org/data/investigacion/salidas-costa-rica
+files:
+- name: salidas-csv
+  url: https://raw.github.com/investigacion/salidas-data/master/data/csv/salidas.csv
+- name: salidas-xlsx
+  url: https://raw.github.com/investigacion/salidas-data/master/data/xlsx/salidas.xlsx

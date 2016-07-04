@@ -1,0 +1,9 @@
+name: okfn-openness-metrics
+description: Openness Metrics. Licenses dataset complements and mini-framework for
+  Openness Metrics.
+homepage: http://data.okfn.org/data/ppKrauss/openness-metrics
+files:
+- name: scopes
+  url: https://raw.github.com/ppKrauss/openness-metrics/master/data/scopes.csv
+- name: families
+  url: https://raw.github.com/ppKrauss/openness-metrics/master/data/families.csv

@@ -1,0 +1,5 @@
+name: okfn-edinburgh-natural-neighbourhoods
+description: Natural Neighbourhoods in the City of Edinburgh. Geocoded data based
+  on survey of Edinburgh residents
+homepage: http://data.okfn.org/data/ewan-klein/edinburgh-natural-neighbourhoods
+url: https://raw.github.com/ewan-klein/natural-neighbourhoods/master/survey_data_latlng.csv

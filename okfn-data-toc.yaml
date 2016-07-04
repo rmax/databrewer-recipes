@@ -1,0 +1,5 @@
+name: okfn-data-toc
+description: Digital Freedom - Data Packages. a data package of table of contents
+  of other packages for Digital Freedom
+homepage: http://data.okfn.org/data/digitalfreedom/data-toc
+url: https://raw.github.com/digitalfreedom/data-toc/master/toc.csv

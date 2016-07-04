@@ -1,0 +1,5 @@
+name: okfn-bancos-testes-stress
+description: "Resultados dos testes financeiros. Reposit\xF3rio do dataset dedicado\
+  \ aos resultados dos testes de stress"
+homepage: http://data.okfn.org/data/centraldedados/bancos-testes-stress
+url: https://raw.github.com/centraldedados/BANCOS-testes-stress/master/data/resultados-testes-stress.csv

@@ -1,0 +1,6 @@
+name: okfn-repartition-population-1970-2005
+description: "R\xE9partition de la population selon le sexe de 1970 \xE0 2005. R\xE9\
+  partition de la population du S\xE9n\xE9gal selon le sexe de 1970 \xE0 2005 source\
+  \ : DPS/MEF R\xE9partition de la population selon le sexe de 1970 \xE0 2005"
+homepage: http://data.okfn.org/data/senegalouvert-datasets/Repartition-Population-1970-2005
+url: https://raw.github.com/senegalouvert-datasets/Repartition-Population-1970-2005/master//data/Repartition_population_selon_sexe_1970_2005.csv

@@ -1,0 +1,5 @@
+name: okfn-electoral-districts
+description: electoral districts. 27 distinct territorial subdivision for holding
+  elections in Tunisia during 2011 and 2014
+homepage: http://data.okfn.org/data/radproject/Electoral%20districts%20
+url: https://raw.github.com/radproject/electoral-districts/master/data/districts.geojson

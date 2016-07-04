@@ -1,0 +1,4 @@
+name: okfn-unihan
+description: 'Unicode Han Database (Unihan). '
+homepage: http://data.okfn.org/data/cihai/unihan
+url: https://raw.github.com/cihai/cihaidata-unihan/master/data/unihan.csv

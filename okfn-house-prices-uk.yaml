@@ -1,0 +1,5 @@
+name: okfn-house-prices-uk
+description: House Prices in the UK since 1953. UK house prices since 1953 as monthly
+  time-series
+homepage: http://data.okfn.org/data/core/house-prices-uk
+url: https://raw.github.com/datasets/house-prices-uk/master/data/data.csv

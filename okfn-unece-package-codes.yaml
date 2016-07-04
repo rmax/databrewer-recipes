@@ -1,0 +1,6 @@
+name: okfn-unece-package-codes
+description: UNECE/CEFACT package codes. Coded representations of the package type
+  names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation
+  No.21)
+homepage: http://data.okfn.org/data/core/unece-package-codes
+url: https://raw.github.com/datasets/unece-package-codes/master/data/data.csv

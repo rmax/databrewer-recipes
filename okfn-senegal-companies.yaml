@@ -1,0 +1,5 @@
+name: okfn-senegal-companies
+description: all senegaleses Companies registered via http://www.creationdentreprise.sn/.
+  senegal-companies
+homepage: http://data.okfn.org/data/aliounedia/senegal-companies
+url: https://raw.github.com/aliounedia/senegal-companies/master/data/data.csv

@@ -1,0 +1,6 @@
+name: okfn-data-mlats
+description: Mutual Legal Assistance Treaties. MLATs are agreements between governments
+  that facilitate the exchange of information relevant to an investigation happening
+  in at least one of those countries
+homepage: http://data.okfn.org/data/digitalfreedom/data-mlats
+url: https://raw.github.com/digitalfreedom/data-mlats/master/mlats.csv

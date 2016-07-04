@@ -1,0 +1,5 @@
+name: okfn-wheat-us
+description: US Wheat Production and Prices. US wheat production and prices time series
+  from 1866 to the present
+homepage: http://data.okfn.org/data/rgrp/wheat-us
+url: https://raw.github.com/rgrp/wheat-us/master/data.csv

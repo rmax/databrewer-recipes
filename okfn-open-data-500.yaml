@@ -1,0 +1,8 @@
+name: okfn-open-data-500
+description: A nice title. Data collected by the Open Data 500 study
+homepage: http://data.okfn.org/data/tlevine/open-data-500
+files:
+- name: companies
+  url: https://raw.github.com/tlevine/open-data-500/master/./companies.csv
+- name: datasets
+  url: https://raw.github.com/tlevine/open-data-500/master/./datasets.csv

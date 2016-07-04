@@ -1,0 +1,10 @@
+name: okfn-glwd
+description: Global Lakes and Wetlands Database Levels 1 and 2 Polygons as GeoJSON
+  (.geojson/.topojson) and Shapefiles (.shp). geodata data package providing geojson
+  polygons and shapefiles for Global Lakes and Wetlands Database
+homepage: http://data.okfn.org/data/datasets/glwd
+files:
+- name: level-2-glwd-2-comprises-permanent-open-water-bodies-with-a-surface-area-0-1-km2-excluding-the-water-bodies-contained-in-glwd-1-compressed-because-it-exceeds-githubs-100k-file-limit
+  url: https://raw.github.com/datasets/glwd/master/json/glwd_2.zip
+- name: level-2-glwd-2-comprises-permanent-open-water-bodies-with-a-surface-area-0-1-km2-excluding-the-water-bodies-contained-in-glwd-1
+  url: https://raw.github.com/datasets/glwd/master/json/glwd_2.topojson

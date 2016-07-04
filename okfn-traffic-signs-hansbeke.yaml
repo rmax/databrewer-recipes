@@ -1,0 +1,5 @@
+name: okfn-traffic-signs-hansbeke
+description: Traffic signs of Hansbeke, Nevele, Belgium. Geospatial dataset of all
+  traffic signs of Hansbeke, Nevele, Belgium
+homepage: http://data.okfn.org/data/peterdesmet/traffic-signs-hansbeke
+url: https://raw.github.com/peterdesmet/traffic-signs-hansbeke/master/data/traffic-signs-hansbeke.geojson

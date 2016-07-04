@@ -1,0 +1,10 @@
+name: okfn-investor-flow-of-funds-us
+description: US Investor Flow of Funds into Investment Classes (Bonds, Equities etc).
+  Monthly net new cash flow by US investors into various mutual fund investment classes
+  (equities, bonds etc)
+homepage: http://data.okfn.org/data/core/investor-flow-of-funds-us
+files:
+- name: monthly
+  url: https://raw.github.com/datasets/investor-flow-of-funds-us/master/data/monthly.csv
+- name: weekly
+  url: https://raw.github.com/datasets/investor-flow-of-funds-us/master/data/weekly.csv

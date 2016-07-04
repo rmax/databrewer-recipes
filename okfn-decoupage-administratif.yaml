@@ -1,0 +1,6 @@
+name: okfn-decoupage-administratif
+description: "D\xE9coupage administratif du S\xE9n\xE9gal. Le S\xE9n\xE9gal comprend\
+  \ 14 r\xE9gions administratives, qui comprennent des d\xE9partements et des arrondissements,\
+  \ des communes et des communaut\xE9s rurales"
+homepage: http://data.okfn.org/data/senegalouvert/Decoupage-Administratif
+url: https://raw.github.com/senegalouvert/Decoupage-Administratif/master/data/decoupage-administratif.csv

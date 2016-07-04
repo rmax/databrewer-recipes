@@ -1,0 +1,5 @@
+name: okfn-opentrials-publicregistries
+description: Public and Private registers for OpenTrials. This is Data Package with
+  information on public and private registers of clinical trials
+homepage: http://data.okfn.org/data/okfn/opentrials-publicregistries
+url: https://raw.github.com/okfn/opentrials-registers/master/data/registers.csv

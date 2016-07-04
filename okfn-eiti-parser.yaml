@@ -1,0 +1,5 @@
+name: okfn-eiti-parser
+description: Combined, normalised dataset for GHEITI data. Python parser reads in
+  excel EITI reports and writes out formatted json and csv to output folder
+homepage: http://data.okfn.org/data/NRGI/eiti-parser
+url: https://raw.github.com/NRGI/eiti-parser/master/data/eiti_normalised.csv

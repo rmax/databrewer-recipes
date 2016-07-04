@@ -1,0 +1,15 @@
+name: okfn-sondagens
+description: "Sondagens feitas em Portugal entre 2002 e 2011. Nesta data package podem\
+  \ ser encontradas as sondagens feitas nas elei\xE7\xF5es de 2002 at\xE9 2011 Fontes"
+homepage: http://data.okfn.org/data/centraldedados/sondagens
+files:
+- name: '1999'
+  url: https://raw.github.com/centraldedados/eleicoes-sondagens/master/data\1999.csv
+- name: '2002'
+  url: https://raw.github.com/centraldedados/eleicoes-sondagens/master/data\2002.csv
+- name: '2005'
+  url: https://raw.github.com/centraldedados/eleicoes-sondagens/master/data\2005.csv
+- name: '2009'
+  url: https://raw.github.com/centraldedados/eleicoes-sondagens/master/data\2009.csv
+- name: '2011'
+  url: https://raw.github.com/centraldedados/eleicoes-sondagens/master/data\2011.csv

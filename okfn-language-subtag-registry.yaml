@@ -1,0 +1,5 @@
+name: okfn-language-subtag-registry
+description: BCP 47/IANA language subtag data. Full BCP 47 language subtag data from
+  the official IANA repository, in JSON format with multiple indices.
+homepage: http://data.okfn.org/data/mattcg/language-subtag-registry
+url: https://raw.github.com/mattcg/language-subtag-registry/master/data/json/registry.json

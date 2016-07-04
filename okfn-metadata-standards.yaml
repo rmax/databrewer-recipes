@@ -1,0 +1,9 @@
+name: okfn-metadata-standards
+description: Metadata Standards. An exploration of the metadata standards that are
+  in use across the web
+homepage: http://data.okfn.org/data/theodi/Metadata%20standards
+files:
+- name: metadata
+  url: https://raw.github.com/theodi/dataset-metadata-survey/master/metadata.csv
+- name: datastores
+  url: https://raw.github.com/theodi/dataset-metadata-survey/master/datastores.csv

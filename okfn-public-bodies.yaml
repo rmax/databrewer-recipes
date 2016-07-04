@@ -1,0 +1,5 @@
+name: okfn-public-bodies
+description: 'Database of Public Bodies (Government Entities). A database of public
+  bodies (or organizations):'
+homepage: http://data.okfn.org/data/okfn/public-bodies
+url: https://raw.github.com/okfn/publicbodies/master/data/gb.csv

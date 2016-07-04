@@ -1,0 +1,5 @@
+name: okfn-fct-projetos-financiados
+description: "Projetos financiados pela FCT. Concurso de Projetos de Investiga\xE7\
+  \xE3o Cient\xEDfica e Desenvolvimento"
+homepage: http://data.okfn.org/data/mxmmargarida/fct-projetos-financiados
+url: https://raw.github.com/mxmmargarida/fct-projetos-financiados/master/data/fct-projetos-financiados.csv

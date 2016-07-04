@@ -1,0 +1,53 @@
+name: okfn-no-kartverket-data-ssr
+description: Sentralt Stedsnavnsregister. Sentralt stadnamnregister (SSR) er Noregs
+  offisielle register over stadnamn i offentleg bruk.
+homepage: http://data.okfn.org/data/relet/no.kartverket.data.ssr
+files:
+- name: stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./stedsnavn.geojson
+- name: stedsnavn-geojson
+  url: https://raw.github.com/relet/ssr/master/./stedsnavn.geojson.zip
+- name: 01-ostfold-stedsnavn
+  url: "https://raw.github.com/relet/ssr/master/./Fylker/01_\xF8stfold_stedsnavn.geojson"
+- name: 02-akershus-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/02_akershus_stedsnavn.geojson
+- name: 03-oslo-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/03_oslo_stedsnavn.geojson
+- name: 04-hedmark-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/04_hedmark_stedsnavn.geojson
+- name: 05-oppland-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/05_oppland_stedsnavn.geojson
+- name: 06-buskerud-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/06_buskerud_stedsnavn.geojson
+- name: 07-vestfold-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/07_vestfold_stedsnavn.geojson
+- name: 08-telemark-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/08_telemark_stedsnavn.geojson
+- name: 09-aust-agder-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/09_aust-agder_stedsnavn.geojson
+- name: 10-vest-agder-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/10_vest-agder_stedsnavn.geojson
+- name: 11-rogaland-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/11_rogaland_stedsnavn.geojson
+- name: 12-hordaland-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/12_hordaland_stedsnavn.geojson
+- name: 14-sogn-og-fjordane-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/14_sogn_og_fjordane_stedsnavn.geojson
+- name: 15-more-og-romsdal-stedsnavn
+  url: "https://raw.github.com/relet/ssr/master/./Fylker/15_m\xF8re_og_romsdal_stedsnavn.geojson"
+- name: 16-sor-trondelag-stedsnavn
+  url: "https://raw.github.com/relet/ssr/master/./Fylker/16_s\xF8r-trondelag_stedsnavn.geojson"
+- name: 17-nord-trondelag-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/17_nord-trondelag_stedsnavn.geojson
+- name: 18-nordland-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/18_nordland_stedsnavn.geojson
+- name: 19-troms-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/19_troms_stedsnavn.geojson
+- name: 20-finnmark-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/20_finnmark_stedsnavn.geojson
+- name: 21-svalbard-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/21_svalbard_stedsnavn.geojson
+- name: 22-jan-mayen-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/22_jan_mayen_stedsnavn.geojson
+- name: 90-utland-stedsnavn
+  url: https://raw.github.com/relet/ssr/master/./Fylker/90_utland_stedsnavn.geojson

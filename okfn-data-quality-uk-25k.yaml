@@ -1,0 +1,17 @@
+name: okfn-data-quality-uk-25k
+description: "Data Quality Uk 25K. Analysis of the quality of UK public spend over\
+  \ \xA325000 files."
+homepage: http://data.okfn.org/data/okfn/data-quality-uk-25k
+files:
+- name: publisher-lookup
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/publisher_lookup.csv
+- name: publishers
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/publishers.csv
+- name: sources
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/sources.csv
+- name: runs
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/runs.csv
+- name: results
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/results.csv
+- name: performance
+  url: https://raw.github.com/okfn/uk-25k-spend-data-quality/master/data/performance.csv

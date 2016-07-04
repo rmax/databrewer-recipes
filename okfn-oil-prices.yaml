@@ -1,0 +1,21 @@
+name: okfn-oil-prices
+description: Brent and WTI Spot Prices. A variety of temporal granularities for Europe
+  Brent and WTI (West Texas Intermediate) Spot Prices.
+homepage: http://data.okfn.org/data/core/oil-prices
+files:
+- name: brent-day
+  url: https://raw.github.com/datasets/oil-prices/master/data/brent-day.csv
+- name: brent-week
+  url: https://raw.github.com/datasets/oil-prices/master/data/brent-week.csv
+- name: brent-month
+  url: https://raw.github.com/datasets/oil-prices/master/data/brent-month.csv
+- name: brent-year
+  url: https://raw.github.com/datasets/oil-prices/master/data/brent-year.csv
+- name: wti-day
+  url: https://raw.github.com/datasets/oil-prices/master/data/wti-day.csv
+- name: wti-week
+  url: https://raw.github.com/datasets/oil-prices/master/data/wti-week.csv
+- name: wti-month
+  url: https://raw.github.com/datasets/oil-prices/master/data/wti-month.csv
+- name: wti-year
+  url: https://raw.github.com/datasets/oil-prices/master/data/wti-year.csv

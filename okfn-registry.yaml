@@ -1,0 +1,9 @@
+name: okfn-registry
+description: Registry of published datasets in the Datasets Project. Registry of published
+  datasets in the Datasets Project
+homepage: http://data.okfn.org/data/datasets/registry
+files:
+- name: core-list
+  url: https://raw.github.com/datasets/registry/master/data/core-list.csv
+- name: catalog-list
+  url: https://raw.github.com/datasets/registry/master/data/catalog-list.csv

@@ -1,0 +1,8 @@
+name: okfn-india-pale-kolsch
+description: India Pale Kolsch. Open Beer Recipe for India Pale Kolsch
+homepage: http://data.okfn.org/data/pezholio/india-pale-kolsch
+files:
+- name: recipe-in-beer-json-format
+  url: https://raw.github.com/pezholio/india-pale-kolsch/master/data/india-pale-kolsch.json
+- name: recipe-in-beer-xml-format
+  url: https://raw.github.com/pezholio/india-pale-kolsch/master/data/india-pale-kolsch.xml

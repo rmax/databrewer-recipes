@@ -1,0 +1,5 @@
+name: okfn-eleicoes-europeias
+description: "Elei\xE7\xF5es europeias. Resultados das elei\xE7\xF5es para o Parlamento\
+  \ Europeu"
+homepage: http://data.okfn.org/data/centraldedados/eleicoes-europeias
+url: https://raw.github.com/centraldedados/eleicoes-europeias/master/data/resultados_europeias.csv

@@ -1,0 +1,5 @@
+name: okfn-world-cities
+description: Major cities of the world. List of the world's major cities (above 15,000
+  inhabitants)
+homepage: http://data.okfn.org/data/core/world-cities
+url: https://raw.github.com/datasets/world-cities/master/data/world-cities.csv

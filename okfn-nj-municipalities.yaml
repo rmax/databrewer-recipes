@@ -1,0 +1,6 @@
+name: okfn-nj-municipalities
+description: List of all municipalities in the state of New Jersey (USA), including
+  GeonamesID. List of all municipalities in the state of New Jersey (USA), including
+  GeonamesID
+homepage: http://data.okfn.org/data/c4fcm/nj-municipalities
+url: https://raw.githubusercontent.com/c4fcm/nj-municipalities/master/data/nj-municipalities.csv

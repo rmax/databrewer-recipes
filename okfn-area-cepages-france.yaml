@@ -1,0 +1,5 @@
+name: okfn-area-cepages-france
+description: Area of the French wine cepages per year. Area of the French wine cepages
+  per year
+homepage: http://data.okfn.org/data/OpenWines/area_cepages_france
+url: https://raw.github.com/OpenWines/area_cepages_france/master/data/area_cepages_france_yearly.csv

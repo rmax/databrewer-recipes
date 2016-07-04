@@ -1,0 +1,8 @@
+name: okfn-iso-container-codes
+description: ISO 6346 Container Type Codes. List of ISO 6346 Container Type Codes
+homepage: http://data.okfn.org/data/warrantgroup/iso-container-codes
+files:
+- name: iso-container-codes
+  url: https://raw.github.com/warrantgroup/ISO-Container-Codes/master/data/iso-container-codes.csv
+- name: iso-container-groups
+  url: https://raw.github.com/warrantgroup/ISO-Container-Codes/master/data/iso-container-groups.csv

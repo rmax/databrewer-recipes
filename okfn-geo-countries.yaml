@@ -1,0 +1,5 @@
+name: okfn-geo-countries
+description: Country Polygons as GeoJSON. geodata data package providing geojson polygons
+  for all the world's countries
+homepage: http://data.okfn.org/data/core/geo-countries
+url: https://raw.github.com/datasets/geo-countries/master/data/countries.geojson

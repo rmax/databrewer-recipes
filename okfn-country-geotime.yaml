@@ -1,0 +1,8 @@
+name: okfn-country-geotime
+description: Datasets for geospatial information related to countries, draft1. country-geotime
+homepage: http://data.okfn.org/data/ppKrauss/country-geotime
+files:
+- name: contry-geotime
+  url: https://raw.github.com/ppKrauss/country-geotime/master/data/contry-geotime.csv
+- name: territorycontainment
+  url: https://raw.github.com/ppKrauss/country-geotime/master/data/territoryContainment.csv

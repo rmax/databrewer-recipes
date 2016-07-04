@@ -1,0 +1,6 @@
+name: okfn-education
+description: "Situation de l'Education. Il s\u2019agit d\u2019un tableau de bord qui\
+  \ \xE0 partir d\u2019une batterie d\u2019indicateurs, effectue des mesures d\u2019\
+  ensemble pour d\xE9terminer le niveau de d\xE9veloppement du syst\xE9me \xE9ducatif"
+homepage: http://data.okfn.org/data/senegalouvert-datasets/Education
+url: https://raw.github.com/senegalouvert-datasets/Education/master//data/Education.csv

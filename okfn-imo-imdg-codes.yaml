@@ -1,0 +1,7 @@
+name: okfn-imo-imdg-codes
+description: IMO IMDG Classification Codes. For the purposes of this Code, dangerous
+  goods are classified in different classes, to subdivide a number of these classes
+  and to define and describe characteristics and properties of the substances, material
+  and articles which would fall within each class or division
+homepage: http://data.okfn.org/data/warrantgroup/imo-imdg-codes
+url: https://raw.github.com/warrantgroup/IMO-IMDG-Codes/master/data/data.csv

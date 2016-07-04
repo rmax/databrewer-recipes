@@ -1,0 +1,4 @@
+name: okfn-rollercoaster-list
+description: Rollercoaster List. List of rollercoasters in the world
+homepage: http://data.okfn.org/data/carstena/rollercoaster-list
+url: https://raw.github.com/carstena/rollercoaster-list/master/data/rollercoasters.csv

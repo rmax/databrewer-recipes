@@ -1,0 +1,8 @@
+name: okfn-location-reference-jp
+description: Japanese Location Reference. Japanese Location Referenece Information
+homepage: http://data.okfn.org/data/skitazaki/location-reference-jp
+files:
+- name: city-block-csv
+  url: https://s3-ap-northeast-1.amazonaws.com/s.kitazaki.name/datasets/city_block.csv.gz
+- name: town-csv
+  url: https://s3-ap-northeast-1.amazonaws.com/s.kitazaki.name/datasets/town.csv.gz

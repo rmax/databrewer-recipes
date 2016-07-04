@@ -1,0 +1,4 @@
+name: okfn-media-attacks
+description: Attacks. Media related to attacks targeting members of civil society
+homepage: http://data.okfn.org/data/digitalfreedom/media-attacks
+url: https://raw.github.com/digitalfreedom/media-attacks/master/attacks.csv

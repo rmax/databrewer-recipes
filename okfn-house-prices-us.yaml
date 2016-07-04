@@ -1,0 +1,5 @@
+name: okfn-house-prices-us
+description: US House Price Index (Case-Shiller). Case-Shiller Index of US residential
+  house prices
+homepage: http://data.okfn.org/data/core/house-prices-us
+url: https://raw.github.com/datasets/house-prices-us/master/data/cities-month.csv

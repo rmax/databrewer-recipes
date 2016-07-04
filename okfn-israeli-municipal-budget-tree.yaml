@@ -1,0 +1,5 @@
+name: okfn-israeli-municipal-budget-tree
+description: Israeli Municipal Budget Tree. The data describes the official budget
+  tree as published by the Ministry of Interior
+homepage: http://data.okfn.org/data/pwalsh/israeli-municipal-budget-tree
+url: https://raw.github.com/pwalsh/il-municipal-budget-tree/master/data.csv

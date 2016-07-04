@@ -1,0 +1,5 @@
+name: okfn-co2-fossil-global
+description: Global CO2 Emissions from Fossil Fuels since 1751. Global CO2 Emissions
+  from fossil-fuels annually since 1751
+homepage: http://data.okfn.org/data/core/co2-fossil-global
+url: https://raw.github.com/datasets/co2-fossil-global/master/global.csv

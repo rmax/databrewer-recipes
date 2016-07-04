@@ -1,0 +1,5 @@
+name: okfn-2014-parliamentary-elections-results
+description: 2014 Parliamentary elections results . Partial results from the parliamentary
+  elections  manually entered by volunteers from Mourakiboun organization
+homepage: http://data.okfn.org/data/radproject/2014%20Parliamentary%20elections%20results%20
+url: https://raw.github.com/radproject/parliamentary-results/master/data/par.csv

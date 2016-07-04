@@ -1,0 +1,4 @@
+name: okfn-health-data-uk
+description: Data Packaged UK Health Data. UK Health Data
+homepage: http://data.okfn.org/data/rgrp/health-data-uk
+url: https://raw.github.com/rgrp/health-data-uk/master/data/shmi.csv

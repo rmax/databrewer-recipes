@@ -1,0 +1,12 @@
+name: okfn-codigos-postais
+description: "C\xF3digos postais. Nesta datapackage encontra-se a lista completa de\
+  \ c\xF3digos postais em Portugal (continente e regi\xF5es aut\xF3nomas), com mais\
+  \ de 300000 entradas"
+homepage: http://data.okfn.org/data/centraldedados/codigos_postais
+files:
+- name: codigos-postais
+  url: https://raw.github.com/centraldedados/codigos_postais/master/data/codigos_postais.csv
+- name: concelhos
+  url: https://raw.github.com/centraldedados/codigos_postais/master/data/concelhos.csv
+- name: distritos
+  url: https://raw.github.com/centraldedados/codigos_postais/master/data/distritos.csv

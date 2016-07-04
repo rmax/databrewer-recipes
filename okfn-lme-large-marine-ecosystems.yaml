@@ -1,0 +1,9 @@
+name: okfn-lme-large-marine-ecosystems
+description: LME (Large Marine Ecosystems) of the World. geodata data package providing
+  geojson polygons and shapefiles for LME (Large Marine Ecosystems)
+homepage: http://data.okfn.org/data/datasets/lme-large-marine-ecosystems
+files:
+- name: geojson-lme-boundaries-offshore-updated-2013-08
+  url: https://raw.github.com/datasets/lme-large-marine-ecosystems/master/offshore/json/lme66-offshore.geojson
+- name: lme-boundaries-offshore-updated-2013-08
+  url: https://raw.github.com/datasets/lme-large-marine-ecosystems/master/offshore/json/lme66-offshore.topojson

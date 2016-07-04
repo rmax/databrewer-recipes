@@ -1,0 +1,9 @@
+name: okfn-s-and-p-500-companies
+description: S&P 500 Companies with Financial Information. List of companies in the
+  S&amp;P 500 (Standard and Poor&#39;s 500)
+homepage: http://data.okfn.org/data/core/s-and-p-500-companies
+files:
+- name: constituents
+  url: https://raw.github.com/datasets/s-and-p-500-companies/master/data/constituents.csv
+- name: constituents-financials
+  url: https://raw.github.com/datasets/s-and-p-500-companies/master/data/constituents-financials.csv

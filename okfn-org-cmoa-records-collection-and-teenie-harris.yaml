@@ -1,0 +1,10 @@
+name: okfn-org-cmoa-records-collection-and-teenie-harris
+description: Collection of the Carnegie Museum of Art & the Teenie Harris Archive..
+  Carnegie Museum of Art is making public the collections records of all of its accessioned
+  artworks
+homepage: http://data.okfn.org/data/cmoa/org.cmoa.records.collection_and_teenie_harris
+files:
+- name: cmoa-collection
+  url: https://raw.github.com/cmoa/collection/master/cmoa.csv
+- name: teenie-harris
+  url: https://raw.github.com/cmoa/collection/master/teenie.csv

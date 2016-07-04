@@ -1,0 +1,5 @@
+name: okfn-country-list
+description: List of all countries with their 2 digit codes (ISO 3166-2). ISO 3166-1-alpha-2
+  English country names and code elements
+homepage: http://data.okfn.org/data/core/country-list
+url: https://raw.github.com/datasets/country-list/master/data.csv

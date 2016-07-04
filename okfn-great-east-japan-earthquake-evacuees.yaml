@@ -1,0 +1,9 @@
+name: okfn-great-east-japan-earthquake-evacuees
+description: "\u6240\u5728\u90FD\u9053\u5E9C\u770C\u5225\u306E\u907F\u96E3\u8005\u7B49\
+  \u306E\u6570. Great East Japan Earthquake Evacuees"
+homepage: http://data.okfn.org/data/hhtyo/great-east-japan-earthquake-evacuees
+files:
+- name: monthly
+  url: https://raw.github.com/hhtyo/great-east-japan-earthquake-evacuees/master/data/monthly.csv
+- name: monthly-by-prefecture
+  url: https://raw.github.com/hhtyo/great-east-japan-earthquake-evacuees/master/data/monthly-by-prefecture.csv

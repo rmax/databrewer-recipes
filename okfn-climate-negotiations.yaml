@@ -1,0 +1,9 @@
+name: okfn-climate-negotiations
+description: . Information on 20 years of the UN Climate Change negotiations from
+  the [Earth
+homepage: http://data.okfn.org/data/rgrp/climate-negotiations
+files:
+- name: documents
+  url: https://raw.github.com/rgrp/climate-negotiations/master/data/documents.csv
+- name: events
+  url: https://raw.github.com/rgrp/climate-negotiations/master/data/events.csv

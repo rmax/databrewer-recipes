@@ -1,0 +1,9 @@
+name: okfn-iniciativas
+description: Iniciativas Populares de Costa Rica. Base de datos de iniciativas de
+  ley populares de Costa Rica.
+homepage: http://data.okfn.org/data/investigacion/iniciativas
+files:
+- name: iniciativas-csv
+  url: https://raw.github.com/investigacion/iniciativas-data/master/data/csv/iniciativas.csv
+- name: iniciativas-json
+  url: https://raw.github.com/investigacion/iniciativas-data/master/data/json/iniciativas.json

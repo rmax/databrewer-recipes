@@ -1,0 +1,5 @@
+name: okfn-continent-codes
+description: List of continent codes. A list of the seven continents with English
+  names and short, unique and permanent identifying codes
+homepage: http://data.okfn.org/data/core/continent-codes
+url: https://raw.github.com/datasets/continent-codes/master/data/continent-codes.csv

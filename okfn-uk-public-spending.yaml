@@ -1,0 +1,8 @@
+name: okfn-uk-public-spending
+description: UK public spending files from data.gov.uk. uk-public-spending Scraper
+homepage: http://data.okfn.org/data/hdurand/uk-public-spending
+files:
+- name: publishers
+  url: https://raw.github.com/hdurand/uk-public-spending/master/data/publishers-sample.csv
+- name: datafiles
+  url: https://raw.github.com/hdurand/uk-public-spending/master/data/datafiles-sample.csv

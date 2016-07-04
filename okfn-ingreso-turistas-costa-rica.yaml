@@ -1,0 +1,10 @@
+name: okfn-ingreso-turistas-costa-rica
+description: "Ingreso de visitantes extranjeros a Costa Rica. Cifras mensuales de\
+  \ ingreso de visitantes extranjeros por la v\xEDa a\xE9rea, terrestre y mar\xED\
+  tima desde enero de 2008."
+homepage: http://data.okfn.org/data/investigacion/ingreso-turistas-costa-rica
+files:
+- name: ingreso-csv
+  url: https://raw.github.com/investigacion/ingreso-turistas-data/master/data/csv/ingreso.csv
+- name: ingreso-xlsx
+  url: https://raw.github.com/investigacion/ingreso-turistas-data/master/data/xlsx/ingreso.xlsx

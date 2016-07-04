@@ -1,0 +1,5 @@
+name: okfn-parlamento-datas
+description: "Datas das sess\xF5es plen\xE1rias do Parlamento. Lista das datas de\
+  \ todas as sess\xF5es plen\xE1rias no Parlamento desde 1976"
+homepage: http://data.okfn.org/data/centraldedados/parlamento-datas
+url: https://raw.github.com/centraldedados/parlamento-datas/master/data/parlamento-datas.csv

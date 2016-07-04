@@ -1,0 +1,5 @@
+name: okfn-partidos
+description: "Partidos pol\xEDticos. Informa\xE7\xE3o sobre os partidos pol\xEDticos\
+  \ desde 1974"
+homepage: http://data.okfn.org/data/centraldedados/partidos
+url: https://raw.github.com/centraldedados/partidos/master/data/partidos.csv

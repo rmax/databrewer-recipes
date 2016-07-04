@@ -1,0 +1,10 @@
+name: okfn-car-fuel-and-emissions
+description: Car fuel consumptions and emissions 2000-2013. Cleaned-up and consolidated
+  car fuel consumptions and emissions data published by the Vehicle Certification
+  Agency (VCA) for years 2000 to 2013
+homepage: http://data.okfn.org/data/amercader/car-fuel-and-emissions
+files:
+- name: data
+  url: https://raw.github.com/amercader/car-fuel-and-emissions/master/data.csv
+- name: openrefine-2013
+  url: https://raw.github.com/amercader/car-fuel-and-emissions/master/scripts/openrefine_2013.json

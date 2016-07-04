@@ -1,0 +1,4 @@
+name: okfn-month-names
+description: Month Names. The months of the year internationalized to different languages
+homepage: http://data.okfn.org/data/TransparencyToolkit/month-names
+url: https://raw.github.com/TransparencyToolkit/month-names/master/monthnames.csv

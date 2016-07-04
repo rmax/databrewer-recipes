@@ -1,0 +1,5 @@
+name: okfn-court-decisions-gb
+description: Database of United Kingdom Judicial Decisions. Database of judicial decisions
+  -- aka judgments - made in the various crown courts of England and Wales
+homepage: http://data.okfn.org/data/rgrp/court-decisions-gb
+url: https://raw.github.com/rgrp/court-decisions-gb/master/data/decisions.csv

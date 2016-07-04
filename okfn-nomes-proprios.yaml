@@ -1,0 +1,9 @@
+name: okfn-nomes-proprios
+description: "Nomes pr\xF3prios em Portugal. Listas de ocorr\xEAncias de nomes pr\xF3\
+  prios, e de nomes pr\xF3prios aprovados ou rejeitados pelo IRN"
+homepage: http://data.okfn.org/data/centraldedados/nomes-proprios
+files:
+- name: nomes-aprovados-2014
+  url: https://raw.github.com/centraldedados/nomes_proprios/master/data/nomes-aprovados-2014.csv
+- name: nomes-registados-2014
+  url: https://raw.github.com/centraldedados/nomes_proprios/master/data/nomes-registados-2014.csv

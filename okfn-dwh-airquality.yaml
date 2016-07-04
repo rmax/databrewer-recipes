@@ -1,0 +1,4 @@
+name: okfn-dwh-airquality
+description: 'Dwh Airquality. '
+homepage: http://data.okfn.org/data/CivicVision/dwh-airquality
+url: https://raw.github.com/CivicVision/dwh_airmonitoring/master/airquality.csv
