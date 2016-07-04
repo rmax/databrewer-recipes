@@ -1,0 +1,28 @@
+name: fte-poll-of-pollsters
+description: Poll of Pollsters data
+homepage: https://github.com/fivethirtyeight/data/tree/master/poll-of-pollsters
+files:
+- name: poll-of-pollsters-2-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-2.tsv
+- name: poll-of-pollsters-3-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-3.tsv
+- name: poll-of-pollsters-4-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-4.tsv
+- name: poll-of-pollsters-5-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-5.tsv
+- name: poll-of-pollsters-6-iowa-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-6-iowa.tsv
+- name: poll-of-pollsters-anonymous-answers-2-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers-2.tsv
+- name: poll-of-pollsters-anonymous-answers-3-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers-3.tsv
+- name: poll-of-pollsters-anonymous-answers-4-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers-4.tsv
+- name: poll-of-pollsters-anonymous-answers-5-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers-5.tsv
+- name: poll-of-pollsters-anonymous-answers-6-iowa-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers-6-iowa.tsv
+- name: poll-of-pollsters-anonymous-answers-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters-anonymous-answers.tsv
+- name: poll-of-pollsters-tsv
+  url: https://github.com/fivethirtyeight/data/raw/master/poll-of-pollsters/poll-of-pollsters.tsv

@@ -1,0 +1,10 @@
+name: fte-unisex-names
+description: Unisex Names
+homepage: https://github.com/fivethirtyeight/data/tree/master/unisex-names
+files:
+- name: aging-curve
+  url: https://github.com/fivethirtyeight/data/raw/master/unisex-names/aging_curve.csv
+- name: unisex-names-r
+  url: https://github.com/fivethirtyeight/data/raw/master/unisex-names/unisex_names.R
+- name: unisex-names-table
+  url: https://github.com/fivethirtyeight/data/raw/master/unisex-names/unisex_names_table.csv

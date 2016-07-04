@@ -1,0 +1,4 @@
+name: fte-alcohol-consumption
+description: Alcohol Consumption
+homepage: https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
+url: https://github.com/fivethirtyeight/data/raw/master/alcohol-consumption/drinks.csv

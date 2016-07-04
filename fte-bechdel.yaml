@@ -1,0 +1,8 @@
+name: fte-bechdel
+description: Bechdel
+homepage: https://github.com/fivethirtyeight/data/tree/master/bechdel
+files:
+- name: analyze-bechdel-r
+  url: https://github.com/fivethirtyeight/data/raw/master/bechdel/analyze-bechdel.R
+- name: movies
+  url: https://github.com/fivethirtyeight/data/raw/master/bechdel/movies.csv

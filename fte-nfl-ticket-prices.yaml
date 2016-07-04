@@ -1,0 +1,10 @@
+name: fte-nfl-ticket-prices
+description: NFL Ticket Prices
+homepage: https://github.com/fivethirtyeight/data/tree/master/nfl-ticket-prices
+files:
+- name: 2014-average-ticket-price
+  url: https://github.com/fivethirtyeight/data/raw/master/nfl-ticket-prices/2014-average-ticket-price.csv
+- name: jets-buyer
+  url: https://github.com/fivethirtyeight/data/raw/master/nfl-ticket-prices/jets-buyer.csv
+- name: national-average
+  url: https://github.com/fivethirtyeight/data/raw/master/nfl-ticket-prices/national-average.csv

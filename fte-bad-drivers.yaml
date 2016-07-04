@@ -1,0 +1,4 @@
+name: fte-bad-drivers
+description: Bad drivers
+homepage: https://github.com/fivethirtyeight/data/tree/master/bad-drivers
+url: https://github.com/fivethirtyeight/data/raw/master/bad-drivers/bad-drivers.csv

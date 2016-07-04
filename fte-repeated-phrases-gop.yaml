@@ -1,0 +1,8 @@
+name: fte-repeated-phrases-gop
+description: The phrases most repeated by GOP candidates
+homepage: https://github.com/fivethirtyeight/data/tree/master/repeated-phrases-gop
+files:
+- name: gop-debate-all-txt
+  url: https://github.com/fivethirtyeight/data/raw/master/repeated-phrases-gop/gop_debate_all.txt
+- name: robopol2-py
+  url: https://github.com/fivethirtyeight/data/raw/master/repeated-phrases-gop/robopol2.py

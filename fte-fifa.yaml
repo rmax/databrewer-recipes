@@ -1,0 +1,4 @@
+name: fte-fifa
+description: FIFA
+homepage: https://github.com/fivethirtyeight/data/tree/master/fifa
+url: https://github.com/fivethirtyeight/data/raw/master/fifa/fifa_countries_audience.csv

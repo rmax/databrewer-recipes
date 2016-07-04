@@ -1,0 +1,4 @@
+name: fte-nba-winprobs
+description: NBA Win Probabilities
+homepage: https://github.com/fivethirtyeight/data/tree/master/nba-winprobs
+url: https://github.com/fivethirtyeight/data/raw/master/nba-winprobs/nba.tsv

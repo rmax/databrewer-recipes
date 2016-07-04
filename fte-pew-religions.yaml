@@ -1,0 +1,10 @@
+name: fte-pew-religions
+description: Pew Religions Model
+homepage: https://github.com/fivethirtyeight/data/tree/master/pew-religions
+files:
+- name: religion-leah-py
+  url: https://github.com/fivethirtyeight/data/raw/master/pew-religions/Religion-Leah.py
+- name: religion-leah-py-ipynb
+  url: https://github.com/fivethirtyeight/data/raw/master/pew-religions/Religion-Leah.py.ipynb
+- name: current
+  url: https://github.com/fivethirtyeight/data/raw/master/pew-religions/current.csv

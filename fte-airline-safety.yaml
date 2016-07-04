@@ -1,0 +1,4 @@
+name: fte-airline-safety
+description: Airline safety data
+homepage: https://github.com/fivethirtyeight/data/tree/master/airline-safety
+url: https://github.com/fivethirtyeight/data/raw/master/airline-safety/airline-safety.csv

@@ -1,0 +1,4 @@
+name: fte-star-wars-survey
+description: Star Wars Survey
+homepage: https://github.com/fivethirtyeight/data/tree/master/star-wars-survey
+url: https://github.com/fivethirtyeight/data/raw/master/star-wars-survey/StarWars.csv

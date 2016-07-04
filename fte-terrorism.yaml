@@ -1,0 +1,22 @@
+name: fte-terrorism
+description: France Terror Attacks
+homepage: https://github.com/fivethirtyeight/data/tree/master/terrorism
+files:
+- name: gtd-codebook-2015final-pdf
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/GTD_Codebook_2015Final.pdf
+- name: country-stats-1993-appendix2
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/country_stats_1993_appendix2.csv
+- name: eu-fatalities-png
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/eu_fatalities.png
+- name: eu-fatalities-by-country-png
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/eu_fatalities_by_country.png
+- name: eu-terrorism-fatalities-by-country
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/eu_terrorism_fatalities_by_country.csv
+- name: eu-terrorism-fatalities-by-year
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/eu_terrorism_fatalities_by_year.csv
+- name: france-fatalities-png
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/france_fatalities.png
+- name: france-terrorism-fatalities-by-year
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/france_terrorism_fatalities_by_year.csv
+- name: paris-terror-analysis-r
+  url: https://github.com/fivethirtyeight/data/raw/master/terrorism/paris_terror_analysis.R

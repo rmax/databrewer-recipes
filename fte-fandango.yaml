@@ -1,0 +1,8 @@
+name: fte-fandango
+description: Fandango
+homepage: https://github.com/fivethirtyeight/data/tree/master/fandango
+files:
+- name: fandango-score-comparison
+  url: https://github.com/fivethirtyeight/data/raw/master/fandango/fandango_score_comparison.csv
+- name: fandango-scrape
+  url: https://github.com/fivethirtyeight/data/raw/master/fandango/fandango_scrape.csv

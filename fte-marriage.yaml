@@ -1,0 +1,12 @@
+name: fte-marriage
+description: Marriage
+homepage: https://github.com/fivethirtyeight/data/tree/master/marriage
+files:
+- name: both-sexes
+  url: https://github.com/fivethirtyeight/data/raw/master/marriage/both_sexes.csv
+- name: divorce
+  url: https://github.com/fivethirtyeight/data/raw/master/marriage/divorce.csv
+- name: men
+  url: https://github.com/fivethirtyeight/data/raw/master/marriage/men.csv
+- name: women
+  url: https://github.com/fivethirtyeight/data/raw/master/marriage/women.csv

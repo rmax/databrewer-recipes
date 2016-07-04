@@ -1,0 +1,4 @@
+name: fte-historical-ncaa-forecasts
+description: Historical Ncaa Forecasts
+homepage: https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts
+url: https://github.com/fivethirtyeight/data/raw/master/historical-ncaa-forecasts/historical-538-ncaa-tournament-model-results.csv

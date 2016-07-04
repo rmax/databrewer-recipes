@@ -1,0 +1,4 @@
+name: fte-nba-elo
+description: Historical NBA Elo
+homepage: https://github.com/fivethirtyeight/data/tree/master/nba-elo
+url: https://github.com/fivethirtyeight/data/raw/master/nba-elo/nbaallelo.csv

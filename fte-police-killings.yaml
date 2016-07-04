@@ -1,0 +1,4 @@
+name: fte-police-killings
+description: Police Killings
+homepage: https://github.com/fivethirtyeight/data/tree/master/police-killings
+url: https://github.com/fivethirtyeight/data/raw/master/police-killings/police_killings.csv

@@ -1,0 +1,4 @@
+name: fte-san-andreas
+description: Earthquake data
+homepage: https://github.com/fivethirtyeight/data/tree/master/san-andreas
+url: https://github.com/fivethirtyeight/data/raw/master/san-andreas/earthquake_data.csv

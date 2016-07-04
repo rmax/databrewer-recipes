@@ -1,0 +1,4 @@
+name: fte-elo-blatter
+description: FIFA teams under Blatter
+homepage: https://github.com/fivethirtyeight/data/tree/master/elo-blatter
+url: https://github.com/fivethirtyeight/data/raw/master/elo-blatter/elo_blatter.csv

@@ -1,0 +1,30 @@
+name: fte-us-weather-history
+description: U.S. weather history visualization
+homepage: https://github.com/fivethirtyeight/data/tree/master/us-weather-history
+files:
+- name: kclt
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KCLT.csv
+- name: kcqt
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KCQT.csv
+- name: khou
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KHOU.csv
+- name: kind
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KIND.csv
+- name: kjax
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KJAX.csv
+- name: kmdw
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KMDW.csv
+- name: knyc
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KNYC.csv
+- name: kphl
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KPHL.csv
+- name: kphx
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KPHX.csv
+- name: ksea
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/KSEA.csv
+- name: visualize-weather-py
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/visualize_weather.py
+- name: wunderground-parser-py
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/wunderground_parser.py
+- name: wunderground-scraper-py
+  url: https://github.com/fivethirtyeight/data/raw/master/us-weather-history/wunderground_scraper.py

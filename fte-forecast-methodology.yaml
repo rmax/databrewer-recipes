@@ -1,0 +1,4 @@
+name: fte-forecast-methodology
+description: Historical FiveThirtyEight Senate Forecasts
+homepage: https://github.com/fivethirtyeight/data/tree/master/forecast-methodology
+url: https://github.com/fivethirtyeight/data/raw/master/forecast-methodology/historical-senate-predictions.csv

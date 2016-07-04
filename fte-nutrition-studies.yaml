@@ -1,0 +1,10 @@
+name: fte-nutrition-studies
+description: Nutrition Studies
+homepage: https://github.com/fivethirtyeight/data/tree/master/nutrition-studies
+files:
+- name: p-hacking-r
+  url: https://github.com/fivethirtyeight/data/raw/master/nutrition-studies/p_hacking.R
+- name: p-values-analysis
+  url: https://github.com/fivethirtyeight/data/raw/master/nutrition-studies/p_values_analysis.csv
+- name: raw-anonymized-data
+  url: https://github.com/fivethirtyeight/data/raw/master/nutrition-studies/raw_anonymized_data.csv

@@ -1,0 +1,24 @@
+name: fte-most-common-name
+description: Most Common Name
+homepage: https://github.com/fivethirtyeight/data/tree/master/most-common-name
+files:
+- name: adjusted-name-combinations-list
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/adjusted-name-combinations-list.csv
+- name: adjusted-name-combinations-matrix
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/adjusted-name-combinations-matrix.csv
+- name: adjustments
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/adjustments.csv
+- name: aging-curve
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/aging-curve.csv
+- name: independent-name-combinations-by-pop
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/independent-name-combinations-by-pop.csv
+- name: most-common-name-r
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/most-common-name.R
+- name: new-top-firstnames
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/new-top-firstNames.csv
+- name: new-top-surnames
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/new-top-surnames.csv
+- name: state-pop
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/state-pop.csv
+- name: surnames
+  url: https://github.com/fivethirtyeight/data/raw/master/most-common-name/surnames.csv

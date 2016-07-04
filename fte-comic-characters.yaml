@@ -1,0 +1,8 @@
+name: fte-comic-characters
+description: Comic Characters
+homepage: https://github.com/fivethirtyeight/data/tree/master/comic-characters
+files:
+- name: dc-wikia-data
+  url: https://github.com/fivethirtyeight/data/raw/master/comic-characters/dc-wikia-data.csv
+- name: marvel-wikia-data
+  url: https://github.com/fivethirtyeight/data/raw/master/comic-characters/marvel-wikia-data.csv

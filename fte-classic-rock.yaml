@@ -1,0 +1,12 @@
+name: fte-classic-rock
+description: Classic Rock
+homepage: https://github.com/fivethirtyeight/data/tree/master/classic-rock
+files:
+- name: classic-rock-raw-data
+  url: https://github.com/fivethirtyeight/data/raw/master/classic-rock/classic-rock-raw-data.csv
+- name: classic-rock-song-list
+  url: https://github.com/fivethirtyeight/data/raw/master/classic-rock/classic-rock-song-list.csv
+- name: compiling-radio-py
+  url: https://github.com/fivethirtyeight/data/raw/master/classic-rock/compiling_radio.py
+- name: radio-py
+  url: https://github.com/fivethirtyeight/data/raw/master/classic-rock/radio.py

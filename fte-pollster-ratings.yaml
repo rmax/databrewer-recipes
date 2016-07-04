@@ -1,0 +1,12 @@
+name: fte-pollster-ratings
+description: pollster-stats-full.xlsxpollster-ratings.csvraw-polls.csv
+homepage: https://github.com/fivethirtyeight/data/tree/master/pollster-ratings
+files:
+- name: '2014'
+  url: https://github.com/fivethirtyeight/data/tree/master/pollster-ratings/2014
+- name: pollster-ratings
+  url: https://github.com/fivethirtyeight/data/raw/master/pollster-ratings/pollster-ratings.csv
+- name: pollster-stats-full-xlsx
+  url: https://github.com/fivethirtyeight/data/raw/master/pollster-ratings/pollster-stats-full.xlsx
+- name: raw-polls
+  url: https://github.com/fivethirtyeight/data/raw/master/pollster-ratings/raw-polls.csv

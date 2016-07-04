@@ -1,0 +1,8 @@
+name: fte-march-madness-predictions-2015
+description: March Madness Predictions 2015
+homepage: https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2015
+files:
+- name: mens
+  url: https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2015/mens
+- name: womens
+  url: https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2015/womens

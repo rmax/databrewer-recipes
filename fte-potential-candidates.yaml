@@ -1,0 +1,8 @@
+name: fte-potential-candidates
+description: Who Is Going To Run For President In 2016?
+homepage: https://github.com/fivethirtyeight/data/tree/master/potential-candidates
+files:
+- name: '2015-01-14'
+  url: https://github.com/fivethirtyeight/data/tree/master/potential-candidates/2015_01_14
+- name: '2015-01-30'
+  url: https://github.com/fivethirtyeight/data/tree/master/potential-candidates/2015_01_30

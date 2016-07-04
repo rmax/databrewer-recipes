@@ -1,0 +1,4 @@
+name: fte-pulitzer
+description: Pulitzer
+homepage: https://github.com/fivethirtyeight/data/tree/master/pulitzer
+url: https://github.com/fivethirtyeight/data/raw/master/pulitzer/pulitzer-circulation-data.csv

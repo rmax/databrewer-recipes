@@ -1,0 +1,4 @@
+name: fte-nfl-suspensions
+description: NFL suspensions data
+homepage: https://github.com/fivethirtyeight/data/tree/master/nfl-suspensions
+url: https://github.com/fivethirtyeight/data/raw/master/nfl-suspensions/nfl-suspensions-data.csv

@@ -1,0 +1,8 @@
+name: fte-region-survey
+description: Region Survey
+homepage: https://github.com/fivethirtyeight/data/tree/master/region-survey
+files:
+- name: midwest
+  url: https://github.com/fivethirtyeight/data/raw/master/region-survey/MIDWEST.csv
+- name: south
+  url: https://github.com/fivethirtyeight/data/raw/master/region-survey/SOUTH.csv

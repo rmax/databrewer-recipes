@@ -1,0 +1,10 @@
+name: fte-tennis-time
+description: Tennis Time
+homepage: https://github.com/fivethirtyeight/data/tree/master/tennis-time
+files:
+- name: events-time
+  url: https://github.com/fivethirtyeight/data/raw/master/tennis-time/events_time.csv
+- name: players-time
+  url: https://github.com/fivethirtyeight/data/raw/master/tennis-time/players_time.csv
+- name: serve-times
+  url: https://github.com/fivethirtyeight/data/raw/master/tennis-time/serve_times.csv

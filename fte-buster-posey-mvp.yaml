@@ -1,0 +1,8 @@
+name: fte-buster-posey-mvp
+description: Buster Posey MVP
+homepage: https://github.com/fivethirtyeight/data/tree/master/buster-posey-mvp
+files:
+- name: baseball-imgcap-for-release-py
+  url: https://github.com/fivethirtyeight/data/raw/master/buster-posey-mvp/baseball_imgcap_for_release.py
+- name: catcher-framing-capture-r
+  url: https://github.com/fivethirtyeight/data/raw/master/buster-posey-mvp/catcher_framing_capture.R

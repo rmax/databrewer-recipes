@@ -1,0 +1,4 @@
+name: fte-congress-age
+description: Congress Age
+homepage: https://github.com/fivethirtyeight/data/tree/master/congress-age
+url: https://github.com/fivethirtyeight/data/raw/master/congress-age/congress-terms.csv

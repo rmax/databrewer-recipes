@@ -1,0 +1,16 @@
+name: fte-college-majors
+description: College Majors
+homepage: https://github.com/fivethirtyeight/data/tree/master/college-majors
+files:
+- name: all-ages
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/all-ages.csv
+- name: college-majors-rscript-r
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/college-majors-rscript.R
+- name: grad-students
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/grad-students.csv
+- name: majors-list
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/majors-list.csv
+- name: recent-grads
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/recent-grads.csv
+- name: women-stem
+  url: https://github.com/fivethirtyeight/data/raw/master/college-majors/women-stem.csv

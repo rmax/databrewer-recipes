@@ -1,0 +1,4 @@
+name: fte-trump-news
+description: Trump News
+homepage: https://github.com/fivethirtyeight/data/tree/master/trump-news
+url: https://github.com/fivethirtyeight/data/raw/master/trump-news/trump_news_data.csv

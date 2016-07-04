@@ -1,0 +1,4 @@
+name: fte-democratic-bench
+description: Democratic bench
+homepage: https://github.com/fivethirtyeight/data/tree/master/democratic-bench
+url: https://github.com/fivethirtyeight/data/raw/master/democratic-bench/democratic-bench.csv
