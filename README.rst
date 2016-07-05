@@ -56,3 +56,4 @@ Example recipes:
 * Multiple-files: `uci-zoo.yaml <uci-zoo.yaml>`_
 * Multiple-files with subsets: `fte-uber-tlc.yaml <fte-uber-tlc.yaml>`_
 * Multiple-files with subsets and dates: `nyc-tlc-taxi.yaml <nyc-tlc-taxi.yaml>`_
+* Restricted downloads: `kaggle-comp-titanic.yaml <kaggle-comp-titanic.yaml>`_
