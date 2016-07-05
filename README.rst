@@ -34,8 +34,8 @@ Contributing
 
 You can contribute in several ways, for example:
 
-* Requesting additions of new datasets.
-* Reporting errors in existing datasets.
+* `Requesting additions of new datasets <https://github.com/rolando/databrewer-recipes/issues/new?title=Dataset%20Request:&body=URL:>`_.
+* `Reporting errors in existing datasets <https://github.com/rolando/databrewer-recipes/issues/new?title=Dataset%20Name:&body=Problem%20description>`_.
 * Adding new recipes for interesting datasets.
 * Improving existing recipes: better descriptions, keywords, fixing URLs, etc.
 
